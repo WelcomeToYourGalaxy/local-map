@@ -358,6 +358,44 @@ def matches(text):
             return True
     return False
 
+# --- off-topic stop-list (multilingual) ---------------------------------------
+# ALLOW/matches() decides what to KEEP; this decides what to DROP outright, even
+# when a topic word is also present. Sport, crime blotter, celebrity, markets and
+# pure horse-race politics are the recurring noise -- and foreign GDELT items skip
+# the English topic gate, so without this they arrive unfiltered. Folded
+# (accent-free) so ES/PT/FR forms match; short ASCII terms match whole-word only.
+_BLOCK = [
+ # sport
+ "goalkeeper","midfielder","striker","winger","world cup","transfer window","signed for",
+ "signs for","football club","premier league","la liga","serie a","bundesliga","champions league",
+ "cup final","league title","grand prix","formula 1","touchdown","home run","cricket","wicket",
+ "tournament","stadium","world champion","olympic","medal",
+ "futbol","futebol","gol de","liga mx","seleccion","selecao","jogador","jugador","entraineur",
+ # crime blotter / personal-court items (not project litigation)
+ "sentenced to death","death penalty","capital punishment","death row","homicide","murder trial",
+ "murder case","serial killer","execution","stabbing","gunman","kidnapping","rape","armed robbery",
+ "pena de muerte","pena de morte","peine de mort","homicidio","homicidio","asesinato","assassinato",
+ "condenado a muerte","condamne a mort",
+ # celebrity / culture / markets
+ "celebrity","box office","red carpet","concert tour","horoscope","royal wedding",
+ "stock market","earnings call","quarterly earnings","bitcoin","shares rise","shares fall","obituary",
+]
+_BLOCK = [_fold(k) for k in _BLOCK]
+
+def _blocked(text):
+    """True if the item is off-topic noise that must be dropped regardless of any
+    topic-word match. Multilingual (folded); short ASCII terms are whole-word so
+    they do not fire inside longer words."""
+    t = " " + _fold(text) + " "
+    for k in _BLOCK:
+        if k.isascii() and len(k) <= 5 and " " not in k:
+            if (" " + k + " ") in t:
+                return True
+        elif k in t:
+            return True
+    return False
+
+
 def clean(s):
     return html.unescape(re.sub("<[^>]+>", "", s or "")).strip()
 
@@ -379,6 +417,8 @@ def collect():
             if not title or not link:
                 continue
             blob = title + " " + summary
+            if _blocked(blob):
+                continue
             if strict and not matches(blob):
                 continue
             key = re.sub(r"[^a-z0-9]", "", title.lower())[:60]
@@ -939,6 +979,8 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
                 # source country GDELT assigns to the region we queried is corroboration
                 _trust = foreign or (scty and scty == (nm or "").strip().lower())
                 if _trust:
+                    if _blocked(title + " " + snip):   # sport/crime/celebrity noise, any language
+                        continue
                     # trust GDELT's translated match; still honor an explicit subregion
                     _sub = _subregion_for(iso, title)
                     if _add(title, art.get("url", ""), _gdelt_date_ms(art.get("seendate")),
@@ -946,6 +988,8 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
                         kept += 1
                     continue
                 # English item: topic relevance AND the region must be named in the title
+                if _blocked(blob):
+                    continue
                 if need_match and not matches(blob):
                     continue
                 if not _region_named(iso, title + " " + snip):
@@ -984,6 +1028,8 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
                         title = clean(e.get("title"))
                         summary = clean(e.get("summary", ""))
                         blob = title + " " + summary
+                        if _blocked(blob):
+                            continue
                         if need_match and not matches(blob):
                             continue
                         if not _region_named(iso, blob):

@@ -905,14 +905,15 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
         done += 1
         kept = 0
 
-        def _add(title, link, date_ms, snippet, window, subregion=""):
+        def _add(title, link, date_ms, snippet, window, subregion="", lang=""):
             key = re.sub(r"[^a-z0-9]", "", (title or "").lower())[:60]
             if not title or not link or key in seen:
                 return False
             seen.add(key)
             out.append({"name": nm, "title": title[:200], "link": link, "date": date_ms,
                         "sig": 2, "snippet": (snippet or "")[:280], "iso": iso,
-                        "region": subregion or "", "widened": window})
+                        "region": subregion or "", "widened": window,
+                        "lang": (lang or "").strip().title() or "Unknown"})
             return True
 
         for terms, days, need_match in _REGION_TIERS:
@@ -941,7 +942,7 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
                     # trust GDELT's translated match; still honor an explicit subregion
                     _sub = _subregion_for(iso, title)
                     if _add(title, art.get("url", ""), _gdelt_date_ms(art.get("seendate")),
-                            snip, days, _sub):
+                            snip, days, _sub, lang or "english"):
                         kept += 1
                     continue
                 # English item: topic relevance AND the region must be named in the title
@@ -951,7 +952,7 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
                     continue
                 _sub = _subregion_for(iso, title)         # attach a subnational region if named
                 if _add(title, art.get("url", ""), _gdelt_date_ms(art.get("seendate")),
-                        snip, days, _sub):
+                        snip, days, _sub, lang or "english"):
                     kept += 1
             _t.sleep(pace)
             if kept >= 1:
@@ -995,7 +996,7 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
                                 except Exception:
                                     pass
                         if _add(title, e.get("link", ""), ts or int(time.time() * 1000),
-                                summary, days, _subregion_for(iso, blob)):
+                                summary, days, _subregion_for(iso, blob), "english"):
                             kept += 1
                     _t.sleep(pace)
                 if kept >= 1:

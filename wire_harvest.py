@@ -134,6 +134,10 @@ def _geo_tag(text):
         # explicit global/bloc language present and no single clear local dateline -> global
         if region == "":
             iso = "GL"
+    if iso and iso != "GL" and not region:
+        _ms = _map_subregion(_A2TO3.get(iso, iso), text)   # map's own admin-1 taxonomy (+ capital-name forms)
+        if _ms:
+            region = _ms
     return iso, region
 
 
@@ -857,8 +861,76 @@ def _region_named(iso, text):
     return False
 
 
+# English aliases for endonym-keyed map subregions (e.g. Bayern->Bavaria), so
+# English-language news matches the canonical trackerData key.
+_SUB_ALIAS = {"Bayern": "Bavaria", "Niedersachsen": "Lower Saxony", "Nordrhein-Westfalen": "North Rhine-Westphalia", "Rheinland-Pfalz": "Rhineland-Palatinate", "Sachsen": "Saxony", "Sachsen-Anhalt": "Saxony-Anhalt", "Thüringen": "Thuringia", "Hessen": "Hesse", "Mecklenburg-Vorpommern": "Mecklenburg-W. Pomerania", "Lombardia": "Lombardy", "Piemonte": "Piedmont", "Toscana": "Tuscany", "Sicilia": "Sicily", "Sardegna": "Sardinia", "Puglia": "Apulia", "Trentino-Alto Adige/Sudtirol": "Trentino-South Tyrol", "Cataluña": "Catalonia", "Andalucía": "Andalusia", "País Vasco": "Basque Country", "Aragón": "Aragon", "Castilla y León": "Castile and León", "Castilla-La Mancha": "Castile-La Mancha", "Islas Baleares": "Balearic Islands", "Canary Is.": "Canary Islands", "Foral de Navarra": "Navarre", "Valenciana": "Valencia", "Bretagne": "Brittany", "Normandie": "Normandy", "Corse": "Corsica", "Kärnten": "Carinthia", "Steiermark": "Styria", "Tirol": "Tyrol", "Niederösterreich": "Lower Austria", "Oberösterreich": "Upper Austria", "Wien": "Vienna", "Genève": "Geneva", "Zürich": "Zurich", "Graubünden": "Grisons", "Noord-Holland": "North Holland", "Zuid-Holland": "South Holland", "Zeeland": "Zealand", "Noord-Brabant": "North Brabant"}
+
+def _slugify(s):
+    s = unicodedata.normalize('NFD', s or '')
+    s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
+    return re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
+
+# Admin-level suffixes/prefixes stripped so a bucket named after its capital matches the
+# city the news actually names ("Lagos State"->"Lagos", "Kharkiv Oblast"->"Kharkiv").
+_SUB_SUFFIX = re.compile(r'\b(state|province|prov|region|regional|oblast|krai|raion|okrug|'
+    r'department|departamento|prefecture|governorate|district|county|voivodeship|canton|'
+    r'emirate|territory|autonomous|municipality|metropolitan|greater|city|province of|'
+    r'state of|region of|and islands)\b')
+def _strip_suffix(slug):
+    return re.sub(r'\s+', ' ', _SUB_SUFFIX.sub(' ', slug)).strip()
+
+# The map's own subregion taxonomy is the source of truth: assign region strings that are
+# byte-for-byte the trackerData sub keys, so the front-end join always lands (no
+# writer/reader mismatch). Loaded once from trackerdata.json in the repo.
+_MAP_SUBS = None
+def _load_map_subregions():
+    global _MAP_SUBS
+    if _MAP_SUBS is not None:
+        return _MAP_SUBS
+    _MAP_SUBS = {}
+    for path in ("trackerdata.json", os.path.join(os.path.dirname(__file__), "trackerdata.json")):
+        try:
+            with open(path, encoding="utf-8") as fh:
+                td = json.load(fh)
+            break
+        except Exception:
+            td = None
+    if not td:
+        return _MAP_SUBS
+    for iso, c in td.items():
+        sb = (c or {}).get("sub") or {}
+        terms, seen = [], set()
+        for key in sb.keys():
+            forms = [key]
+            if key in _SUB_ALIAS:
+                forms.append(_SUB_ALIAS[key])
+            variants = []
+            for f in forms:
+                variants.append(_slugify(f)); variants.append(_strip_suffix(_slugify(f)))
+            for term in variants:
+                if term and len(term) >= 4 and term not in seen:
+                    seen.add(term); terms.append((term, key))
+        if terms:
+            terms.sort(key=lambda t: -len(t[0]))   # longest first: "baja california sur" before "baja california"
+            _MAP_SUBS[iso] = terms
+    return _MAP_SUBS
+
+def _map_subregion(iso, text):
+    subs = _load_map_subregions().get(iso)
+    if not subs:
+        return ""
+    t = " " + _slugify(text) + " "
+    for term, key in subs:
+        if (" " + term + " ") in t:
+            return key
+    return ""
+
 def _subregion_for(iso, text):
-    """If the gazetteer finds a subnational region belonging to iso, return it."""
+    """If the map's taxonomy or the gazetteer finds a subnational region for iso, return
+    it (as the exact trackerData sub key where possible)."""
+    m = _map_subregion(iso, text)
+    if m:
+        return m
     try:
         gi, gr = _geo_tag(text)
     except Exception:

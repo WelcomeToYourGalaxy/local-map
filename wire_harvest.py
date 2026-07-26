@@ -7,7 +7,7 @@ OUTPUT: wire.json -- a TOP-LEVEL JSON ARRAY of {name,title,link,date,sig,snippet
 The map checks Array.isArray(...), so the output MUST be an array, not an object.
 Dependency: feedparser  (pip install feedparser)
 """
-import json, time, datetime, html, re, os, calendar
+import json, time, datetime, html, re, os, calendar, unicodedata
 import urllib.request, urllib.parse
 import feedparser
 
@@ -80,12 +80,12 @@ _REGION = {
  "western australia":("AU","Western Australia"),"south australia":("AU","South Australia"),
  "tasmania":("AU","Tasmania"),"northern territory":("AU","Northern Territory"),
  # Brazil
- "amazonas":("BR","Amazonas"),"para":("BR","Para"),"mato grosso":("BR","Mato Grosso"),
- "minas gerais":("BR","Minas Gerais"),"bahia":("BR","Bahia"),"sao paulo":("BR","Sao Paulo"),
- "rondonia":("BR","Rondonia"),"maranhao":("BR","Maranhao"),
+ "amazonas":("BR","Amazonas"),"para":("BR","Pará"),"mato grosso":("BR","Mato Grosso"),
+ "minas gerais":("BR","Minas Gerais"),"bahia":("BR","Bahia"),"sao paulo":("BR","São Paulo"),
+ "rondonia":("BR","Rondonia"),"maranhao":("BR","Maranhão"),
  # Argentina
  "mendoza":("AR","Mendoza"),"chubut":("AR","Chubut"),"catamarca":("AR","Catamarca"),
- "jujuy":("AR","Jujuy"),"neuquen":("AR","Neuquen"),"la rioja":("AR","La Rioja"),
+ "jujuy":("AR","Jujuy"),"neuquen":("AR","Neuquén"),"la rioja":("AR","La Rioja"),
  # India
  "odisha":("IN","Odisha"),"jharkhand":("IN","Jharkhand"),"chhattisgarh":("IN","Chhattisgarh"),
  "maharashtra":("IN","Maharashtra"),"goa":("IN","Goa"),"karnataka":("IN","Karnataka"),
@@ -97,7 +97,7 @@ _REGION = {
  # UK nations
  "scotland":("GB","Scotland"),"wales":("GB","Wales"),"northern ireland":("GB","Northern Ireland"),
  # Mexico / Chile / Peru hotspots
- "oaxaca":("MX","Oaxaca"),"chiapas":("MX","Chiapas"),"sonora":("MX","Sonora"),"yucatan":("MX","Yucatan"),
+ "oaxaca":("MX","Oaxaca"),"chiapas":("MX","Chiapas"),"sonora":("MX","Sonora"),"yucatan":("MX","Yucatán"),
  "atacama":("CL","Atacama"),"antofagasta":("CL","Antofagasta"),"patagonia":("CL","Patagonia"),
  "cajamarca":("PE","Cajamarca"),"cusco":("PE","Cusco"),"puno":("PE","Puno"),
  # South Africa
@@ -254,6 +254,42 @@ def google_news(q):
             % (quote(q), WIRE_MAX_AGE_DAYS),
             2, True)
 
+def _fold(s):
+    """Lower-case and strip diacritics (Perú->peru, oleoduc<-oleoduc), leaving
+    non-Latin scripts (Arabic, CJK, Cyrillic) intact so they can still match."""
+    s = unicodedata.normalize("NFKD", s or "")
+    return "".join(c for c in s if not unicodedata.combining(c)).lower()
+
+
+def _norm_txt(s):
+    """Fold, then keep letters of ANY script plus spaces. The old gate used
+    [^a-z ], which deleted every accented and non-Latin character and made all
+    non-English coverage unmatchable; this keeps it."""
+    s = _fold(s)
+    return " " + "".join(c if (c.isalpha() or c == " ") else " " for c in s) + " "
+
+
+def _alias_hit(alias, t):
+    """Match one normalized alias against normalized text t. ASCII words <=4
+    chars must match whole-word (so 'chad' doesn't fire inside 'tchad'/'orchard');
+    scripts without spaces (CJK) and longer aliases match as a substring."""
+    if not alias:
+        return False
+    if alias.isascii() and len(alias) <= 4:
+        return (" " + alias + " ") in t
+    # space-separated whole-word for Latin phrases; substring for scripts w/o spaces
+    if any(ch.isspace() for ch in alias) or alias.isascii():
+        return alias in t
+    return alias in t
+
+
+# --- multilingual country-name aliases -----------------------------------------
+# GDELT returns titles in the source language, so a French headline says "Tchad",
+# a Spanish one "Perú", a Portuguese one "Brasil". Without these the name gate
+# rejected genuine local-language coverage -- the very reporting this map exists
+# to surface. Endonyms + Spanish/Portuguese/French exonyms + a verified set of
+# native-script names. Merged through _fold so accents need not match exactly.
+
 ALLOW = [
     "pipeline","lng","refinery","petrochemical","cracker plant","gas plant","power plant",
     "coal","oil","drilling","fracking","frack","well pad","compressor",
@@ -268,11 +304,59 @@ ALLOW = [
     "nepa","army corps","ferc","zoning board","planning commission","conservation easement",
     "hydropower","hydroelectric","palm oil","nickel","cobalt","bauxite","gold mine","copper mine",
     "crude oil pipeline","offshore drilling","seabed mining","deep-sea mining","megadam","reservoir dam",
-    "land defender","land grab","evict","displacement","rainforest","peatland","mangrove","biodiversity",
+    "land defender","land grab","evict","eviction","displacement","rainforest","peatland","mangrove","biodiversity",
+    # development / land-use vocabulary the extractive-heavy list was missing, so
+    # genuine project stories (dams, zones, farms, water schemes) are not dropped.
+    "desalination","water rights","water scheme","irrigation","canal","aqueduct",
+    "resettlement","expropriation","compensation","concession","land concession",
+    "special economic zone","industrial park","industrial zone","free trade zone",
+    "solar farm","solar park","wind farm","wind park","geothermal","biomass",
+    "airport","rail line","railway","ring road","expressway","bridge project",
+    "cement plant","steel plant","smelter","chemical plant","tannery","textile",
+    "sand mining","dredging","coastal reclamation","land reclamation","real estate",
+    "resort","tourism zone","new city","urban expansion","demolition","protected area",
+    "national park","reserve","concession overlap","indigenous land","ancestral land",
+    "environmental impact","eia","esia","public consultation","planning permission",
 ]
+ALLOW = [_fold(k) for k in ALLOW]   # normalize so accented/multilingual terms match
+
+# --- multilingual topic vocabulary --------------------------------------------
+# The topic gate was English-only, so a real Spanish/Portuguese/French project
+# story failed even when the country name matched. These are folded (accent-free)
+# and pruned to avoid collisions (no bare 'tala' -> 'guaTALA', 'mina' -> 'laMINA',
+# 'arena'=stadium, 'port'->airport). The name gate still backstops every one.
+_ALLOW_ML = [
+ # Spanish
+ "mineria","mina de","oleoducto","gasoducto","represa","embalse","hidroelectrica",
+ "termoelectrica","deforestacion","petroleo","perforacion","contaminacion","concesion",
+ "expropiacion","desalojo","refineria","vertedero","relave","litio","aeropuerto",
+ "autopista","dragado","consulta previa","licencia ambiental","area protegida",
+ "central nuclear","planta de carbon","desalinizacion","tierras indigenas",
+ # Portuguese
+ "mineracao","oleoduto","gasoduto","barragem","desmatamento","hidreletrica",
+ "termeletrica","perfuracao","poluicao","concessao","desapropriacao","refinaria",
+ "aterro","litio","aeroporto","rodovia","dragagem","licenciamento ambiental",
+ "terra indigena","usina hidreletrica","usina termeletrica","desalinizacao",
+ # French
+ "oleoduc","gazoduc","barrage","deforestation","petrole","forage","hydroelectrique",
+ "raffinerie","decharge","aeroport","autoroute","dragage","expropriation","expulsion",
+ "exploitation miniere","mine de","aire protegee","terres autochtones",
+ "cuivre","centrale a charbon","centrale nucleaire","dessalement",
+]
+ALLOW = ALLOW + [_fold(k) for k in _ALLOW_ML]
+
 def matches(text):
-    t = text.lower()
-    return any(k in t for k in ALLOW)
+    t = " " + _fold(text) + " "
+    for k in ALLOW:
+        # short ASCII keywords match whole-word only (so 'nepa' doesn't fire inside
+        # 'nepal', 'esia' inside 'indonesia', 'mine' inside 'examined'); longer
+        # terms, phrases, and non-Latin scripts match as substring.
+        if k.isascii() and len(k) <= 5 and " " not in k:
+            if (" " + k + " ") in t:
+                return True
+        elif k in t:
+            return True
+    return False
 
 def clean(s):
     return html.unescape(re.sub("<[^>]+>", "", s or "")).strip()
@@ -583,12 +667,175 @@ _REGION_LOCALE = {
 # or non-anglophone states, which is why almost every region read 0. Each region walks
 # these tiers until it finds something: tighter and more recent first, then broader
 # terms, a longer window, the local language, and finally the bare region name.
+
+# --- per-region relevance gate ------------------------------------------------
+# GDELT matches a bare country name as a *substring anywhere*, so a query for
+# "Chad" returned US celebrity and pipeline stories that merely contained the
+# word. Before keeping an item under a region we now require the region's own
+# name (or a known alias) to actually appear in the title or snippet, and we run
+# the gazetteer to attach a subnational region where one is named.
+_ISO3_ALIASES = {}
+for _cc2, _al in _COUNTRY.items():
+    _cc3 = _A2TO3.get(_cc2)
+    if _cc3:
+        _ISO3_ALIASES.setdefault(_cc3, set()).update(a.strip().lower() for a in _al)
+# make sure every swept region has at least its display name as an alias
+for _iso, _nm in _WIRE_REGIONS.items():
+    _ISO3_ALIASES.setdefault(_iso, set()).add((_nm or "").strip().lower())
+    # a couple of common adjectival / short forms the gazetteer may lack
+    _low = (_nm or "").lower()
+    if _low:
+        _ISO3_ALIASES[_iso].add(_low)
+
+
+
+# A curated set of unambiguous extra aliases (capital cities, demonyms) so a real
+# story that names the capital or nationality but not the country still resolves.
+# Kept conservative on purpose -- an alias that collides with an ordinary English
+# word would re-open the false-positive door that this whole gate exists to close.
+_EXTRA_ALIASES = {
+ "TCD": ["chadian", "ndjamena", "n'djamena", "doba"],
+ "GTM": ["guatemalan"], "HND": ["honduran", "tegucigalpa"],
+ "PAN": ["panamanian"], "DOM": ["dominican"], "CRI": ["costa rican", "san jose"],
+ "ROU": ["romanian", "bucharest"], "SRB": ["serbian", "belgrade"],
+ "HUN": ["hungarian", "budapest"], "SVK": ["slovak", "bratislava"],
+ "ALB": ["albanian", "tirana"], "MDA": ["moldovan", "chisinau"],
+ "MKD": ["macedonian", "skopje"], "MNE": ["montenegrin", "podgorica"],
+ "GHA": ["ghanaian", "accra"], "TUN": ["tunisian"], "UGA": ["ugandan", "kampala"],
+ "TZA": ["tanzanian", "dodoma", "dar es salaam"], "JOR": ["jordanian", "amman"],
+ "LBN": ["lebanese", "beirut"], "ARM": ["armenian", "yerevan"],
+ "HRV": ["croatian", "zagreb"], "SEN": ["senegalese", "dakar"],
+ "CMR": ["cameroonian", "yaounde"], "CIV": ["ivorian", "abidjan", "ivory coast"],
+ "ZMB": ["zambian", "lusaka"], "ZWE": ["zimbabwean", "harare"],
+ "MOZ": ["mozambican", "maputo"], "AGO": ["angolan", "luanda"],
+ "BWA": ["botswana", "gaborone"], "NAM": ["namibian", "windhoek"],
+ "MWI": ["malawian", "lilongwe"], "RWA": ["rwandan", "kigali"],
+ "KHM": ["cambodian", "phnom penh"], "LAO": ["laotian", "vientiane"],
+ "MMR": ["myanmar", "burmese", "naypyidaw", "yangon"],
+ "NPL": ["nepali", "nepalese", "kathmandu"], "LKA": ["sri lankan", "colombo"],
+ "MNG": ["mongolian", "ulaanbaatar"], "KAZ": ["kazakh", "astana", "almaty"],
+ "PRY": ["paraguayan", "asuncion"], "URY": ["uruguayan", "montevideo"],
+ "BOL": ["bolivian", "la paz"], "PAN": ["panamanian"],
+ "MAR": ["moroccan", "rabat"], "DZA": ["algerian", "algiers"],
+ "ETH": ["ethiopian", "addis ababa"], "KEN": ["kenyan", "nairobi"],
+ "NGA": ["nigerian", "abuja", "lagos"], "EGY": ["egyptian", "cairo"],
+}
+for _iso, _al in _EXTRA_ALIASES.items():
+    _ISO3_ALIASES.setdefault(_iso, set()).update(a.strip().lower() for a in _al)
+
+
+_LANG_ALIASES = {
+ "BRA": ["brasil"],
+ "MEX": ["mexique"],
+ "PER": ["perou"],
+ "CHL": ["chili"],
+ "COL": ["colombie"],
+ "ARG": ["argentine"],
+ "ECU": ["equateur"],
+ "BOL": ["bolivie"],
+ "VEN": ["venezuela"],
+ "URY": ["uruguay"],
+ "PRY": ["paraguay"],
+ "GTM": ["guatemala"],
+ "HND": ["honduras"],
+ "CRI": ["costa rica"],
+ "PAN": ["panama", "panama"],
+ "DOM": ["republique dominicaine", "republica dominicana"],
+ "TCD": ["tchad", "تشاد"],
+ "CIV": ["cote d ivoire", "costa de marfil"],
+ "SEN": ["senegal", "senegal"],
+ "CMR": ["cameroun", "camerun"],
+ "COD": ["republique democratique du congo", "rd congo", "rdc", "congo kinshasa"],
+ "COG": ["congo brazzaville", "republique du congo"],
+ "MLI": ["mali"],
+ "NER": ["niger"],
+ "BFA": ["burkina faso"],
+ "GIN": ["guinee", "guinea"],
+ "MDG": ["madagascar"],
+ "MAR": ["maroc", "marruecos", "المغرب"],
+ "DZA": ["algerie", "argelia", "الجزائر"],
+ "TUN": ["tunisie", "tunez", "تونس"],
+ "EGY": ["egypte", "egipto", "مصر"],
+ "ETH": ["ethiopie", "etiopia"],
+ "AGO": ["angola"],
+ "MOZ": ["mocambique", "mozambique"],
+ "GNB": ["guinee bissau", "guinea bissau"],
+ "KHM": ["cambodge", "camboya"],
+ "LAO": ["laos"],
+ "VNM": ["vietnam", "viet nam", "越南"],
+ "MMR": ["birmanie", "birmania"],
+ "IDN": ["indonesie", "indonesia"],
+ "PHL": ["philippines", "filipinas"],
+ "THA": ["thailande", "tailandia", "泰国"],
+ "CHN": ["chine", "china", "中国"],
+ "JPN": ["japon", "日本"],
+ "KOR": ["coree du sud", "corea del sur", "한국"],
+ "IND": ["inde", "india", "भारत"],
+ "PAK": ["pakistan"],
+ "BGD": ["bangladesh"],
+ "LKA": ["sri lanka"],
+ "NPL": ["nepal"],
+ "DEU": ["deutschland", "allemagne", "alemania"],
+ "FRA": ["france", "francia"],
+ "ESP": ["espana", "espagne"],
+ "ITA": ["italie", "italia"],
+ "PRT": ["portugal"],
+ "RUS": ["russie", "rusia", "россия"],
+ "UKR": ["ukraine", "ucrania", "украина"],
+ "TUR": ["turquie", "turquia", "turkiye"],
+ "GRC": ["grece", "grecia"],
+ "POL": ["pologne", "polonia", "polska"],
+ "NGA": ["nigeria", "nigeria"],
+ "KEN": ["kenya", "kenia"],
+ "TZA": ["tanzanie", "tanzania"],
+ "UGA": ["ouganda", "uganda"],
+ "ZMB": ["zambie", "zambia"],
+ "ZWE": ["zimbabwe"],
+ "GHA": ["ghana"],
+ "ZAF": ["afrique du sud", "sudafrica"],
+ "BWA": ["botswana"],
+ "NAM": ["namibie", "namibia"],
+ "SAU": ["arabie saoudite", "arabia saudita", "السعودية"],
+ "IRQ": ["irak", "iraq", "العراق"],
+ "JOR": ["jordanie", "jordania", "الأردن"],
+ "LBN": ["liban", "libano", "لبنان"],
+}
+for _iso, _al in _LANG_ALIASES.items():
+    _ISO3_ALIASES.setdefault(_iso, set()).update(_fold(a) for a in _al)
+
+def _region_named(iso, text):
+    """True if the region iso is actually named in the item text -- by its own
+    name/alias in any language we carry, OR by a subnational unit that the
+    gazetteer resolves to this country (a story naming only 'California' or
+    'Cajamarca' still belongs to its country)."""
+    t = _norm_txt(text)
+    for a in _ISO3_ALIASES.get(iso, ()):
+        if _alias_hit(_fold(a), t):
+            return True
+    if _subregion_for(iso, text):     # a gazetteer subnational hit implies the country
+        return True
+    return False
+
+
+def _subregion_for(iso, text):
+    """If the gazetteer finds a subnational region belonging to iso, return it."""
+    try:
+        gi, gr = _geo_tag(text)
+    except Exception:
+        return ""
+    if gr and gi and _A2TO3.get(gi, gi) == iso:
+        return gr
+    return ""
+
 _REGION_TIERS = (
-    (_REGION_TERMS, 30,  True,  False),
-    (_REGION_TERMS, 120, True,  True),
-    ("environment OR mining OR forest OR water OR pollution OR land OR energy", 180, True, True),
-    ("environment OR land OR water OR development", 365, False, True),
-    ("", 365, False, True),
+    (_REGION_TERMS, 30,  True),
+    (_REGION_TERMS, 90,  True),
+    ("environment OR mining OR forest OR water OR pollution OR land OR energy OR dam OR deforestation", 180, True),
+    ("environment OR mining OR land OR water OR development OR pollution", 365, True),
+    # NOTE: no bare-name tier. A query with no topic terms returns whatever
+    # merely contains the country's name -- which is how "Chad" pulled in US
+    # celebrity and pipeline stories. Every tier now carries topic terms, AND
+    # every kept item must independently name the region (see _region_named).
 )
 
 
@@ -658,49 +905,64 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
         done += 1
         kept = 0
 
-        def _add(title, link, date_ms, snippet, window):
+        def _add(title, link, date_ms, snippet, window, subregion=""):
             key = re.sub(r"[^a-z0-9]", "", (title or "").lower())[:60]
             if not title or not link or key in seen:
                 return False
             seen.add(key)
             out.append({"name": nm, "title": title[:200], "link": link, "date": date_ms,
                         "sig": 2, "snippet": (snippet or "")[:280], "iso": iso,
-                        "region": "", "widened": window})
+                        "region": subregion or "", "widened": window})
             return True
 
-        spare = []                       # articles the relevance filter turned away
-        for terms, days, need_match, allow_local in _REGION_TIERS:
+        for terms, days, need_match in _REGION_TIERS:
             if kept >= per_region:
                 break
             for art in _gdelt(nm, terms, days, maxrec=25):
                 if kept >= per_region:
                     break
                 title = clean(art.get("title"))
-                blob = title + " " + clean(art.get("domain", ""))
-                if need_match and not matches(blob):
-                    if len(spare) < 3:
-                        spare.append((art, days))
+                snip = clean(art.get("domain", ""))
+                blob = title + " " + snip
+                # GDELT machine-translates 65 languages and matched our English query
+                # ("<country>" AND topic terms) against that TRANSLATION -- but it
+                # returns the title in the ORIGINAL language. So for a non-English
+                # item we can't re-read the title with our English gates; GDELT's
+                # translation-side match is the authoritative signal, and its own
+                # language / source-country fields tell us it belongs here. English
+                # items still get the strict two-gate, because that is where the
+                # person-name / same-word false positives (the "Chad" bug) live.
+                lang = (art.get("language") or "").strip().lower()
+                scty = (art.get("sourcecountry") or "").strip().lower()
+                foreign = bool(lang) and lang not in ("english", "eng", "en")
+                # source country GDELT assigns to the region we queried is corroboration
+                _trust = foreign or (scty and scty == (nm or "").strip().lower())
+                if _trust:
+                    # trust GDELT's translated match; still honor an explicit subregion
+                    _sub = _subregion_for(iso, title)
+                    if _add(title, art.get("url", ""), _gdelt_date_ms(art.get("seendate")),
+                            snip, days, _sub):
+                        kept += 1
                     continue
+                # English item: topic relevance AND the region must be named in the title
+                if need_match and not matches(blob):
+                    continue
+                if not _region_named(iso, title + " " + snip):
+                    continue
+                _sub = _subregion_for(iso, title)         # attach a subnational region if named
                 if _add(title, art.get("url", ""), _gdelt_date_ms(art.get("seendate")),
-                        art.get("domain", ""), days):
+                        snip, days, _sub):
                     kept += 1
             _t.sleep(pace)
             if kept >= 1:
                 break
-        # A region that returned articles should never read 0 just because the topic
-        # filter was strict -- large countries were showing empty for exactly this.
-        if kept == 0 and spare:
-            for art, days in spare[:2]:
-                if _add(clean(art.get("title")), art.get("url", ""),
-                        _gdelt_date_ms(art.get("seendate")), art.get("domain", ""), days):
-                    kept += 1
 
         if kept == 0:                                  # GDELT dry -> try Google News
-            for terms, days, need_match, allow_local in _REGION_TIERS:
+            for terms, days, need_match in _REGION_TIERS:
                 if kept >= per_region:
                     break
                 urls = [_gnews_url('"%s" %s' % (nm, ("(%s)" % terms) if terms else ""), days)]
-                if allow_local and loc:
+                if loc:            # add a locale-scoped query (in-country edition) when we have one
                     urls.append(_gnews_url('"%s" %s' % (nm, ("(%s)" % terms) if terms else ""),
                                            days, loc[0], loc[1]))
                 for u in urls:
@@ -719,8 +981,11 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
                         if kept >= per_region:
                             break
                         title = clean(e.get("title"))
-                        blob = title + " " + clean(e.get("summary", ""))
+                        summary = clean(e.get("summary", ""))
+                        blob = title + " " + summary
                         if need_match and not matches(blob):
+                            continue
+                        if not _region_named(iso, blob):
                             continue
                         ts = None
                         for k in ("published_parsed", "updated_parsed"):
@@ -730,7 +995,7 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
                                 except Exception:
                                     pass
                         if _add(title, e.get("link", ""), ts or int(time.time() * 1000),
-                                clean(e.get("summary", "")), days):
+                                summary, days, _subregion_for(iso, blob)):
                             kept += 1
                     _t.sleep(pace)
                 if kept >= 1:

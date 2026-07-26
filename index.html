@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Local Project Resistance Map</title>
+<title>Global Project Resistance Map</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
@@ -316,7 +316,7 @@ body.info-open #wirePanel{bottom:auto;max-height:calc(50vh - 46px);}
       <div class="wire-thread-s wire-climate-static" id="wireClimate">The modern development machine runs on paper: an environmental review filed, a wetland permit sought, a rezoning buried in a legal ad no one reads. That paperwork is also its weakness — every notice is a comment window, every review a place to intervene, every permit a decision that can be challenged.<br><br>Against that machine grew a web of defenders — riverkeepers and land trusts, tribal nations and neighborhood coalitions, wilderness alliances and environmental-law firms that sue for free. They learned that a listed species, a floodplain, a buried document or a company’s own record can stop a project cold.<br><br>The fights are everywhere at once — lithium mines and data centers, pipelines and warehouses, LNG terminals and clear-cuts — and they move fast. This wire watches for them: the projects entering the pipeline, the companies behind them, and the places worth defending. Find the fight.<div class="d" style="margin-top:6px;opacity:.75;">Covers the <b>last 30 days</b>, searching further back and in local languages where coverage is thin. Every region is listed below; a count of 0 means nothing surfaced for it at all.</div></div>
     </div>
     <div class="wire-tabs"><span class="wire-tab on" data-wm="live" onclick="setWireMode('live')">&#128225; Live</span><span class="wire-tab" data-wm="timeline" onclick="setWireMode('timeline')">&#128336; Timeline</span></div>
-    <div id="wireRegionWrap" style="display:none;"><select id="wireRegion" onchange="setWireRegion(this.value)" title="Filter the wire by place"><option value="">🌐 All regions</option></select><select id="wireDays" onchange="setWireDays(this.value)" title="How far back to show" style="margin-top:5px;"><option value="7">Last 7 days</option><option value="30" selected>Last 30 days</option><option value="90">Last 90 days</option><option value="365">Last year</option><option value="0">Everything held</option></select><select id="wireSort" onchange="setWireSort(this.value)" title="How to order the feed" style="margin-top:5px;"><option value="smart" selected>Sort: project size / impact</option><option value="hits">Sort: most covered (news hits)</option><option value="new">Sort: newest first</option><option value="old">Sort: oldest first</option><option value="lang">Sort: by language</option><option value="az">Sort: A–Z by place</option></select><select id="wireRegSort" onchange="setWireRegSort(this.value)" title="How to order the region menu" style="margin-top:5px;"><option value="alpha" selected>Regions: A–Z</option><option value="count">Regions: most active</option></select></div>
+    <div id="wireRegionWrap" style="display:none;"><select id="wireRegion" onchange="setWireRegion(this.value)" title="Filter the wire by place"><option value="">🌐 All regions</option></select><select id="wireDays" onchange="setWireDays(this.value)" title="How far back to show" style="margin-top:5px;"><option value="7">Last 7 days</option><option value="30" selected>Last 30 days</option><option value="90">Last 90 days</option><option value="365">Last year</option><option value="0">Everything held</option></select><select id="wireSort" onchange="setWireSort(this.value)" title="How to order the feed" style="margin-top:5px;"><option value="smart" selected>Sort: project size / impact</option><option value="hits">Sort: most covered (news hits)</option><option value="new">Sort: newest first</option><option value="old">Sort: oldest first</option><option value="lang">Sort: by language</option><option value="az">Sort: A–Z by place</option></select></div>
     <div id="wireItems"><div class="wire-load">Loading the wire&hellip;</div></div>
     <div class="wire-foot"><span id="wireSrc"></span><span class="wire-refresh" onclick="loadWire(true)">&#8635; refresh</span></div>
   </div>
@@ -357,7 +357,7 @@ body.info-open #wirePanel{bottom:auto;max-height:calc(50vh - 46px);}
 </div>
 </div>
 
-<div id="header"><h1 id="title">Local Project Resistance Map</h1><div class="subtitle" id="subtitle"></div></div>
+<div id="header"><h1 id="title">Global Project Resistance Map</h1><div class="subtitle" id="subtitle"></div></div>
 <div id="map"></div>
 <div id="vign" aria-hidden="true"></div>
 <div id="gbLoad">Loading…</div>
@@ -817,6 +817,19 @@ function gbKidsInside(features,parent){ const pg=parent.geometry; const pb=paren
       if(gbInPoly(p,f.geometry)){ tot++; if(gbInPoly(p,pg))inside++; } }
     return tot>0 && inside/tot >= 0.6; }); }
 function gbFeatBounds(f){return L.geoJson(f).getBounds();}
+/* Antimeridian-safe bounds: countries whose territory straddles \u00b1180\u00b0 (USA via the
+   Aleutians, Russia, Fiji, NZ, Kiribati) produce raw bounds that span almost the whole
+   globe, so fitBounds frames the world and the country never clears the left panel.
+   Re-map positive longitudes into a continuous negative frame when the raw span is
+   impossibly wide, then take the tighter of the two. Cached per feature. */
+function gbSaneBounds(feat){ if(!feat)return null; if(feat._saneB)return feat._saneB;
+  try{ var g=feat.geometry; if(!g||!g.coordinates) return feat._saneB=gbFeatBounds(feat);
+    var lats=[], lngs=[]; (function scan(c){ if(!c)return; if(typeof c[0]==='number'){ lngs.push(c[0]); lats.push(c[1]); return; } for(var i=0;i<c.length;i++)scan(c[i]); })(g.coordinates);
+    if(!lngs.length) return feat._saneB=gbFeatBounds(feat);
+    var minL=Math.min.apply(null,lngs), maxL=Math.max.apply(null,lngs), minA=Math.min.apply(null,lats), maxA=Math.max.apply(null,lats);
+    if(maxL-minL>180){ var l2=lngs.map(function(x){return x>0?x-360:x;}); var n=Math.min.apply(null,l2), m=Math.max.apply(null,l2); if(m-n < maxL-minL){ minL=n; maxL=m; } }
+    return feat._saneB=L.latLngBounds([minA,minL],[maxA,maxL]);
+  }catch(e){ return feat._saneB=gbFeatBounds(feat); } }
 function gbChildName(f){const p=f.properties||{};return p.shapeName||p.shapeID||p.name||'(area)';}
 
 /* ---- name matching: DISPLAY ONLY. trackerData is the source of truth; an unmatched boundary
@@ -944,7 +957,7 @@ function gbPanClear(latlng){ if(!latlng||gbDragging)return; try{
 map.on('dragstart',function(){ gbDragging=true; if(gbPanT){clearTimeout(gbPanT);gbPanT=null;} });
 map.on('dragend',function(){ gbDragging=false; gbDragEndTime=Date.now(); });
 function gbSchedClear(latlng){ if(gbPanT)clearTimeout(gbPanT); gbPanT=setTimeout(function(){ gbPanT=null; gbPanClear(latlng); },520); }
-function gbFitCountry(feat){ if(!feat)return; try{ gbFitTime=Date.now(); const p=gbFitPad(map.getSize()); p.maxZoom=6; map.fitBounds(gbFeatBounds(feat),p); }catch(e){} }
+function gbFitCountry(feat){ if(!feat)return; try{ gbFitTime=Date.now(); const p=gbFitPad(map.getSize()); p.maxZoom=6; map.fitBounds(gbSaneBounds(feat),p); }catch(e){} }
 function gbToWorld(){ gbClear(); map.closePopup(); hideInfoPanel(); map.setZoom(Math.min(3,map.getZoom())); renderCrumb(); }
 function deactivate(){ gbToWorld(); }
 function _pbEsc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
@@ -1513,7 +1526,6 @@ var _wireRegion='';                         // current filter: '' = all, else IS
 var _wireSort='smart';                       // feed order: smart | new | old | az
 var _wireRegSort='alpha';                     // region menu order: alpha | count
 function setWireSort(v){ _wireSort=v||'smart'; try{ loadWire(true); }catch(e){ try{_wireRender();}catch(_e){} } }
-function setWireRegSort(v){ _wireRegSort=v||'alpha'; try{ loadWire(true); }catch(e){ try{_wireRender();}catch(_e){} } }
 var _wireISONAME={US:'United States',CA:'Canada',MX:'Mexico',BR:'Brazil',AR:'Argentina',CL:'Chile',PE:'Peru',CO:'Colombia',EC:'Ecuador',BO:'Bolivia',VE:'Venezuela',GB:'United Kingdom',IE:'Ireland',FR:'France',DE:'Germany',ES:'Spain',PT:'Portugal',IT:'Italy',NL:'Netherlands',BE:'Belgium',SE:'Sweden',NO:'Norway',FI:'Finland',DK:'Denmark',PL:'Poland',CZ:'Czechia',AT:'Austria',CH:'Switzerland',GR:'Greece',RO:'Romania',HU:'Hungary',UA:'Ukraine',RU:'Russia',TR:'Turkey',RS:'Serbia',CN:'China',IN:'India',PK:'Pakistan',BD:'Bangladesh',JP:'Japan',KR:'South Korea',ID:'Indonesia',PH:'Philippines',VN:'Vietnam',TH:'Thailand',MY:'Malaysia',MM:'Myanmar',NP:'Nepal',LK:'Sri Lanka',KZ:'Kazakhstan',MN:'Mongolia',TW:'Taiwan',AU:'Australia',NZ:'New Zealand',PG:'Papua New Guinea',FJ:'Fiji',ZA:'South Africa',NG:'Nigeria',KE:'Kenya',GH:'Ghana',TZ:'Tanzania',UG:'Uganda',ET:'Ethiopia',CD:'DR Congo',CM:'Cameroon',SN:'Senegal',ML:'Mali',ZM:'Zambia',ZW:'Zimbabwe',MZ:'Mozambique',AO:'Angola',NA:'Namibia',BW:'Botswana',MG:'Madagascar',RW:'Rwanda',MA:'Morocco',DZ:'Algeria',TN:'Tunisia',EG:'Egypt',LY:'Libya',SD:'Sudan',SA:'Saudi Arabia',AE:'UAE',IL:'Israel',PS:'Palestine',IQ:'Iraq',IR:'Iran',SY:'Syria',JO:'Jordan',LB:'Lebanon',YE:'Yemen',AZ:'Azerbaijan',GE:'Georgia',AM:'Armenia',UZ:'Uzbekistan',AF:'Afghanistan',GT:'Guatemala',HN:'Honduras',PA:'Panama',CR:'Costa Rica',NI:'Nicaragua',DO:'Dominican Republic',GL:'\ud83c\udf0d Global'};
 function _wireRegKey(it){ var iso=it&&it.iso; if(!iso)return null; iso=_wireISO3(iso); return it.region?(iso+'|'+it.region):iso; }
 var _WIRE_A2TO3={"AE": "ARE", "AF": "AFG", "AM": "ARM", "AO": "AGO", "AR": "ARG", "AT": "AUT", "AU": "AUS", "AZ": "AZE", "BD": "BGD", "BE": "BEL", "BO": "BOL", "BR": "BRA", "BW": "BWA", "CA": "CAN", "CD": "COD", "CH": "CHE", "CL": "CHL", "CM": "CMR", "CN": "CHN", "CO": "COL", "CR": "CRI", "CZ": "CZE", "DE": "DEU", "DK": "DNK", "DO": "DOM", "DZ": "DZA", "EC": "ECU", "EG": "EGY", "ES": "ESP", "ET": "ETH", "FI": "FIN", "FJ": "FJI", "FR": "FRA", "GB": "GBR", "GE": "GEO", "GH": "GHA", "GR": "GRC", "GT": "GTM", "HN": "HND", "HU": "HUN", "ID": "IDN", "IE": "IRL", "IL": "ISR", "IN": "IND", "IQ": "IRQ", "IR": "IRN", "IT": "ITA", "JO": "JOR", "JP": "JPN", "KE": "KEN", "KR": "KOR", "KZ": "KAZ", "LB": "LBN", "LK": "LKA", "LY": "LBY", "MA": "MAR", "MG": "MDG", "ML": "MLI", "MM": "MMR", "MN": "MNG", "MX": "MEX", "MY": "MYS", "MZ": "MOZ", "NA": "NAM", "NG": "NGA", "NI": "NIC", "NL": "NLD", "NO": "NOR", "NP": "NPL", "NZ": "NZL", "PA": "PAN", "PE": "PER", "PG": "PNG", "PH": "PHL", "PK": "PAK", "PL": "POL", "PS": "PSE", "PT": "PRT", "RO": "ROU", "RS": "SRB", "RU": "RUS", "RW": "RWA", "SA": "SAU", "SD": "SDN", "SE": "SWE", "SN": "SEN", "SY": "SYR", "TH": "THA", "TN": "TUN", "TR": "TUR", "TW": "TWN", "TZ": "TZA", "UA": "UKR", "UG": "UGA", "US": "USA", "UZ": "UZB", "VE": "VEN", "VN": "VNM", "YE": "YEM", "ZA": "ZAF", "ZM": "ZMB", "ZW": "ZWE"};
@@ -1798,7 +1810,7 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
    {"name":"Resolution Copper (Oak Flat)","source":"public_land_nepa","type":"Copper mine","state":"AZ","lat":33.31,"lng":-111.05,"impact":5,"company":"Rio Tinto / BHP","size":"~2-mi subsidence","status":"Litigated","desc":"Block-cave mine that would swallow Oak Flat, sacred to San Carlos Apache; land swap litigated."},
    {"name":"Pebble Mine","source":"public_land_nepa","type":"Gold/copper mine","state":"AK","lat":59.90,"lng":-155.30,"impact":5,"company":"Northern Dynasty","size":"Headwaters pit","status":"EPA-vetoed","desc":"Proposed mine in Bristol Bay salmon headwaters; developers seek to overturn the CWA veto."}
   ]};
-  var PC={5:"#b23a17",4:"#c26a24",3:"#d8a63e",2:"#b8912f",1:"#7d6a30"}, PR={5:15,4:12,3:9,2:7,1:5};
+  var PC={5:"#e8431d",4:"#f2771c",3:"#f6a52e",2:"#f0c73f",1:"#e8cf55"}, PR={5:15,4:12,3:9,2:7,1:5};
   try{ if(typeof map!=='undefined' && map.createPane && !map.getPane('projPane')){ map.createPane('projPane'); map.getPane('projPane').style.zIndex=620; } }catch(_e){}
   var PJ_CLICK_MINZ=6;
   try{ if(typeof map!=='undefined' && map.on){ map.on('zoomend', function(){ var _pn=map.getPane&&map.getPane('projPane'); if(_pn) _pn.style.pointerEvents=(map.getZoom()>=PJ_CLICK_MINZ?'auto':'none'); }); } }catch(_e){}

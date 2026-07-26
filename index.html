@@ -1820,7 +1820,7 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
    {"name":"Resolution Copper (Oak Flat)","source":"public_land_nepa","type":"Copper mine","state":"AZ","lat":33.31,"lng":-111.05,"impact":5,"company":"Rio Tinto / BHP","size":"~2-mi subsidence","status":"Litigated","desc":"Block-cave mine that would swallow Oak Flat, sacred to San Carlos Apache; land swap litigated."},
    {"name":"Pebble Mine","source":"public_land_nepa","type":"Gold/copper mine","state":"AK","lat":59.90,"lng":-155.30,"impact":5,"company":"Northern Dynasty","size":"Headwaters pit","status":"EPA-vetoed","desc":"Proposed mine in Bristol Bay salmon headwaters; developers seek to overturn the CWA veto."}
   ]};
-  var PC={5:"#2a4d3f",4:"#49796b",3:"#6d9a79",2:"#356152",1:"#2b4f41"}, PR={5:15,4:12,3:9,2:7,1:5};
+  var PC={5:"#0f330a",4:"#163713",3:"#1b3b17",2:"#294625",1:"#375233"}, PR={5:15,4:12,3:9,2:7,1:5};
   try{ if(typeof map!=='undefined' && map.createPane && !map.getPane('projPane')){ map.createPane('projPane'); map.getPane('projPane').style.zIndex=620; } }catch(_e){}
   var PJ_CLICK_MINZ=6;
   try{ if(typeof map!=='undefined' && map.on){ map.on('zoomend', function(){ var _pn=map.getPane&&map.getPane('projPane'); if(_pn) _pn.style.pointerEvents=(map.getZoom()>=PJ_CLICK_MINZ?'auto':'none'); }); } }catch(_e){}

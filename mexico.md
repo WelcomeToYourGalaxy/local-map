@@ -1,12 +1,13 @@
+
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN MEXICO
 
 **Complete Community Opposition How-To**
 
 A practical guide for communities facing destructive development projects in Mexico, grounded in the constitutional and environmental-impact system and documented campaigns
 
-*This guide uses the Mexican legal terms you will actually encounter (amparo, Manifestación de Impacto Ambiental, interés legítimo, consulta previa, and so on), each defined on first use and in the Glossary. It describes the national framework; states and municipalities have their own rules and authorities, so check locally.*
+*This guide uses the Mexican legal terms you will actually encounter (amparo, Manifestación de Impacto Ambiental, interés legítimo, consulta previa, and so on), each explained in plain language where it first comes up. It describes the national framework; states and municipalities have their own rules and authorities, so check locally.*
 
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, and each is defined in the **Glossary at the end** of this guide.
+> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
 
 ---
 
@@ -15,17 +16,19 @@ A practical guide for communities facing destructive development projects in Mex
 1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
 2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
 3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who decides, when the decision is final
+4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
 5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organise (Foundation → Public Launch → Coalition → Escalation)
-7. **STEP 4: LEGAL CHALLENGES** — Using the amparo, the suspension, and consent
-8. **STEP 5: MEDIA STRATEGY** — How to generate coverage (journalist relationships, newsworthiness, measurement)
-9. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-10. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers (honest mechanics and assessment)
-11. **WHEN IT'S ACTUAL CORRUPTION** — Spotting, documenting, and exposing genuine misconduct
-12. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-13. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
-14. **GLOSSARY** — Key terms, defined and listed alphabetically
+6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
+7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
+8. **STEP 4: LEGAL CHALLENGES** — Consultation, the amparo, and administrative challenge
+9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
+10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
+11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
+12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
+13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
+14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
+15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
+16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
 
 ---
 
@@ -384,6 +387,26 @@ Identify affected populations; estimate health and livelihood impacts and costs.
 
 ---
 
+# WHAT TO GATHER, AND WHERE TO FIND IT
+
+Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+
+**Start at the deciding body's register and the municipio's own website.** In Mexico the official documents for a project — the Manifestación de Impacto Ambiental (MIA), the public-consultation notices, the environmental authorization (autorización de impacto ambiental) and its conditions — are posted by the body running the review: SEMARNAT (federal) or the state environmental authority for the MIA, the municipio for land use and construction licences, and CONAGUA for water. The official documents for most local projects live on the municipio's own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+
+**The project file and the Manifestación de Impacto Ambiental (MIA).** Get the developer's Manifestación de Impacto Ambiental (MIA) as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+
+**Baseline environmental data.** Federal and state environmental data; CONABIO biodiversity and protected-area records; and the developer's own MIA baseline studies.
+
+**Ownership and money.** Company ownership from the Registro Público de Comercio; land from the Registro Público de la Propiedad and the Registro Agrario Nacional (for ejido land); and officials' asset declarations.
+
+**Case law and precedent.** Federal court decisions are published by the Poder Judicial de la Federación; amparo rulings shape environmental practice.
+
+**How to force a document open.** A request under the transparency law (**LGTAIP**), via the Plataforma Nacional de Transparencia, compels disclosure of records a public body holds. Use the request wording in Section 8E.
+
+**Free and low-cost help.** Environmental and human-rights NGOs (e.g. CEMDA) litigate and advise; the amparo is the central constitutional tool.
+
+**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+
 # STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
 
 **Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
@@ -610,6 +633,22 @@ A court that sees a genuine legal defect, plus visible organised opposition, plu
 - **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The authorization was granted without the prior consultation the Constitution requires" is a ground a court can act on.
 
 ---
+
+# TURNING YOUR EVIDENCE INTO ARGUMENTS
+
+Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Mexico — so you file the right fact against the right rule.
+
+**A defective public consultation → challenge.** Where the consulta pública was skipped or deficient. Feed it with: the consultation record and its gaps.
+
+**An amparo → suspend and review the authorization.** The amparo protects the constitutional right to a healthy environment and can suspend a project. Feed it with: the rights violation and your documented harm.
+
+**An inadequate MIA → nullity.** Ignored effects, no alternatives, weak assessment. Feed it with: the MIA gaps and your expert critique.
+
+**Indigenous or ejido consultation (ILO 169) skipped → strong ground.** Feed it with: the affected community/ejido position and the absence of free, prior, informed consultation.
+
+**Authorization conditions breached → enforcement.** Feed it with: the conditions and dated evidence of breach, to PROFEPA.
+
+The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." An environmental NGO can tell you fast whether an amparo or an administrative challenge is the right route.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
@@ -859,6 +898,20 @@ See Step 4 for the full decision tree — Tracks 1-3, the amparo, the suspension
 
 ---
 
+# IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
+
+Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+
+1. **Take part in the consulta pública and submit written objections before the deadline. Name one or two concrete grounds (water, an ejido, a protected area). It enters the record.**
+2. **Get the Manifestación de Impacto Ambiental (MIA) and quote its worst admission back to the autoridad ambiental.** The developer's own words carry the most weight.
+3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
+4. **File one transparency request** (Section 8E) — even if someone else uses it later.
+5. **Point one environmental NGO at the fight.** An environmental NGO such as CEMDA may take it from there — you hand off, you don't have to lead.
+6. **Where indigenous or ejido land is affected, ensure the community knows the timeline** — the consultation right (and an amparo) is a strong, distinct lever.
+7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+
+Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+
 # SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
 
 **What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because the government is pushing investment and infrastructure, because the developer's own consultant writes the impact study, or because authorizations are rarely refused. It rarely means anyone broke the law. Here is how the tilt works — and how communities win anyway.
@@ -893,66 +946,21 @@ Where the system is tilted, opposition using authorization and legal methods has
 
 ---
 
-# SECTION 10: WHEN IT'S ACTUAL CORRUPTION (AND HOW TO EXPOSE IT)
+# WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Section 9 covered a system **tilted toward approval** — pressures that are usually lawful. This section covers something narrower and more serious: **actual corruption** — the unlawful or unethical use of a public position for private benefit, or improper influence over a decision. It is rarer than ordinary bias, but where it exists it is both a wrong worth exposing and, strategically, a project's single greatest vulnerability. Mexico has bodies to receive these matters — but handle them carefully, because getting the facts wrong can expose you to a defamation case.
+Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
 
-## What counts as corruption (a spectrum from illegal to merely unethical)
+**Municipio officials and councillors.** The most common pressure point: a municipio dependent on the project, or an official with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the administrative-responsibility law and conflict-of-interest rules — misconduct can void acts and sanction officials.
 
-- **Bribery and abuse of office** (offences under the criminal law and the **General Law of Administrative Responsibilities, LGRA**) — money, jobs, or favours in exchange for an authorization or a favourable decision, or a public servant abusing office for gain.
-- **Bought authorizations** — an environmental-impact authorization, a land-use change, or a permit granted in exchange for a benefit.
-- **Undisclosed conflicts of interest** — a decision-maker with a hidden stake (land near the site, an interest in the developer, a family tie) who does not step aside; the LGRA requires officials to declare their assets, interests, and taxes (the "**3de3**").
-- **The revolving door** — officials and the developer's staff or consultants moving between each other.
-- **Improper gifts, hospitality, or campaign funding** flowing from a developer to the people deciding its project.
-- **Falsified or manipulated studies** — a **MIA** with fabricated data, or a "consultation" staged with unrepresentative people.
-- **Insider land dealing** — acquiring affected land using non-public knowledge of a coming authorization or land-use change.
+**SEMARNAT, the state authority, and PROFEPA.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: an amparo or an administrative nullity challenge.
 
-## Red flags to watch for
+**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the commercial and property registries and asset declarations surface the timeline a journalist needs.
 
-- An authorization granted despite clear objections, with thin or shifting reasons.
-- Sudden reversals, rushed timelines, or a permit issued quietly (or re-granted right after a court suspends it).
-- An official who did not step aside despite a personal interest.
-- Off-record meetings between the developer and decision-makers.
-- Gifts, hospitality, trips, or campaign donations flowing from the developer to decision-makers or their families.
-- A decision-maker — or a relative — owning affected land or an interest in the developer.
-- The same small circle of firms, consultants, and officials recurring across authorizations.
-- Records "missing," or information requests refused.
+**The courts.** Mexico's amparo and its constitutional environmental right are strong levers, and courts have suspended major projects. The constraints are delay and, in places, uneven enforcement; seek the suspensión where work could start before judgment.
 
-## How to document and investigate it (follow the money — carefully)
+**Federal and state politicians and priority projects.** Where a project is a stated federal or state priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
 
-- **Public-information requests** for correspondence, minutes, contracts, and the authorization file.
-- **The Federal Audit Office (ASF) reports** on the agency or project.
-- **Company and land records** — who owns the affected land and who profits; the public registry and the company registry.
-- **Asset and interest declarations** — check the "3de3" for unexplained wealth or conflicts.
-- **Minutes and technical opinions** — compare the decision to the technical recommendation.
-- **Build a timeline:** interest or donation → meeting, gift, or contract → decision. Corruption is almost always shown by **pattern and timing**, not a confession.
-- **Whistleblowers** often break these stories — but protect their identities and be aware that exposing powerful interests carries real danger.
-
-## The legal lever: a tainted or arbitrary decision can be undone
-
-Two features make this powerful. First, an authorization granted through a process tainted by corruption or serious irregularity can be **annulled by the courts** — through the **amparo** or the administrative court — as unlawful; you do not have to secure a criminal conviction first. Second, the administrative offences under the **LGRA** can be pursued before the **Federal Court of Administrative Justice (TFJA)**, and the criminal offences by the **anti-corruption prosecutor**. So documenting a tainted process can be both a **ground to undo the authorization** and a matter for the integrity bodies.
-
-## Where to report it
-
-- The **Secretariat of Anti-Corruption and Good Governance (SABG)** — internal control and administrative responsibility (it succeeded the former Public Function Secretariat).
-- The **Federal Audit Office (ASF)** — for audit findings on public spending and revenue.
-- The **anti-corruption prosecutor** within the Attorney General's Office (**FGR**), and the **TFJA** — for the administrative and criminal offences.
-- The **National Anti-Corruption System (SNA)** — the coordinating framework, and its citizen-participation channels.
-- **Investigative outlets** (such as *Proceso*, *Aristegui Noticias*, *Animal Político*, and Mexicanos Contra la Corrupción) — in parallel with the official channels.
-
-## Strategy: exposing a tainted process can beat a project
-
-A credible, documented corruption story does several things at once: it triggers an investigation or audit; it can get the authorization annulled; it flips media coverage from "local dispute" to "scandal"; it splits the political support behind the project; and it damages the developer's reputation and financing. **Exposing a tainted process is often more powerful than arguing inside it.**
-
-## Do this responsibly — and safely
-
-- **Stick to documented facts.** Publish the records and the timeline and let readers draw conclusions; frame anything unproven as a question, not an accusation.
-- **Mind defamation.** Publicly accusing a named person of a crime you cannot prove is legally risky — while defamation has been decriminalised federally, criminal defamation still exists in some states, and civil suits are used against critics. Work with a lawyer and an experienced journalist before publishing allegations.
-- **Report through the SABG / ASF / FGR and the courts in parallel** with any media, so there is a formal record and an investigation can follow.
-- **Protect whistleblowers and yourself.** The danger is real; keep identities confidential and stay connected to legal and human-rights networks and, where needed, the protection Mechanism.
-- **Don't cry "corruption" without evidence.** Calling ordinary, lawful bias (Section 9) "corruption" destroys your credibility and can expose you to a case. Keep the two separate — which is exactly why they are separate sections here.
-
----
+**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Fiscalía (for crimes), the Auditoría Superior for public money, and the internal-control organs (órganos internos de control) — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
 
 # INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
 
@@ -1010,56 +1018,3 @@ And Mexico offers genuine equalisers: the **amparo** and its **suspensión**, wh
 Know your situation. Assess how tilted the system is, honestly, and get current advice on what a court can suspend today. Watch for genuine corruption and refer it to the integrity bodies. Keep organisers and whistleblowers safe — the danger here is real. Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers.
 
 ---
-
-## RESOURCES (verified)
-
-**Legal help:**
-- The **Mexican Center for Environmental Law (CEMDA)** — *cemda.org.mx* — public-interest environmental law and defender support.
-- University **legal clinics** and human-rights centres; and, on Indigenous land, Indigenous-rights organisations.
-
-**The decision and the challenge:**
-- The **environmental-impact authorization** and **MIA** via **SEMARNAT** (*gob.mx/semarnat*) or the state environment authority; enforcement via **PROFEPA** (*gob.mx/profepa*), including the **denuncia popular**.
-- The **amparo** before the federal courts (the Judicial Branch of the Federation); the **Federal Court of Administrative Justice (TFJA)** for administrative challenges.
-
-**Transparency:** request public information through the **National Transparency Platform (Plataforma Nacional de Transparencia)**; the guarantor role now sits with the federal transparency authority (following the 2025 replacement of the former INAI) — the right to request information continues.
-
-**Integrity and anti-corruption:** the **Secretariat of Anti-Corruption and Good Governance (SABG)**; the **Federal Audit Office (ASF)** (*asf.gob.mx*); the **anti-corruption prosecutor** within the Attorney General's Office (**FGR**); the **National Anti-Corruption System (SNA)**.
-
-**Rights and safety:** the **National Human Rights Commission (CNDH)** (*cndh.org.mx*); the federal **Mechanism for the Protection of Human Rights Defenders and Journalists**; report threats and criminalisation, document them, and seek protection.
-
-**Environmental and accountability media:** *La Jornada*; *Proceso*; *El Universal*; *Reforma*; *Aristegui Noticias*; *Animal Político*; *Pie de Página*; and **Mongabay Latam**; plus local and community media.
-
-*Nothing here is legal advice. The amparo, the rules on suspensions, and the transparency and licensing framework changed significantly in 2024-2025, and deadlines and procedures vary — get current advice from an environmental lawyer or a legal clinic before relying on this.*
-
----
-
-# GLOSSARY
-
-Terms are listed alphabetically. Words shown in **bold** in the guide are the ones defined here.
-
-- **Amparo (juicio de amparo):** Mexico's signature constitutional-protection suit, by which a person or community asks a federal court to protect a right against an authority's act — and can obtain a **suspensión**.
-- **ASF (Auditoría Superior de la Federación):** the Federal Audit Office, which audits public spending.
-- **Asamblea / ejido / comunidad agraria:** the community assembly, and collectively-held land and its assembly, whose decisions carry legal weight over that land.
-- **Cambio de uso de suelo:** land-use-change authorization, required to develop forest land.
-- **Cenote:** a natural sinkhole exposing groundwater — the water source central to the Homún case.
-- **CEMDA (Centro Mexicano de Derecho Ambiental):** the Mexican Center for Environmental Law, a public-interest environmental law organisation.
-- **CNDH:** the National Human Rights Commission.
-- **CONAGUA:** the national water commission, which grants water concessions.
-- **Consulta previa (prior consultation):** the free, prior, and informed consultation of an Indigenous people required before a project affecting them, under the Constitution and ILO Convention 169.
-- **Denuncia popular:** a citizen complaint to PROFEPA that can trigger inspection and enforcement.
-- **Environmental-impact authorization:** the permit a project needs, granted by SEMARNAT or the state authority on the basis of the MIA.
-- **Interés legítimo (legitimate interest):** the broad standing doctrine under which a person who benefits from an ecosystem's environmental services can bring an amparo without first proving the environmental damage.
-- **LGEEPA:** the General Law of Ecological Balance and Environmental Protection — the framework environmental statute.
-- **LGRA:** the General Law of Administrative Responsibilities, which defines administrative offences, conflicts of interest, and the asset/interest/tax declaration (the "3de3").
-- **Medio ambiente sano (healthy environment):** the right, under Article 4 of the Constitution, of every person to a healthy environment.
-- **MIA (Manifestación de Impacto Ambiental):** the environmental-impact statement a significant project must prepare, prepared by the developer's consultant.
-- **Non-regression (no regresión):** the principle that an environmental protection, once granted, should not be rolled back.
-- **Obra prioritaria (priority project):** a project the federal government designates as a priority, with strong political backing.
-- **Precautionary principle:** the principle that a risk of serious or irreversible environmental harm justifies protective action even without full scientific certainty.
-- **PROFEPA:** the Federal Environmental Protection Agency, which inspects and enforces environmental law.
-- **SABG (Secretaría Anticorrupción y Buen Gobierno):** the federal anti-corruption and good-governance secretariat, which took over internal control and (in 2025) the transparency guarantor role.
-- **SEMARNAT:** the federal Ministry of the Environment and Natural Resources.
-- **SNA (Sistema Nacional Anticorrupción):** the National Anti-Corruption System coordinating the integrity bodies.
-- **Suspensión (suspension):** the precautionary injunction a court can grant in an amparo to halt a project while the case is decided — the tool that stopped the Homún farm.
-- **A system tilted toward approval:** the situation where the bodies deciding on a project lean toward approving it — because of the push for investment, because the developer's own consultant writes the impact study, or because authorizations are rarely refused — usually without anyone breaking the law.
-- **TFJA (Tribunal Federal de Justicia Administrativa):** the Federal Court of Administrative Justice, which hears administrative challenges and sanctions serious administrative offences.

@@ -1,12 +1,13 @@
+
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN INDONESIA
 
 **Complete Community Opposition How-To**
 
 A practical guide for communities facing destructive development projects in Indonesia, grounded in the environmental-permit and constitutional system and documented campaigns
 
-*This guide uses the Indonesian legal terms you will actually encounter (AMDAL, persetujuan lingkungan, gugatan warga negara, hutan adat, and so on), each defined on first use and in the Glossary. It describes the national framework; provinces and regencies have their own rules and authorities, so check locally.*
+*This guide uses the Indonesian legal terms you will actually encounter (AMDAL, persetujuan lingkungan, gugatan warga negara, hutan adat, and so on), each explained in plain language where it first comes up. It describes the national framework; provinces and regencies have their own rules and authorities, so check locally.*
 
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, and each is defined in the **Glossary at the end** of this guide.
+> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
 
 ---
 
@@ -15,17 +16,19 @@ A practical guide for communities facing destructive development projects in Ind
 1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
 2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
 3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who decides, when the decision is final
+4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
 5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organise (Foundation → Public Launch → Coalition → Escalation)
-7. **STEP 4: LEGAL CHALLENGES** — Using the citizen lawsuit, strict liability, and consent
-8. **STEP 5: MEDIA STRATEGY** — How to generate coverage (journalist relationships, newsworthiness, measurement)
-9. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-10. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers (honest mechanics and assessment)
-11. **WHEN IT'S ACTUAL CORRUPTION** — Spotting, documenting, and exposing genuine misconduct
-12. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-13. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
-14. **GLOSSARY** — Key terms, defined and listed alphabetically
+6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
+7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
+8. **STEP 4: LEGAL CHALLENGES** — Consultation, the administrative court (PTUN), and citizen/organisation standing
+9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
+10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
+11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
+12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
+13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
+14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
+15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
+16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
 
 ---
 
@@ -384,6 +387,26 @@ Identify affected populations; estimate health and livelihood impacts and costs.
 
 ---
 
+# WHAT TO GATHER, AND WHERE TO FIND IT
+
+Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+
+**Start at the deciding body's register and the regional government (pemerintah daerah)'s own website.** In Indonesia the official documents for a project — the AMDAL (environmental impact analysis) documents, the public-consultation notices, the environmental approval (persetujuan lingkungan) and its conditions — are posted by the body running the review: the Ministry of Environment and Forestry (KLHK) or the regional environment agency for the AMDAL and approval, and the regional government for spatial planning and permits. The official documents for most local projects live on the regional government (pemerintah daerah)'s own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+
+**The project file and the AMDAL.** Get the developer's AMDAL as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+
+**Baseline environmental data.** Ministry and agency environmental data; protected-forest and species records; and the developer's own AMDAL baseline studies.
+
+**Ownership and money.** Company ownership from the AHU/company registry; land from the BPN land agency; and officials' wealth reports (LHKPN).
+
+**Case law and precedent.** Supreme Court and administrative-court (PTUN) decisions are published; citizen and organisation standing has grown in environmental cases.
+
+**How to force a document open.** A request under the **public-information openness law (KIP, UU 14/2008)** compels disclosure of records a public body holds. Use the request wording in Section 8E.
+
+**Free and low-cost help.** **WALHI** (Friends of the Earth Indonesia), ICEL, and LBH legal-aid offices litigate and advise; organisation standing (legal standing) lets NGOs sue.
+
+**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+
 # STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
 
 **Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
@@ -613,6 +636,22 @@ A court that sees a genuine legal defect, plus visible organised opposition, plu
 - **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The AMDAL failed to assess the karst water system the villages depend on" is a ground a court can act on.
 
 ---
+
+# TURNING YOUR EVIDENCE INTO ARGUMENTS
+
+Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Indonesia — so you file the right fact against the right rule.
+
+**A defective AMDAL or consultation → PTUN challenge.** Where the AMDAL or public consultation was skipped or deficient. Feed it with: the process gaps and your expert critique.
+
+**Organisation or citizen standing → an environmental lawsuit.** NGOs can sue on the environment's behalf, and citizens can bring citizen suits. Feed it with: the environmental-law breach and your evidence.
+
+**An approval issued unlawfully → PTUN annulment.** Feed it with: the specific legal breach in the persetujuan lingkungan.
+
+**Customary (adat) rights and community consent skipped → strong ground.** Feed it with: the affected adat community's position and the absence of consent.
+
+**Approval conditions breached → enforcement/sanction.** Feed it with: the conditions and dated evidence of breach.
+
+The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." WALHI and ICEL litigate these cases; organisation standing lets an NGO sue on the environment's behalf.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
@@ -854,6 +893,20 @@ See Step 4 for the full decision tree — Tracks 1-3, the administrative court, 
 
 ---
 
+# IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
+
+Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+
+1. **Take part in the AMDAL consultation and submit written objections before the deadline. Name one or two concrete grounds (forest, water, an adat community). It enters the record.**
+2. **Get the AMDAL and quote its worst admission back to the environment ministry/agency.** The developer's own words carry the most weight.
+3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
+4. **File one KIP request** (Section 8E) — even if someone else uses it later.
+5. **Point one NGO or legal-aid office at the fight.** WALHI, ICEL, or an LBH legal-aid office may take it from there — you hand off, you don't have to lead.
+6. **Bring in an NGO with legal standing (e.g. WALHI)** — organisation standing lets them sue on the environment's behalf, a strong lever.
+7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+
+Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+
 # SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
 
 **What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because the government is pushing investment and jobs, because the developer's own consultant writes the impact study, or because permits are rarely refused. It rarely means anyone broke the law. In Indonesia this tilt was deepened by law: the **Omnibus Law** (2020) reduced environmental requirements and narrowed the community's right to be heard. Here is how the tilt works — and how communities win anyway.
@@ -888,66 +941,21 @@ Where the system is tilted, opposition using permit and legal methods has lower 
 
 ---
 
-# SECTION 10: WHEN IT'S ACTUAL CORRUPTION (AND HOW TO EXPOSE IT)
+# WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Section 9 covered a system **tilted toward approval** — pressures that are usually lawful. This section covers something narrower and more serious: **actual corruption** — the unlawful or unethical use of a public position for private benefit, or improper influence over a decision. It is rarer than ordinary bias, but where it exists it is both a wrong worth exposing and, strategically, a project's single greatest vulnerability. Indonesia has strong bodies to receive these matters — but handle them carefully, because getting the facts wrong exposes you to a defamation case.
+Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
 
-## What counts as corruption (a spectrum from illegal to merely unethical)
+**Regional-government officials and councillors.** The most common pressure point: a region dependent on the project (e.g. mining/plantation revenue), or an official with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the anti-corruption law and the LHKPN wealth-report regime — undisclosed interests and misconduct can void acts and trigger KPK action.
 
-- **Bribery and abuse of office** (offences under the anti-corruption law, UU 31/1999 as amended) — money, jobs, or favours in exchange for a permit or a favourable decision, or a public officer abusing office for gain.
-- **Bought permits.** Indonesia's anti-corruption commission has repeatedly convicted regional heads (governors, regents) and officials for **selling mining, plantation, and forestry permits** — the direct corruption of the very decisions this guide is about.
-- **Undisclosed conflicts of interest** — a decision-maker with a hidden stake (land near the site, an interest in the developer, a family tie) who does not step aside.
-- **The revolving door** — officials and the developer's staff or consultants moving between each other.
-- **Improper gifts, hospitality, or campaign funding** flowing from a developer to the people deciding its project.
-- **Falsified or manipulated studies** — an **AMDAL** with fabricated data, or a "consent" obtained by fraud or by dealing with unrepresentative leaders.
-- **Insider land dealing** — acquiring affected land using non-public knowledge of a coming permit or spatial-plan change.
+**The environment ministry and regional agencies.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: a PTUN challenge or an organisation lawsuit.
 
-## Red flags to watch for
+**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the company registry, the BPN land agency, and LHKPN wealth reports surface the timeline a journalist needs.
 
-- A permit granted despite officials' or the community's clear objection, with thin or shifting reasons.
-- Sudden reversals, rushed timelines, or a permit issued quietly (or re-issued right after a court cancels it).
-- An official who did not step aside despite a personal interest.
-- Off-record meetings between the developer and decision-makers.
-- Gifts, hospitality, trips, or campaign donations flowing from the developer to decision-makers or their families.
-- A decision-maker — or a relative — owning affected land or an interest in the developer.
-- The same small circle of firms, consultants, and officials recurring across permits.
-- Records "missing," or requests refused under the information law.
+**The courts.** Indonesia's administrative courts and its recognition of organisation standing are real levers, and courts have annulled permits. The constraints are enforcement, appeals, and pressure on litigants; seek interim suspension where work could start, and prioritise safety.
 
-## How to document and investigate it (follow the money — carefully)
+**National and regional politicians and priority projects.** Where a project is a stated national or regional priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
 
-- **Information-law requests** for correspondence, minutes, contracts, and the permit file.
-- **The Audit Board's (BPK) reports** on the agency or project.
-- **Company and land records** — who owns the affected land and who profits; the company registry.
-- **Wealth and campaign-finance records** — check for unexplained wealth or donations from the developer.
-- **Minutes and technical opinions** — compare the decision to the officials' recommendation.
-- **Build a timeline:** interest or donation → meeting, gift, or contract → decision. Corruption is almost always shown by **pattern and timing**, not a confession.
-- **Whistleblowers** often break these stories — but protect their identities and be aware that exposing powerful interests carries real danger.
-
-## The legal lever: a tainted or arbitrary decision can be undone
-
-Two features make this powerful. First, a permit granted through a process tainted by corruption or maladministration can be **annulled by the administrative court** as unlawful — you do not have to secure a criminal conviction first. Second, the offences under the anti-corruption law can be pursued by the **Corruption Eradication Commission (KPK)** and prosecutors before the **anti-corruption court (Pengadilan Tipikor)**. So documenting a tainted process can be both a **ground to undo the permit** and a matter for the anti-corruption bodies. (Be aware that the KPK's powers were reduced by a 2019 law revision — a reason to pursue the courts and the media in parallel, not to rely on any one body.)
-
-## Where to report it
-
-- The **Corruption Eradication Commission (KPK)** — for serious corruption by officials.
-- The **Ombudsman RI** — for maladministration in public services and permitting.
-- The **Audit Board (BPK)** — for audit findings on public spending and revenue.
-- The prosecutors and the police, and the **anti-corruption court (Tipikor)** — for the criminal offences.
-- **Investigative outlets** (such as *Tempo* and Mongabay) — in parallel with the official channels.
-
-## Strategy: exposing a tainted process can beat a project
-
-A credible, documented corruption story does several things at once: it triggers an investigation; it can get the permit annulled; it flips media coverage from "local dispute" to "scandal"; it splits the political support behind the project; and it damages the developer's reputation and financing. **Exposing a tainted process is often more powerful than arguing inside it.**
-
-## Do this responsibly — and safely
-
-- **Stick to documented facts.** Publish the records and the timeline and let readers draw conclusions; frame anything unproven as a question, not an accusation.
-- **Mind defamation and the ITE Law.** Publicly accusing a named person of a crime you cannot prove is legally dangerous in Indonesia, where the **ITE Law** has been used against activists for online statements. Work with a lawyer and an experienced journalist before publishing allegations.
-- **Report through the KPK / Ombudsman / BPK and the courts in parallel** with any media, so there is a formal record and an investigation can follow.
-- **Protect whistleblowers and yourself.** The danger is real; keep identities confidential and stay connected to legal and human-rights networks.
-- **Don't cry "corruption" without evidence.** Calling ordinary, lawful bias (Section 9) "corruption" destroys your credibility and can expose you to a case. Keep the two separate — which is exactly why they are separate sections here.
-
----
+**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Corruption Eradication Commission (KPK), the audit board (BPK) for public money, and the police/prosecutors for crimes — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
 
 # INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
 
@@ -1005,55 +1013,3 @@ And Indonesia offers genuine equalisers: the recognised rights of **customary co
 Know your situation. Assess how tilted the system is, honestly. Watch for genuine corruption and refer it to the anti-corruption bodies. Keep organisers and whistleblowers safe — the danger here is real. Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers.
 
 ---
-
-## RESOURCES (verified)
-
-**Legal help:**
-- **WALHI (the Indonesian Forum for the Environment)** — *walhi.or.id* — the national environmental network that litigated Kendeng.
-- The **Indonesian Center for Environmental Law (ICEL)** — *icel.or.id* — public-interest environmental law.
-- **Legal-aid institutes (LBH)** and the LBH network (YLBHI); and, on customary land, **AMAN (the Alliance of Indigenous Peoples of the Archipelago)** — *aman.or.id*.
-- Mining- and forest-watch networks such as **JATAM**.
-
-**The decision and the challenge:**
-- The **environmental approval** and **AMDAL** via the **KLHK** or the provincial/regency **DLH**.
-- The **administrative court (PTUN)** and the general courts up to the **Supreme Court**; the **Constitutional Court** for laws.
-
-**Transparency:** the **Public Information Openness Law (UU 14/2008)** — request records from the public body's information officer (PPID); escalate to the **Information Commission (Komisi Informasi)** if refused.
-
-**Integrity and anti-corruption:** the **Corruption Eradication Commission (KPK)** (*kpk.go.id*); the **Ombudsman RI** (*ombudsman.go.id*); the **Audit Board (BPK)**; the **anti-corruption court (Tipikor)**.
-
-**Rights and safety:** the **National Human Rights Commission (Komnas HAM)** (*komnasham.go.id*) and human-rights organisations such as **Kontras**; report threats and criminalisation, document them, and seek protection and the anti-SLAPP protection.
-
-**Environmental and accountability media:** **Mongabay-Indonesia**; *Tempo*; *Kompas*; *The Jakarta Post*; *Tirto*; *Project Multatuli*; and local and community media.
-
-*Nothing here is legal advice. The environmental, forestry, and licensing rules changed significantly under the Omnibus Law and its replacement, and deadlines and procedures vary — get current advice from an environmental lawyer or a legal-aid institute before relying on this.*
-
----
-
-# GLOSSARY
-
-Terms are listed alphabetically. Words shown in **bold** in the guide are the ones defined here.
-
-- **AMDAL (Analisis Mengenai Dampak Lingkungan Hidup):** the environmental impact assessment a significant project must prepare, prepared by the developer's consultant.
-- **Anti-SLAPP protection (Article 66):** the rule in the environmental law that a person fighting for the right to a good and healthy environment cannot be criminally charged or civilly sued for it — unevenly applied in practice.
-- **BPK (Badan Pemeriksa Keuangan):** the state Audit Board.
-- **Citizen lawsuit (gugatan warga negara):** a suit ordinary citizens can bring to compel the government to perform its legal duties to protect the environment.
-- **Class action / organisational standing:** the ability of a group to sue for damages, and of environmental organisations to sue in their own name to protect the environment.
-- **Customary community (masyarakat adat) / customary forest (hutan adat):** an Indigenous/customary community, and its forest — which the Constitutional Court (MK 35/2012) recognised as belonging to the community, not the state.
-- **DLH (Dinas Lingkungan Hidup):** the provincial or regency environment agency.
-- **Environmental approval (persetujuan lingkungan):** the environmental permit a project needs, based on the AMDAL — the successor to the earlier *izin lingkungan*.
-- **Information law (UU 14/2008):** the Public Information Openness Law; requests go to a public body's information officer, with disputes heard by the Information Commission.
-- **ITE Law:** the Electronic Information and Transactions Law, whose defamation provisions have been used to criminalise activists' statements.
-- **izin lingkungan:** the earlier environmental permit (under UU 32/2009), challengeable in the administrative court — the Kendeng route, since reorganised by the Omnibus Law.
-- **Karst:** a limestone landscape whose caves, springs, and underground rivers store and supply water — central to the Kendeng case.
-- **KLHK:** the Ministry of Environment and Forestry.
-- **KPK (Komisi Pemberantasan Korupsi):** the Corruption Eradication Commission (its powers were reduced by a 2019 law revision).
-- **National Strategic Project (PSN):** a project the national government designates as a priority, with strong political backing.
-- **Omnibus Law (Cipta Kerja / Job Creation Law):** the 2020 law (later Law 6/2023) that amended dozens of statutes, reduced environmental requirements, and narrowed public participation — ruled conditionally unconstitutional and then revised.
-- **PTUN (Pengadilan Tata Usaha Negara):** the State Administrative Court, which can cancel an unlawful administrative decision such as an environmental approval.
-- **Royalties:** payments to government from mining and resources, creating a financial incentive to approve.
-- **Strict liability (tanggung jawab mutlak, Article 88):** liability for environmental loss without the plaintiff having to prove fault, for hazardous activities or serious environmental threats.
-- **A system tilted toward approval:** the situation where the bodies deciding on a project lean toward approving it — because of the push for investment, because the developer's own consultant writes the impact study, or because permits are rarely refused — usually without anyone breaking the law.
-- **UKL-UPL:** the lighter environmental management and monitoring effort required for projects below the AMDAL threshold.
-- **UU 32/2009:** the Environmental Protection and Management Law — the framework statute.
-- **WALHI:** the Indonesian Forum for the Environment, the national environmental network.

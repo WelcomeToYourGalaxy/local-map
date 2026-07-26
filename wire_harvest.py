@@ -218,7 +218,7 @@ FRONTS = [
 # How far back the wire reaches. Google News queries are bounded with when:<N>d and
 # every item -- from search or from a site's RSS -- is dropped if it is older, so the
 # window stated in the panel is the window actually published.
-WIRE_MAX_AGE_DAYS = int(os.environ.get("WIRE_MAX_AGE_DAYS", "30"))
+WIRE_MAX_AGE_DAYS = int(os.environ.get("WIRE_MAX_AGE_DAYS", "60"))
 
 
 def _too_old(item):
@@ -412,7 +412,7 @@ def collect():
         except Exception as e:
             print("  feed %s failed: %s" % (name, e)); continue
         per_feed = 0
-        for e in fp.entries[:25]:
+        for e in fp.entries[:60]:
             if per_feed >= 6:
                 break
             title = clean(e.get("title"))
@@ -997,7 +997,7 @@ def _gnews_url(q, days, hl="en-US", gl="US"):
             % (quote(qq), hl, gl, gl, hl.split("-")[0]))
 
 
-def collect_by_region(per_region=6, budget_min=None, only=None):
+def collect_by_region(per_region=60, budget_min=None, only=None):
     """One sweep per region. GDELT first (multilingual, tolerant of this access
     pattern), Google News as fallback, widening the window until something lands.
     Failures are counted and reported rather than silently rendered as a zero."""
@@ -1031,7 +1031,7 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
         for terms, days, need_match in _REGION_TIERS:
             if kept >= per_region:
                 break
-            for art in _gdelt(nm, terms, days, maxrec=25):
+            for art in _gdelt(nm, terms, days, maxrec=150):
                 if kept >= per_region:
                     break
                 title = clean(art.get("title"))
@@ -1094,7 +1094,7 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
                         _NET["gnews_empty"] += 1          # throttled or genuinely nothing
                     else:
                         _NET["gnews_ok"] += 1
-                    for e in ents[:25]:
+                    for e in ents[:80]:
                         if kept >= per_region:
                             break
                         title = clean(e.get("title"))
@@ -1138,7 +1138,7 @@ def collect_by_region(per_region=6, budget_min=None, only=None):
 def main():
     # topical pool (kept: it surfaces cross-border and movement stories), then a
     # sweep that gives every region its own query rather than a share of the pool
-    items = collect()[:60]
+    items = collect()[:600]
     if os.environ.get("WIRE_SKIP_REGIONS") != "1":
         seen = set(re.sub(r"[^a-z0-9]", "", (i.get("title") or "").lower())[:60] for i in items)
         for it in collect_by_region():
@@ -1166,7 +1166,7 @@ def main():
     if len(items) != before:
         print("wire: dropped %d items older than %d days" % (before - len(items), WIRE_MAX_AGE_DAYS))
     items.sort(key=lambda i: -(i.get("date") or 0))
-    cap = int(os.environ.get("WIRE_MAX_ITEMS", "4000"))
+    cap = int(os.environ.get("WIRE_MAX_ITEMS", "9000"))
     if len(items) > cap:
         items = items[:cap]
     wide = sum(1 for i in items if (i.get("widened") or WIRE_MAX_AGE_DAYS) > WIRE_MAX_AGE_DAYS)

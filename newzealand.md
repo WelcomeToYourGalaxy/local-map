@@ -1,12 +1,13 @@
+
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN AOTEAROA NEW ZEALAND
 
 **Complete Community Opposition How-To**
 
 A practical guide for communities facing destructive development projects in Aotearoa New Zealand, grounded in the resource-consent and Treaty system and documented campaigns
 
-*This guide uses the terms you will actually encounter (resource consent, Assessment of Environmental Effects, the Environment Court, the Treaty of Waitangi, kaitiakitanga, and so on), each defined on first use and in the Glossary. It describes the national framework; regional and district councils have their own plans and rules, so check locally. New Zealand's resource-management law is undergoing major reform — see the note below and check the current law.*
+*This guide uses the terms you will actually encounter (resource consent, Assessment of Environmental Effects, the Environment Court, the Treaty of Waitangi, kaitiakitanga, and so on), each explained in plain language where it first comes up. It describes the national framework; regional and district councils have their own plans and rules, so check locally. New Zealand's resource-management law is undergoing major reform — see the note below and check the current law.*
 
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, and each is defined in the **Glossary at the end** of this guide.
+> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
 >
 > **A note on the law changing.** The **Resource Management Act 1991 (RMA)** has been the framework for most of the decisions this guide describes, and the case law is built on it. It is being **replaced**: the government released new Natural Environment and Planning Bills in December 2025, aiming to take effect around mid-2026, and has already passed a **Fast-track Approvals Act 2024**. These changes generally **reduce** public notification and participation. This guide describes the enduring levers and the RMA model, but **check the current law and get advice** — the details are moving.
 
@@ -17,17 +18,19 @@ A practical guide for communities facing destructive development projects in Aot
 1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
 2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
 3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who decides, when the decision is final
+4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
 5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organise (Foundation → Public Launch → Coalition → Escalation)
-7. **STEP 4: LEGAL CHALLENGES** — Using submissions, the Environment Court, and the Treaty
-8. **STEP 5: MEDIA STRATEGY** — How to generate coverage (journalist relationships, newsworthiness, measurement)
-9. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-10. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers (honest mechanics and assessment)
-11. **WHEN IT'S ACTUAL CORRUPTION** — Spotting, documenting, and exposing genuine misconduct
-12. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-13. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
-14. **GLOSSARY** — Key terms, defined and listed alphabetically
+6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
+7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
+8. **STEP 4: LEGAL CHALLENGES** — Submissions, the Environment Court, and judicial review
+9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
+10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
+11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
+12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
+13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
+14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
+15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
+16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
 
 ---
 
@@ -390,6 +393,26 @@ Identify affected populations; estimate health, cultural, and livelihood impacts
 
 ---
 
+# WHAT TO GATHER, AND WHERE TO FIND IT
+
+Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+
+**Start at the deciding body's register and the council's own website.** In New Zealand the official documents for a project — the resource-consent application, the assessment of environmental effects (AEE), the notification and submission notices, the officer's report — are posted by the body running the review: the regional and district councils for most resource consents, the Environmental Protection Authority for nationally significant proposals, and the relevant Minister for some decisions. The official documents for most local projects live on the council's own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+
+**The project file and the assessment of environmental effects (AEE).** Get the developer's assessment of environmental effects (AEE) as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+
+**Baseline environmental data.** Regional-council monitoring of water and air; Department of Conservation and council records for protected species and habitats; and the applicant's own AEE baseline studies.
+
+**Ownership and money.** Company ownership and directors from the Companies Register; land title from Land Information New Zealand (LINZ); and councillors' interest registers and donation records.
+
+**Case law and precedent.** **NZLII** (*nzlii.org*) gives free access to New Zealand judgments, including the Environment Court.
+
+**How to force a document open.** An **Official Information Act 1982** request (central government) or **Local Government Official Information and Meetings Act 1987 (LGOIMA)** request (councils) compels disclosure of records a body holds. Use the request wording in Section 8E.
+
+**Free and low-cost help.** The **Environmental Defence Society (EDS)** and **Forest & Bird** litigate and advise on environmental matters; community law centres assist on process.
+
+**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+
 # STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
 
 **Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
@@ -617,6 +640,22 @@ A court that sees a genuine legal defect, plus visible organised opposition, plu
 - **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The information on marine effects is uncertain, so the decision-maker had to favour caution" is a ground a court can act on.
 
 ---
+
+# TURNING YOUR EVIDENCE INTO ARGUMENTS
+
+Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in New Zealand — so you file the right fact against the right rule.
+
+**A consent granted contrary to the planning framework → Environment Court appeal.** Where a decision misapplies the district or regional plan or the relevant national direction. Feed it with: the plan provisions and the decision's departure from them.
+
+**A flawed AEE → appeal or judicial review.** Ignored significant effects, no real alternatives, or inadequate assessment. Feed it with: the AEE gaps and your expert critique.
+
+**A submitter's points ignored → procedural challenge.** Feed it with: your dated submission and the decision's silence on it.
+
+**Te Tiriti o Waitangi / Māori interests not properly considered → strong ground.** Where iwi and hapū interests and the Treaty were not given the weight the law requires. Feed it with: the consultation record and the affected iwi/hapū position.
+
+**Conditions breached → enforcement.** Feed it with: the conditions and dated evidence of breach.
+
+The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." The Environmental Defence Society can tell you fast which ground is live.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
@@ -856,6 +895,20 @@ See Step 4 for the full decision tree — Tracks 1-3, submissions, the Environme
 
 ---
 
+# IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
+
+Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+
+1. **Lodge a submission on the notified consent, before the deadline. One page naming one or two concrete effects (water, ecology, the plan). It goes on the record and gives you the right to be heard and to appeal.**
+2. **Get the assessment of environmental effects (AEE) and quote its worst admission back to the consent authority.** The developer's own words carry the most weight.
+3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
+4. **File one OIA / LGOIMA request** (Section 8E) — even if someone else uses it later.
+5. **Point one environmental organisation at the fight.** EDS or Forest & Bird may take it from there — you hand off, you don't have to lead.
+6. **Make sure the affected iwi or hapū know the timeline** — Treaty and Māori interests are a strong lever, and they are theirs to assert.
+7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+
+Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+
 # SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
 
 **What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because councils want development and rates, because central government is pushing growth, or because the applicant's own consultants prepare the assessment. It rarely means anyone broke the law. In New Zealand this tilt has recently been **sharpened by reform** — a **fast-track** regime and a rewrite of the resource-management law that reduces public notification. Here is how the tilt works — and how communities win anyway.
@@ -888,65 +941,21 @@ Where the system is tilted, opposition using submission and legal methods has lo
 
 ---
 
-# SECTION 10: WHEN IT'S ACTUAL CORRUPTION (AND HOW TO EXPOSE IT)
+# WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Section 9 covered a system **tilted toward approval** — pressures that are lawful. This section covers something narrower and more serious: **actual corruption** — the unlawful or unethical use of a public position for private benefit, or improper influence over a decision.
+Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
 
-**Context matters here.** New Zealand consistently ranks among the **least corrupt countries in the world**, and grand corruption of the kind seen elsewhere is genuinely rare. That is good news — but it can breed complacency, and it does not mean misconduct never happens. What is more realistic here, especially at the local-government level, is **undisclosed conflicts of interest**, the **revolving door**, and improper influence — and the country's strong integrity bodies and its effective **official-information** law make these unusually exposable when they do occur.
+**Councillors and council planners.** The most common pressure point: a council keen on the rates and growth, or a councillor with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the members' code of conduct and interest rules — a member who should have declared and stood aside but voted can taint the decision.
 
-## What counts as corruption (a spectrum from illegal to merely unethical)
+**The councils and the Environmental Protection Authority.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: an Environment Court appeal or judicial review.
 
-- **Bribery and corruption offences** (under the Crimes Act) — money or favours in exchange for a decision, or an official using their position for private gain; **fraud** (the domain of the **Serious Fraud Office**).
-- **Undisclosed conflicts of interest** — a councillor or decision-maker with an interest (land near the site, a stake in the applicant, a family tie) who does not declare it and step aside; this is the most realistic risk in the consent context.
-- **The revolving door** — officials and the applicant's staff or consultants moving between each other.
-- **Improper gifts, hospitality, or donations** flowing from a developer to decision-makers (councillors' gift and donation registers are checkable).
-- **Manipulated assessments** — an **AEE** or peer review skewed or misrepresented.
-- **Insider dealing** — acquiring affected land using non-public knowledge of a coming consent or plan change.
+**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the Companies Register, LINZ, and donation records surface the timeline a journalist needs.
 
-## Red flags to watch for
+**The courts.** New Zealand has an independent, specialist Environment Court — a real advantage, since it can hear the merits, not just legality. The constraint is cost and time; where work could start, seek interim orders rather than relying on a slow final hearing.
 
-- A consent granted despite strong officer or community objection, with thin or shifting reasons.
-- A councillor or decision-maker who did not declare an interest or step aside.
-- Sudden reversals, rushed timelines, or an application quietly **non-notified**.
-- Gifts, hospitality, or donations flowing from the applicant to decision-makers (check the registers).
-- A decision-maker — or a relative — owning affected land or an interest in the applicant.
-- The same small circle of consultants and officials recurring across consents.
-- OIA/LGOIMA requests met with delay or heavy withholding.
+**Ministers and MPs and priority projects.** Where a project is a stated national priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
 
-## How to document and investigate it (follow the money)
-
-- **OIA/LGOIMA requests** for correspondence, reports, minutes, and the file — an unusually powerful tool here; escalate refusals to the **Ombudsman**.
-- **Councillors' interest, gift, and donation registers**, and **electoral-donation returns**.
-- **Company and land records** (the Companies Register and land records) — who owns the affected land and who profits.
-- **The Auditor-General's reports** on the council or entity.
-- **Minutes and officer reports** — compare the decision to the technical recommendation and the declared interests.
-- **Build a timeline:** interest or donation → meeting, gift, or contract → decision. Misconduct is usually shown by **pattern and timing**, not a confession.
-
-## The legal lever: a biased or tainted decision can be set aside
-
-Two features make this powerful. First, a decision made with an **undeclared conflict of interest** or actual bias can be **judicially reviewed and set aside** as unlawful — you do not need a criminal conviction. Second, fraud and corruption offences can be pursued by the **Serious Fraud Office** and the police. So documenting a conflict or a tainted process can be both a **ground to undo the decision** and a matter for the integrity bodies.
-
-## Where to report it
-
-- The **Auditor-General** (Controller and Auditor-General) — for concerns about a public entity's spending, conduct, or conflicts.
-- The **Ombudsman** — for maladministration and OIA/LGOIMA failures.
-- The **Serious Fraud Office (SFO)** — for serious or complex fraud and corruption.
-- The **police**, and (for a councillor's conduct) the council's code-of-conduct process.
-- **Investigative outlets** (such as RNZ, Newsroom, and Stuff) — in parallel with the official channels.
-
-## Strategy: exposing a tainted process can beat a project
-
-A credible, documented story of a conflict or tainted process does several things at once: it triggers scrutiny or an inquiry; it can get the decision set aside; it flips coverage from "local dispute" to "accountability story"; it splits the political support behind the project; and it damages the developer's standing. **Exposing a tainted process is often more powerful than arguing inside it.**
-
-## Do this responsibly
-
-- **Stick to documented facts.** Publish the records and the timeline and let readers draw conclusions; frame anything unproven as a question, not an accusation.
-- **Mind defamation.** New Zealand has civil **defamation** law, and SLAPP-type suits are used to deter critics; accusing a named person of wrongdoing you cannot prove is legally risky. Work with a lawyer and an experienced journalist before publishing allegations.
-- **Report through the Auditor-General / Ombudsman / SFO and the courts in parallel** with any media, so there is a formal record and an inquiry can follow.
-- **Protect whistleblowers.** The **Protected Disclosures (Protection of Whistleblowers) Act** gives some protection; keep identities confidential.
-- **Don't cry "corruption" without evidence.** In a low-corruption country especially, calling ordinary, lawful bias (Section 9) "corruption" destroys your credibility and can expose you to a defamation claim. Keep the two separate — which is exactly why they are separate sections here.
-
----
+**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Office of the Auditor-General, the Ombudsman, the Serious Fraud Office, and the police for crimes — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
 
 # INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
 
@@ -1004,60 +1013,3 @@ And New Zealand offers genuine equalisers: the **Environment Court**, which reco
 Know your situation. Assess how tilted the system is — and whether it's being fast-tracked — honestly, and get current advice on your rights as the law changes. Watch for genuine conflicts of interest and refer them to the integrity bodies. Work with tangata whenua as partners, on their terms. Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers.
 
 ---
-
-## RESOURCES (verified)
-
-**Legal help:**
-- The **Environmental Defence Society (EDS)** — *eds.org.nz* — public-interest environmental law and litigation.
-- **Forest & Bird** — *forestandbird.org.nz* — advocacy and litigation on nature.
-- **Community law centres**, legal aid, and — for iwi and hapū — Treaty and Māori legal support.
-
-**The decision and the challenge:**
-- The **resource consent** via the regional and district councils; the **marine consent** and nationally significant proposals via the **Environmental Protection Authority (EPA)** — *epa.govt.nz*.
-- The **Environment Court** (merits appeals); **judicial review** in the High Court; appeals on law to the **Court of Appeal** and **Supreme Court**.
-- The **Waitangi Tribunal** — for Crown breaches of the Treaty.
-
-**Transparency:** request official information under the **Official Information Act 1982** (government/EPA) or **LGOIMA 1987** (councils); complain to the **Ombudsman** (*ombudsman.parliament.nz*) if refused.
-
-**Integrity and anti-corruption:** the **Controller and Auditor-General** (*oag.parliament.nz*); the **Ombudsman**; the **Serious Fraud Office (SFO)** (*sfo.govt.nz*); and councils' codes of conduct and interest registers.
-
-**Environmental and accountability media:** **RNZ**; **Stuff**; the **NZ Herald**; **Newsroom**; **The Spinoff**; **Whakaata Māori / Te Ao Māori News**; and local and community media.
-
-*Nothing here is legal advice. New Zealand's resource-management law is being replaced and the fast-track regime is new, so notification, appeal, and cost rules are changing — get current advice from a resource-management lawyer or a group such as EDS before relying on this.*
-
----
-
-# GLOSSARY
-
-Terms are listed alphabetically. Words shown in **bold** in the guide are the ones defined here. (Te reo Māori terms are given with their common meanings in this context.)
-
-- **AEE (Assessment of Environmental Effects):** the assessment of a project's environmental effects that must accompany a resource-consent application, prepared by the applicant.
-- **Board of inquiry:** a body that can decide nationally significant proposals instead of a council.
-- **Coastal marine area:** the foreshore, seabed, and coastal waters, managed under the resource-management system.
-- **EEZ Act (Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012):** the law governing offshore activity and marine consents, with a built-in precautionary approach — the law in the South Taranaki seabed case.
-- **Environment Court:** the specialist court that hears appeals on the merits of resource-consent decisions and can decline, confirm, or change a consent.
-- **EPA (Environmental Protection Authority):** the national body that decides marine consents and administers nationally significant and fast-track processes.
-- **Fast-track Approvals Act 2024:** a law allowing ministers and expert panels to approve listed projects with limited public participation.
-- **Hapū / iwi:** a sub-tribe / tribe — the Māori communities whose relationship with a place engages the Treaty and kaitiakitanga.
-- **Hui:** a meeting or gathering.
-- **Judicial review:** a High Court challenge to the lawfulness of a decision (for example, a wrongful non-notification).
-- **Kaimoana / mahinga kai:** seafood / food-gathering places and practices — relevant "existing interests" the courts recognise.
-- **Kaitiakitanga:** the guardianship and stewardship relationship of tangata whenua with the natural world.
-- **Legal personhood:** the status, granted by settlement legislation, that makes a natural feature (the Whanganui River / Te Awa Tupua, Te Urewera, Taranaki Maunga) a legal person with standing, spoken for by appointed guardians.
-- **LGOIMA:** the Local Government Official Information and Meetings Act 1987 — the councils' official-information law.
-- **Marae:** the communal meeting grounds central to Māori community life.
-- **Marine consent:** the consent required for activity in the EEZ, decided by the EPA under the EEZ Act.
-- **Notification:** the council's decision on whether an application is publicly notified (anyone can submit), limited-notified, or non-notified (no public submissions) — pivotal, and being narrowed by reform.
-- **OIA (Official Information Act 1982):** central government's official-information law.
-- **Precautionary approach:** the requirement, where information about effects is uncertain, to favour caution and environmental protection — an "environmental bottom line."
-- **Resource consent:** the permission a project needs under the RMA, granted (with conditions) or declined by a council on the basis of the AEE.
-- **RMA (Resource Management Act 1991):** the framework resource-management statute — being replaced (see the note at the top of this guide).
-- **Submission:** a person's formal written response to a notified application, which also generally secures the right to be heard and to appeal.
-- **A system tilted toward approval:** the situation where the bodies deciding on a project lean toward approving it — because councils want development, because central government is pushing growth, or because the applicant's own consultants write the assessment — usually without anyone breaking the law.
-- **Tangata whenua:** the people of the land — the iwi and hapū with mana over a place.
-- **Taonga:** a treasure — a valued resource, place, or thing (including rivers, harbours, and species).
-- **Te Awa Tupua:** the Whanganui River as recognised in law — an indivisible living whole with the rights of a legal person, under the Te Awa Tupua Act 2017.
-- **Tikanga:** Māori law, custom, and correct practice.
-- **Treaty of Waitangi (Te Tiriti o Waitangi):** the 1840 founding agreement between the Crown and Māori, whose principles decision-makers must give effect to.
-- **Wāhi tapu:** a sacred or spiritually significant place.
-- **Waitangi Tribunal:** the standing commission of inquiry into Crown breaches of the Treaty.

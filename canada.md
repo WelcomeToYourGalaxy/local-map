@@ -1,24 +1,32 @@
+
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN CANADA
 
 **Complete Community Opposition How-To**
 
-Adapted for Canadian law and institutions from analysis of documented opposition campaigns
+A practical guide for communities facing destructive development projects in Canada, grounded in Canadian law and documented campaigns
 
 ---
+
+> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
 
 ## TABLE OF CONTENTS
 
 1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
-2. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-3. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
-4. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-5. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
-6. **STEP 4: LEGAL CHALLENGES** — How to use Canadian regulators and courts (participation, judicial review, the duty to consult)
-7. **STEP 5: MEDIA STRATEGY** — How to generate coverage (journalist relationships, newsworthiness, measurement)
-8. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-9. **THE CAPTURE PROBLEM** — When opposition faces systemic barriers (honest mechanics and assessment)
-10. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-11. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
+2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
+3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
+4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
+5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
+6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
+7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
+8. **STEP 4: LEGAL CHALLENGES** — Participation, judicial review, and the duty to consult
+9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
+10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
+11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
+12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
+13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
+14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
+15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
+16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
 
 ---
 
@@ -52,17 +60,71 @@ Each step amplifies the others
 Multi-tactic pressure compounds toward victory
 ```
 
-**The Canadian difference:** running through all five steps is the single most powerful legal lever in the country — the constitutional duty to consult and accommodate Indigenous peoples (Step 4). Where a project affects Indigenous rights and that duty is not met, courts have quashed approvals outright. No community campaign in Canada should be planned without understanding it.
+**The strongest legal lever:** running through all five steps is the single most powerful legal lever in the country — the constitutional duty to consult and accommodate Indigenous peoples (Step 4). Where a project affects Indigenous rights and that duty is not met, courts have quashed approvals outright. No community campaign in Canada should be planned without understanding it.
 
-## Critical Caveat: Regulatory Capture Can Make Opposition Harder (But Doesn't Make It Impossible)
+## Critical Caveat: A Tilted System Can Make Opposition Harder (But Doesn't Make It Impossible)
 
 **Before you invest time, money, and emotional energy, understand this:**
+
+**First, a definition.** This guide calls it a **system tilted toward approval** (sometimes called *regulatory capture* or *institutional bias*). It does not mean anything illegal. It means the bodies that decide on a project lean toward approving it — because they depend on the industry's money or jobs, rely on the proponent's own information, or face strong political pressure to say yes.
 
 In some Canadian development decisions, systemic bias exists — provincial budgets dependent on resource royalties, "free entry" mining systems that grant claims with no up-front consultation, assessments funded and written by the proponent, and courts that heavily favour well-resourced parties (and that issue injunctions against blockades).
 
 When these factors are present, opposition becomes harder. It does not become impossible. It becomes more expensive, takes longer, and has a lower probability of stopping a project outright — but it still routinely wins delays, modifications, buffers, monitoring, and funded oversight.
 
 **This is covered in Section 9. Read it before committing resources.**
+
+---
+
+# HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
+
+If you've never dealt with how projects get approved, read this section first. It explains, in plain terms, who holds power over a development in Canada, how a decision gets made, why the money so often points toward "yes," and the handful of words you'll need. Every term is defined here on first use. The rest of the guide assumes you know this map.
+
+## The levels of government — and what each one controls
+
+Canada divides power over land and development among several levels, and — uniquely — the rights of Indigenous peoples run through all of them. Which body decides depends on what is being built and where.
+
+- **The municipality** (city, town, or regional district) — the most local tier, run by an elected **council**. It controls **zoning** (what may be built on a given piece of land), **rezoning**, official community plans, and local **development and building permits**. Most housing, commercial, and local land-use fights are decided here.
+- **The province (or territory)** — the most powerful level for **land, resources, and the environment**. Provinces run their own **environmental assessment (EA)** processes and issue the permits that actually let work happen: **mining permits, water licences, forestry cutting permits, and air, waste, and discharge approvals**. Because Canada's provinces own most Crown (public) land and its resources, the province is usually the key decision-maker for mines, quarries, dams, forestry, and most energy projects. Each province has its own body (for example, British Columbia's Environmental Assessment Office, Ontario's Ministry of the Environment, Quebec's public-hearing body the BAPE, and Alberta's regulator the AER).
+- **The federal (national) government** — steps in for defined matters. The **Impact Assessment Agency of Canada (IAAC)** runs a federal assessment of large "**designated projects**" (major mines, some pipelines, large infrastructure), with the final decision made by the federal Cabinet or a Minister. The **Canada Energy Regulator (CER)** decides on pipelines and power lines that cross provincial or national borders. Federal laws also protect **fish and fish habitat, species at risk, and migratory birds**, which can bring a project under federal review.
+- **Indigenous nations and governments** — are **rights-holders, not stakeholders**. Section 35 of Canada's Constitution protects Aboriginal and treaty rights, and governments have a legal **duty to consult and accommodate** Indigenous peoples when a decision may affect those rights. This runs across municipal, provincial, and federal decisions, and it is often the single most powerful factor in a project's fate (Step 4 explains it fully).
+
+**So which level decides *your* project?**
+- A housing development, a shopping centre, a local land-use change → the **municipality**.
+- A mine, a quarry, a dam, a forestry cut, most energy projects → mainly the **province** (with a federal review if it's a large "designated project").
+- A pipeline or power line crossing a provincial or international border → the **federal CER**.
+- Anything affecting Indigenous rights or territory → engages the **duty to consult**, at whatever level the decision sits.
+
+## How a decision is actually made — the journey of an application
+
+1. **Application** to the relevant body (municipal permit, provincial EA and permits, or a federal impact assessment) with supporting reports — including, for larger projects, an **environmental assessment / impact statement** prepared by the proponent (the company behind the project).
+2. **Public comment periods** — federal and provincial processes have formal windows where anyone can file comments; municipalities hold public hearings on rezonings.
+3. **Indigenous consultation** — where rights may be affected, the Crown must consult (and, where appropriate, accommodate) the affected nation.
+4. **Assessment and decision** — officials assess the project against the law and the comments, and the decision-maker (a council, a Minister, a regulator, or Cabinet) approves, approves with conditions, or refuses.
+5. **Legal challenge** — a decision that is *unlawful* can be taken to court by **judicial review**, usually within a **short deadline** (Step 4).
+
+## The rulebook — the policies that decide the outcome
+
+- **The Impact Assessment Act** (federal) — governs assessment of large "designated projects"; its decisions now turn on adverse effects within federal jurisdiction.
+- **Provincial environmental-assessment laws** — each province's own EA statute and permit regime; these govern most resource projects.
+- **The Fisheries Act, the Species at Risk Act (SARA), and the Migratory Birds Convention Act** — federal laws that protect fish habitat, listed species, and birds, and can pull a project into federal review.
+- **The Canadian Environmental Protection Act (CEPA)** — federal pollution law, amended in 2023 to recognise a right to a healthy environment.
+- **Section 35 of the Constitution Act, 1982** — the source of the duty to consult Indigenous peoples.
+
+## Follow the money — why the system often leans toward "yes"
+
+- **Municipalities** are funded mainly by **property taxes** and **development charges** (fees developers pay toward local infrastructure), so new development can mean more revenue and jobs — a built-in pull toward approval.
+- **Provinces** collect **royalties** (a share of the value of extracted minerals, oil, gas, and timber) and depend on resource industries for jobs and revenue, which creates strong political pressure to approve mines, wells, and cuts.
+- **Proponents** are usually well-resourced companies that pay for the consultants and lawyers who prepare and defend the project.
+
+None of this makes a decision inevitable. It explains why decisions rarely tip your way on their own — it takes organised, evidenced pressure, and, where rights are engaged, the constitutional weight of the duty to consult.
+
+## The overseers — who watches the decision-makers
+
+- **The courts** — the **Federal Court** and **Federal Court of Appeal** review federal decisions; each province's **superior court** reviews provincial ones. Courts can **quash** (cancel) an unlawful decision.
+- **The duty to consult** itself acts as a check: courts have overturned major approvals where the Crown failed to consult adequately.
+- **Provincial ombudspersons and auditors** — investigate maladministration and spending.
+
 
 ---
 
@@ -110,7 +172,7 @@ Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
 
-WITH MODERATE CAPTURE FACTORS:
+WITH MODERATE TILT FACTORS:
 (Some royalty dependence or proponent-funded assessment)
 
 All 5 Steps Combined:  ██████████ 40-45%
@@ -120,7 +182,7 @@ All 5 Steps Combined:  ██████████ 40-45%
 Single Step:           ██ 3-12%
 
 
-WITH SEVERE CAPTURE FACTORS:
+WITH SEVERE TILT FACTORS:
 (Heavy royalty dependence, proponent-only assessment, "free entry" tenure)
 
 All 5 Steps Combined:  ████ 25-30%
@@ -130,7 +192,7 @@ All 5 Steps Combined:  ████ 25-30%
 Single Step:           █ 2-8%
 ```
 
-**The Canadian asterisk:** where an Indigenous nation whose rights are affected leads a duty-to-consult challenge, these ceilings can be exceeded even in "captured" resource regions — because the duty is constitutional and cannot be legislated away.
+**One important exception:** where an Indigenous nation whose rights are affected leads a duty-to-consult challenge, these ceilings can be exceeded even in resource regions where the system is heavily tilted — because the duty is constitutional and cannot be legislated away.
 
 ---
 
@@ -207,7 +269,7 @@ Timeline tells you how much time you have. Federal and provincial assessments ru
 
 ### Question 5: Are There Documented Financial Interests or Systemic Pressures?
 
-This is the capture-assessment question. Know it BEFORE you organize:
+This is the tilted-system assessment question. Know it BEFORE you organize:
 - Does the province depend heavily on royalties/revenue from this sector?
 - Is the assessment funded and written by the proponent only?
 - Does the regulator approve nearly everything (a high approval rate)?
@@ -240,26 +302,15 @@ Documentation transforms vague opposition ("This is bad") into undeniable eviden
 
 **Why it matters:** proponents claim "it's already disturbed" or "baseline isn't important." Baseline documentation proves what was there — and it cannot be reconstructed later.
 
-**Illustrative case: a watershed development**
+**Documented case — the Tsleil-Waututh Nation and the Trans Mountain expansion**
 
-- Proposed: a $200M development on a tributary to a municipal water supply
-- Proponent claim: "The area is already disturbed, low ecological value"
-- Community concern: the development would affect protected species and drinking water
+Rather than rely on the proponent's and the regulator's assessment, the **Tsleil-Waututh Nation** (a coastal nation near Burnaby, BC) produced **its own independent assessment** of the Trans Mountain pipeline expansion in 2015. Working from its own laws and expert evidence, the Nation documented the harms the federal review had sidelined: the sharp rise in oil-tanker traffic through Burrard Inlet, the risk of a diluted-bitumen spill in the marine environment, and the impact on the endangered **Southern resident killer whale**.
 
-**Baseline documentation process:**
-- Time: 6 months (spring through fall to capture seasonal variation)
-- Cost: ~$5,000 (consultant fees, GPS equipment, water-testing supplies)
-- Method: monthly surveys of the project area plus upstream/downstream reference sites
+In *Tsleil-Waututh Nation v Canada (Attorney General)*, 2018 FCA 153, the Federal Court of Appeal **quashed the approval**. It found the National Energy Board had made a "critical error" by unjustifiably excluding project-related **marine shipping** from the project's scope — the very impacts the Nation had documented — so that the effects on the killer whale were never properly assessed; and it found Canada had failed to fulfil its **duty to consult**. The government did not appeal, and the project was sent back for reconsideration and further consultation.
 
-**What they documented:**
-- **Species inventory:** dozens of species the proponent's review omitted, including species listed under the federal **Species at Risk Act (SARA)** and provincial equivalents, with GPS locations of breeding habitat.
-- **Ecosystem structure:** forest composition and age, intact riparian buffer width, wetlands, seasonal flow patterns documented monthly.
-- **Hydrological conditions:** water-quality measurements (pH, dissolved oxygen, temperature, turbidity) and seasonal flow rates.
-- **Seasonal patterns:** spring amphibian breeding and migration, summer productivity and water stress, fall seed production, winter flow.
+**Why it matters for you:** the Nation's own assessment identified, years in advance, the exact gap that later voided the approval. Documentation isn't a formality — it can be the thing a court acts on.
 
-**Outcome:** the baseline showed the review had undercounted species and missed SARA-listed ones. The footprint was reduced to preserve critical habitat, a reclamation/mitigation security was required, and the timeline stretched by well over a year.
-
-**Cost-benefit:** a ~$5,000 baseline investment led to a redesign and a large mitigation security.
+**Building your own baseline (typical process).** Document existing conditions before the project starts, because a proponent will claim a site is "already disturbed" and baseline cannot be reconstructed later. A workable approach: monthly surveys across a season cycle of the project area plus upstream/downstream reference sites; a species inventory with GPS locations of breeding habitat, flagging species listed under the federal **Species at Risk Act (SARA)** or provincial equivalents that the proponent's review omitted; ecosystem structure (forest composition and age, riparian buffer width, wetlands); and hydrology (pH, dissolved oxygen, temperature, turbidity, seasonal flow). Typical cost is around $5,000 for a consultant, GPS, and water-testing supplies — reducible with knowledgeable community volunteers. Dated seasonal photographs and grid-referenced maps make it credible.
 
 ---
 
@@ -344,6 +395,26 @@ Quote the proponent's impact statement against itself. Their sentence "turbidity
 **Cost reduction:** if the budget is $2,500-3,500, use community members for fieldwork, hire the consultant only for analysis/peer review, and lead with the strongest layer (health/economic is usually most persuasive).
 
 ---
+
+# WHAT TO GATHER, AND WHERE TO FIND IT
+
+Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+
+**Start at the proponent's registry file and the responsible authority's website.** In Canada the official project documents — the impact statement, the public-comment notices, the conditions — are posted on the registry of the body running the review: the **Impact Assessment Agency of Canada** for federal reviews, the **Canada Energy Regulator (CER)** for cross-border pipelines and power lines, or the relevant provincial regulator and the municipality for local approvals. Municipal planning files (the rezoning or development-permit application, staff reports, council agendas) sit on the **municipality's own website** — the official documents for most local projects live there, so check the council and planning pages weekly. The legal clock often runs from a decision posted there.
+
+**The project file and the impact statement.** Get the proponent's impact statement or environmental assessment as soon as it is posted — it is public, and it is where the proponent admits harm in its own words.
+
+**Baseline environmental data.** Federal and provincial environmental-monitoring data; species-at-risk records; fisheries and navigable-waters information; and the proponent's own baseline studies in the registry.
+
+**Ownership and money.** Corporate ownership and directors from the federal or provincial corporate registry; land title from the provincial land-title office; lobbyist filings from the federal and provincial lobbyist registries; and political-contribution records.
+
+**Case law, free.** **CanLII** (*canlii.org*) gives free access to Canadian court and tribunal decisions — use it to find how similar projects were challenged.
+
+**How to force a document open.** Federal **Access to Information** and provincial **Freedom of Information (FOI)** requests compel disclosure of records a body holds; environmental-registry rules require much to be posted proactively. Use the request wording in Section 8E.
+
+**Free and low-cost help.** Environmental-law charities take some of these cases at no charge: **Ecojustice** (*ecojustice.ca*, national litigation), **West Coast Environmental Law** (*wcel.org*, advice plus dispute-resolution grants toward your own legal costs), the **Canadian Environmental Law Association** (*cela.ca*, free services for lower-income Ontario communities), and **East Coast Environmental Law** in Atlantic Canada. On health, the **Canadian Association of Physicians for the Environment (CAPE)**.
+
+**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the responsible authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registries above.
 
 # STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANIZE COMMUNITIES THAT HOLD
 
@@ -479,7 +550,7 @@ Monthly rhythm: week 1 a news release tied to an event/data; weeks 2-3 social me
 - Experienced environmental counsel: 35-45% favourable-outcome likelihood
 - General/less-specialized counsel: 25-35%
 - Self-representation: 5-15%
-- **The Canadian advantage:** Canada's leading environmental-law charities represent communities **free of charge**, so strong cases are not gated by money the way they often are elsewhere.
+- **A key advantage:** Canada's leading environmental-law charities represent communities **free of charge**, so a strong case is not gated by the ability to pay.
 
 **Success Rate (Legal Only):** 20-30%
 **Success Rate (Legal + Opposition + Media):** 60-70%
@@ -504,7 +575,7 @@ Provincial EA processes and municipal hearings have their own comment and appeal
 
 ## TRACK 2: THE DUTY TO CONSULT — CANADA'S STRONGEST LEVER
 
-**This has no equivalent in most countries. Understand it before anything else.**
+**This is the most powerful tool in Canadian law for communities affected by development. Understand it before anything else.**
 
 Section 35 of the *Constitution Act, 1982* recognizes and affirms the existing Aboriginal and treaty rights of Indigenous peoples. From it flows the **Crown's duty to consult and accommodate** Indigenous peoples whenever a decision might adversely affect their rights — the doctrine established in *Haida Nation v. British Columbia*. This duty is **constitutional**: legislation cannot abrogate it, and even Canada's recent fast-track laws for "national interest" projects expressly leave it in place.
 
@@ -594,6 +665,22 @@ A judge who sees a serious legal claim **plus** visible political opposition **p
 
 ---
 
+# TURNING YOUR EVIDENCE INTO ARGUMENTS
+
+Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Canada — so you file the right fact against the right rule.
+
+**A breached duty to consult Indigenous peoples → the strongest card.** Where the Crown failed to consult and accommodate adequately, courts have quashed approvals (Trans Mountain, Northern Gateway). Feed it with: the consultation record, showing what was raised and never answered.
+
+**A flawed or incomplete assessment → judicial review.** Ignored effects, no real look at alternatives, or a decision that failed to consider required factors. Feed it with: the impact statement's gaps and your expert critique, cross-referenced to the assessment legislation.
+
+**Ignored public comments → procedural unfairness.** Feed it with: your dated submissions and the decision's silence on them.
+
+**Conditions set but not enforced → compliance challenge.** Feed it with: the approval's conditions and dated evidence of breach, referred to the regulator.
+
+**A decision that ignored its own evidence → unreasonableness.** Canadian courts review administrative decisions for reasonableness; a conclusion that contradicts the record is vulnerable. Feed it with: the specific finding and the record that contradicts it.
+
+The pattern: match one clean, documented defect to one clear ground, and lead with the duty-to-consult and procedural grounds — they can quash an approval without your having to win the argument about whether the project is "good." An environmental-law charity (see the previous section) can tell you fast which ground is live.
+
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
 **Time to complete:** the full 12-month campaign
@@ -607,7 +694,7 @@ Canada has a strong independent-media ecosystem that covers exactly these fights
 
 ## How Journalists Actually Work
 
-What reporters care about, in order: (1) **news** (something new happened), (2) **consequence** (someone is affected), (3) **timeliness** (it's happening now), (4) **conflict** (there's a real dispute), (5) **new information** (we didn't know this before). What they don't care about: your opinion, how angry you are, vague statements, or meetings with no news hook.
+What reporters care about, in order: (1) **news** (something new happened), (2) **consequence** (someone is affected), (3) **timeliness** (it's happening now), (4) **conflict** (there's a real dispute), (5) **new information** (this was not known before). What they don't care about: your opinion, how angry you are, vague statements, or meetings with no news hook.
 
 ## The Newsworthiness Formula
 
@@ -620,7 +707,7 @@ The difference is roughly a 4-5x change in the likelihood of coverage.
 
 ## Know the Outlets That Cover This Beat
 - **The Narwhal** (*thenarwhal.ca*) — an independent, ad-free non-profit newsroom devoted to environmental and natural-world investigative journalism, with bureaus across the country. It exists to hold this kind of decision-making to account.
-- **Canada's National Observer** (*nationalobserver.com*) — independent investigative outlet. Its reporting on secret proponent–regulator meetings during the Energy East review helped trigger the resignation of three regulator panel members and contributed to the proponent cancelling the $15.7-billion pipeline.
+- **Canada's National Observer** (*nationalobserver.com*) — independent investigative outlet. Its 2016 reporting revealed that regulator panel members had met privately with a consultant to the proponent (former Quebec premier Jean Charest); the three panellists recused themselves, and the proponent later cancelled the $15.7-billion pipeline.
 - **CBC**, **The Tyee**, regional dailies, and Indigenous-run outlets such as **APTN** for reach into general and community audiences.
 
 ## Building Reporter Relationships (The Key)
@@ -635,7 +722,7 @@ Reporters don't call opposition for comment; opposition calls reporters with new
 - Month 6: decision-deadline coverage
 
 ## Real Media Dynamics (Canadian grounding)
-- **Investigation topples a project (Energy East):** independent reporting on undisclosed proponent–regulator meetings sparked outrage in Quebec, forced panel resignations, and was described as the single biggest blow to an already unpopular pipeline — which the proponent then cancelled. Documents beat press releases.
+- **Investigation topples a project (Energy East):** independent reporting (Canada's National Observer, 2016) that panel members had met privately with a consultant to the proponent — former Quebec premier Jean Charest — sparked outrage in Quebec and led the three panellists to recuse themselves, a major blow to an already unpopular pipeline, which the proponent then cancelled. Documents beat press releases.
 - **A human story shifts politics:** a multi-generation farm family or a nation's harvesters, photographed on the land the project would cross, connects emotionally and moves legislators who fear the optics.
 - **Scientific credibility beats industry claims:** an independent, peer-reviewed analysis that contradicts a proponent's optimistic study lets media write "scientists dispute the proponent's numbers," and regulators take the opposition seriously.
 
@@ -851,20 +938,36 @@ See Step 4 for the full decision tree — Tracks 1-3, the budget branches, and t
 
 ---
 
-# SECTION 9: THE CAPTURE PROBLEM (HONEST MECHANICS)
+# IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
+
+Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+
+1. **File a comment before the deadline.** One page, in your own words, naming one or two concrete problems (a species at risk; the water impact; consultation that didn't happen). It goes on the public record and preserves your position.
+2. **Get the impact statement and quote its worst admission back to the regulator.** The proponent's own words carry the most weight.
+3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
+4. **File one Access-to-Information / FOI request** (Section 8E) — even if someone else uses it later.
+5. **Point one environmental-law charity at the fight.** Ecojustice, WCEL, or CELA may take it from there — you hand off, you don't have to lead.
+6. **If Indigenous rights are engaged, make sure the affected Nation's office knows the timeline** — the duty to consult is the strongest lever, and it is theirs to assert.
+7. **Tell your neighbours the deadline.** Ten individual comments beat your one.
+
+Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+
+# SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
+
+**What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because they depend on the industry's money or jobs, rely on the proponent's own information, or face strong political pressure to say yes. It rarely means anyone broke the law. Here is how it works — and how communities win anyway.
 
 ## Important Caveat
-This section describes patterns from documented Canadian cases and public records — regulatory capture, resource-revenue dependence, proponent-funded assessment, and the courts' heavy use of injunctions against blockades. It is not a statistical claim about "X% of all decisions." Read it as: "where these patterns appear, here is what happens and what it means for opposition."
+This section describes patterns from documented Canadian cases and public records — a system tilted toward approval, resource-revenue dependence, proponent-funded assessment, and the courts' heavy use of injunctions against blockades. It is not a statistical claim about "X% of all decisions." Read it as: "where these patterns appear, here is what happens and what it means for opposition."
 
-## What Capture DOES (and DOESN'T DO)
-**DOES:** create financial incentive for approval (royalties, jobs, tax base); bias information (proponent-funded assessments read optimistically); advantage well-resourced parties; and — a distinctly Canadian feature — arm proponents with **civil injunctions and contempt-of-court powers** against blockades, so that opposition on the land becomes a legal risk for participants.
-**DOESN'T:** guarantee approval; make opposition impossible; eliminate the duty to consult (which is constitutional and cannot be captured away); or prevent delays, modifications, and political costs.
+## What This Tilt DOES (and DOESN'T DO)
+**DOES:** create financial incentive for approval (royalties, jobs, tax base); bias information (proponent-funded assessments read optimistically); advantage well-resourced parties; and arm proponents with **civil injunctions and contempt-of-court powers** against blockades, so that opposition on the land becomes a legal risk for participants.
+**DOESN'T:** guarantee approval; make opposition impossible; eliminate the duty to consult (which is constitutional and cannot be removed by any tilt in the system); or prevent delays, modifications, and political costs.
 
-**Analogy:** capture is like playing against a team that owns the referee. It makes winning harder, not impossible — so your strategy has to be sharper and more visible, so other observers see the bias.
+**Analogy:** a tilted system is like playing against a team that owns the referee. It makes winning harder, not impossible — so your strategy has to be sharper and more visible, so other observers see the bias.
 
 ## Documented Canadian Dynamics
 
-**Regulator bias exposed (Energy East).** Independent reporting revealed undisclosed meetings between the proponent and members of the federal energy regulator during the review. Three panel members resigned; the review's credibility collapsed in Quebec; the proponent cancelled the $15.7-billion project. **Lesson:** exposing a captured process can be more powerful than arguing inside it.
+**Regulator bias exposed (Energy East).** Investigative reporting (Canada's National Observer, 2016) revealed that members of the federal energy regulator's review panel had met privately with a consultant to the proponent — former Quebec premier Jean Charest. Amid complaints of bias the three panellists recused themselves in 2016, a new panel voided their earlier work, the review's credibility collapsed in Quebec, and the proponent cancelled the $15.7-billion project in 2017. **Lesson:** exposing a tilted process can be more powerful than arguing inside it.
 
 **"Free entry" tenure (Gitxaala).** BC's automated online mineral-claim system granted claims on Crown land with no up-front consultation. First Nations challenged it; the courts found the province owed a duty to consult, and BC replaced the regime. **Lesson:** even a system built for the proponent can be forced open through the duty to consult.
 
@@ -872,11 +975,11 @@ This section describes patterns from documented Canadian cases and public record
 
 ## Assessment Framework — Determine Your Situation
 
-**GREEN FLAG (low capture):** independent assessment available; regulator denies some projects; a clear statutory defect exists; no free-entry tenure; strong duty-to-consult footing. → 65-75% with all 5 steps. Proceed with standard opposition.
+**GREEN FLAG (low tilt):** independent assessment available; regulator denies some projects; a clear statutory defect exists; no free-entry tenure; strong duty-to-consult footing. → 65-75% with all 5 steps. Proceed with standard opposition.
 
-**YELLOW FLAG (moderate capture):** proponent-funded assessment (but independent review possible); high approval rate; revenue dependence present; legal case arguable but not clear-cut. → 40-45% with all 5 steps; often win modifications even if not a refusal. Proceed; prepare for multiple outcomes; prioritize the duty-to-consult track and modifications.
+**YELLOW FLAG (moderate tilt):** proponent-funded assessment (but independent review possible); high approval rate; revenue dependence present; legal case arguable but not clear-cut. → 40-45% with all 5 steps; often win modifications even if not a refusal. Proceed; prepare for multiple outcomes; prioritize the duty-to-consult track and modifications.
 
-**RED FLAG (high capture):** proponent-only assessment; near-total approval rate; heavy revenue dependence; free-entry tenure; challenge relies on interpretation. → 25-30% to stop; 50-60% to modify/delay. Decide whether delay/modification justifies the investment; lead with the duty-to-consult track (often the only lever with real force here); build power for the next fight.
+**RED FLAG (high tilt):** proponent-only assessment; near-total approval rate; heavy revenue dependence; free-entry tenure; challenge relies on interpretation. → 25-30% to stop; 50-60% to modify/delay. Decide whether delay/modification justifies the investment; lead with the duty-to-consult track (often the only lever with real force here); build power for the next fight.
 
 ## Direct Action: Factual Information (Descriptive, Not Prescriptive)
 When legal and political paths are exhausted, some Canadian communities and land defenders have engaged in direct action — old-growth blockades (Fairy Creek, BC, where policing led to over a thousand arrests), and blockades of pipeline and resource projects on contested territory. This is descriptive of what has occurred, not guidance.
@@ -884,9 +987,25 @@ When legal and political paths are exhausted, some Canadian communities and land
 **Documented consequences under Canadian law:** proponents frequently obtain **civil injunctions**; breaching an injunction exposes participants to **contempt of court** (fines and jail), separate from criminal charges such as **mischief** or obstruction. A record can affect employment, travel, and professional licensing. Direct action has produced delays and disproportionate media attention in documented cases, but on its own rarely stops a project permanently; combined with legal and organizing work it is more consequential. Participants should understand the specific legal risks — including injunction/contempt — before acting, and seek legal advice.
 
 ## Honest Assessment
-In captured systems, opposition using legal and political methods has lower odds of an outright stop — but still reliably delays projects (often years), forces modifications and mitigation, imposes political cost, builds durable community power, and creates a record for appeals. And in Canada, the constitutional duty to consult means that even a heavily captured provincial process can be overturned in court when Indigenous rights are affected and consultation falls short. Neither scenario makes opposition futile.
+Where the system is tilted, opposition using legal and political methods has lower odds of an outright stop — but still reliably delays projects (often years), forces modifications and mitigation, imposes political cost, builds durable community power, and creates a record for appeals. And in Canada, the constitutional duty to consult means that even a heavily tilted provincial process can be overturned in court when Indigenous rights are affected and consultation falls short. Neither scenario makes opposition futile.
 
 ---
+
+# WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
+
+Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
+
+**Municipal councillors and staff.** The most common pressure point: a council dependent on a project's tax base, or a councillor with a developer tie. Signs: a sudden rezoning, a rushed vote, a staff report that ignores its own evidence. Lever: municipal conflict-of-interest rules — a member who should have recused but voted can have the decision set aside, a lower bar than proving a bribe.
+
+**Provincial and federal regulators.** Capture here is usually softer — political direction to approve, or reliance on the proponent's own consultants. Signs: an assessment that reads as the proponent's document. Lever: judicial review for unreasonableness or a flawed process.
+
+**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. Lobbyist registries and contribution records surface the timeline a journalist needs.
+
+**The courts.** Canada's courts are independent, which is why judicial review and the duty to consult are genuine levers. The real constraint is time and cost, not capture: reviews can run long, so seek a **stay/injunction** if the proponent could build before judgment rather than relying on a final ruling alone.
+
+**Elected politicians and "national interest" projects.** Where a project is a stated federal or provincial priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour and the duty to consult, plus public pressure.
+
+**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the relevant conflict-of-interest or integrity commissioner, the auditor general for public money, the police for crimes — not social media. A reckless public accusation can expose you to defamation liability and hand the proponent a way to change the subject.
 
 # INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
 
@@ -924,47 +1043,24 @@ Watch for these and respond fast: attendance declining around months 4-5 (burnou
 # FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
 
 ## Real Outcomes: What Winning Looks Like
-- **Approval refused / project withdrawn** (rarer): usually requires overwhelming opposition + a strong legal or duty-to-consult case + heavy media + low capture. Canadian examples of "inevitable" projects that ended: Northern Gateway, Energy East, Teck Frontier.
+- **Approval refused / project withdrawn** (rarer): usually requires overwhelming opposition + a strong legal or duty-to-consult case + heavy media + a system that isn't heavily tilted. Canadian examples of "inevitable" projects that ended: Northern Gateway, Energy East, Teck Frontier.
 - **Project modified** (most common victory): route change, smaller footprint, buffers, binding conditions, mitigation and reclamation funds — frequently via a settlement or a court-ordered redo (as when Trans Mountain's approval was quashed and reworked).
 - **Delay / attrition:** stalled for years while legal and political battles proceed; financing and investor confidence erode; the proponent sometimes walks away.
 - **Defeat:** the project proceeds. Focus then shifts to compliance monitoring, the next legal opening, and stewardship.
 
 ## Decision Point: Continue, Modify, or Reassess
 **Continue** if the legal challenge is on schedule, opposition is holding or growing, media is at least monthly, the coalition is stable, and the decision is more than three months out.
-**Modify** if attendance is declining, coverage has dropped for 2+ months, coalition members are leaving, the legal challenge has stalled, or you discover capture is worse than assessed.
+**Modify** if attendance is declining, coverage has dropped for 2+ months, coalition members are leaving, the legal challenge has stalled, or you discover the system is more tilted than assessed.
 **Reassess** if, after ~12 months, legal and political options are exhausted, the decision appears settled despite real effort, the community is exhausted, or resources are depleted. In reassessment, ask: has opposition already won partial victory (modifications, delay)? Would continued effort win more, or just prolong the fight? Should energy shift to monitoring compliance, to the next decision, or to broader systemic change?
 
 ---
 
 ## The Bottom Line
 
-Opposition work can stop or significantly modify destructive projects in Canada — even where parts of the system are captured. Opposition creates multiple, compounding forms of pressure: legal, political, media, and community. Where capture is severe, an outright stop is less likely, but opposition still delivers delays, modifications, political costs, and durable power.
+Opposition work can stop or significantly modify destructive projects in Canada — even where parts of the system are tilted toward approval. Opposition creates multiple, compounding forms of pressure: legal, political, media, and community. Where the tilt is severe, an outright stop is less likely, but opposition still delivers delays, modifications, political costs, and durable power.
 
-And Canada offers what few systems do: a constitutional floor beneath Indigenous rights that no legislature can remove. Time and again, determined communities — especially in respectful alliance with the nations whose rights the Constitution protects — have stopped what was supposed to be unstoppable.
+And Canadian law provides a powerful floor: constitutional protection for Indigenous rights that no legislature can remove. Time and again, determined communities — especially in respectful alliance with the nations whose rights the Constitution protects — have stopped what was supposed to be unstoppable.
 
-Know your situation. Assess capture honestly. Choose your strategy accordingly. Then organize — with eyes open to both the possibilities and the barriers.
+Know your situation. Assess how tilted the system is, honestly. Choose your strategy accordingly. Then organize — with eyes open to both the possibilities and the barriers.
 
 ---
-
-## RESOURCES (verified)
-
-**Free / low-cost legal help:**
-- **Ecojustice** — *ecojustice.ca* — Canada's largest environmental-law charity; litigates at every level of court, free of charge. National.
-- **West Coast Environmental Law (WCEL)** — *wcel.org* — free legal advice, plus grants through its Environmental Dispute Resolution Fund toward a community's own legal costs; bridges Indigenous and Canadian law.
-- **Canadian Environmental Law Association (CELA)** — *cela.ca* — free legal services for lower-income and vulnerable communities in Ontario, funded by Legal Aid Ontario.
-- **East Coast Environmental Law** — Atlantic Canada.
-
-**Health:** Canadian Association of Physicians for the Environment (**CAPE**).
-
-**Case law:** **CanLII** — *canlii.org* — free access to Canadian court and tribunal decisions.
-
-**Registries (find and track the file):**
-- Impact Assessment Agency of Canada / Canadian Impact Assessment Registry — *canada.ca/en/impact-assessment-agency*
-- Canada Energy Regulator — *cer-rec.gc.ca*
-- Your province's environmental-assessment / environmental registry; your municipality's planning portal.
-
-**Records:** federal *Access to Information* requests; each province's Freedom of Information law.
-
-**Investigative media:** The Narwhal (*thenarwhal.ca*); Canada's National Observer (*nationalobserver.com*); CBC; The Tyee; APTN.
-
-*Nothing here is legal advice. The duty-to-consult and UNDRIP/DRIPA landscape is evolving quickly — get current advice from counsel or one of the charities above before relying on it.*

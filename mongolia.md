@@ -68,7 +68,6 @@ Mongolia's system leans toward mining, assesses weakly, and enforces inconsisten
 
 Read Sections 1–3 and, importantly, Section 13 before acting. Then work Section 4 (Target Identification) — it tells you the licence, the assessment tier, whether the headwaters law applies, and the deadlines. Sections 5–8 run in parallel. Sections 9–11 are reference material. Section 12 pulls it onto one timeline; Section 13 helps you decide, honestly, how to proceed safely.
 
-
 ---
 
 # HOW THE SYSTEM WORKS
@@ -123,7 +122,6 @@ Understanding the pressures is targeting, not cynicism. Mining has accounted for
 - **The Aarhus Convention Compliance Committee** — an international mechanism to which members of the public may bring communications where a party fails to meet its obligations on information, participation, or access to justice.
 
 Naming and using the right body matters: in Mongolia the most consequential early judgment is usually **whether the site lies in a prohibited zone** — because if it does, the fight is about enforcement of an existing ban rather than persuasion.
-
 
 ---
 
@@ -217,7 +215,6 @@ Map, factually and carefully: who holds the licence and who owns them, whether t
 
 Suppose a placer gold operation begins in a river valley upstream of several herder families' winter camps, and within weeks the river runs brown and animals sicken. Working the questions: **Q1** — the works are in the river valley itself; the households and their herds depend on that water. **Q2** — you obtain the **licence number and cadastre boundary**, and establish which **assessment tier** applied and which **licensed entity** prepared any detailed assessment. **Q3** — the decisive question is whether the licence area lies within a **river headwater or water protection zone**; if it does, the **Law with the Long Name** prohibits the operation outright and the remedy is **revocation**, which has already been applied to hundreds of operating licences. In parallel: has the operator filed its **environmental management plan**, and is it implementing it? Is it **diverting the watercourse**, which the Water Law forbids? **Q4** — you act immediately on the river works, and diarise 1 November. **Q5** — the registry shows the holder and the licence history. In an afternoon you know that **the prohibited-zone question is the whole campaign** — and that your fieldwork documenting the brown river, the blocked access, and the sick herds is the evidence that will make the ban enforceable.
 
-
 ---
 
 # STEP 2: DOCUMENTATION
@@ -310,8 +307,13 @@ Most of what decides a Mongolian case is documentary or geographic. The job is k
 
 **Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the licensing and environmental authorities, and the local-ally entries point you to the movements and lawyers already working nearby.
 
-
 ---
+
+## Researchers for Hire, and Everyday Research Tools
+
+If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+
+For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
 
 # STEP 3: BUILDING LOCAL OPPOSITION
 
@@ -363,8 +365,11 @@ Herder households strung along a river valley see placer workings appear upstrea
 
 Modest but travel-heavy. The recurring costs are **fuel and transport across the basin**, phone and data, printing for khural and ministry submissions, water sampling, and occasional legal fees. Herder households commonly contribute in kind — vehicles, horses, accommodation, and time. National organisations frequently support field inspections and legal work. Keep transparent, collective accounts, and prioritise spending on **field documentation**, which is the input that changes outcomes here.
 
-
 ---
+
+## Hiring Help to Run the Campaign
+
+You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
 
 # STEP 4: LEGAL CHALLENGES
 
@@ -462,8 +467,11 @@ Launch with the basin inspection findings; refresh at each milestone — the rev
 ## Media Measurement
 Track coverage, but measure what matters: whether inspectors visit, whether the authority answers your revocation request, whether the khural discloses its decisions, and whether the works have actually stopped.
 
-
 ---
+
+## Amplifying at Scale — Media Help for Hire
+
+Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
 
 # EMAILS & LETTERS
 
@@ -586,7 +594,6 @@ Ready-to-adapt templates. Keep them factual, dated, and — above all in Mongoli
 ## Important Caveat
 Templates are starting points. Adapt every one to your real facts, cite **coordinates and licence numbers**, and have counsel review anything heading to court. **Precision decides outcomes here**: a submission that says "near the river" achieves nothing, while one with a cadastre boundary and a zone delineation can end a licence. Keep stamped copies, diarise the **1 November** management-plan date, and take advice on administrative time limits. Keep everything lawful and factual — Mongolian campaigners have faced prosecution, and the routes that have actually worked are documentary, administrative, and parliamentary.
 
-
 ---
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
@@ -646,7 +653,6 @@ Most bad decisions are lawful decisions you disagree with. But capture is real, 
 **The companies.** Establish the holder and any transfers from the licence registry and company records — documentary, provable facts. Where a foreign parent is involved, its own disclosure and financing obligations may matter, and Mongolian law obliges banks and financial institutions not to fund projects harmful to the environment, society, and health.
 
 **How to act on it, safely.** Document from official records before you speak. Route genuine allegations to the national **anti-corruption authority**, the **environmental inspection agency**, and the **National Human Rights Commission** — and, above all, into your **revocation request, your administrative case, and your submissions to Parliament**, where they are consequential. Do not publish unproven accusations about named individuals, and never confront operators physically: in Mongolia that path has ended in imprisonment and has cost the movement dearly.
-
 
 ---
 

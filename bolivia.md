@@ -64,7 +64,6 @@ Bolivia's system leans hard toward extraction and state-led development, treats 
 
 Read Sections 1–3 once. Then work Section 4 (Target Identification) immediately — it produces the facts every other step needs, above all your deadlines, which authority licenses the project, which category it is, and whether consulta previa applies. Sections 5–8 run in parallel. Sections 9–11 are reference material. Section 12 pulls it onto one timeline; Section 13 helps you decide, honestly, whether and when to keep going.
 
-
 ---
 
 # HOW THE SYSTEM WORKS
@@ -115,7 +114,6 @@ Understanding the pressures is targeting, not cynicism. Bolivia's economy and pu
 - **The Tribunal Agroambiental** — the specialised agrarian-environmental jurisdiction for certain land and environmental matters.
 
 Naming the right body signals you understand the system, and involving the Defensoría del Pueblo or bringing an **acción popular** before the TCP at the right moment can change a project's whole trajectory.
-
 
 ---
 
@@ -208,7 +206,6 @@ Map, factually and carefully: who profits, which companies (state companies like
 
 Suppose a gold mine using mercury is proposed on a river in the northern Amazon, on and around the territory of an Indigenous people. Working the questions: **Q1** — the EEIA (or its absence) concerns impacts on the river, on fish and forest, and mercury contamination affecting health. **Q2** — as a significant mine it needs a full **EEIA** and licence (national or departmental), a **mining authorisation**, and — because an **Indigenous people and its territory** are affected — **consulta previa**; a **protected area** may also be in range. **Q3** — the live levers are: rigorous **public participation**; insisting on **consulta previa** (and litigating its absence); a **Defensoría** complaint on the mercury and water contamination; and an **acción popular** before the TCP for the community's and the river's rights — exactly the Río Beni template. **Q4** — you diarise the participation window; the acción popular can be brought while the threat persists. **Q5** — the registries show the mining title-holder and cooperative and the concession timeline. In an afternoon you know which levers are open — and that consulta previa, the acción popular, and the Defensoría, not a single dramatic move, are your strongest cards.
 
-
 ---
 
 # STEP 2: DOCUMENTATION
@@ -297,8 +294,13 @@ Most of what wins a case already exists in public records. The job is knowing wh
 
 **Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the communities, Indigenous organisations, and NGOs already working nearby. Pull that thread first, then follow it into the environmental authorities, the registries, and the information requests above.
 
-
 ---
+
+## Researchers for Hire, and Everyday Research Tools
+
+If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+
+For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
 
 # STEP 3: BUILDING LOCAL OPPOSITION
 
@@ -350,8 +352,11 @@ Several communities learn that a mine using mercury will contaminate the river t
 
 Highly variable. A lean, community-run movement operates on **a few thousand to tens of thousands of bolivianos** (assemblies, materials, travel, the participation process), much of it volunteer. A campaign expecting litigation should budget for **expert reports (10,000–80,000)** — though the acción popular has no filing fee, the Defensoría and NGOs take strategic cases, and much can be done pro bono; travel in the Amazon and Andes is the main cost. Bolivian movements typically fund the legal stage through **community contributions, solidarity and NGO support, and coalition cost-sharing**. Keep transparent, collective accounts — it protects legitimacy and resists cooptation.
 
-
 ---
+
+## Hiring Help to Run the Campaign
+
+You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
 
 # STEP 4: LEGAL CHALLENGES
 
@@ -444,8 +449,11 @@ Launch with the participation window; refresh at each milestone — the mass obs
 ## Media Measurement
 Track coverage, but measure what matters: whether authorities and the Defensoría are responding, whether the movement is growing and its leaders are safer, whether experts and allies come forward, and whether the politics around the project is shifting.
 
-
 ---
+
+## Amplifying at Scale — Media Help for Hire
+
+Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
 
 # EMAILS & LETTERS
 
@@ -555,7 +563,6 @@ Ready-to-adapt templates. Keep them factual, dated, and sourced. Submit importan
 ## Important Caveat
 Templates are starting points. Adapt every one to your real facts, cite the actual expediente and dates, and — for anything heading to court — have counsel experienced in constitutional and environmental litigation, or the Defensoría, review it. Deadlines matter (the participation window; the amparo, which must be filed promptly; the acción popular has no filing fee and no short deadline but is best brought early). Keep dated proof (cargo) of everything you file, and — given the risks to defenders — get advice on protecting the community's leaders.
 
-
 ---
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
@@ -615,7 +622,6 @@ Most bad decisions are lawful decisions you disagree with. But capture is real i
 **The courts and "national interest."** The TCP has delivered landmark rulings (Río Beni), but the wider justice system has faced serious problems of delay and independence, and "national interest" framings grant wide discretion — TIPNIS showed the state prevailing despite the courts being invoked. Treat the acción popular as a genuine but not guaranteed route, and where genuine judicial corruption appears, it is a matter for the control bodies.
 
 **How to act on it, safely.** Document from public sources before you speak. Route serious allegations through the proper bodies — the **Contraloría** for public money, the **Ministerio Público** for environmental crime and corruption, and the **Defensoría** — not social media. A reckless public accusation can expose you to defamation liability, hand the project a way to change the subject and split the community, and, in this terrain, endanger people. Name capture privately in your strategy; prove it publicly only when you can, and protect your leaders.
-
 
 ---
 

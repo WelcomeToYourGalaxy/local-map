@@ -56,7 +56,6 @@ Five steps that reinforce each other:
 
 No single step wins alone. The combination — local pressure plus the EIA-area standing, the resident-opinion procedure, and the mediation route — is what works.
 
-
 **A realistic picture of the odds.** Be honest with your community from the start about what is likely. Most large projects that reach approval in Korea are approved, often with conditions — an outright void or refusal is the exception, not the rule, though it happens where the EIA was skipped or fatally defective. The more common wins are incremental and cumulative: tighter MOE conditions that raise the project's cost; compensation and operational modification won through dispute mediation; a delay of months or years that changes the economics or lets an election intervene; a procedural defect that forces the assessment to be redone; or a governor who withholds cooperation. None of these is a single dramatic veto, but each is a real outcome that has stopped, shrunk, or reshaped real Korean projects. And Korea's landmark fights show a further truth: a campaign can "lose" the specific project yet win years of delay, compensation, and lasting national policy change. A campaign that measures itself only against total victory will feel like it is losing even as it wins; one that banks each delay, each condition, and each concession keeps morale and momentum. Plan for a marathon, not a sprint.
 
 **Your rights here are real, not favours.** Korea's Constitution recognises the right to a healthy environment, the EIA Act guarantees a resident-opinion procedure and a right to demand a public hearing, and the Official Information Disclosure Act gives a strong right to public records. That framing matters practically: when a developer runs a token briefing instead of a real hearing, draws the EIA area to exclude affected residents, or an agency stonewalls a records request, it is not merely being unhelpful — it is potentially breaching obligations you can enforce through the information-disclosure appeal, the Central Administrative Appeals Commission, and the courts. Approach the process as a rights-holder, not a supplicant.
@@ -68,7 +67,6 @@ Korea's system leans toward development, and participation is often a formality.
 ## How to use this guide
 
 Read Sections 1–3 once. Then work Section 4 (Target Identification) immediately — it produces the facts every other step needs, above all your deadlines and which agency and assessment tier apply. Sections 5–8 run in parallel. Sections 9–11 are reference material. Section 12 pulls it onto one timeline; Section 13 helps you decide, honestly, whether and when to keep going.
-
 
 ---
 
@@ -119,8 +117,6 @@ Understanding the pressures is targeting, not cynicism. Large projects bring inv
 - **The Anti-Corruption and Civil Rights Commission (ACRC)** and the prosecutors — for corruption and civil-rights complaints.
 
 Naming the right body signals you understand the system, and involving the governor or the local council early — and, for pollution damage, the Environmental Dispute Mediation Committee — can change a project's whole trajectory.
-
-
 
 ## A quick map of the words you will actually hear
 
@@ -215,7 +211,6 @@ Map, factually and carefully: who profits, which companies or state enterprises 
 
 Suppose a landfill-and-incinerator complex is proposed near your neighbourhood. Working the questions: **Q1** — the draft report admits dioxin and particulate emissions, leachate risk to a nearby stream, heavy truck traffic, and odour — and its **EIA area** includes your homes. **Q2** — the facility needs an **approving-agency licence**, an **EIA with MOE consultation**, and **local permits** under the county's ordinances; check whether a public entity is behind it. **Q3** — the live levers are: a rigorous resident-opinion intervention (and a requested **public hearing**); tightened MOE conditions; an **administrative suit** — you have presumed standing because you live **inside the EIA area** — arguing the assessment is fatally defective; and an **environmental dispute mediation** claim if operation harms health or property. **Q4** — you diarise the resident-opinion window and, once the approval issues, the 90-day appeal/suit clocks and a suspension motion. **Q5** — the registry shows who owns the operator and when the land was bought. In an afternoon you know which levers are open — and that your position **inside the EIA area**, the resident-opinion procedure, and the mediation route, not a single dramatic move, are your strongest cards.
 
-
 ---
 
 # STEP 2: DOCUMENTATION
@@ -237,7 +232,6 @@ Prove what exists **before** the project — you cannot show harm without a base
 **Nature and land.** Document habitats, protected species, wetlands and tidal flats, forest, and farmland using MOE and local records, and note any protected-area, greenbelt, or Ramsar designation, which has featured in major fights.
 
 **How to hold it.** Keep everything dated, sourced, geo-referenced, and backed up in a shared folder. A well-organised baseline is more useful than a merely large one. This layer is the foundation everything else stands on.
-
 
 **A note on doing your own measurements.** You do not always need an expensive lab. Dated, geolocated photographs of a stream, a tidal flat, a hillside, or your neighbourhood *before* the project are evidence, and simple, consistent records — a monthly photo from the same spot, a note of a stream's flow or clarity, a log of existing noise and traffic at set times — build a baseline no developer's snapshot can match. Where a specific number will matter (leachate or water quality downstream, particulate levels near homes, noise from a facility), that is where to spend on a professional or ask a university department or an environmental group to help. This kind of record is doubly valuable in Korea, because the Environmental Dispute Mediation Committee decides pollution-damage claims on exactly such before-and-after evidence. The principle is to capture the ordinary, unremarkable "before" now, cheaply and often, because once the machines arrive it is gone forever and its absence is the single most common reason harm cannot later be proved.
 
@@ -306,8 +300,13 @@ Most of what wins a case already exists in public records. The job is knowing wh
 
 **Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the residents' groups, NGOs, and watchdogs already working nearby. Pull that thread first, then follow it into the assessment system, the registries, and the disclosure requests above.
 
-
 ---
+
+## Researchers for Hire, and Everyday Research Tools
+
+If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+
+For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
 
 # STEP 3: BUILDING LOCAL OPPOSITION
 
@@ -359,8 +358,11 @@ A coastal community hears that a reclamation-and-industrial project will fill pa
 
 Highly variable. A lean, mostly-volunteer movement runs on **a few million won** (forming the committee, printing, petitions, meetings). A campaign expecting litigation should budget for **expert reports (₩3,000,000–20,000,000)** and **legal costs (variable; a contested administrative suit can run into the tens of millions of won, less with reduced-rate lawyers; dispute mediation is far cheaper)**. Korean movements typically fund the legal stage through **membership dues, donations (모금), and coalition cost-sharing**. Keep transparent accounts — it protects credibility and resists divide-and-compensate.
 
-
 ---
+
+## Hiring Help to Run the Campaign
+
+You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
 
 # STEP 4: LEGAL CHALLENGES
 
@@ -457,8 +459,11 @@ Launch with the resident-opinion window; refresh at each milestone — the mass 
 ## Media Measurement
 Track coverage, but measure what matters: whether the governor, mayor, and councils are responding, whether the movement is growing, whether experts and allies come forward, and whether the politics around the project is shifting.
 
-
 ---
+
+## Amplifying at Scale — Media Help for Hire
+
+Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
 
 # EMAILS & LETTERS
 
@@ -570,7 +575,6 @@ Ready-to-adapt templates. Keep them factual, dated, and sourced. Submit importan
 ## Important Caveat
 Templates are starting points. Adapt every one to your real facts, cite the actual documents and dates, and — for anything heading to court — have counsel experienced in environmental administrative litigation review it. Deadlines are strict (the 90-day/one-year suit windows, and the resident-opinion window); keep dated proof of everything you file, and establish your position inside the EIA area.
 
-
 ---
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
@@ -630,7 +634,6 @@ Most bad decisions are lawful decisions you disagree with. But capture is real, 
 **National politicians and ministries.** Where a project is a national priority, expect wide discretion exercised in its favour. That is not corruption, but capture of a kind; the honest path is the EIA-area legal route, mediation, and public pressure.
 
 **How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the **prosecutors and police** for bribery or bid-rigging, the **Board of Audit and Inspection** for public money, the **Anti-Corruption and Civil Rights Commission** for corruption and civil-rights complaints — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject and split the community. Name capture privately in your strategy; prove it publicly only when you can.
-
 
 ---
 

@@ -68,7 +68,6 @@ The DRC's institutions are under-resourced, enforcement is weak, corruption is a
 
 Read Sections 1–3 and Section 13 before acting. Then work Section 4 (Target Identification) — it tells you what stage the project is at and which entitlements are owed. Sections 5–8 run in parallel. Sections 9–11 are reference material. Section 12 pulls it onto one timeline; Section 13 helps you decide how to proceed safely.
 
-
 ---
 
 # HOW THE SYSTEM WORKS
@@ -130,7 +129,6 @@ Understanding the pressures is targeting, not cynicism. The DRC holds a decisive
 - **International mechanisms** — transparency initiatives, lender and buyer standards, and complaint mechanisms attached to development finance, which matter greatly where a project is financed or supplied internationally.
 
 Naming and using the right body matters: in the DRC the most consequential early judgment is usually **which unmet legal entitlement you can prove and press**.
-
 
 ---
 
@@ -224,7 +222,6 @@ Map, factually and carefully: the permit holder and its **parent company or ulti
 
 Suppose an industrial mine has been operating near several villages for some years; dust covers the fields, a stream people drink from runs discoloured, and families told they would be relocated are still waiting. Working the questions: **Q1** — you record the fields, the stream, the households awaiting relocation, and the dust. **Q2** — you establish that an **exploitation permit** exists, so a **certificat environnemental** and an approved **PGES** should exist too; and then you ask the decisive questions: **is there a cahier des charges, and has the 0.3% allocation been constituted with community representatives?** Given that only a small fraction of expected cahiers des charges have been signed nationally and most producing companies had not set up the required entity, the odds are that at least one is missing. **Q3** — the live levers are demanding the **cahier des charges** and the **allocation**, insisting on **PGES enforcement** for the dust and water, and lodging a **complaint with the ACE and the mining inspectorate** so breaches are recorded. **Q4** — you work the annual cycle and act before any relocation proceeds. **Q5** — the buyer of the mine's output may be subject to standards that make non-performance costly. In an afternoon you know that **the unmet statutory entitlements are the campaign**, and that they come with money attached.
 
-
 ---
 
 # STEP 2: DOCUMENTATION
@@ -317,8 +314,13 @@ Most of what matters in a Congolese case is documentary, but it sits across seve
 
 **Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the regulator and the permit behind it, and the local-ally entries point you to the organisations already working nearby.
 
-
 ---
+
+## Researchers for Hire, and Everyday Research Tools
+
+If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+
+For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
 
 # STEP 3: BUILDING LOCAL OPPOSITION
 
@@ -370,8 +372,11 @@ Five villages around an operating mine share the same complaints: dust on the fi
 
 Modest in cash, heavy in travel and convening. The recurring costs are transport between villages and to the provincial centre, communications, copying documents, meetings and translation, and occasional technical or legal support. National organisations frequently cover analysis and legal work. Keep **transparent, collective accounts** — where a campaign is about money owed to the community, the campaign's own accounting is the first thing that will be attacked.
 
-
 ---
+
+## Hiring Help to Run the Campaign
+
+You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
 
 # STEP 4: LEGAL CHALLENGES
 
@@ -473,8 +478,11 @@ Launch with the promised-versus-delivered table; refresh at each milestone — t
 ## Media Measurement
 Track coverage, but measure what matters: whether the company answers, whether the ACE records a breach, whether a cahier des charges negotiation begins, and whether the allocation is constituted and paid.
 
-
 ---
+
+## Amplifying at Scale — Media Help for Hire
+
+Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
 
 # EMAILS & LETTERS
 
@@ -596,7 +604,6 @@ Ready-to-adapt templates. Keep them factual, dated, and sourced. Write in **Fren
 ## Important Caveat
 Templates are starting points. Adapt every one to your real facts, write to the administration **in French**, cite permit and project references, and keep stamped copies of everything. **Sign collectively** through representatives chosen by a recorded community process — in the DRC, who signs is itself a legal question. Note that the annual cycle matters: the 0.3% allocation is calculated on each year's turnover, so a demand unmet this year can be renewed next year with added force. And keep public statements to documented facts.
 
-
 ---
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
@@ -656,7 +663,6 @@ Most bad decisions are lawful decisions you disagree with. But capture is real i
 **The companies.** Where the operator is a subsidiary of a foreign group or supplies international markets, obligations extend beyond Congolese law. Lever: buyer due-diligence and lender grievance mechanisms, which respond to documented non-performance.
 
 **How to act on it, safely.** Document from records and the state's own audits before you speak. Route allegations to the **ACE and the mining administration**, the **Cour des comptes**, transparency mechanisms, and — where relevant — the operator's buyers and financiers. Do not publish unproven accusations against individuals, and be especially careful with allegations touching community leaders or local authorities: in a dispute over community money, that is the fastest route to lasting division and, in some areas, to real danger.
-
 
 ---
 

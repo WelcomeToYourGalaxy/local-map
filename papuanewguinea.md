@@ -68,7 +68,6 @@ PNG's system is under-resourced, its land agencies have been found seriously def
 
 Read Sections 1–3 once. Then work Section 4 (Target Identification) immediately — it tells you whose land it is, what the developer needed to obtain, and whether they actually obtained it. Sections 5–8 run in parallel. Sections 9–11 are reference material. Section 12 pulls it onto one timeline; Section 13 helps you decide, honestly, how to keep going.
 
-
 ---
 
 # HOW THE SYSTEM WORKS
@@ -135,7 +134,6 @@ Understanding the pressures is targeting, not cynicism. PNG's economy and public
 - **National organisations and lawyers** — experienced environmental and landowner-rights groups and a bar that has litigated major resource and land cases.
 
 Naming and using the right body matters: in PNG the most consequential early judgment is usually **whether the developer's right to be on your land is legally sound**.
-
 
 ---
 
@@ -228,7 +226,6 @@ Map, factually and carefully: who holds the tenement or lease and who owns them,
 ## Worked example: which lever is actually open
 
 Suppose a logging operation begins on clan land under a lease the clan's older members say they never agreed to, with an access road cut across gardens and a creek running muddy. Working the questions: **Q1** — gardens, forest, and the creek used for drinking are affected; you photograph and map them. **Q2** — you establish **which clans own the affected land**, whether an **ILG** exists, who signed for it, and when it was registered. **Q3** — the decisive question is the **validity of the lease and the consent behind it**: were the true landowners identified, did they give informed consent, did they have independent advice? This is precisely the ground on which leases covering millions of hectares were found defective and voided. In parallel: is there an **environment permit** for a **Level 3** activity like logging, and if not, that is an offence attracting a **stop-work notice**. **Q4** — you act immediately, because timber does not grow back within a campaign. **Q5** — the registers show the lease, the ILG officers, and the company. In an afternoon you know that **the consent-and-lease challenge is the campaign**, with the missing environment permit as a fast parallel lever.
-
 
 ---
 
@@ -324,8 +321,13 @@ Most of what decides a PNG case is documentary, but it sits in several registers
 
 **Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the regulator and the tenement behind it, and the local-ally entries point you to the organisations and lawyers already working nearby.
 
-
 ---
+
+## Researchers for Hire, and Everyday Research Tools
+
+If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+
+For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
 
 # STEP 3: BUILDING LOCAL OPPOSITION
 
@@ -377,8 +379,11 @@ A logging road appears on clan land; some younger men have been employed, an "IL
 
 Modest in cash but heavy in travel. The recurring costs are transport between clans and to the provincial centre or Port Moresby, phone and data, copies from the registers, meetings and food for gatherings, and occasional technical or legal fees. National organisations frequently cover legal work in significant cases. Keep **transparent, collective accounts** — in PNG this is not merely good practice but the principal defence against the division that defeats landowner campaigns.
 
-
 ---
+
+## Hiring Help to Run the Campaign
+
+You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
 
 # STEP 4: LEGAL CHALLENGES
 
@@ -478,8 +483,11 @@ Launch with the recorded clan decision and the ILG discovery; refresh at each mi
 ## Media Measurement
 Track coverage, but measure what matters: whether CEPA responds, whether work stops, whether the regulator or the Lands Department engages with the ILG problem, and whether the clan is holding together.
 
-
 ---
+
+## Amplifying at Scale — Media Help for Hire
+
+Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
 
 # EMAILS & LETTERS
 
@@ -604,7 +612,6 @@ Ready-to-adapt templates. Keep them factual, dated, and — crucially in PNG —
 ## Important Caveat
 Templates are starting points. Adapt every one to your real facts, cite the actual lease, ILG, or permit numbers, and have counsel review anything heading to court. **Sign collectively**, keep stamped copies, and hold documents as a group with copies outside the village. Note that the current text of the Environment Act on challenging permits should be checked before relying on that route — but the **consent and tenure route is unaffected by it**. And keep everything peaceful and factual: in PNG the greatest danger to a landowner campaign is division and conflict among landowners themselves.
 
-
 ---
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
@@ -664,7 +671,6 @@ Most bad decisions are lawful decisions you disagree with. But capture is real i
 **Legislative narrowing.** Where the law itself is amended to bar challenges — as in 2010 — that is a form of capture operating at the highest level. Lever: political and public pressure for repeal, and reliance on the consent and tenure route, which such provisions did not touch.
 
 **How to act on it, safely.** Document from the registers before you speak. Route genuine allegations to the **Ombudsman Commission**, the relevant department, and — where a scheme is systemically defective — a call for a **Commission of Inquiry**, which in PNG has genuinely unwound national programmes. Do not make unproven public accusations against individuals in your own community: in a landowner dispute that is the fastest route to lasting conflict, and it destroys the unity on which your legal position depends.
-
 
 ---
 

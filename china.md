@@ -116,23 +116,59 @@ In China the overseers are not independent courts, a free press, or an oppositio
 These are the overseers your strategy should be built to reach. Much of the rest of this guide is about producing documentation strong enough to move them — and about doing so in the narrow, careful, apolitical way that keeps your people safe.
 # QUICK REFERENCE: SUCCESS RATES
 
-Before you commit, calibrate your expectations honestly. The patterns below are not official statistics; they reflect how Chinese projects and community responses have actually gone. Use them to set a goal that fits your situation, not to predict your specific fight.
+Before you commit, calibrate honestly — and weigh the risk. These figures are **directional, not guarantees** — patterns from how Chinese community responses tend to go, not a controlled study. The decisive variable is not in the table: **whether the project is a concentrated urban health-and-property threat that can be opposed narrowly and apolitically, or a remote, revenue-critical one.** For the first, the levers below work far better; for the second, discount every figure and read Section 13 first. And keep every approach strictly local, technical, and non-political.
 
-**Opposing an urban chemical plant or incinerator on health-and-property grounds — moderate to surprisingly good, if done narrowly and carefully.** China's clearest community wins have this shape. Residents of cities, mobilising with discipline over health and property risk and stopping short of political framing, have forced the cancellation or relocation of paraxylene plants, incinerators, and similar facilities. Success turned on concentration, resources, restraint, and giving officials a face-saving exit — not on confrontation. The record is real and repeated: over the past two decades, planned or approved paraxylene (PX) chemical plants in several major cities were cancelled, suspended, or relocated after concentrated urban residents mobilised over health risk, and planned waste incinerators and a metals plant and a paper-mill wastewater outfall met the same fate elsewhere. What these shared was a concentrated, resourced, health-threatened urban population; a disciplined, health-and-property frame; and local officials who chose relocation over the political cost of sustained public alarm. What they did not share was any political demand — and that restraint was central to both their safety and their success.
+## Individual Step Success Rates
 
-**Forcing an honest EIA and genuine public participation the developer tried to skip — moderate.** Where consultation was faked or the assessment was defective, documenting the violation and taking it to the environment bureau, the disclosure system, or a central inspection can force the process to be redone and buy delay — a realistic and valuable outcome.
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Public comment during EIA participation** | 20–40% | during review | low | On record; conditions or a redo |
+| **Information-disclosure demand (+ reconsideration)** | 25–45% | 1–6 months | low | Hidden EIA/records forced open |
+| **Environmental complaint (12369 / bureau)** | 20–45% | 1–6 months | low | Inspection; enforcement; record |
+| **Central-inspection submission (well-timed)** | 30–50% | tied to rounds | low | Local violation halted or rectified |
+| **Environmental public-interest litigation (eligible NGO / prosecutor)** | 25–45% | 12–48 months | moderate | Polluter/project penalised or halted |
+| **Individual administrative / civil challenge** | 15–35% | 6–36 months | low–moderate | Specific decision contested; damages |
+| **Disciplined urban health-and-property mobilisation** | 30–55% | 3–24 months | low | Relocation or cancellation (chem/incinerator) |
+| **All steps combined (urban health-and-property threat)** | 40–55% | 6–36 months | low–moderate | Relocated, cancelled, assessed, or delayed |
+| **All steps combined (remote / strategic project)** | 10–25% | 12–48 months | low–moderate | Honest assessment, mitigation, delay |
 
-**Environmental public-interest litigation against a polluter or a harmful project — narrow but real.** Qualified organisations have used the courts to penalise polluters and, in at least one landmark case, to halt a hydropower dam to protect endangered habitat. This channel is limited to eligible NGOs and prosecutors, is being tightened under the new code, and is not available to ordinary residents directly — but where an eligible partner exists, it is a genuine lever. Ordinary residents are not shut out of the courts entirely, though: where you are directly and personally affected, the individual administrative and civil routes remain open to you, and a documented case handed to an eligible organisation or a prosecutor can achieve through them what you cannot bring yourself.
+**Key insight:** all steps together beat any single one, and China's real strengths are the **central state's own tightening rules and its inspection machinery**, the **EIA public-participation requirement**, **information disclosure**, the **NGO/prosecutor public-interest-litigation channel**, and the distinctive power of **disciplined, apolitical urban mobilisation** over health and property. Its constraints are **non-independent courts**, a **narrowing NGO-litigation door**, **restricted civil society**, and the **danger of any political framing.**
 
-**Triggering central-inspection or enforcement action against a local violator — moderate, and distinctively Chinese.** When a project violates national environmental standards that the local government ignored, a well-documented complaint timed to a central inspection round, or fed into the enforcement machinery, can produce a halt, a fine, or a rectification order the locality would never have imposed itself.
+*A note on cost: commenting, requesting disclosure and complaining are inexpensive and lower-risk. The expenditure that changes outcomes is an **eligible litigating organisation or a lawyer**, and the discipline to keep everything technical and local.*
 
-**Winning delay, mitigation, relocation, or compensation on a project you cannot stop — good.** Even where outright cancellation is out of reach, forcing honest assessment, shrinking the footprint, moving the facility, improving pollution controls, and securing better compensation are all achievable and protect real people.
+## Effectiveness Visualization
 
-**Land and demolition disputes on procedural and compensation grounds — variable, better on procedure and compensation than on stopping the taking.** Individual residents have direct standing over how their land or home was taken and what they were paid; procedural violations and undervaluation are the most winnable grounds.
+```
+SUCCESS PROBABILITY (relocated, cancelled, halted, assessed honestly, delayed)
 
-**Stopping a remote, revenue-critical, or strategically-backed project outright — hard.** Honesty requires saying that a project a determined local or higher government is set on, in a poorer or dispersed area, is the least likely to be stopped by community action alone. Here the record-building, enforcement-triggering, and mitigation goals are the realistic ones.
+CONCENTRATED URBAN HEALTH-AND-PROPERTY THREAT -- disciplined, apolitical:
+All steps combined:          ████████████    40-55%
+Disciplined mobilisation:    ███████████     30-55%
+Central inspection:          ██████████      30-50%
+Single step:                 ██              5-45%
 
-The pattern across all categories is consistent. Campaigns that stay **narrow, apolitical, health-and-property-focused, well-documented, and aligned with the state's own rules and enforcement machinery** do far better — and far more safely — than campaigns that confront authority head-on. The single strongest predictor of success is whether the community diagnosed its situation accurately, chose a fitting and careful goal, and put its energy where the chain was genuinely weakest.
+REMOTE / REVENUE-CRITICAL / STRATEGIC PROJECT:
+All steps combined:          █████           10-25%
+Central inspection (if breach): ██████        moderate
+Honest assessment / mitigation: ████████      achievable
+Single step:                 █               2-15%
+```
+
+**How to read this honestly.** The arguments that move outcomes in China are **technical and rule-based, aligned with the central state against a local violation — never political.** The strongest: a **faked or skipped EIA public participation**, a **breach of a national environmental standard the centre cares about**, a **documented polluter an eligible NGO can sue**, and a **local approval that a central inspection can overturn.** What will not work — and is dangerous — is framing the fight as opposition to the authorities.
+
+## Step Importance Ranking (When All Combined)
+
+1. **The central-versus-local lever** — invoking the state's own rules and inspection machinery against a local violation.
+2. **Disciplined, apolitical local mobilisation** — decisive for urban health-and-property threats.
+3. **Procedure and disclosure** — the EIA public comment and the information-disclosure demands that arm everything.
+4. **Public-interest litigation** — via an eligible NGO or the procuratorate, where available.
+5. **Documentation** — the technical, dated record every channel needs.
+
+## What Chinese Campaigns Actually Show
+
+A few patterns recur. **The central-versus-local dynamic is the master lever** — a local project that violates national standards is vulnerable to the centre's inspection and enforcement, which localities fear above all. **Disciplined urban mobilisation has genuinely won** — planned chemical (paraxylene) plants and waste incinerators in several major cities were relocated or cancelled after concentrated, apolitical, health-focused resistance. **Public-interest litigation bites within limits** — an eligible organisation's suit has halted a hydropower dam to protect endangered habitat, though the door is narrowing. **Disclosure and complaints compound** — forcing records open and reporting breaches feed every other channel. **And the framing sets the outcome** — a narrow, technical, local fight can succeed and stay safe, while a political one is crushed. The through-line: **stay narrow and apolitical, document specific violations, and turn the state's own rules and machinery against a local wrong.**
+
 # STEP 1: TARGET IDENTIFICATION
 
 Before you write a single word or gather a single neighbour, you must know exactly what you are fighting, who is behind it, and where in its chain of approvals it is weakest — and, in China above all, how to frame the fight so it stays safe. Acting before you know these things wastes effort and can expose people. Spend your first days answering five questions.

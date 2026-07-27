@@ -121,23 +121,58 @@ In Serbia, some overseers function, some are compromised, and the strongest sit 
 These are the overseers your strategy should be built to reach. Much of the rest of this guide is about producing documentation strong enough to move them, and combining them so that a project the government wants faces cost from every direction at once.
 # QUICK REFERENCE: SUCCESS RATES
 
-Before you commit months of effort, calibrate your expectations honestly. The numbers below are not official statistics; they are realistic patterns drawn from how Serbian projects and campaigns have actually gone. Use them to set a goal that fits your situation, not to predict your specific fight.
+Before you commit months of effort, calibrate honestly. These figures are **directional, not guarantees** — patterns from how Serbian and comparable campaigns tend to go, not a controlled study. The decisive variable is not in the table: **whether the project is an ordinary private one or a state-backed "strategic" one.** Against a challengeable private project the levers below work well; against a flagship strategic project, discount every figure and read Section 13 first — while remembering that in Serbia mass mobilisation has, uniquely, forced the state to retreat.
 
-**Challenging a small hydropower plant (MHE) on procedural and permit grounds — moderate to good.** Serbia's small hydropower boom produced a wave of plants built on protected or ecologically sensitive mountain rivers, often with defective permits, missing assessments, or works exceeding what was approved. Communities that documented the illegality, complained to inspectorates, and litigated have blocked, halted, or reversed a meaningful share of these. This is among the most winnable categories.
+## Individual Step Success Rates
 
-**Stopping a quarry, landfill, or mid-sized industrial plant on EIA grounds — moderate.** Where the environmental assessment was skipped, the public insight was a sham, or consent conditions are being breached, a documented challenge has real prospects of delay and sometimes reversal — especially for a locally-decided project you can also fight through the second-instance authority and the inspectorate.
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Objection during public insight** | 25–45% | during review | low | On record; conditions or a redo |
+| **Small-hydropower permit / inspectorate challenge** | 35–55% | 3–18 months | low–moderate | Works halted; permit reversed |
+| **EIA / SEA procedural challenge (Administrative Court)** | 25–45% | 6–24 months | moderate | Consent annulled; process redone; delay |
+| **Expropriation procedural challenge** | 30–50% | 6–24 months | low–moderate | Taking blocked or corrected; fair compensation |
+| **Aarhus / EU-accession (Chapter 27) complaint** | 20–40% | 6–24 months | low | Breach found; scrutiny; leverage |
+| **Foreign-parent / investor & lender pressure** | 25–45% | 3–24 months | low | Reputational cost; financing risk; delay |
+| **All steps combined (ordinary private project)** | 45–60% | 12–36 months | low–moderate | Stopped, redesigned, or delayed |
+| **All steps combined (strategic project)** | 15–30% | 12–48 months | low–moderate | Honest assessment, delay, or — with mass mobilisation — retreat |
 
-**Forcing a full, honest assessment and genuine public participation the state tried to avoid — good.** Even when you cannot stop a project outright, insisting through objections, information requests, and litigation that the law's own assessment and consultation steps be carried out properly is frequently achievable, and it buys the time and record on which everything else depends.
+**Key insight:** all steps together beat any single one, and Serbia's real strengths are the **EU-style procedure**, **genuine Aarhus participation rights**, **functioning-if-imperfect courts**, and a **foreign parent exposed to investors and banks** — plus the distinctive Serbian fact that **mass, disciplined mobilisation has actually forced a strategic project's retreat.** Its constraints are a **captured executive on flagship projects** and **high courts that can rule under political influence.**
 
-**Winning delay on a large or strategic project — good, and valuable.** Delay is not defeat. Serbia's biggest fights have repeatedly slowed flagship projects by years through litigation, mobilisation, and international pressure. Delay lets opposition grow, lets markets and politics shift, and keeps the project's costs mounting.
+*A note on cost: objecting, documenting and complaining are inexpensive. The expenditure that changes outcomes is an **environmental lawyer** and, where the parent is foreign-listed, help preparing an **investor or lender complaint** — both often available through Serbia's experienced environmental-law organisations.*
 
-**Stopping a state-backed "strategic" project outright — hard, but proven possible in Serbia.** This is the hardest category, and honesty requires saying so: the state's determination, foreign backing, and EU raw-materials interest are formidable. And yet Serbia is one of the few places where sustained mass mobilisation forced the government to abolish a strategic project's spatial plan and withdraw a national law. That outcome was later contested in court and the fight is not over — but it demonstrates that in Serbia the political lever is real, and that a movement broad and disciplined enough can move even the biggest projects.
+## Effectiveness Visualization
 
-**Challenging an existing large mine or coal facility on pollution and enforcement grounds — hard on the operation, real on the harm.** Serbia's established heavy industry — the eastern copper complex now under foreign ownership, the coal mines and thermal power plants — is entrenched, state-important, and difficult to shut down. But these operations breach emission and pollution limits, and here the levers are enforcement and accountability rather than approval: documented breaches, air- and water-quality data, health evidence, complaints to the inspectorate, and pressure through the EU accession process and the Energy Community, which has formally acted on Serbian coal-plant emissions. The realistic wins are tighter limits, monitoring, remediation, and compensation — and building the record that constrains expansion.
+```
+SUCCESS PROBABILITY (stopped, redesigned, assessed honestly, or delayed)
 
-**Expropriation challenges — moderate to good on procedure.** Where the expropriation skipped a required step, undervalued the land, or proceeded without a valid public-interest declaration, owners have real, personal grounds and clear standing. These fights protect specific families and often the whole footprint.
+ORDINARY PRIVATE PROJECT -- challengeable permit, credible file, legal support:
+All steps combined:          ████████████    45-60%
+Small-hydropower challenge:  ███████████     35-55%
+Expropriation challenge:     ██████████      30-50%
+Single step:                 ██              5-45%
 
-The pattern across all categories is consistent. Campaigns that combine **local documentation, procedural and legal challenge, broad and disciplined public mobilisation, and external leverage** do far better than campaigns that rely on any one of these alone. The single strongest predictor of success is not the strength of the project but whether the community diagnosed its situation accurately and put its energy where the chain was actually weakest.
+STATE-BACKED "STRATEGIC" PROJECT -- executive committed, foreign investor:
+All steps combined:          ██████          15-30%
+Delay / honest assessment:   ████████        good and valuable
+Mass mobilisation:           (proven in Serbia to force a strategic retreat)
+Single step:                 █               5-20%
+```
+
+**How to read this honestly.** The arguments that move outcomes in Serbia are **procedural, rights-based, and reputational — grounded in the law and the public's Aarhus rights, not in opposition to the state as such.** The strongest: a **defective or skipped EIA/SEA**, a **botched public insight**, an **unlawful expropriation**, a **small-hydropower permit breach**, an **Aarhus or EU-accession breach**, and a **foreign parent's exposure to its investors and banks.** And Serbia's own history adds one more: **a broad, disciplined public movement**, which has forced the government to abolish a strategic project's spatial plan.
+
+## Step Importance Ranking (When All Combined)
+
+1. **Procedure and the courts** — the EIA/SEA challenge, the public insight, the Administrative Court, and the expropriation defence.
+2. **Mass, disciplined public mobilisation** — uniquely powerful in Serbia, and proven to move even strategic projects.
+3. **External leverage** — Aarhus compliance, EU accession Chapter 27, and the foreign parent's investors and lenders.
+4. **Documentation** — the dated, sourced record that every other step depends on.
+5. **Media** — national and international, which raises the cost and reaches the investors, used accurately.
+
+## What Serbian Campaigns Actually Show
+
+A few patterns recur. **Procedure bites**, because Serbia runs a European-style permitting system whose own rules a community can hold it to. **Small-hydropower fights are among the most winnable**, through inspectorate complaints and permit challenges over plants drying protected mountain rivers. **Mass mobilisation has genuinely worked** — the 2021–22 movement that forced the government to withdraw an expropriation law and abolish a flagship lithium project's spatial plan is the emblem, even as the fight continues in the courts. **External leverage reaches past domestic capture**, through Aarhus, EU accession, and a foreign parent's markets. **And the "strategic" question sets the ceiling** — an ordinary private project can be stopped or reshaped, while a flagship one is, realistically, delayed and forced into honest assessment unless mobilisation shifts the politics. The through-line: **use the procedure and the courts, build the broadest disciplined public movement you can, and reach the external levers beyond the capture.**
+
 # STEP 1: TARGET IDENTIFICATION
 
 Before you write a single objection, you must know exactly what you are fighting, who is behind it, and where in its chain of approvals it is weakest. Acting before you know these things wastes effort and misses deadlines. Spend your first days answering five questions.

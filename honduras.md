@@ -117,23 +117,59 @@ In Honduras the domestic overseers are weakened by corruption and impunity, but 
 These are the overseers your strategy should be built to reach — and, given the danger, the international ones are not a last resort but an early and central part of both protection and pressure.
 # QUICK REFERENCE: SUCCESS RATES
 
-Before you commit, calibrate your expectations honestly — and weigh the danger, which in Honduras is real and sometimes lethal. The patterns below are not official statistics; they reflect how Honduran projects and community resistance have actually gone. Use them to set a goal that fits your situation and to plan for your protection.
+Before you commit, calibrate honestly — and weigh the danger, which in Honduras can be lethal. These figures are **directional, not guarantees** — patterns from how Honduran community resistance tends to go, not a controlled study. The decisive variables are not in the table: **whether Indigenous or Afro-descendant consultation or a protected area is engaged, and whether the project is entangled with violent, entrenched interests.** And in every category, protection of the people is as important as the outcome — read Section 13 alongside this one.
 
-**Opposing a mining or dam project on Indigenous or Afro-descendant land without proper consultation — winnable, and dangerous.** Where the free, prior, and informed consultation required by ILO 169 was skipped or faked, the violation is fundamental and internationally recognised, and organised Indigenous and Afro-descendant resistance — with legal and international accompaniment — has blocked, delayed, and discredited projects. These fights have also been among the deadliest, so protection must be built in from the start. The emblematic case is that of the Lenca defender Berta Cáceres and her organisation COPINH, who opposed the Agua Zarca dam on the Gualdúbarígame (Gualcarque) river, sacred to the Lenca and approved without proper consultation; Cáceres was murdered in 2016, but the resistance ultimately stalled the dam and, after years of pressure, the company executive who ordered her killing was convicted — a result once thought impossible.
+## Individual Step Success Rates
 
-**Protecting or restoring a protected area intruded on by a concession — winnable on the law, hard in practice.** Where a project rests on a protected area unlawfully shrunk to accommodate it, the illegality is clear and can be challenged — and, with the recent law restoring park boundaries and barring mining in protected and water-producing zones, communities now have a concrete legal opening to demand enforced. Implementation, however, has lagged, so persistence and pressure are essential. The defining case is Guapinol, in Tocoa, where a national park was shrunk in 2013 to permit an iron-oxide mine; the community's water-defence committee resisted, and eight defenders were jailed for more than 900 days in pre-trial detention — arbitrarily, a UN body found — before being freed in 2022 after a sustained national and international campaign. In 2024 Congress passed a law to restore the park's original boundaries and bar mining in protected zones, though it awaits full implementation.
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every step; also protection |
+| **Citizen opposition during licensing** | 20–40% | during review | low | On record; conditions or denial |
+| **Free, prior & informed consultation (ILO 169) challenge** | 30–55% | 6–36 months | low–moderate | Project blocked/discredited; binding defect |
+| **Environmental-licence challenge** | 25–45% | 6–36 months | moderate | Licence annulled; process redone |
+| **Protected-area / Decree 18-2024 challenge** | 30–50% | 6–36 months | low–moderate | Concession barred; park restored |
+| **Municipal / community consultation (cabildo abierto)** | 30–55% | 1–12 months | low | Formal local refusal; legal & political obstacle |
+| **Inter-American precautionary measures** | 40–65% | 1–12 months | low | Defenders protected; project profile & cost raised |
+| **Criminal accountability (defenders / env crimes)** | 15–40% | 12–60 months | moderate | Charges; landmark convictions |
+| **All steps combined (challengeable, well-accompanied)** | 40–60% | 12–48 months | low–moderate | Stopped, delayed, assessed; people protected |
+| **All steps combined (violent, entrenched project)** | 10–30% | 12–60 months | low–moderate | Protection, delay, record for accountability |
 
-**Winning a municipal or community refusal (cabildo abierto / consulta comunitaria) — a real and repeatedly used lever.** Municipalities and communities across Honduras have formally declared their territories closed to mining or a specific project. This creates a genuine legal and political obstacle and a powerful expression of local will — though the authorities and companies do not always honour it, so it must be defended.
+**Key insight:** all steps together beat any single one, and Honduras's real strengths are the **binding Indigenous consultation right**, the **protected-areas law and mining moratorium**, the **municipal/community consultation**, and — decisively, unlike closed systems — **live, powerful Inter-American and international leverage** that protects defenders and pressures the state. Its constraints are **corruption and impunity in the courts** and, gravely, **lethal violence against defenders.**
 
-**Freeing criminalised defenders and winning protective measures — achievable with sustained pressure.** Where defenders are jailed or threatened, national and international campaigning, Inter-American precautionary measures, and UN scrutiny have freed the imprisoned and won protection — as the release of long-detained water defenders showed. This is often the most urgent goal, and it is winnable.
+*A note on cost: documenting, opposing and consulting are inexpensive. The expenditure that changes outcomes is **trustworthy legal accompaniment, national and international**, and the early pursuit of **protective measures** — often available through Honduras's movements and international allies.*
 
-**Forcing honest assessment, exposing illegality, and winning delay — the realistic goal for most fights.** Even where a project cannot be stopped outright, documenting a defective study, an absent consultation, or an unlawful concession forces process, imposes delay, and builds the record for domestic and Inter-American accountability.
+## Effectiveness Visualization
 
-**Winning accountability for crimes against defenders — slow, but achieved in landmark cases.** Impunity is the norm, but sustained pressure and international attention have produced convictions — including of the company executive behind the dam Berta Cáceres died opposing — establishing that even the powerful are not always beyond reach.
+```
+SUCCESS PROBABILITY (stopped, delayed, assessed, restored -- people protected)
 
-**Stopping a project backed by entrenched interests entangled with violence, outright and quickly — hard and perilous.** Honesty requires saying that such projects are the most dangerous and the least likely to be stopped fast, and that here the protection of people, the documented record, and the long game of legal and international accountability are the realistic and safer aims.
+CHALLENGEABLE PROJECT -- violated right / protected area, well-accompanied:
+All steps combined:          ████████████    40-60%
+Precautionary measures:      █████████████   40-65% (protection)
+Consultation / protected-area: ██████████    30-55%
+Single step:                 ██              5-55%
 
-The pattern across all categories is consistent, and sharper in Honduras than almost anywhere: campaigns that are **collective, well-documented, rooted in violated rights and clear illegality, and joined to strong international accompaniment** have won real victories — while campaigns that leave people isolated and unprotected have paid the cruellest price. The strongest predictor of both success and survival is whether the community organised collectively, sought protection early, and combined its domestic rights with international leverage.
+VIOLENT, ENTRENCHED, POLITICALLY-CONNECTED PROJECT:
+All steps combined:          ██████          10-30%
+Protection + international:   ████████        the first priority
+Delay / accountability record: ██████         achievable over time
+Single step:                 █               2-20%
+```
+
+**How to read this honestly.** The arguments that move outcomes in Honduras are **rights-based and legal, joined to international leverage — the lawful defence of consultation, water, territory, and life.** The strongest: a **skipped or faked ILO 169 consultation**, an **unlawfully shrunk protected area** (now barred by law), a **defective environmental licence**, a **municipal or community refusal**, and, above all, **Inter-American precautionary measures and international scrutiny** that protect people and raise the project's cost. What isolates and endangers defenders is acting **alone, unprotected, and unseen.**
+
+## Step Importance Ranking (When All Combined)
+
+1. **Collective organisation and protection** — never alone; precautionary measures and accompaniment sought early.
+2. **The Inter-American system and international solidarity** — Honduras's decisive advantage, for protection and pressure.
+3. **Rights and legal openings** — the consultation right, the protected-areas law, the licence challenge, the municipal consultation.
+4. **Documentation** — of both the project's illegality and the threats to defenders.
+5. **Media and visibility** — which raise the cost and, in Honduras, help keep people alive.
+
+## What Honduran Campaigns Actually Show
+
+A few patterns recur. **International leverage is decisive and available** — Inter-American precautionary measures and UN scrutiny freed the criminalised **Guapinol** water defenders after more than 900 days of arbitrary detention, and international pressure helped convict the company executive behind the dam **Berta Cáceres** died opposing. **Consultation and protected-area rights are real footholds** — a project on Indigenous land without genuine consultation, or on a protected area unlawfully shrunk (as at Guapinol's national park, now restored on paper by Decree 18-2024), rests on a fundamental defect. **Municipal and community consultations create genuine obstacles.** **And the violence is real and current** — the 2024 murder of defender **Juan López** is a reminder that protection must be built in from the first day. The through-line: **organise collectively, seek protection early, combine your rights with the Inter-American system, and never let a defender stand alone or unseen.**
+
 # STEP 1: TARGET IDENTIFICATION
 
 Before you write a word or gather your neighbours, you must know exactly what you are fighting, who is behind it, where in its chain it is weakest — and, in Honduras above all, what danger it carries and how your community will stay safe. Acting before you know these things wastes effort and can expose people to lethal risk. Spend your first days answering five questions, collectively and discreetly.

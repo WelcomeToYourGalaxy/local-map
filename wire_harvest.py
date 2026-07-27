@@ -1135,6 +1135,67 @@ def collect_by_region(per_region=60, budget_min=None, only=None):
 
 
 
+def _map_sub_keys():
+    """iso3 -> ordered list of unique canonical subregion display keys (from the map)."""
+    out = {}
+    for iso, terms in _load_map_subregions().items():
+        keys = []
+        for _slug, canon in terms:
+            if canon not in keys:
+                keys.append(canon)
+        if keys:
+            out[iso] = keys
+    return out
+
+
+def collect_by_subregion(budget_min=None, per_sub=12):
+    """Query each MAP subregion directly, so the returned articles are actually ABOUT
+    that subregion and can be assigned to it. This is the reliable way to populate
+    subregions -- the country sweep only tags a subregion when an article happens to
+    name it, which is why most subregions read zero. Queries the English alias where the
+    map key is an endonym (news says 'Bavaria', not 'Bayern') and assigns the map key."""
+    import time as _t
+    if os.environ.get("WIRE_SKIP_SUBREGIONS") == "1":
+        return []
+    budget_min = budget_min or int(os.environ.get("WIRE_SUBREGION_BUDGET_MIN", "60"))
+    pace = float(os.environ.get("WIRE_PACE_SEC", "0.5"))
+    t_end = _t.time() + budget_min * 60
+    out, seen = [], set()
+    subkeys = _map_sub_keys()
+    total = sum(len(v) for v in subkeys.values())
+    done = 0
+    for iso, keys in subkeys.items():
+        country = _WIRE_REGIONS.get(iso) or iso
+        ctx = re.sub(r"[^A-Za-z ]", " ", country).strip()
+        for canon in keys:
+            if _t.time() > t_end:
+                print("  wire subregions: %d-min budget reached at %d/%d (kept %d)" % (budget_min, done, total, len(out)))
+                return out
+            done += 1
+            queryname = _SUB_ALIAS.get(canon, canon)   # search the English form; assign the map key
+            terms = _REGION_TERMS + (" " + ctx if ctx else "")
+            kept = 0
+            for art in _gdelt(queryname, terms, 120, maxrec=40):
+                if kept >= per_sub:
+                    break
+                title = (art.get("title") or "").strip()
+                link = art.get("url", "")
+                if not title or not link:
+                    continue
+                key = re.sub(r"[^a-z0-9]", "", title.lower())[:60]
+                if key in seen:
+                    continue
+                seen.add(key)
+                out.append({"name": country, "title": title[:200], "link": link,
+                            "date": _gdelt_date_ms(art.get("seendate")), "sig": 2,
+                            "snippet": "", "iso": iso, "region": canon, "widened": 120,
+                            "lang": (art.get("language") or "").strip().title() or "Unknown"})
+                kept += 1
+            _t.sleep(pace)
+    print("  wire subregions: swept %d/%d, kept %d" % (done, total, len(out)))
+    return out
+
+
 def main():
     # topical pool (kept: it surfaces cross-border and movement stories), then a
     # sweep that gives every region its own query rather than a share of the pool
@@ -1142,6 +1203,11 @@ def main():
     if os.environ.get("WIRE_SKIP_REGIONS") != "1":
         seen = set(re.sub(r"[^a-z0-9]", "", (i.get("title") or "").lower())[:60] for i in items)
         for it in collect_by_region():
+            k = re.sub(r"[^a-z0-9]", "", (it.get("title") or "").lower())[:60]
+            if k in seen:
+                continue
+            seen.add(k); items.append(it)
+        for it in collect_by_subregion():
             k = re.sub(r"[^a-z0-9]", "", (it.get("title") or "").lower())[:60]
             if k in seen:
                 continue

@@ -1135,6 +1135,37 @@ def collect_by_region(per_region=60, budget_min=None, only=None):
 
 
 
+# Local-language environmental/opposition topic terms, so the subregion sweep catches
+# non-English news (GDELT indexes multilingual content). Keyed by language prefix.
+_TOPIC_BY_LANG = {
+    "es": "protesta OR oposición OR mina OR minería OR represa OR presa OR contaminación OR consulta OR ambiental OR deforestación OR permiso OR demanda OR licencia",
+    "pt": "protesto OR oposição OR mina OR mineração OR barragem OR poluição OR ambiental OR desmatamento OR licença OR consulta OR permissão OR ação",
+    "fr": "manifestation OR opposition OR mine OR barrage OR pollution OR environnement OR déforestation OR permis OR recours OR concertation",
+    "de": "Protest OR Widerstand OR Bergbau OR Tagebau OR Staudamm OR Umwelt OR Verschmutzung OR Klage OR Genehmigung OR Abholzung",
+    "it": "protesta OR opposizione OR miniera OR diga OR inquinamento OR ambiente OR deforestazione OR permesso OR ricorso OR concessione",
+    "nl": "protest OR verzet OR mijn OR mijnbouw OR dam OR vervuiling OR milieu OR ontbossing OR vergunning OR bezwaar",
+    "pl": "protest OR sprzeciw OR kopalnia OR górnictwo OR tama OR zanieczyszczenie OR środowisko OR wylesianie OR pozwolenie OR odwołanie",
+    "sv": "protest OR motstånd OR gruva OR gruvdrift OR damm OR förorening OR miljö OR avskogning OR tillstånd OR överklagande",
+}
+
+def _gdelt_q(query, days, maxrec=40):
+    """GDELT fetch for a fully-formed query string (no auto-quoting)."""
+    url = _GDELT + "?" + urllib.parse.urlencode(
+        {"query": query, "mode": "ArtList", "maxrecords": maxrec,
+         "format": "json", "timespan": "%dd" % days, "sort": "DateDesc"})
+    try:
+        req = urllib.request.Request(url, headers=_UA)
+        with urllib.request.urlopen(req, timeout=45) as r:
+            raw = r.read().decode("utf-8", "replace")
+        arts = (json.loads(raw) or {}).get("articles") or []
+        _NET["gdelt_ok"] += 1
+        return arts
+    except Exception as e:
+        _NET["gdelt_fail"] += 1
+        if _NET["gdelt_fail"] <= 5:
+            print("  gdelt(q) failed: %s" % (str(e)[:70]))
+        return []
+
 def _map_sub_keys():
     """iso3 -> ordered list of unique canonical subregion display keys (from the map)."""
     out = {}
@@ -1172,10 +1203,15 @@ def collect_by_subregion(budget_min=None, per_sub=12):
                 print("  wire subregions: %d-min budget reached at %d/%d (kept %d)" % (budget_min, done, total, len(out)))
                 return out
             done += 1
-            queryname = _SUB_ALIAS.get(canon, canon)   # search the English form; assign the map key
-            terms = _REGION_TERMS + (" " + ctx if ctx else "")
+            english = _SUB_ALIAS.get(canon)            # English alias where the map key is an endonym
+            names = [canon] + ([english] if english and english != canon else [])
+            namegroup = " OR ".join('"%s"' % n for n in names)   # local name OR English name
+            loc = _REGION_LOCALE.get(iso)
+            lang = (loc[0].split("-")[0] if loc else "").lower()
+            topic = _REGION_TERMS + (" OR " + _TOPIC_BY_LANG[lang] if lang in _TOPIC_BY_LANG else "")
+            query = "(%s) (%s)" % (namegroup, topic) + (" " + ctx if ctx else "")
             kept = 0
-            for art in _gdelt(queryname, terms, 120, maxrec=40):
+            for art in _gdelt_q(query, 120, maxrec=40):
                 if kept >= per_sub:
                     break
                 title = (art.get("title") or "").strip()

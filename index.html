@@ -660,6 +660,7 @@ try{
 }catch(e){}
 
 ['sidebar','rightbar','helpPanel','indexPanel','controls','legend'].forEach(function(id){var el=document.getElementById(id);if(el){L.DomEvent.disableScrollPropagation(el);L.DomEvent.disableClickPropagation(el);}});
+try{ ['.help-body','#infoBody','#guideBody','#idxList','#tourBody'].forEach(function(sel){ document.querySelectorAll(sel).forEach(function(el){ if(window.L){ L.DomEvent.disableScrollPropagation(el); } el.addEventListener('wheel',function(ev){ ev.stopPropagation(); }, {passive:true}); }); }); }catch(e){}
 L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{noWrap:true,bounds:[[-85.05,-180],[85.05,180]],attribution:'Satellite: &copy; Esri, Maxar | Data: Verified public sources',maxZoom:18}).addTo(map);
 L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}',{noWrap:true,bounds:[[-85.05,-180],[85.05,180]],maxZoom:18,opacity:0.6}).addTo(map);
 
@@ -945,7 +946,7 @@ function gbApplyBubble(iso,layer){ if(!layer) return;
 }
 function showInfoPanel(html){ document.body.classList.add('info-open'); const b=document.getElementById('infoBody'); if(b)b.innerHTML=html; const p=document.getElementById('infoPanel'); if(p){ try{ if(window.innerWidth>640){ const ix=document.getElementById('indexPanel'); if(ix){ const r=ix.getBoundingClientRect(); p.style.left=(Math.round(r.right)+12)+'px'; } const wp=document.getElementById('wirePanel'); if(wp){ const wr=wp.getBoundingClientRect(); var _tv=Math.max(70,Math.round(wr.bottom)+12); _tv=Math.min(_tv, window.innerHeight-260); p.style.top=_tv+'px'; p.style.maxHeight=(window.innerHeight-_tv-16)+'px'; p.style.overflowY='auto'; } } }catch(e){} p.classList.add('open'); } }
 function hideInfoPanel(){ const p=document.getElementById('infoPanel'); if(p)p.classList.remove('open'); document.body.classList.remove('info-open'); }
-function gbFitPad(sz){ return (window.innerWidth<=640) ? {paddingTopLeft:[40,95],paddingBottomRight:[40,Math.round(sz.y*0.5)+16]} : {paddingTopLeft:[Math.min(720,Math.max(640,Math.round(sz.x*0.45)),sz.x-300),72],paddingBottomRight:[40,50]}; }
+function gbFitPad(sz){ return (window.innerWidth<=640) ? {paddingTopLeft:[40,95],paddingBottomRight:[40,Math.round(sz.y*0.5)+16]} : {paddingTopLeft:[Math.max(660,Math.min(720,Math.round(sz.x*0.45))),72],paddingBottomRight:[40,50]}; }
 function gbFitWithPanel(bounds){ if(!bounds)return; try{ gbFitTime=Date.now(); map.fitBounds(bounds,gbFitPad(map.getSize())); }catch(e){} }
 function gbPanClear(latlng){ if(!latlng||gbDragging)return; try{
   const card=document.getElementById('infoPanel'); if(!card||!card.classList.contains('open'))return;
@@ -991,7 +992,8 @@ function _usGuide(iso){ var g=_GUIDES[iso]; if(!g) return ''; return '<div class
 function gbEnterCountry(iso,feat,latlng){ gbClear(); gbNav={iso:iso,feat:feat,adm4:null}; gbStack=[{type:'country',lvl:'ADM0',feat:feat,bounds:gbFeatBounds(feat)}];
   const nv=natVis(iso), nm=(trackerData[iso]&&trackerData[iso].name)||(feat.properties&&feat.properties.name)||iso;
   let body = nv.length ? popHTML(nm,nv,'country','') : (trackerData[iso]?countryNoDataHTML(iso,nm,''):('<div class="popup-country">'+nm+'</div><div class="no-data">No verified independent database found for this country in any lens.</div>'));
-  body = body.replace('</div>','</div>'+_usGuide(iso),1);
+  gbPopupCtx={iso:iso,lvl:'ADM0',feat:feat,bounds:(gbStack[0]&&gbStack[0].bounds)||gbFeatBounds(feat)};
+  body = body.replace('</div>','</div>'+gbZoomBar('ADM0')+_usGuide(iso),1);
   showInfoPanel(body);
   gbFitCountry(feat);
   /* card clearance is handled by the fit's left reserve (gbFitPad) in one animation; no secondary pan */
@@ -1110,7 +1112,7 @@ function gbUnitPopup(iso,lvl,feat,latlng,bounds){
   const hasHigher=higher.length;
   if(hasHigher){ body+='<div class="scope-head" title="Placed by who they serve, not where their office is \u2014 a firm or group serving the whole state/country appears here even if it is based in one town.">Higher-level / region-wide sources</div>';
     if(higher.length)body+=lensGroupsHTML(higher,'country'); }
-  if(!hasLocal&&!hasHigher){ body=regionNoDataHTML(iso, ownRegion||nm, badge); }
+  if(!hasLocal&&!hasHigher){ body=regionNoDataHTML(iso, ownRegion||nm, badge).replace('</div>','</div>'+gbZoomBar(lvl),1); }
   showInfoPanel(body);
 }
 function gbDescend(lvl,isAdm4,feat,bounds,latlng){ if(!gbNav)return; gbUnitPopup(gbNav.iso,isAdm4?'ADM4':lvl,feat,latlng,bounds); gbFitWithPanel(bounds);
@@ -1129,6 +1131,7 @@ function gbZoomBar(lvl){
     +'<button type="button" class="gb-zoombtn" onclick="gbUnitDown();return false;" title="Drill into the sub-areas of this unit">\u2193 Lower level</button>'
     +'</div>'; }
 function gbUnitDown(){ if(!gbNav||!gbPopupCtx||!gbPopupCtx.feat)return;
+  if(gbPopupCtx.lvl==='ADM0'){ try{ gbShow(); }catch(e){} return; }   /* national box: (re)draw the country's regions to click into */
   try{ var bnds=gbPopupCtx.bounds||gbFeatBounds(gbPopupCtx.feat); gbDescend(gbPopupCtx.lvl,false,gbPopupCtx.feat,bnds,null); }catch(e){} }
 function gbUnitUp(){ if(!gbNav)return;
   var idx=-1; if(gbPopupCtx&&gbPopupCtx.feat){ for(var i=gbStack.length-1;i>=0;i--){ if(gbStack[i].feat===gbPopupCtx.feat){ idx=i; break; } } }
@@ -1988,8 +1991,8 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
     }
     var s=impact>=5?30:impact>=4?27:impact>=3?24:impact>=2?21:19, hh=Math.round(s*1.3);
     var svg='<svg width="'+s+'" height="'+hh+'" viewBox="0 0 24 32" xmlns="http://www.w3.org/2000/svg">'
-      +'<path d="M12 1.4C6.1 1.4 1.4 6.1 1.4 12c0 7.4 9.3 17.9 10.2 18.9.2.2.6.2.8 0C13.3 29.9 22.6 19.4 22.6 12 22.6 6.1 17.9 1.4 12 1.4z" fill="'+c+'" stroke="#242124" stroke-width="2"/>'
-      +'<circle cx="12" cy="12" r="4" fill="#faf0e6"/></svg>';
+      +'<path d="M12 1.4C6.1 1.4 1.4 6.1 1.4 12c0 7.4 9.3 17.9 10.2 18.9.2.2.6.2.8 0C13.3 29.9 22.6 19.4 22.6 12 22.6 6.1 17.9 1.4 12 1.4z" fill="'+c+'" stroke="#0f2a18" stroke-width="1.3"/>'
+      +'<circle cx="12" cy="12" r="3.4" fill="'+c+'" stroke="#0f2a18" stroke-width="1"/></svg>';
     return L.divIcon({html:svg,className:"pjm-pin",iconSize:[s,hh],iconAnchor:[s/2,hh],popupAnchor:[0,-hh+5]});
   }
   var pjQ="", pjSizes=new Set(), pjWindow=0, pjInclUndated=true;
@@ -2313,7 +2316,7 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
 #tourBtn:hover{filter:brightness(1.12);}
 #tourPanel{display:none;position:fixed;inset:0;z-index:12000;pointer-events:none;}
 #tourPanel.open{display:block;}
-#tourCard{pointer-events:auto;position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);width:min(430px,calc(100vw - 28px));max-height:80vh;display:flex;flex-direction:column;background:#0b2417;border:1px solid #3fa66a;border-radius:12px;box-shadow:0 18px 60px rgba(0,0,0,0.55);}
+#tourCard{pointer-events:auto;position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);width:min(600px,calc(100vw - 28px));max-height:72vh;display:flex;flex-direction:column;background:#0b2417;border:1px solid #3fa66a;border-radius:12px;box-shadow:0 18px 60px rgba(0,0,0,0.55);}
 #tourHead{display:flex;align-items:center;gap:10px;padding:12px 14px;border-bottom:1px solid rgba(120,200,150,0.3);cursor:move;touch-action:none;user-select:none;}
 #tourStepN{font-size:10px;font-weight:800;letter-spacing:.6px;color:#07130d;background:#70cb92;border-radius:10px;padding:2px 8px;white-space:nowrap;}
 #tourTitle{font-weight:800;color:#dff5e6;font-size:14px;flex:1;}

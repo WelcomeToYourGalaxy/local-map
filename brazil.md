@@ -181,7 +181,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong "strategic project" backing, or a developer-funded EIA)
 
@@ -190,7 +189,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A federal "strategic" megaproject, developer-only studies, use of suspensão de segurança)
@@ -228,6 +226,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also put well-argued objections on the record at the **audiência pública** and handed the **Ministério Público** a documented complaint is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What Brazilian Campaigns Actually Show
+
+A few patterns recur. **Organised opposition is the engine**, and a documented file is its ammunition. Brazil's distinctive lever is the **Ministério Público** — the prosecutors who, through the public civil action (*ação civil pública*), can and do move courts to suspend a licence — so a well-built complaint to the MP is often worth more than any objection. **Indigenous, quilombola, and traditional-community consultation** rights add a second powerful front where they are engaged. **A durable coalition and sustained media** supply the political weight, and the courts and the MP the legal teeth. **The ceiling turns on the project's backing** — a lawfully-approved, politically-favoured project is usually delayed, conditioned, or redesigned, while a defective licence or a violated consultation can be undone. The through-line: **build the file, take it to the MP and the courts, and hold the coalition and the coverage together.**
 
 # STEP 1: TARGET IDENTIFICATION
 

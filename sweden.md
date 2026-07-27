@@ -182,7 +182,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (A strong green-transition push, or an applicant-funded EIA)
 
@@ -191,7 +190,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A national-priority project, applicant-only studies, heavy political backing)
@@ -229,6 +227,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also engaged in the **consultation** and lined up a qualifying **environmental organisation** to appeal is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What Swedish Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and Sweden's distinctive lever is the **land and environmental courts**, which can refuse or overturn a permit under the Environmental Code, with **association standing** and **EU environmental law** reinforcing them. **The permit process and its consultation** supply the procedural footholds, and where **Sami reindeer-herding rights** are engaged they add a powerful further front. **A durable coalition and sustained media** turn these into political cost. **The ceiling depends on the merits and the politics** — a lawfully-permitted project is usually conditioned or delayed, while a defective permit or an unaddressed Sami interest is genuinely vulnerable. The through-line: **build the file, use the environmental courts with EU law and association standing, and hold the coalition and coverage.**
 
 # STEP 1: TARGET IDENTIFICATION
 

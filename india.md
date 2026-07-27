@@ -184,7 +184,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong pro-investment push, or a developer-funded EIA)
 
@@ -193,7 +192,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A national-priority project, developer-only studies, heavy political backing)
@@ -231,6 +229,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also put well-argued objections on the record at the **public hearing** and, where forest or tribal rights are involved, insisted on the **gram sabha's** say, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What Indian Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and India's distinctive lever is the **National Green Tribunal (NGT)** — a specialist body that, with the High Courts and the Supreme Court, has suspended and quashed environmental clearances — reinforced by a strong tradition of **public-interest litigation**. **The environmental-clearance process and its public hearing** supply the procedural footholds, and **a durable coalition and sustained media** the political weight. **The ceiling depends on the project's backing** — a favoured project is often delayed, conditioned, or redesigned, while a defective clearance or a skipped hearing is genuinely vulnerable. The through-line: **build the file, take it to the NGT and the courts, and hold the coalition and coverage together.**
 
 # STEP 1: TARGET IDENTIFICATION
 

@@ -125,7 +125,6 @@ None of this makes a decision inevitable. It explains why decisions rarely tip y
 - **The duty to consult** itself acts as a check: courts have overturned major approvals where the Crown failed to consult adequately.
 - **Provincial ombudspersons and auditors** — investigate maladministration and spending.
 
-
 ---
 
 # QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
@@ -171,7 +170,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Some royalty dependence or proponent-funded assessment)
 
@@ -180,7 +178,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (Heavy royalty dependence, proponent-only assessment, "free entry" tenure)
@@ -218,6 +215,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organized, visible community — standing in respectful alliance with affected Indigenous nations — is more persuasive than perfect documentation or brilliant legal arguments on their own.
 
 ---
+
+## What Canadian Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a rigorous file are the base**, but Canada's distinctive and most powerful lever is **Indigenous rights and the Crown's duty to consult and accommodate** — the ground on which the most significant projects have been delayed, redesigned, or stopped. **Judicial review and the impact-assessment process** give further, reliable footholds where consultation or procedure was defective. **A broad coalition and sustained media** convert these into political cost. **The ceiling depends on the merits and the politics** — a lawfully-approved, wanted project is more often conditioned or delayed than cancelled, while a project that shortcut consultation or assessment is genuinely vulnerable. The through-line: **combine the documented file, the duty-to-consult and assessment levers, judicial review, coalition, and media — with Indigenous-led leadership central where rights are engaged.**
 
 # STEP 1: TARGET IDENTIFICATION
 
@@ -680,6 +681,10 @@ Evidence only counts when it is aimed at a specific legal ground. Here is how th
 **A decision that ignored its own evidence → unreasonableness.** Canadian courts review administrative decisions for reasonableness; a conclusion that contradicts the record is vulnerable. Feed it with: the specific finding and the record that contradicts it.
 
 The pattern: match one clean, documented defect to one clear ground, and lead with the duty-to-consult and procedural grounds — they can quash an approval without your having to win the argument about whether the project is "good." An environmental-law charity (see the previous section) can tell you fast which ground is live.
+
+## One Fact, Many Arguments
+
+A single documented fact does several jobs at once. Take one finding — that the Crown proceeded without adequate consultation of an affected Indigenous nation. As a **legal argument**, it engages the constitutional **duty to consult and accommodate**, the ground on which Canada's most significant projects have been sent back, redesigned, or stopped, and supports **judicial review**. As an **assessment argument**, it shows the impact-assessment record was incomplete. As a **political argument**, it is a reconciliation failure that governments are increasingly unwilling to defend. As a **media argument**, it is a clear, resonant story of rights ignored. Going through your strongest facts and asking what each proves to a court, a regulator, a minister, and a newsroom turns your documentation into a campaign's argument bank — with Indigenous-led leadership central wherever rights are engaged, because that is both the strongest legal position and the right one.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 

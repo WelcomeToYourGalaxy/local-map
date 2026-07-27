@@ -361,56 +361,56 @@ Be accurate always; a single exaggeration can discredit the campaign and expose 
 
 Written communications are how you create records, invoke your rights, and put the authorities on notice — and in Russia, a written, filed, strictly-technical submission is far safer and often more effective than any public action. Every letter does double duty: it asks for something, and it documents that you asked, so that a response or silence becomes evidence. Keep copies of everything. Below are adaptable templates for the situations you will meet most often. Keep them factual, narrow, technical, and framed around environmental law and a specific place — never political, never touching authority or the war.
 
-## Template A — Request for Environmental Information
+## 8A. Request for Environmental Information
 
 **To:** the competent environmental authority / the project developer
 **Subject:** Request for environmental information — [project / location]
 
 I am a resident of [area] affected by [project]. Under the environmental-information provisions of the Federal Law "On Environmental Protection," I request: the environmental impact assessment (OVOS) materials and impact statement; the notice and records of the public hearing; the State Environmental Expertise conclusion; the project's permits and their conditions; and environmental monitoring data. Please provide these within the period established by law. If any item is withheld, please state the specific legal basis.
 
-## Template B — Objection at the OVOS Public Hearing
+## 8B. Objection at the OVOS Public Hearing
 
 **To:** the authority and developer conducting the public participation
 **Subject:** Comments on the environmental impact assessment — [project / location]
 
 Within the public participation period announced on [date], I submit the following comments as an affected resident. **First**, the assessment does not adequately evaluate [water / forest / air / protected-area / proximity] impacts, in that [specific deficiency]. **Second**, [further substantive deficiency]. **Third**, the public participation itself was deficient, in that [e.g., the notice, location, timing, or accessibility did not meet the requirements of the OVOS Regulations and the Federal Law "On Ecological Expertise"]. I request that these be addressed before any State Environmental Expertise, and that I be notified in writing of the outcome. I ask that these comments be entered in the record.
 
-## Template C — Complaint to the Environmental Inspectorate (Rosprirodnadzor)
+## 8C. Complaint to the Environmental Inspectorate (Rosprirodnadzor)
 
 **To:** the territorial office of Rosprirodnadzor
 **Subject:** Report of an environmental violation — [project / location]
 
 I report the following apparent violation at [location]: [describe — e.g., works without a required State Environmental Expertise; construction or discharge breaching standard X; encroachment on a protected natural area], evidenced by [dated documents / photographs attached]. I request an inspection and, where a violation is confirmed, appropriate enforcement measures, and written notification of the action taken.
 
-## Template D — Application to the Prosecutor's Office
+## 8D. Application to the Prosecutor's Office
 
 **To:** the [district / regional] prosecutor's office
 **Subject:** Request to check the legality of [project / decision]
 
 I ask the prosecutor's office, in exercise of its supervision of legality, to check whether [project / decision] at [location] complies with environmental legislation. Specifically, [set out the documented violation — e.g., approval without the required environmental expertise; a public hearing conducted in breach of the requirements; an unlawful resource allocation]. The supporting evidence is attached. I request that measures be taken to remedy any violation found, and that I be informed of the result.
 
-## Template E — Administrative Challenge to a Specific Decision
+## 8E. Administrative Challenge to a Specific Decision
 
 **To:** the higher authority or the administrative court, as advised by counsel
 **Subject:** Challenge to decision [number / date] — [project]
 
 As a resident directly affected by [the decision — e.g., the approval / permit / land allocation], I challenge it on the grounds that it was adopted in breach of [the specific requirement — e.g., the public-consultation requirement, absence of which permits the decision to be challenged and its validity terminated]. The specific defects are [list, each with the rule and the proof]. I request that the decision be invalidated and the matter conducted lawfully.
 
-## Template F — Initiating a Public Ecological Expertise
+## 8F. Initiating a Public Ecological Expertise
 
 **To:** [the qualifying public organisation / the registering authority]
 **Subject:** Public Ecological Expertise of [project]
 
 [As / on behalf of] a public organisation whose activities include environmental protection, we notify our intention to conduct a Public Ecological Expertise of [project], as provided by the Federal Law "On Ecological Expertise," and request registration of this expertise and access to the project materials necessary to conduct it. [Set out the organisation's standing and the scope proposed.]
 
-## Template G — Petition for Protected-Area Status
+## 8G. Petition for Protected-Area Status
 
 **To:** the competent authority for specially protected natural areas
 **Subject:** Request to protect [site]
 
 We request that [site] at [location] be granted specially protected natural status under the Federal Law "On Specially Protected Natural Areas," on the grounds that it possesses [the specific natural / ecological / heritage values documented]. The site is threatened by [project]. We attach supporting evidence and request consideration and a written response.
 
-## Template H — Letter to Local Representatives and Authorities
+## 8H. Letter to Local Representatives and Authorities
 
 **To:** [local / regional deputies / the administration]
 **Subject:** [Project] — request to protect residents and the environment lawfully

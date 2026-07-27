@@ -376,14 +376,14 @@ Be accurate always: one exaggeration handed to the other side can discredit an e
 
 Written communications are how you create records, trigger deadlines, and put institutions on notice. Every letter does double duty: it asks for something, and it documents that you asked — so that silence or refusal becomes evidence. Keep copies of everything you send and receive. Below are adaptable templates for the situations you will meet most often in Serbia. Adapt them to your facts, keep them factual and firm, and always frame your request as insisting the law be followed.
 
-## Template A — Request for Environmental Information
+## 8A. Request for Environmental Information
 
 **To:** the competent authority (Ministry of Environmental Protection, or municipal/provincial environmental department)
 **Subject:** Request for access to environmental information — [project name/location]
 
 I am writing on behalf of [name/community/association] to request access to environmental information under the Law on Environmental Protection and the Aarhus Convention. In relation to [project name] at [location], please provide: the environmental impact assessment study and the screening and scoping decisions; the consent decision and its conditions; the underlying spatial/urban plan and its strategic environmental assessment; and all environmental monitoring data held in connection with the project. Please provide these within the period set by law. If any document is withheld, please state the specific legal basis for the refusal.
 
-## Template B — Freedom-of-Information Request (and Commissioner escalation)
+## 8B. Freedom-of-Information Request (and Commissioner escalation)
 
 **To:** the public body holding the records
 **Subject:** Request for information of public importance — [project name]
@@ -392,42 +392,42 @@ Under the Law on Free Access to Information of Public Importance, I request copi
 
 *(If refused or ignored, escalate:)* As no lawful response has been provided within the statutory period, I will lodge a complaint with the Commissioner for Information of Public Importance seeking an order for disclosure.
 
-## Template C — Written Objection During Public Insight
+## 8C. Written Objection During Public Insight
 
 **To:** the competent authority conducting the public insight
 **Subject:** Objection to the EIA study — [project name/location]
 
 Within the public-insight period announced on [date], I submit the following objections to the environmental impact assessment study for [project]. **First**, the study fails to adequately assess [water/farmland/health/protected area/cumulative] impacts, in that [specific deficiency]. **Second**, [further substantive defect]. **Third**, the public-participation process was itself deficient, in that [e.g., the notice, location, or period did not meet the requirements of the Law on EIA and the Aarhus Convention]. For these reasons, consent should be refused and the identified deficiencies remedied. I request written notification of the decision and of how these objections were considered.
 
-## Template D — Complaint to the Inspectorate
+## 8D. Complaint to the Inspectorate
 
 **To:** the environmental / construction / water inspectorate
 **Subject:** Request for inspection and enforcement — [project/location]
 
 I report the following apparent breach at [location]: [describe — e.g., works without or exceeding a permit; construction begun without required consent; breach of consent conditions], evidenced by [dated photographs/documents attached]. I request an inspection, and that any unlawful works be halted and appropriate measures ordered. Please inform me in writing of the action taken.
 
-## Template E — Administrative Appeal / Notice of Legal Challenge
+## 8E. Administrative Appeal / Notice of Legal Challenge
 
 **To:** the second-instance authority (for local decisions) or as the basis for court proceedings
 **Subject:** Appeal against decision [number/date] — [project]
 
 I appeal against the decision [identify it], on the grounds that it was adopted in breach of [the relevant law — e.g., the public-participation requirements of the Law on EIA; the Strategic Environmental Assessment obligation for the underlying plan; the expropriation procedure]. The specific breaches are: [list, each with the rule and the proof]. I request that the decision be annulled and the matter remitted for a lawful procedure.
 
-## Template F — Letter to the Foreign Parent Company / Its Investors
+## 8F. Letter to the Foreign Parent Company / Its Investors
 
 **To:** the parent company's board / sustainability office / major investors
 **Subject:** Legal, reputational, and social risk — [project] in Serbia
 
 We write regarding [subsidiary]'s [project] in [location], Serbia. The project faces documented breaches of Serbian environmental and planning law and of the Aarhus Convention [summarise], is the subject of legal challenge, and is opposed by an overwhelming majority of the affected public and, in national polling, of the country. We ask the board to account for how this exposure is consistent with the company's stated environmental, social, and human-rights commitments, and to disclose the risks to investors. We are documenting these matters for regulators and the public in your home market.
 
-## Template G — Submission to an International Body
+## 8G. Submission to an International Body
 
 **To:** the Aarhus Convention Compliance Committee / European Commission (Chapter 27) / Energy Community Secretariat
 **Subject:** Breach of [convention right / EU environmental acquis] — [project], Serbia
 
 We submit that, in relation to [project], the authorities of Serbia breached [the specific obligation — e.g., the Aarhus rights to information, participation, and access to justice; the requirements of the EIA/SEA framework]. The facts are [summarised, dated, sourced], and domestic remedies have [been exhausted / proved ineffective because…]. We request that this be examined and that Serbia be called to bring its conduct into compliance.
 
-## Template H — Letter to Elected Representatives and the Municipality
+## 8H. Letter to Elected Representatives and the Municipality
 
 **To:** local councillors / mayor / members of the National Assembly
 **Subject:** [Project] — request to protect residents and the law

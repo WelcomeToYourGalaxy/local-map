@@ -144,7 +144,6 @@ None of this makes a decision inevitable. It explains why a decision rarely tips
 - **The courts (the Planning Court, part of the High Court)** — can quash a decision that was made unlawfully.
 - **The Office for Environmental Protection (OEP)** — the environmental watchdog that oversees whether public bodies are complying with environmental law.
 
-
 ---
 
 # QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
@@ -192,7 +191,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong pro-growth policy pressure or applicant-funded assessment)
 
@@ -201,7 +199,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (Central "call-in" or NSIP route, applicant-only assessment, heavy political backing)
@@ -239,6 +236,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also filed sharp objections on the planning record is more persuasive than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What UK Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and the UK's distinctive levers are the **EIA regime** and **judicial review**, through which the courts have quashed consents reached unlawfully, alongside the **planning process and public inquiry**. **A durable coalition and sustained media** supply the political weight that decision-makers feel. **The ceiling depends on the merits and the politics** — a lawfully-consented, wanted project is usually delayed, conditioned, or redesigned, while a defective consent or a flawed assessment is genuinely vulnerable to judicial review. The through-line: **build the file, work the planning process and inquiry, hold the EIA and judicial-review levers, and keep the coalition and coverage together.**
 
 # STEP 1: TARGET IDENTIFICATION
 

@@ -183,7 +183,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong pro-investment Land, or a developer-funded assessment)
 
@@ -192,7 +191,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A project in "overriding public interest," accelerated permitting, developer-only studies)
@@ -230,6 +228,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also lodged well-argued **objections** on time and lined up a **recognised association** to litigate is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What German Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a rigorous file are the base**, and Germany's distinctive levers are the **administrative courts**, which can annul an approval, and **association standing (*Verbandsklage*)**, which lets recognised environmental organisations litigate in the public interest. **The planning-approval process (*Planfeststellung*) and its public participation** supply the procedural footholds, and **a durable coalition and sustained media** the political weight. **The ceiling turns on the merits and the politics** — a lawfully-approved, favoured project is usually delayed, conditioned, or redesigned, while a defective approval or a habitats/species breach can be annulled. The through-line: **build the file, use association standing and the administrative courts, and hold the coalition and coverage together.**
 
 # STEP 1: TARGET IDENTIFICATION
 

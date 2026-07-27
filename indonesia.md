@@ -181,7 +181,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong pro-investment push, or a developer-funded AMDAL)
 
@@ -190,7 +189,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A National Strategic Project, developer-only studies, heavy political backing)
@@ -228,6 +226,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also put well-argued objections on the record at the **public consultation** and, on customary land, asserted its recognised **rights**, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What Indonesian Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and Indonesia's distinctive levers are the **administrative court** and the **citizen lawsuit (*gugatan warga negara*)**, through which permits and environmental approvals have been cancelled. **The environmental-impact process (*AMDAL*) and its public participation** supply the procedural footholds, and where Indigenous (*masyarakat adat*) lands are affected, **customary-rights claims** add a further front. **A durable coalition and sustained media** turn these into political cost. **The ceiling turns on the project's backing** — a favoured project is usually delayed or conditioned, while a defective AMDAL or an unlawful permit is genuinely vulnerable. The through-line: **build the file, use the administrative court and citizen suit, and hold the coalition and coverage.**
 
 # STEP 1: TARGET IDENTIFICATION
 

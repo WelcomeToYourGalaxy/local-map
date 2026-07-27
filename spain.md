@@ -184,6 +184,9 @@ The lesson from winning Spanish campaigns is consistent: they combined a rigorou
 
 ---
 
+## What Spanish Campaigns Actually Show
+
+A few patterns recur. Spain's distinctive lever is **open standing plus procedural rigour** before the administrative courts, with **EU law** behind it: with a rigorous file, the *alegaciones*, and a durable coalition, a defective assessment or authorisation is unusually achievable to annul.
 # STEP 1: TARGET IDENTIFICATION
 
 You cannot fight what you have not precisely identified. Before anything else, answer five questions. Write the answers down in a shared document your whole group can see — this becomes the campaign's factual spine, and it stops the group arguing about things that are actually knowable.
@@ -696,12 +699,8 @@ Winning campaigns: identify the exact decision and deadline; constitute a proper
 ## Real Outcomes: What Winning Looks Like
 
 "Winning" takes several forms, and it is worth naming them so you recognise a win when you get one:
-- a **negative DIA**, or one so heavily conditioned that the project becomes uneconomic;
-- a **refused authorisation or licence**;
-- a **court annulment** — often on procedural grounds — that sends the project back to the start or kills it;
-- a **lapsed DIA** where delay ran out the validity clock;
-- a **developer withdrawal** after cost, delay, and reputational damage mounted;
-- or a project so **reshaped or relocated** by conditions and pressure that the worst harm is avoided.
+- a **negative or heavily-conditioned DIA**, a **refused authorisation**, or a **court annulment** (often on procedural grounds) that sends the project back or kills it;
+- a **lapsed DIA**, a **developer withdrawal** after cost and delay mounted, or a project so **reshaped or relocated** that the worst harm is avoided.
 
 Communities in Spain have achieved each of these — usually through the combination of a rigorous file, open-standing litigation, and sustained public pressure, not through any single lever.
 

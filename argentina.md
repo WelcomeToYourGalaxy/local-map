@@ -58,7 +58,6 @@ None of this means you lose. It means you should expect the system to lean towar
 
 ---
 
-
 # HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
 
 Before the steps, a plain-language primer. If you understand this section, you are ahead of most people who walk into this fight.
@@ -117,18 +116,23 @@ The **courts** (provincial, federal, and the **Corte Suprema de Justicia de la N
 
 ---
 
-
 # QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
 
 These figures are **directional estimates**, not published statistics. They reflect patterns seen across Argentine campaigns, and are here to help you allocate scarce time and money — not to promise an outcome.
 
 ## Individual Step Success Rates
 
-- **Documentation alone:** low as a stopper (~10–20%). A strong record rarely stops a project by itself, but it is the foundation everything else stands on.
-- **Local opposition alone:** moderate (~20–35%). Sustained assemblies raise the political cost, but organising without a legal or media track tends to plateau.
-- **Legal challenge alone:** variable (~25–45%). An amparo can win a pause or a cancellation, especially on procedural defects or precautionary grounds — but courts dislike substituting their judgment for the agency's on the merits.
-- **Media alone:** low as a stopper (~10–20%). Coverage shifts politics but doesn't decide permits.
-- **Citizen participation done well:** underrated (~30%). Substantive written observations that go unanswered create a reviewable legal defect.
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 10–20% | 1–3 months | low | Foundation for every other step |
+| **Local opposition / assembly only** | 20–35% | 3–18 months | low | Political cost; plateaus alone |
+| **Amparo / legal challenge only** | 25–45% | 3–24 months | low–moderate | Pause or cancellation on procedural or precautionary grounds |
+| **Media only** | 10–20% | ongoing | low | Shifts politics; does not decide permits |
+| **Citizen participation (substantive observations)** | ~30% | during review | low | Unanswered observations = a reviewable defect |
+| **Consulta popular / provincial legislation** | 30–55% | 6–36 months | low–moderate | Local vote or provincial ban (e.g. Esquel, Chubut) |
+| **All steps combined** | 40–60% | 12–36 months | low–moderate | Stopped, banned, redesigned, or delayed |
+
+**Key insight:** all steps together beat any single one, and Argentina's real strengths are the **amparo** (which can win a pause or cancellation on procedural or precautionary grounds), the **provincial consulta popular and legislation** (the route that produced provincial mining bans), **substantive citizen observations** that create reviewable defects, and the **federal structure** that lets a fight be won province by province. Its constraint is that **courts are reluctant to substitute their judgment for the agency's on the merits**, so the procedural and precautionary grounds matter most.
 
 ## Effectiveness Visualization
 
@@ -163,7 +167,6 @@ Argentina's record is unusually rich, because the assembly tradition has produce
 The through-line: durable assemblies, a specific legal or electoral instrument (a provincial law, a plebiscite, a municipal ordinance, a court order), and relentless visibility. None relied on a single tactic.
 
 ---
-
 
 # STEP 1: TARGET IDENTIFICATION
 
@@ -206,7 +209,6 @@ When a project spans levels, you may need to act on more than one front at once 
 Write the answers down in one page. That page is your campaign's spine.
 
 ---
-
 
 # STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
 
@@ -268,7 +270,6 @@ Argentina's inflation makes fixed peso figures go stale quickly, so treat these 
 - **Cost-saving routes:** public universities and CONICET researchers, pro-bono university law and science clinics, and volunteer professionals within the assembly can replace most paid work. Many of Argentina's strongest cases were documented almost entirely by volunteers.
 
 ---
-
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
@@ -360,7 +361,6 @@ Again, convert to current values given inflation. A year-long grassroots campaig
 
 ---
 
-
 # STEP 4: LEGAL CHALLENGES — PARTICIPATION, THE *AMPARO*, THE COURTS, AND THE ENFORCERS
 
 Legal action in Argentina is unusually accessible, because the Constitution and the General Environmental Law were written to open the courthouse door wide. You do not need to be the directly injured party to act; the affected person, environmental NGOs, the Ombudsman and the State all have standing, and *any* person may file an **amparo** to stop activity causing collective environmental damage. Treat the law as three tracks, escalating in force. **Get a lawyer early** — ideally one experienced in *derecho ambiental* — but understand the tracks yourself so you can direct the fight.
@@ -449,7 +449,6 @@ The lesson from Esquel to Andalgalá is consistent: communities with almost no m
 
 ---
 
-
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
 Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Argentina — so you file the right fact against the right rule.
@@ -465,6 +464,10 @@ Evidence only counts when it is aimed at a specific legal ground. Here is how th
 **The precautionary and non-regression principles.** Argentina's General Environmental Law (Ley 25.675) enshrines them. Feed it with: the environmental risk and the law's principles.
 
 The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." The amparo ambiental is fast and accessible; an environmental NGO can tell you how to plead it and the precautionary measure.
+
+## One Fact, Many Arguments
+
+A single documented fact does several jobs at once, and learning to translate it multiplies its power. Take one finding — that substantive written observations filed during the assessment went unanswered. As a **legal argument**, it is a reviewable procedural defect that supports an **amparo** on due-process and precautionary grounds. As a **participation argument**, it shows the agency ignored the public it was required to hear. As a **political argument**, it becomes the case for a **consulta popular** or a provincial bill — the route that, at Esquel, turned an unanswered community into an ~81% "No" and a provincial ban. As a **media argument**, "they never answered us" is concrete and damning. Work through your strongest facts this way, asking what each proves to a judge, a legislature, a mayor, and a newsroom, and a pile of documents becomes an argument bank. In Argentina's federal structure, the same fact can be pressed province by province until one province closes the door.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
@@ -509,9 +512,7 @@ Be strategic about Argentina's media landscape. Ownership is concentrated in a f
 
 Track what matters: stories placed, outlets reached, whether your framing and facts survive into the coverage, and — above all — whether decision-makers respond. Coverage that a governor or minister feels compelled to answer is worth more than clippings nobody in power reads.
 
-
 ---
-
 
 # SECTION 8: EMAILS & LETTERS YOU CAN COPY
 
@@ -621,7 +622,6 @@ Adapt these to your project and province. Keep them factual, brief and specific.
 
 ---
 
-
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
 Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
@@ -681,7 +681,6 @@ Some projects are stopped. Many are delayed, shrunk or improved. Some proceed de
 
 ---
 
-
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
 Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
@@ -726,7 +725,6 @@ Most bad decisions are lawful decisions you disagree with. But capture is real, 
 - Records refused, a hearing skipped, or a study that reads as fiction — escalate to legal and, if warranted, corruption channels.
 
 ---
-
 
 # FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
 

@@ -184,7 +184,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong pro-resource policy, royalty dependence, or proponent-funded assessment)
 
@@ -193,7 +192,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (State-significant designation, proponent-only assessment, heavy political backing)
@@ -231,6 +229,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also lodged sharp, well-grounded submissions on the record is more persuasive than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What Australian Campaigns Actually Show
+
+A few patterns recur. **Organised public opposition is the engine**, and a documented, well-argued case is what makes it stick. **Merits review** — having a specialist tribunal or planning court re-examine a decision on its facts, not only its legality — is Australia's distinctive and powerful lever, alongside judicial review of process. **Public submissions, a broad and durable coalition, and sustained media** turn a local objection into political pressure decision-makers feel, and Australia's biggest wins over iconic places came from exactly that combination. **And the ceiling depends on the merits and the politics** — a project approved lawfully and wanted by government is more often delayed, conditioned, or redesigned than stopped outright, while a flawed approval or one without political backing can be beaten. The through-line: **combine a rigorous file, a wide coalition, merits and judicial review, and media — no single lever wins alone.**
 
 # STEP 1: TARGET IDENTIFICATION
 

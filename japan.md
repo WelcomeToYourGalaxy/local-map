@@ -66,7 +66,6 @@ Japan's system is tilted toward development, and the narrow standing rule closes
 
 Read Sections 1–3 once. Then work Section 4 (Target Identification) immediately — it produces the facts every other step needs, above all your deadlines and which permits and ordinances apply. Sections 5–8 run in parallel. Sections 9–11 are reference material. Section 12 pulls it onto one timeline; Section 13 helps you decide, honestly, whether and when to keep going.
 
-
 ---
 
 # HOW THE SYSTEM WORKS
@@ -115,7 +114,6 @@ Understanding the pressures is targeting, not cynicism. Large projects bring inv
 - **The prosecutors and police** — for environmental crime and corruption.
 
 Naming the right body in a letter signals you understand the system, and involving the governor or municipal assembly early can change how a project proceeds.
-
 
 ---
 
@@ -179,7 +177,6 @@ Winning Japanese campaigns combined a durable residents' movement, a rigorous ev
 
 A few patterns recur across documented Japanese fights. The coal-plant cases (Kobe, Yokosuka, Sendai) show that administrative litigation alone tends to fail on standing — but that the same movements generated national attention, expert evidence, and political pressure that outlasted the court losses and shaped policy. Long anti-dam, anti-incinerator, and anti-reclamation struggles show that a **binding pollution control agreement** often protects a community more reliably than any judgment, because it is enforceable and specific. Coastal fights show that **fishing cooperatives** and their rights are among the most powerful levers in the country. And repeatedly, the decisive turn is political: a **governor or mayor** who, under sustained organised pressure, withholds cooperation or demands strict conditions. The through-line is that Japan rewards durable, broad, orderly local organising that uses the local and civil levers — not one-off protest and not a lone administrative lawsuit.
 
-
 ---
 
 # STEP 1: TARGET IDENTIFICATION
@@ -208,7 +205,6 @@ Map, factually and carefully: who profits, which companies are behind the propon
 ## Worked example: which lever is actually open
 
 Suppose a waste-incineration facility is proposed near your neighbourhood. Working the questions: **Q1** — the draft EIS admits dioxin and particulate emissions, heavy-truck traffic, and odour. **Q2** — the facility needs a **prefectural waste-disposal permit** (the governor), the municipality runs local consultation and could sign a **pollution control agreement**, and any EIA runs under the prefecture's ordinance. **Q3** — the live levers are the prefectural permit, a binding agreement with strict limits and a shutdown trigger, and, if operation threatens health, a **civil injunction** against the operator; an administrative suit to revoke the permit may founder on standing unless you live close enough to show a "legally protected individual interest." **Q4** — you diarise the comment windows and, once the permit issues, the appeal and revocation-suit clocks. **Q5** — the registry shows the operator's corporate ties and when the land was bought. In an afternoon you know which levers are open — and that the agreement and the civil route, not an administrative challenge, are your strongest cards.
-
 
 ---
 
@@ -294,8 +290,11 @@ Most of what wins a case already exists in public records. The job is knowing wh
 
 **Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the residents' groups, legal networks, and watchdogs already working nearby. Pull that thread first, then follow it into the registries and disclosure requests above.
 
-
 ---
+
+## Where the Japanese Record Lives
+
+Much of the Japanese paper trail is obtainable, and the country's **information-disclosure laws** — national and prefectural (*jōhō kōkai*) — are a central tool: use them to request the assessment documents, the approvals and their conditions, monitoring data, and the correspondence behind a decision, and treat any refusal as itself reviewable. The **environmental impact assessment file** — the scoping document, the draft and final assessment, and the opinions of the **Minister of the Environment** and the **prefectural governor** — is the spine of the case, and the governor's opinion in particular can supply authoritative reservations you can build on. **Prefectural and municipal assembly records**, ordinances, and any residents'-referendum results document the local position. Company and land facts sit in the commercial and real-property registers. For nature and species, the Ministry of the Environment's designations and Red Data listings establish what is at stake. Where a project involves public money or a public body's decision, the documents underlying that decision are the raw material of a residents' lawsuit. Gather these against the chain of decisions so each document attaches to the stage and the rule it concerns.
 
 # STEP 3: BUILDING LOCAL OPPOSITION
 
@@ -339,7 +338,6 @@ Two principles carry special weight here: **breadth and respectability** (a move
 
 **Step 4c: Prevent failure points.** Movements fade when they miss comment windows, rely on sentiment over evidence, splinter, or peak too early. Diarise every deadline, build the file, agree roles, and pace to the decision — which is usually longer than newcomers expect.
 
-
 ## Worked example: building a movement that can actually move a project
 
 A coastal town hears that a reclamation-and-power project will fill part of a bay used by the local fishing cooperative. A Facebook group of 2,000 appears overnight — high energy, no leverage. What converts it into force is unglamorous and must happen early. Within the first weeks the organisers do three things. First, they form a named **residents' group** with representatives, minutes, and a small treasury, and they secure a formal position from the **neighbourhood association (自治会)** — which local officials cannot easily ignore. Second, they bring in the **fishing cooperative (漁協)**, whose fishing rights are a distinct legal interest and whose members are directly, individually affected — exactly the kind of plaintiffs a **civil injunction** needs, and exactly the constituency a governor listens to. Third, they line up a physician and a marine scientist to review the assessment, so their comments read as evidence, not sentiment. By the time the draft assessment opens for comment, the movement can file mass comments, hand the governor a signed petition, demand a pollution control agreement, and credibly threaten an injunction with real plaintiffs. None of that required a lawsuit yet — but it made every later lever real. The lesson generalises: **in Japan, the movement you build in month one — broad, orderly, and anchored in directly-affected residents and cooperatives — is what makes the local, political, and civil levers work in month eight.**
@@ -347,7 +345,6 @@ A coastal town hears that a reclamation-and-power project will fill part of a ba
 ## Opposition Building Budget: Year-Long Campaign (JPY)
 
 Highly variable. A lean, mostly-volunteer movement runs on **tens to a few hundred thousand yen** (forming the group, printing, petitions, meetings). A campaign expecting litigation should budget for **expert reports (¥200,000–1,500,000)** and **legal costs (variable; a civil injunction or administrative suit can run into the millions of yen, less with reduced-rate lawyers)**. Japanese movements typically fund the legal stage through **membership dues, donations (カンパ), and coalition cost-sharing**. Keep transparent accounts — it protects credibility.
-
 
 ---
 
@@ -404,6 +401,10 @@ Betting everything on an administrative revocation suit that founders on standin
 
 ---
 
+## The Residents' Lawsuit and Revocation Litigation
+
+Two Japanese remedies deserve particular attention. The **residents' lawsuit (*jūmin soshō*)** lets residents challenge unlawful financial acts and certain decisions of a local public body — a powerful and distinctively accessible tool where a project depends on municipal or prefectural spending, a subsidy, a land transfer, or a public contract, because it lets you attack the public underpinning of a private project without needing to prove standing in the ordinary way. **Revocation litigation (*torikeshi soshō*)** challenges the lawfulness of an administrative disposition — an approval, a licence, a permit — and, while Japanese courts are frequently deferential to agencies on technical merits, they will examine whether the procedure was followed, whether the reasoning was adequate, and whether the assessment addressed what the law required. The practical lesson is to build the case on **procedure, reasoning, and participation** rather than on asking a court to second-guess the science, and to check early whether public money or a public decision is involved, because that is what unlocks the residents' suit. Both remedies have short deadlines, so identify the relevant disposition and diarise the limitation period the moment you learn of it.
+
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
 Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often work in Japan — so you file the right fact against the right rule.
@@ -424,6 +425,10 @@ The pattern: match one clean, documented fact to one clear ground, and lead with
 
 ---
 
+## One Fact, Many Arguments
+
+A single documented fact does several jobs at once, and translating it for each audience multiplies its power. Take one finding — that the environmental impact assessment's public-comment step was run so that residents' substantive objections went unaddressed. As a **legal argument**, it is a procedural defect supporting an administrative challenge and, where an approval or licence has issued, **revocation litigation (*torikeshi soshō*)** — where Japan's courts, though often deferential on the merits, do take procedure and reasoning seriously. As a **residents'-suit argument**, it can support a **residents' lawsuit (*jūmin soshō*)** challenging the lawfulness of public spending or decisions tied to the project. As a **local-democracy argument**, it strengthens the case for a **local ordinance or a residents' referendum (*jūmin tōhyō*)**, through which Japanese communities have expressed and hardened opposition. As a **political argument**, it shows the assessment was a formality. As a **media argument**, "they never answered us" is concrete. Going through your strongest facts and asking what each proves to a court, the assembly, the prefectural governor, and a newsroom turns your file into a campaign's argument bank — and in Japan the combination of procedural litigation, the residents' suit, and local-democracy tools has repeatedly outperformed any single channel.
+
 # STEP 5: MEDIA STRATEGY
 
 Media rarely stops a project by itself, but it raises the political cost of approval, protects the movement, sustains momentum, and reaches experts and allies you would not otherwise find.
@@ -433,7 +438,6 @@ Reporters need a story with a hook, a human face, a conflict, and a document. Ha
 
 ## The Newsworthiness Formula
 Local stakes + a credible threat + a deadline + a David-and-Goliath frame + a visual (the threatened coast or neighbourhood, a large signature drive, a packed meeting) = coverage. Japanese project fights — coal plants, incinerators, dams, base construction, fishing-ground reclamation — draw regional and national attention on exactly this formula, especially where health, fishing rights, or an ageing community are at stake.
-
 
 ## The framing that travels in Japan: health, fishing, and an ageing community
 
@@ -453,7 +457,6 @@ Launch with the comment window; refresh at each milestone — the mass comments,
 
 ## Media Measurement
 Track coverage, but measure what matters: whether the governor, mayor, and assemblies are responding, whether the movement is growing, whether experts and allies come forward, and whether the politics around the project is shifting.
-
 
 ---
 
@@ -567,7 +570,6 @@ Ready-to-adapt templates. Keep them factual, dated, and sourced. Submit importan
 ## Important Caveat
 Templates are starting points. Adapt every one to your real facts, cite the actual documents and dates, and — for anything heading to court — have counsel experienced in environmental litigation review it. Deadlines (especially the revocation-suit period) are strict; keep dated proof of everything you file.
 
-
 ---
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
@@ -585,6 +587,10 @@ Not everyone can build a residents' movement or run a multi-year campaign. With 
 Do only the first three and you've preserved the record, put a binding-agreement demand on the table, and left a trail others can pick up.
 
 ---
+
+## The Fastest High-Value Moves in Japan
+
+If time is short, concentrate on the moves that carry Japanese fights. **File information-disclosure requests now** for the assessment, the approvals, and the monitoring data — they start the record and often expose the gap. **Submit substantive written comments** during any assessment or consultation window before it closes; unanswered substantive objections become a reviewable defect. **Organise the community through its own structures** and reach the local assembly, because a local ordinance or a residents' referendum is a powerful expression of will that officials feel. **Identify whether public money or a public decision is involved**, since that opens the residents' lawsuit (*jūmin soshō*). And **get a lawyer experienced in administrative and revocation litigation** onto the strongest procedural defect early, because deadlines to challenge a decision are short. Do these, and you will have preserved your legal position, started your record, engaged local democracy, and found the channel — procedural litigation, the residents' suit, or the referendum — that fits your project.
 
 # WHEN THE SYSTEM IS TILTED
 
@@ -612,6 +618,10 @@ Tilted fights are harder and some are lost. But "harder" is not "hopeless" — t
 
 ---
 
+## Where Japan's Tilt Shows — and What Still Works
+
+Japan's tilt is subtler than outright repression: it is administrative deference, close ties between ministries, industry, and the bodies that assess projects, and courts reluctant to overturn an agency's judgment on the merits. Large infrastructure and energy projects carry strong bureaucratic and political momentum, and public participation can be treated as a formality. What still works within this is precisely what the deference does not reach: **procedure, reasoning, and disclosure**. A project whose assessment skipped a step, whose public comment went unanswered, or whose disclosures do not withstand an information-disclosure request is exposed on grounds the courts will consider. And where the deference of the national system frustrates a community, **local democracy is the counterweight** — ordinances and residents' referendums have expressed opposition that reshaped or stalled projects, and the residents' lawsuit reaches the public money behind them. The honest frame: outright merits victories are hard, but forcing honest procedure, winning delay and conditions, and mobilising local democratic will are realistic and have repeatedly protected communities.
+
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
 Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
@@ -628,8 +638,11 @@ Most bad decisions are lawful decisions you disagree with. But capture is real, 
 
 **How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the prosecutors and police for bribery or bid-rigging, the audit commissioners and Board of Audit for public money, and the residents' audit route for local spending — not social media. A reckless public accusation can expose you to defamation liability and hand the operator a way to change the subject.
 
-
 ---
+
+## Capture, Japanese-Style — and How to Attack It
+
+In Japan, capture more often looks like structural coziness than an envelope of cash: the movement of retired officials into the industries they once regulated (*amakudari*), long-standing ties between a ministry, a utility or contractor, and the bodies that assess a project, and assessments commissioned in ways that make an inconvenient conclusion unlikely. None of this is illegal on its face, which is exactly why it is powerful — and why the attack on it is transparency, not accusation. Use information-disclosure requests to surface who assessed the project, on what terms, and what the internal reasoning was; use the residents' lawsuit to test the public money and decisions that underpin it; and document the pattern factually, letting the coziness speak for itself to the public and the courts. Where genuine unlawfulness — a rigged procurement, a falsified record, an undisclosed conflict — can be shown, the residents' suit and the ordinary courts are open. The lesson is the same as throughout Japan: build on procedure, reasoning, and disclosure, keep the case factual and documented, and let daylight do the work that direct confrontation cannot.
 
 # INTEGRATION & TIMELINE
 
@@ -673,6 +686,10 @@ The scoping or draft-assessment comment window is open (file now); land is being
 Winning campaigns: identify the live lever (usually local and civil, not administrative); build a broad, orderly, durable residents' movement; document rigorously to the tolerable-limit standard; win a binding pollution control agreement or mount a credible civil injunction; sustain media and political pressure on the governor and mayor; and hit every deadline. Losing campaigns: bet everything on an administrative suit blocked by standing; rely on sentiment; splinter; peak early; or miss the comment and revocation-suit deadlines.
 
 ---
+
+## Weaving the Japanese Strands Together
+
+The Japanese strands reinforce one another when run together. **Documentation and information-disclosure requests** feed everything; **substantive assessment comments** create the procedural record; **local-democracy tools** — the assembly, an ordinance, a referendum — build and express community will; **procedural and residents'-suit litigation** creates legal risk and delay; and **media** raises the political cost. A defective assessment step becomes a disclosure request, then a comment on the record, then a ground for revocation litigation; the public money behind the project becomes a residents' suit; the community's will becomes a referendum that shifts the politics the litigation runs alongside. Early on, file the disclosure requests, submit substantive comments before the window closes, and identify whether public money or a public decision is engaged. Through the middle phase, build the coalition, pursue the ordinance or referendum, and prepare the litigation on procedure and reasoning. Sustain all of it, mindful that deadlines are short and the courts reward procedural rigour over merits argument. No single strand tends to win in Japan; woven together, they have delayed, reshaped, and stopped real projects.
 
 # FINAL ASSESSMENT
 

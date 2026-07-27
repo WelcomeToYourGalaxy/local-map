@@ -183,7 +183,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (A strong mining/extraction push, or a developer-funded study)
 
@@ -192,7 +191,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A strategic mining/energy project, developer-only studies, heavy backing)
@@ -230,6 +228,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also filed **substantive citizen observations** and, where relevant, insisted on genuine **consultation**, is far more powerful than perfect documentation or a brilliant legal argument standing alone — because ignored observations and a missing consultation are grounds a court can act on.
 
 ---
+
+## What Chilean Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and documentation are the base**, and Chile's distinctive levers are the **environmental appeal, the Environmental Courts, and the SMA** — the superintendence whose enforcement can sanction and even close a non-compliant project. **Community mobilisation and sustained media** supply the political weight, and the specialised courts the legal teeth. Where Indigenous peoples are affected, **consultation rights** add a further front. **The ceiling turns on the project's legality and backing** — a lawfully-approved project is usually delayed, conditioned, or redesigned, while a defective assessment or a breach the SMA can act on is genuinely vulnerable. The through-line: **build the file, use the appeal, the Environmental Courts, and the SMA together, and hold the coalition and coverage.**
 
 # STEP 1: TARGET IDENTIFICATION
 

@@ -184,7 +184,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong royalty-driven push, or a developer-funded study)
 
@@ -193,7 +192,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A project of "national strategic interest," developer-only studies, heavy backing)
@@ -231,6 +229,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also put well-argued concerns on the record at the **public hearing** and, as an ethnic community, insisted on genuine **prior consultation**, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What Colombian Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and Colombia's distinctive levers are unusually strong: the **tutela** and the **popular/collective action (*acción popular*)**, through which courts have suspended licences and even recognised rights of nature. **Prior consultation (*consulta previa*)** of Indigenous and Afro-Colombian communities, and **municipal consultations**, add powerful further fronts. **A durable coalition and sustained media** turn these into political cost. **The ceiling depends on the project's backing** — a lawfully-approved, favoured project is usually delayed or conditioned, while a violated consultation or a defective licence can be undone. The through-line: **build the file, use the tutela and collective action, assert consultation, and hold the coalition and coverage together.**
 
 # STEP 1: TARGET IDENTIFICATION
 

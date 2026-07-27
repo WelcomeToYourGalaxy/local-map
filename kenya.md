@@ -179,7 +179,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong infrastructure push, or a developer-funded ESIA)
 
@@ -188,7 +187,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A flagship national project, developer-only studies, heavy political backing)
@@ -226,6 +224,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also turned out for **public participation** and documented its gaps is far more powerful than perfect documentation or a brilliant legal argument standing alone — because inadequate participation is the ground that wins.
 
 ---
+
+## What Kenyan Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and Kenya's distinctive levers are the **National Environment Tribunal**, which can revoke a licence, and the **Environment and Land Court**, backed by a **constitutional right to public participation** the courts take seriously. **The EIA process and its public participation** supply the procedural footholds, and **a durable coalition and sustained media** the political weight. **The ceiling turns on the project's backing** — a favoured project is usually delayed or conditioned, while a defective licence or a skipped public participation is genuinely vulnerable. The through-line: **build the file, take it to the tribunal and the Environment and Land Court, and hold the coalition and coverage together.**
 
 # STEP 1: TARGET IDENTIFICATION
 

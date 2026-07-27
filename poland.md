@@ -185,6 +185,10 @@ Winning Polish campaigns combined a rigorous file, a durable coalition and a reg
 
 ---
 
+## What Polish Campaigns Actually Show
+
+A few patterns recur. **Documentation is the foundation**, because only a rigorous file gives substance to everything else. Poland's distinctive lever is the **appeal (*odwołanie*) and the administrative court (*WSA*)**, unlocked by **joining the proceeding early as a party or a registered organisation** — the step that preserves standing. **Public participation** is the cheap, essential gateway, and **EU environmental law** a powerful backstop where national process falls short. **A durable coalition and sustained media** supply the political weight. **The ceiling depends on the merits and the politics** — a lawfully-approved project is usually delayed or conditioned, while a defective decision can be overturned. The through-line: **build the file, join early, use the *odwołanie* and the WSA with EU law behind them, and hold the coalition and coverage.**
+
 # STEP 1: TARGET IDENTIFICATION
 
 You cannot fight what you have not precisely identified. Answer five questions, and write the answers in a shared document — this becomes the campaign's factual spine.
@@ -301,6 +305,10 @@ Most of what wins a case already exists in public records. The job is knowing wh
 **How to force a document into the open.** Under the EIA Act (implementing the Aarhus Convention), anyone can request environmental information held by a public body without proving a specific interest, and the body must answer within a set period. Use the wording in Section 8E. For other documents, the public-information access law applies.
 
 **Tie it to the map.** The dots and layers on this map are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations, legal-aid groups, and watchdogs already working nearby. Treat a mapped entry as the first thread to pull, then follow it into the registries above.
+## Where the Polish Record Lives
+
+Much of the Polish paper trail is public. The **environmental-decision file** and the assessment behind it are held by the authority that issued them — often the municipality (*wójt/burmistrz/prezydent*) or the **Regional Directorate for Environmental Protection (*RDOŚ*)** — and the public-information bulletins (*Biuletyn Informacji Publicznej, BIP*) publish decisions and notices. Requests under the access-to-public-information and access-to-environmental-information laws compel disclosure, and a refusal is itself challengeable. For projects with EU dimensions, the **Aarhus Convention** and EU environmental law are both a standard the authorities must meet and a route beyond a captured national decision. Gather these against the chain of decisions, and register your organisation and join the proceeding early — because in Poland, standing won at the start is what makes the rest usable.
+
 # STEP 3: BUILDING LOCAL OPPOSITION
 
 ## Critical Insight About Organizing
@@ -405,6 +413,10 @@ The single most common fatal error for organisations: **not joining under art. 4
 ---
 ---
 
+## The European Backstop
+
+Beyond the *odwołanie* and the administrative courts, Poland's EU membership gives an added and sometimes decisive layer. Where a decision breaches the EU environmental directives — the **Environmental Impact Assessment**, **Habitats**, **Birds**, or **Water Framework** directives — a complaint to the **European Commission** can open infringement scrutiny of Poland, and the directives strengthen a domestic challenge because the courts must read Polish law consistently with them. The **Aarhus Convention** reinforces the rights to information, participation, and access to justice, and the courts have taken breaches of them seriously. The domestic **ombudsman (*Rzecznik Praw Obywatelskich*)** is a further channel for a documented irregularity. Pursue these together: register early, join the proceeding, use the *odwołanie* and the *WSA*, and hold the European backstop behind them — a well-documented directive breach is both a domestic ground and an EU lever the government cannot simply ignore, and the two reinforce each other, a pending Commission complaint lending weight to the domestic challenge while the domestic record documents the breach for Brussels.
+
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
 Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often win in Poland — so you file the right fact against the right rule.
@@ -424,6 +436,10 @@ Evidence only counts when it is aimed at a specific legal ground. Here is how th
 **Grave defects (art. 156 KPA) → invalidity.** For the most serious errors — a decision issued without legal basis, or grossly violating the law. Feed it with: the specific legal breach, argued by counsel.
 
 The pattern: match one clean, documented defect to one clear rule, and lead with the procedural ones — they annul a decision without your having to win the argument about whether the project is "good." And remember the gateway: for an organisation, none of this is reachable unless it joined under art. 44 at first instance.
+## One Fact, Many Arguments
+
+A single documented fact does several jobs at once. Take one finding — that the environmental decision (*decyzja o środowiskowych uwarunkowaniach*) was issued on an assessment that ignored an impact the record shows. As a **legal argument**, it is a ground for the appeal (*odwołanie*) and, then, the administrative court (*WSA*) — provided you **joined the proceeding early** as a party or a registered organisation, the step that preserves standing. As an **EU argument**, it engages the EIA and Aarhus obligations that bind Poland and give a powerful backstop where national process falls short. As a **political argument**, it shows a decision taken without honest examination. As a **media argument**, it is concrete. Going through your strongest facts and asking what each proves to the appeal body, the *WSA*, an official, and a newsroom turns your file into an argument bank — and in Poland the decisive move is to be a party from the start, so the *odwołanie* and the court are open to you.
+
 # STEP 5: MEDIA STRATEGY
 
 Media rarely stops a project by itself, but it raises the political cost of "yes," protects the campaign and its members, sustains momentum through a long fight, and reaches allies and experts you would never find otherwise.

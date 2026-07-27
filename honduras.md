@@ -375,56 +375,56 @@ Be accurate always; one exaggeration handed to powerful opponents can discredit 
 
 Written communications create records, invoke rights, put institutions on notice, and — in Honduras — summon protection. Every letter does double duty: it asks for something, and it documents that you asked, so a response or silence becomes evidence. Keep copies of everything, stored securely and shared with allies. Below are adaptable templates for the situations you will meet most often. Keep them factual, specific, and grounded in rights and law — and, where safety is at stake, precise about the risk.
 
-## Template A — Request for Environmental Information
+## 8A. Request for Environmental Information
 
 **To:** MiAmbiente / SERNA (Dirección de Evaluación y Control Ambiental)
 **Subject:** Solicitud de información ambiental — [project / location]
 
 On behalf of [community / organisation], and under the right of access to public and environmental information, I request in relation to [project] at [location]: the environmental impact study; the project's risk classification; the environmental licence and its conditions; the record of public participation; and any monitoring or inspection data. Please provide these within the legal period. If any item is withheld, please state the specific legal basis.
 
-## Template B — Citizen Opposition to a Licence Request
+## 8B. Citizen Opposition to a Licence Request
 
 **To:** the environmental authority handling the licence request
 **Subject:** Oposición ciudadana — [project]
 
 As [affected residents / community / organisation], we formally oppose the environmental licence requested for [project] at [location], on the following grounds: **First**, the project threatens [water source / protected area / community] as documented [attach]. **Second**, the environmental impact study is deficient in that [specific defect]. **Third**, the required [Indigenous / Afro-descendant] consultation has not been carried out / the project intrudes on a protected area [as documented]. We request that the licence be denied and that this opposition be entered in the record, and that we be notified of the decision.
 
-## Template C — Complaint to the Public Prosecutor
+## 8C. Complaint to the Public Prosecutor
 
 **To:** Ministerio Público (Fiscalía del Ambiente / relevant unit)
 **Subject:** Denuncia — [environmental crime / illegal exploitation / falsification]
 
 We report the following facts at [location]: [describe — e.g., operation without a valid environmental licence; illegal exploitation and serious environmental damage; falsification of documents to advance the project; unlawful reduction of a protected area], evidenced by [dated documents attached]. We request investigation and appropriate action, and that we be informed of the proceedings. [Where relevant: we also report threats/attacks against defenders connected to this project — see attached record.]
 
-## Template D — Request for Inter-American Precautionary Measures
+## 8D. Request for Inter-American Precautionary Measures
 
 **To:** Inter-American Commission on Human Rights (IACHR)
 **Subject:** Request for precautionary measures — defenders at risk, [community], Honduras
 
 We request precautionary measures for [named persons / community], who face serious and urgent risk of irreparable harm in connection with their defence of [territory / water / environment] against [project]. The risk is shown by [documented threats, attacks, criminalisation — attach dated record]. The State has [failed to protect / been involved]. We request that the Commission ask the State of Honduras to adopt measures to protect the life and integrity of the beneficiaries, in consultation with them, and to report on the measures taken.
 
-## Template E — Assertion of the Right to Free, Prior, and Informed Consultation
+## 8E. Assertion of the Right to Free, Prior, and Informed Consultation
 
 **To:** the relevant State authorities / the developer
 **Subject:** Violation of the right to consultation (ILO 169) — [project]
 
 As [Indigenous / Afro-descendant people, through our legitimate authorities], we state that [project] affects our territory and that the free, prior, and informed consultation required by ILO Convention 169 has not been carried out [/ was not genuine, for the following reasons]. We demand that the project not proceed absent a proper consultation conducted in good faith with our recognised authorities, and we reserve all domestic and international remedies.
 
-## Template F — Petition to the Municipality / for a Cabildo Abierto
+## 8F. Petition to the Municipality / for a Cabildo Abierto
 
 **To:** the Municipal Corporation of [municipality]
 **Subject:** Request for an open town council / community consultation on [project]
 
 As residents of [municipality], we request that the Corporation convene a cabildo abierto / community consultation regarding [project], which threatens [water / land / health / territory], so that the population may decide its position, and that the Corporation respect and defend that decision. We attach the concerns and evidence supporting this request.
 
-## Template G — Letter Demanding Enforcement of the Protected-Areas Law / Moratorium
+## 8G. Letter Demanding Enforcement of the Protected-Areas Law / Moratorium
 
 **To:** MiAmbiente / SERNA / the relevant authorities
 **Subject:** Enforcement of [Decree 18-2024 / the mining moratorium] — [project / area]
 
 We call on the authorities to enforce [the law restoring protected-area boundaries and prohibiting mining rights in protected and water-producing zones / the moratorium on open-pit mining] with respect to [project / area], which [lies within a protected or water-producing zone / is an open-pit mining project]. We request the review, suspension, and cancellation of the relevant licences, permits, and concessions as the law provides, and a written response.
 
-## Template H — International Solidarity Appeal
+## 8H. International Solidarity Appeal
 
 **To:** international human-rights and environmental organisations / allies
 **Subject:** Urgent — defenders and territory at risk in [community], Honduras

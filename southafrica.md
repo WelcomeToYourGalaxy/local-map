@@ -185,7 +185,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong pro-investment push, or a developer-appointed EAP's EIA)
 
@@ -194,7 +193,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A national "strategic" project, developer-only studies, heavy political backing)
@@ -232,6 +230,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also put well-argued objections on the record in the **public-participation** process and, on customary land, insisted on its right to **consent**, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What South African Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and South Africa's distinctive levers are the **NEMA appeal** and the **courts**, which can set aside an environmental authorisation, backed by a **constitutional right to an environment not harmful to health or well-being**. **The environmental-authorisation process and its public participation** supply the procedural footholds, and **a durable coalition and sustained media** the political weight. **The ceiling depends on the project's backing** — a favoured project is usually delayed or conditioned, while a defective authorisation or a flawed public participation is genuinely vulnerable. The through-line: **build the file, use the NEMA appeal and the courts on the constitutional right, and hold the coalition and coverage together.**
 
 # STEP 1: TARGET IDENTIFICATION
 

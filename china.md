@@ -359,56 +359,56 @@ Be accurate always; a single exaggeration can discredit the campaign and expose 
 
 Written communications are how you create records, invoke your rights, and put the machinery on notice — and in China, a written, filed, rule-based submission is far safer and often more effective than any public action. Every letter does double duty: it asks for something, and it documents that you asked, so that a response or silence becomes evidence. Keep copies of everything. Below are adaptable templates for the situations you will meet most often. Keep them factual, narrow, technical, and framed around health and the enforcement of the state's own rules — never political.
 
-## Template A — Environmental Information Request
+## 8A. Environmental Information Request
 
 **To:** the competent ecology and environment bureau
 **Subject:** Request for disclosure of environmental information — [project name/location]
 
 I am a resident of [area] affected by [project]. Under the environmental-information-disclosure provisions of the environmental laws and the open-government-information rules, I request: the full environmental impact assessment report and its public summary; the public-participation records; the approval decision and its conditions; and the environmental monitoring data held in connection with the project. Please provide these within the statutory period. If any item is withheld, please state the specific legal basis.
 
-## Template B — Public Comment During EIA Participation
+## 8B. Public Comment During EIA Participation
 
 **To:** the competent authority conducting the EIA public participation
 **Subject:** Opinion on the EIA for [project name/location]
 
 Within the public-comment period announced on [date], I submit the following opinions as an affected resident. **First**, the assessment does not adequately evaluate [air/water/health/proximity-to-homes-and-schools] impacts, in that [specific deficiency]. **Second**, [further substantive deficiency, e.g., breach of national standard]. **Third**, the public-participation process was itself deficient, in that [e.g., affected residents were not genuinely informed / records do not reflect real consultation]. I request that these be addressed before any approval, and that I be notified in writing of the outcome.
 
-## Template C — Environmental Complaint / Enforcement Report
+## 8C. Environmental Complaint / Enforcement Report
 
 **To:** the ecology and environment bureau / national environmental complaint hotline and platform (12369)
 **Subject:** Report of environmental violation — [project/location]
 
 I report the following apparent violation at [location]: [describe — e.g., construction or operation breaching national standard X; approval based on falsified public-participation records; discharge exceeding permitted limits], evidenced by [dated documents/photographs attached]. I request investigation and enforcement, and written notification of the action taken.
 
-## Template D — Submission Toward Central Environmental Inspection
+## 8D. Submission Toward Central Environmental Inspection
 
 **To:** the ecology and environment authorities / a central ecological-environmental inspection team (during an inspection round)
 **Subject:** Local project inconsistent with national environmental requirements — [project]
 
 I bring to your attention that [project] at [location] was approved and is proceeding in a manner inconsistent with [the specific national standard / policy / assessment requirement], as shown by [documented evidence]. Local enforcement has not addressed this. I respectfully request that this be examined and that the project be brought into compliance with national requirements.
 
-## Template E — Administrative Reconsideration Request
+## 8E. Administrative Reconsideration Request
 
 **To:** the higher authority above the decision-maker
 **Subject:** Request for reconsideration of decision [number/date] — [project]
 
 As a resident directly affected by [the decision — e.g., the EIA approval / land-taking / demolition decision], I request administrative reconsideration on the grounds that it was made in breach of [the specific rule — e.g., the public-participation requirements of the EIA Law; the land-taking procedure]. The specific defects are [list, each with the rule and the proof]. I request that the decision be revoked and the matter handled lawfully.
 
-## Template F — Approach to a Qualified Environmental Organisation
+## 8F. Approach to a Qualified Environmental Organisation
 
 **To:** an eligible environmental NGO with public-interest-litigation capacity
 **Subject:** Documented environmental violation — request for assistance
 
 We are residents affected by [project] at [location]. We have documented [the violation — e.g., pollution breaching national standards / an unlawful approval]. We attach our organised evidence. We ask whether your organisation can advise on, or where eligible pursue, appropriate legal or public-interest action, and how we can best support such an effort.
 
-## Template G — Petition (Letters and Visits)
+## 8G. Petition (Letters and Visits)
 
 **To:** the relevant letters-and-visits office
 **Subject:** Petition concerning [project] and residents' health and environment
 
 We, residents of [area], respectfully petition regarding [project], which threatens [health/water/homes] and has proceeded despite [the documented deficiencies]. We ask the authorities to ensure the project complies with national environmental law and standards and that affected residents' lawful concerns are addressed. We request a written response.
 
-## Template H — Letter to Local Representatives and Officials
+## 8H. Letter to Local Representatives and Officials
 
 **To:** local people's-congress deputies / relevant officials
 **Subject:** [Project] — request to ensure lawful environmental protection for residents

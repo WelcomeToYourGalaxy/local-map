@@ -181,7 +181,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong pro-investment push, or a proponent-funded EIS)
 
@@ -190,7 +189,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A national "flagship" project, proponent-only studies, heavy political backing)
@@ -228,6 +226,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also put well-argued objections on the record at the **public consultation** and, on an ancestral domain, insisted on genuine **FPIC**, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What Philippine Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and the Philippines' distinctive levers are the **writ of kalikasan** and the **citizen suit**, remedies the courts have used to halt projects. **The environmental-compliance-certificate process** supplies the procedural foothold, and where Indigenous peoples are affected, **IPRA free, prior and informed consent** adds a powerful further front. **A coalition and media** turn these into political cost. **The ceiling depends on the project's backing** — a favoured project is usually delayed or conditioned, while a defective certificate or violated FPIC is vulnerable. The through-line: **build the file, use the writ of kalikasan, the citizen suit, and FPIC, and hold the coverage.**
 
 # STEP 1: TARGET IDENTIFICATION
 
@@ -269,7 +271,7 @@ Not: "Stop the project"
 But: "Persuade the DENR-EMB to deny the ECC, the community to withhold FPIC, or the *sanggunian* to refuse approval" — or, if refusal is unrealistic, "obtain strict conditions, real relocation and compensation, and a redesign."
 
 Not: "Protect the environment"
-But: "Show the **public consultation** was defective, the **EIS** misleading, the **FPIC** never genuinely obtained, or the **ECC expired**, and file a **writ of kalikasan** or a **citizen suit**."
+But: "Show the **public consultation** was defective, the **EIS** misleading, the **FPIC** never obtained, or the **ECC expired**, and file a **writ of kalikasan** or a **citizen suit**."
 
 **Why this matters:** you can demand something achievable. Vague demands are easy to ignore; specific ones create measurable pressure and, if the process is unlawful, become the ground for a court to act.
 

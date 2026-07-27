@@ -127,7 +127,6 @@ None of this makes a decision inevitable. It explains why decisions rarely tip y
 - **Agency appeal boards** — many agencies have an internal appeals body that can reverse a permit.
 - **State attorneys general and inspectors general** — can investigate unlawful conduct.
 
-
 ---
 
 # QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
@@ -171,7 +170,6 @@ Same chance as: Drawing a face card from deck (23% actual, higher with resources
 Single Step:           ██ 5-20%
 Same chance as: Rolling a specific number on one die without other advantages
 
-
 WITH MODERATE TILT FACTORS:
 (Some financial interests or budget dependency documented)
 
@@ -189,7 +187,6 @@ Same chance as: Rolling two dice to get one specific number (16.7%+)
 
 Single Step:           ██ 3-12%
 Same chance as: Drawing one specific card from deck (1.9%)
-
 
 WITH SEVERE TILT FACTORS:
 (Multiple conflicts documented - judge ties, major budget dependency, developer-funded review only)
@@ -236,6 +233,10 @@ Same chance as: Drawing two specific cards without replacement
 **Real insight:** Opposition (step 3) matters most. A large, organized, visible community is more persuasive than perfect documentation or brilliant legal arguments.
 
 ---
+
+## What American Campaigns Actually Show
+
+A few patterns recur. **Organised opposition is the engine**, and a documented, well-argued case is what makes it stick. The United States' distinctive strengths are its **environmental-review statutes** — NEPA federally, and state analogues such as California's CEQA and New York's SEQRA — whose public-comment and analysis requirements a community can hold an agency to, and its **citizen-suit and judicial-review** provisions, through which courts have paused and overturned approvals reached on an inadequate record. **Public comment on the record, a broad and durable coalition, and sustained media** turn a local objection into political pressure decision-makers feel, and the biggest American wins joined all of these to local and, where relevant, tribal-rights leverage. **The ceiling depends on the merits and the politics** — a project approved on a solid record and wanted by the government is more often delayed, conditioned, or redesigned than stopped outright, while a defective review, a skipped comment period, or an ignored impact is genuinely vulnerable to challenge. The through-line: **build the file, work the review and comment process, hold the citizen-suit and judicial-review levers, and keep the coalition and coverage together — no single one wins alone.**
 
 # STEP 1: TARGET IDENTIFICATION
 

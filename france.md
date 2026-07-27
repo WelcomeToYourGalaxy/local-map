@@ -179,7 +179,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong pro-development policy, or a developer-funded impact study)
 
@@ -188,7 +187,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A project declared in the public interest, developer-only assessment, heavy political backing)
@@ -226,6 +224,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also filed sharp, well-grounded observations during the *enquête publique* is more persuasive than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What French Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and France's distinctive levers are the **administrative courts** — including the urgent *référé* that can suspend a decision — and the **protected-species (*espèces protégées*) regime**, a frequent and powerful ground where a derogation was wrongly granted. **The public inquiry (*enquête publique*)** and the *autorité environnementale*'s opinion supply the procedural footholds. **A durable coalition and sustained media** turn these into political cost. **The ceiling depends on the merits and the politics** — a lawfully-approved, wanted project is usually delayed, conditioned, or redesigned, while a defective authorisation or a species breach can be undone. The through-line: **build the file, use the *référé* and the species regime, and hold the coalition and coverage together.**
 
 # STEP 1: TARGET IDENTIFICATION
 
@@ -403,6 +405,10 @@ Most of what wins a case already exists in public records. The job is knowing wh
 **Free and low-cost help.** **France Nature Environnement (FNE)** and its local federations litigate environmental cases; approved environmental associations (*associations agréées*) have standing and often carry the fight.
 
 **Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+
+## Where the French Record Lives
+
+Much of the French paper trail is public and obtainable. The **enquête publique dossier** — the study, the *avis de l'autorité environnementale*, and the *commissaire enquêteur*'s report and conclusions — is the spine of the case, and the report's reservations are quotable evidence. The **préfecture** publishes the authorisations (including *ICPE* and *loi sur l'eau* decisions), and the **autorité environnementale** publishes its opinions. For protected species and habitats, the **Inventaire national du patrimoine naturel (INPN)** and Natura 2000 designations establish what is at stake. Company and permit facts sit in public registers, and any refusal of access can be pursued through the *CADA* (the commission on access to administrative documents). Gather these against the chain of decisions so that each document attaches to the stage and the rule it concerns.
 
 # STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
 
@@ -621,6 +627,10 @@ A court that sees a genuine legal defect, plus visible organised opposition, plu
 
 ---
 
+## The European Backstop
+
+Beyond the domestic courts, France's membership of the European Union gives an added and sometimes decisive layer. Where an authorisation breaches the EU environmental directives — most often the **Environmental Impact Assessment**, **Habitats**, and **Water Framework** directives — a complaint to the **European Commission** can open infringement scrutiny of France, and the directives themselves strengthen a domestic challenge, since national courts must interpret French law consistently with them. The **Aarhus Convention** reinforces the rights to information, participation, and access to justice that underpin every objection. In practice, the domestic *référé* remains the fastest route to suspend a project, and the protected-species and Natura 2000 rules the sharpest substantive grounds; the European channel is the backstop that raises the cost and the scrutiny when the national process falls short. Pursue them together: a well-documented directive breach is both a domestic ground and a European lever, and the two reinforce each other — a pending Commission complaint lends weight to the domestic case, while a domestic ruling documents the breach for Brussels.
+
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
 Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in France — so you file the right fact against the right rule.
@@ -636,6 +646,10 @@ Evidence only counts when it is aimed at a specific legal ground. Here is how th
 **Conditions breached → enforcement.** Feed it with: the prescriptions and dated evidence of breach.
 
 The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." An approved environmental association can tell you fast which ground is live, and often has standing to bring the case itself.
+
+## One Fact, Many Arguments
+
+A single documented fact does several jobs at once. Take one finding — that a protected-species derogation (*dérogation espèces protégées*) was granted without the strict conditions the law requires. As a **legal argument**, it is a strong ground before the administrative courts, including the urgent *référé* that can **suspend** the authorisation while the case is heard — the species regime being one of the most effective levers in France. As a **procedural argument**, it shows the *enquête publique* and the *autorité environnementale*'s opinion were not properly answered. As a **political argument**, it is evidence a prized habitat was signed away. As a **media argument**, a named, threatened species is vivid and mobilising. Going through your strongest facts and asking what each proves to a judge, the *commissaire enquêteur*, an elected official, and a newsroom turns your file into an argument bank — and in France the *référé* means a well-documented defect can freeze a project fast.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 

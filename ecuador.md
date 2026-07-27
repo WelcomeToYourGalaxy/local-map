@@ -182,7 +182,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong extraction-revenue push, or a developer-funded study)
 
@@ -191,7 +190,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A state-run extraction project of "strategic" priority, developer-only studies)
@@ -229,6 +227,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also documented the harm to a fragile ecosystem and turned out for the **consultation** is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What Ecuadorian Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and documentation are the base**, and Ecuador's distinctive lever is constitutional and world-leading: the **protection action (*acción de protección*)** and the enforceable **rights of nature**, through which courts have revoked permits and halted projects. **Prior consultation** of Indigenous peoples and communities adds a second front. **A durable coalition and sustained media** supply the political weight. **The ceiling turns on the project's backing and the courts' will** — a favoured project may be delayed or conditioned, while one that violates the rights of nature or a consultation is genuinely vulnerable. The through-line: **build the file, invoke the rights of nature and the protection action, assert consultation, and hold the coalition and coverage.**
 
 # STEP 1: TARGET IDENTIFICATION
 

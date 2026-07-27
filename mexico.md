@@ -181,7 +181,6 @@ Same chance as: drawing a face card from a deck
 Single Step:           ██ 5-20%
 Same chance as: rolling a specific number on one die
 
-
 WITH MODERATE TILT FACTORS:
 (Strong pro-investment push, or a developer-funded MIA)
 
@@ -190,7 +189,6 @@ All 5 Steps Combined:  ██████████ 40-45%
 3 Steps Combined:      ██████ 20-30%
 2 Steps Combined:      ████ 15-25%
 Single Step:           ██ 3-12%
-
 
 WITH SEVERE TILT FACTORS:
 (A federal priority project, developer-only studies, heavy political backing)
@@ -228,6 +226,10 @@ Single Step:           █ 2-8%
 **Real insight:** a large, organised, visible community that has also put well-argued objections on the record in the **public consultation** and, as an Indigenous people, insisted on genuine **prior consultation**, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
 
 ---
+
+## What Mexican Campaigns Actually Show
+
+A few patterns recur. **Organised opposition and a documented file are the base**, and Mexico's distinctive lever is the **amparo** and its **suspension**, which can halt a project while the courts examine it. **The environmental-impact process (*MIA*)** supplies the procedural foothold, and where Indigenous peoples are affected, **consultation rights** add a powerful further front. **A durable coalition and sustained media** turn these into political cost. **The ceiling depends on the project's backing** — a favoured project is usually delayed or conditioned, while a defective MIA or a violated consultation is genuinely vulnerable, and the amparo's suspension can buy decisive time. The through-line: **build the file, file the amparo, assert consultation, and hold the coalition and coverage together.**
 
 # STEP 1: TARGET IDENTIFICATION
 

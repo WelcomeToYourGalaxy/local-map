@@ -293,6 +293,13 @@ This section is a practical checklist of the specific records that strengthen a 
 **The impact evidence.** Records of harm as it occurs — photographs of clearing, contamination, or displacement; accounts of livelihood loss; health information; and records of any intimidation or coercion, handled with care for people's safety.
 
 **A note on access, and on safety.** In a functioning system many of these records are obtainable through official channels and information requests. In present-day Myanmar, official channels are unreliable and some inquiries can draw dangerous attention. Weigh every act of gathering against its risk. Favour records you can obtain quietly, information already public, and the evidence you create yourself. Lean on trusted civil-society organisations, land-rights networks, and researchers — inside and outside the country — who may already hold relevant information and who can gather or receive material more safely than an exposed villager can.
+
+## Researchers for Hire, and Everyday Research Tools
+
+If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+
+For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
+
 # STEP 3: BUILDING LOCAL OPPOSITION
 
 ## Critical Insight About Organizing
@@ -338,6 +345,11 @@ In the coalition phase, they connect quietly with neighbouring villages facing t
 ## Opposition Building Budget: Year-Long Campaign
 
 A careful Myanmar campaign is not expensive in money, though it is costly in effort and risk. The main resources needed over a year are: the low-cost documentation materials already described; secure communication and storage; modest support for the trusted people who carry the sustained work; the costs of discreet travel and contact with outside allies; and, where a legal or lender complaint is pursued, the support of a legal-aid provider or an ally organisation, which is often provided without charge to communities.
+
+## Hiring Help to Run the Campaign
+
+You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
+
 # STEP 4: LEGAL CHALLENGES
 
 Legal challenge in Myanmar must be understood realistically. The domestic courts do not reliably act against connected projects, and litigation against a powerful developer rarely wins outright, especially under current conditions. Yet "legal" work still matters — not mainly as a route to a winning judgment, but as a way to establish rights on the record, force procedural responses, create delay, and build the documented case that external levers rely on. Think of the legal dimension in three tracks, and put most of your weight on the two that actually carry force here.
@@ -426,6 +438,10 @@ Media should follow, not lead, your documentation and safety work. Early on, whi
 ## Media Measurement
 
 Measure media not by volume but by effect: Did it reach the financiers, buyers, or bodies you are trying to move? Did it enter the record your external complaints rely on? Did it raise the project's reputational cost? Did it protect, rather than endanger, your people?
+
+## Amplifying at Scale — Media Help for Hire
+
+Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
 
 # EMAILS & LETTERS
 

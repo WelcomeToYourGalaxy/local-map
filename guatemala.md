@@ -66,7 +66,6 @@ Guatemala's system is under-resourced, licences are issued on developer-funded s
 
 Read Sections 1–3 and, importantly, Section 13 before acting. Then work Section 4 (Target Identification) — it tells you the category, the licences, whether the consultation right is engaged, and the deadlines. Sections 5–8 run in parallel. Sections 9–11 are reference material. Section 12 pulls it onto one timeline; Section 13 helps you decide, honestly, how to proceed safely.
 
-
 ---
 
 # HOW THE SYSTEM WORKS
@@ -119,7 +118,6 @@ Understanding the pressures is targeting, not cynicism. Guatemala's growth model
 - **The Inter-American human rights system** — the Commission and Court, which have issued **precautionary measures** protecting defenders at risk, and are a genuine backstop where domestic protection fails.
 
 Naming and using the right body matters: in Guatemala the most consequential early judgment is usually **whether the consultation right is engaged, and how quickly an amparo can be filed**.
-
 
 ---
 
@@ -212,7 +210,6 @@ Map, factually and carefully: who profits, which company and parent group hold t
 ## Worked example: which lever is actually open
 
 Suppose a hydroelectric project is licensed on a river running through Q'eqchi' communities, with an environmental instrument approved and construction beginning. Working the questions: **Q1** — the instrument admits diversion of the river the communities use for water, washing, and fishing, and works on land they occupy. **Q2** — it needs a **MARN licence** (likely Category A or B1) and, critically, an **MEM concession over the river**, which is public-domain; and the affected communities are **Indigenous**, so the consultation duty is engaged. **Q3** — the live levers are: objections at the **vista al público** if it is still open; an **amparo** against the MEM licence for **absence of prior consultation**, with an urgent request for **provisional suspension**; a **PDH** complaint; and municipal opposition. **Q4** — you act immediately, because construction is advancing and provisional suspension is the only fast remedy. **Q5** — MEM's records show when the concession was granted and whether any consultation preceded it. In an afternoon you know that **the consultation amparo is the decisive card** — exactly the ground on which the Oxec licences were suspended — and that legal protection for the community's authorities must be arranged in parallel.
-
 
 ---
 
@@ -310,8 +307,13 @@ Most of what wins a Guatemalan case exists in official files. The job is knowing
 
 **Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the licensing authority, and the local-ally entries point you to the organisations and lawyers already working nearby.
 
-
 ---
+
+## Researchers for Hire, and Everyday Research Tools
+
+If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+
+For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
 
 # STEP 3: BUILDING LOCAL OPPOSITION
 
@@ -363,8 +365,11 @@ Communities along a river learn that a hydro concession has been granted and wor
 
 Modest in cash terms, demanding in effort. Assemblies, travel between dispersed communities, translation, printing, and the community consultation are the recurring costs, mostly met collectively. Legal representation for the amparo is frequently provided by public-interest organisations. The item to plan deliberately is **legal defence for criminalised leaders**, together with accompaniment and, where needed, relocation support. Fund through community contributions, solidarity, and organisational support, and keep transparent accounts — which also protects the campaign against accusations later used to discredit it.
 
-
 ---
+
+## Hiring Help to Run the Campaign
+
+You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
 
 # STEP 4: LEGAL CHALLENGES
 
@@ -463,8 +468,11 @@ Launch with the vista al público or the assembly; refresh at each milestone —
 ## Media Measurement
 Track coverage, but measure what matters: whether the courts and the PDH engage, whether accompaniment and legal support arrive, whether leaders are safer, and whether the project's timeline and financing are slipping.
 
-
 ---
+
+## Amplifying at Scale — Media Help for Hire
+
+Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
 
 # EMAILS & LETTERS
 
@@ -579,7 +587,6 @@ Ready-to-adapt templates. Keep them factual, dated, and sourced. File important 
 ## Important Caveat
 Templates are starting points. Adapt every one to your real facts, cite the actual expediente and dates, and have counsel review anything heading to court. **Deadlines decide outcomes** — the vista al público is short, administrative challenge periods are shorter, and an amparo should be filed as soon as the unlawful act is known, with **provisional suspension** requested whenever works are advancing. Keep stamped copies of everything. And keep public statements to documented facts: in Guatemala, unproven accusations expose campaigners to criminal complaints and to danger, so let the files and the courts carry the argument.
 
-
 ---
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
@@ -641,7 +648,6 @@ Most bad decisions are lawful decisions you disagree with. But capture is real, 
 **The companies.** Establish ownership and corporate parentage from the commercial registry — provable, documentary facts, which matter especially where a foreign-listed parent is exposed to reputational and investor pressure.
 
 **How to act on it, safely.** Document from official files before you speak. Route genuine allegations to the **Contraloría General de Cuentas** for public money, the **Ministerio Público** where a real offence is disclosed, and the **PDH** for rights violations — and, above all, into your **amparo and your international submissions**, where they are protected and consequential. Do not publish unproven accusations about named individuals: in Guatemala this is both a legal and a physical risk. Name capture privately in your strategy; prove it publicly only when you can.
-
 
 ---
 

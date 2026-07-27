@@ -308,6 +308,13 @@ Most of what wins a case already exists in public records. The job is knowing wh
 **How to force a document into the open.** Under D.Lgs. 195/2005 (the Aarhus-based environmental-information rules), anyone can request environmental data held by a public body without proving a specific interest, and the body must answer within a set period. Use the wording in Section 8E. For other documents, the *accesso civico* and *accesso agli atti* rules apply.
 
 **Tie it to the map.** The dots and layers on this map are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the associations, legal clinics, and watchdogs already working nearby. Treat a mapped entry as the first thread to pull, then follow it into the registries above.
+
+## Researchers for Hire, and Everyday Research Tools
+
+If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+
+For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
+
 # STEP 3: BUILDING LOCAL OPPOSITION
 
 ## Critical Insight About Organizing
@@ -358,6 +365,10 @@ A cautionary and instructive pattern: two villages hear about a waste-treatment 
 
 Highly variable. A lean, mostly-volunteer campaign runs on **a few hundred to a few thousand euros** (constituting the committee, printing, outreach, a website). A campaign expecting litigation should budget for **expert reports (€1,000–8,000)** and **legal costs at the TAR (variable; often €3,000–15,000, less with legal aid, a clinic, or a public-interest lawyer)**. Italian community campaigns typically fund the legal stage through **crowdfunding** (which doubles as a show of support) and **coalition cost-sharing**. Keep transparent accounts — it protects the campaign's credibility.
 ---
+
+## Hiring Help to Run the Campaign
+
+You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
 
 # STEP 4: LEGAL CHALLENGES
 
@@ -465,6 +476,10 @@ Do not judge media only by whether a big outlet runs the story. Coverage does qu
 ## Media Measurement
 Track coverage, but measure what matters: whether officials are responding, whether the coalition is growing, whether new experts or allies come forward, and whether the political tone around the project is shifting. Column inches are a means; the end is a decision-maker who now finds this project more trouble than it is worth.
 ---
+
+## Amplifying at Scale — Media Help for Hire
+
+Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
 
 # EMAILS & LETTERS
 

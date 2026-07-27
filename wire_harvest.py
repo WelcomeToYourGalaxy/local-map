@@ -948,14 +948,18 @@ def _load_map_subregions():
     if _MAP_SUBS is not None:
         return _MAP_SUBS
     _MAP_SUBS = {}
+    td = None; _err = None; _tried = []
     for path in ("trackerdata.json", os.path.join(os.path.dirname(__file__), "trackerdata.json")):
+        _tried.append(path)
         try:
             with open(path, encoding="utf-8") as fh:
                 td = json.load(fh)
             break
-        except Exception:
-            td = None
+        except Exception as e:
+            _err = e; td = None
     if not td:
+        print("  WARNING wire: trackerdata.json NOT loaded -- subregions will be EMPTY. "
+              "tried=%s cwd=%s last_error=%r" % (_tried, os.getcwd(), _err))
         return _MAP_SUBS
     for iso, c in td.items():
         sb = (c or {}).get("sub") or {}
@@ -973,6 +977,7 @@ def _load_map_subregions():
         if terms:
             terms.sort(key=lambda t: -len(t[0]))   # longest first: "baja california sur" before "baja california"
             _MAP_SUBS[iso] = terms
+    print("  wire: loaded subregion gazetteer for %d countries from trackerdata.json" % len(_MAP_SUBS))
     return _MAP_SUBS
 
 def _map_subregion(iso, text):
@@ -1066,6 +1071,10 @@ def collect_by_region(per_region=60, budget_min=None, only=None):
     pace = float(os.environ.get("WIRE_PACE_SEC", "0.5"))
     t_end = _t.time() + budget_min * 60
     isos = list(only or _WIRE_REGIONS.keys())
+    if not only and os.environ.get("WIRE_NO_ROTATE") != "1":
+        import datetime as _dt
+        _off = _dt.date.today().toordinal() % max(1, len(isos))
+        isos = isos[_off:] + isos[:_off]   # rotate daily: the tail that misses the budget moves each run
     out, seen, empty = [], set(), []
     done = 0
     for iso in isos:
@@ -1419,7 +1428,12 @@ def collect_by_subregion(budget_min=None, per_sub=12):
     subkeys = _map_sub_keys()
     total = sum(len(v) for v in subkeys.values())
     done = 0
-    for iso, keys in subkeys.items():
+    _sk_items = list(subkeys.items())
+    if os.environ.get("WIRE_NO_ROTATE") != "1":
+        import datetime as _dt
+        _off = _dt.date.today().toordinal() % max(1, len(_sk_items))
+        _sk_items = _sk_items[_off:] + _sk_items[:_off]   # rotate daily so coverage accumulates
+    for iso, keys in _sk_items:
         country = _WIRE_REGIONS.get(iso) or iso
         ctx = re.sub(r"[^A-Za-z ]", " ", country).strip()
         for canon in keys:

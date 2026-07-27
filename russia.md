@@ -117,21 +117,58 @@ In Russia the overseers are not independent courts, a free press, or an oppositi
 These are the only overseers your strategy can realistically reach. Much of the rest of this guide is about producing documentation strong enough to move them, and doing so in the narrow, careful, apolitical way that keeps your people out of prison.
 # QUICK REFERENCE: SUCCESS RATES
 
-Before you commit, calibrate your expectations honestly. The patterns below are not official statistics; they reflect how Russian projects and community responses have actually gone, especially since 2022. Use them to set a goal that fits your situation — and to gauge your risk.
+Before you commit, calibrate honestly — and weigh the danger, which in Russia is severe. These figures are **directional, not guarantees** — patterns from how Russian community responses tend to go, especially since 2022, not a controlled study. The decisive variable is not in the table: **whether the project is a concentrated, imported harm a large local public rejects on strictly apolitical grounds, or a remote, strategically important one.** For the first, a narrow space exists; for the second, discount every figure and read Section 13 first. Keep every approach strictly local, technical, and non-political.
 
-**Opposing a landfill, incinerator, or waste project imported from another region on local grounds — the most winnable category, and still hard.** Russia's clearest community victories have this shape. A concrete, visible threat that a large local public rejects — most famously a northern region refusing to become the dumping ground for a distant city's waste — has, in high-profile cases, forced cancellation, because the authorities preferred to resolve the grievance than sustain the anger. Success turned on scale, discipline, a rigorously local and apolitical frame, and endurance. The clearest example is Shiyes, in the Arkhangelsk region, where a sustained grassroots movement of local residents opposed a vast station built to bury Moscow's household waste in the far north; after roadside camps, monitoring, and disciplined local protest that stayed strictly about the waste and the place, the project was abandoned. It is worth knowing, too, that the local movement that led it was later pressured and forced to disband — a reminder that a win does not end the risk.
+## Individual Step Success Rates
 
-**Protecting a specially protected natural area or a cherished landscape — narrow but real.** Where a project threatens a site that can be given, or already holds, protected status, mobilisation has in rare cases secured protection and stopped the project — a hill in the southern Urals turned into a protected area after mass local protest is the emblem. These wins are exceptional and hard-won. The emblematic case is Kushtau, a shikhan (isolated hill) in Bashkortostan sacred to local people and slated for soda-ash mining: mass, disciplined local protest in 2020 halted the mining, and the hill was subsequently granted specially protected natural status. Here too the aftermath carried danger — a leading local figure was later imprisoned — underscoring that even a victory must be pursued and consolidated with care.
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Comments at the OVOS public hearing** | 20–40% | during review | low | On record; conditions or a redo |
+| **Public Ecological Expertise (qualifying org)** | 25–45% | 3–18 months | low–moderate | Formal counter-review contesting the basis |
+| **OVOS / no-consultation legal challenge** | 20–40% | 6–24 months | moderate | Decision challenged; works halted; delay |
+| **Rosprirodnadzor enforcement complaint** | 20–40% | 1–9 months | low | Inspection; fine; order; record |
+| **Prosecutor (prokuratura) application** | 20–40% | 1–9 months | low | Legality checked; measures ordered |
+| **Protected-area status secured/invoked** | 25–45% | 6–36 months | low–moderate | Site placed beyond development |
+| **All steps combined (imported local harm)** | 30–50% | 12–48 months | low–moderate | Cancelled, protected, assessed, or delayed |
+| **All steps combined (remote / strategic project)** | 5–20% | 12–48 months | low–moderate | Honest assessment, mitigation, delay |
 
-**Forcing honest OVOS and genuine public consultation the developer tried to skip — moderate on procedure, limited on outcome.** Where the assessment or the public hearing was defective, documenting the violation and raising it through the expertise process, the prosecutor, or a court can force process to be redone and buy delay. It rarely stops a determined project, but it is real and comparatively lower-risk.
+**Key insight:** all steps together beat any single one, and Russia's real strengths are the **OVOS public-consultation requirement** (a decision reached without it can be challenged and halted), the **Public Ecological Expertise**, the **protected-areas route**, the **prosecutor and inspectorate**, and above all the **federal centre's occasional preference to defuse a large local grievance.** Its constraints are severe: **non-independent courts**, **dismantled independent advocacy** (foreign-agent and undesirable bans), **near-extinct assembly rights**, **wartime repression**, and **largely severed external leverage.**
 
-**Triggering enforcement against a documented violation — moderate.** A clear, apolitical breach of environmental standards reported to Rosprirodnadzor or the prosecutor can, on occasion, produce an inspection, a fine, or an order — especially where the violation is blatant and the framing purely technical.
+*A note on cost: commenting, requesting and complaining are inexpensive and lower-risk. The expenditure that changes outcomes is a **trustworthy lawyer** and a **qualifying organisation** for the Public Ecological Expertise — chosen with great care for their legal exposure.*
 
-**Winning delay, mitigation, or compensation on a project you cannot stop — the realistic goal for most fights.** Even where cancellation is out of reach, forcing honest assessment, shrinking a footprint, improving safeguards, or securing compensation are achievable and protect real people.
+## Effectiveness Visualization
 
-**Stopping a remote, strategically important, state-backed extractive project outright — very hard, and dangerous to attempt through confrontation.** Honesty requires saying plainly that a project central to state revenue or strategy, in a remote or dispersed area, is the least likely to be stopped by community action, and that confronting it openly carries serious personal risk. Here the record-building and mitigation goals are the realistic and safer ones.
+```
+SUCCESS PROBABILITY (cancelled, protected, assessed honestly, or delayed)
 
-The pattern across all categories is consistent, and it is sharper in Russia than anywhere: campaigns that stay **strictly local, rigorously apolitical, concrete, well-documented, and disciplined** occasionally succeed and largely stay safe; campaigns that become political, national, or anti-authority are crushed and bring prison. The strongest predictor of success — and of safety — is whether the community judged its situation accurately, chose a narrow and fitting goal, and kept the fight about the place and the harm, and nothing else.
+CONCENTRATED IMPORTED LOCAL HARM -- large public, strictly apolitical:
+All steps combined:          ██████████      30-50%
+Protected-area route:        █████████       25-45%
+Public Ecological Expertise: █████████       25-45%
+Single step:                 ██              5-40%
+
+REMOTE / STRATEGICALLY IMPORTANT / STATE-BACKED PROJECT:
+All steps combined:          ████            5-20%
+Honest assessment / delay:   ██████          achievable
+Federal intervention:        (rare, but has defused local grievances)
+Single step:                 █               2-15%
+```
+
+**How to read this honestly.** The arguments that move outcomes in Russia are **strictly technical, local, and apolitical — grounded in the environmental rules and a specific place, never in opposition to authority or the war.** The strongest: a **skipped or defective public consultation**, a **threat to a specially protected area**, an **unlawful resource allocation**, and a **large, disciplined, purely local grievance** that the federal centre may prefer to defuse. What will not work — and is acutely dangerous — is any political, national, or anti-war framing, or contact with a banned organisation.
+
+## Step Importance Ranking (When All Combined)
+
+1. **The federal-versus-local dynamic** — a large local grievance the centre may choose to resolve.
+2. **Procedure and the courts** — the OVOS/consultation challenge and the Public Ecological Expertise.
+3. **The protected-areas route** — locking a qualifying site away from development.
+4. **The prosecutor and inspectorate** — the state's own legality and enforcement channels.
+5. **Documentation** — the secure, dated record every step and every protection depends on.
+
+## What Russian Campaigns Actually Show
+
+A few patterns recur. **The concrete local grievance is the tolerated space** — large, disciplined, apolitical resistance to a specific harm has, in high-profile cases, forced the state to retreat. **A northern region refusing a distant city's waste** (Shiyes) was abandoned after sustained local protest; **a sacred hill in the south** (Kushtau) was saved and made a protected area after mass mobilisation. **Formal procedure bites, narrowly** — a project that skipped consultation is exposed, and the Public Ecological Expertise and protected-area status are real tools. **Enforcement channels sometimes act** on a clear, apolitical breach. **And external leverage is largely gone** — sanctions and the bans have severed the international routes other communities rely on, so the levers are almost entirely domestic. The through-line, and the warning: **stay rigorously local and non-political, use the state's own procedures, and protect your people above all — the aftermath of even a victory has brought imprisonment.**
+
 # STEP 1: TARGET IDENTIFICATION
 
 Before you write a word or gather a neighbour, you must know exactly what you are fighting, who is behind it, where in its chain it is weakest — and, in Russia above all, how to frame the fight so it stays local, apolitical, and as safe as possible. Acting before you know these things wastes effort and can expose people to grave risk. Spend your first days answering five questions.

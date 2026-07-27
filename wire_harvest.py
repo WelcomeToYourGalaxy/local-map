@@ -154,6 +154,13 @@ INVESTIGATIVE = [
     ("Mongabay", "https://news.mongabay.com/feed/",   2, True),
     ("Inside Climate News", "https://insideclimatenews.org/feed/", 2, True),
     ("The Narwhal", "https://thenarwhal.ca/feed/",    2, True),
+    # Secondary environmental / regional-news feeds (best-effort; a wrong URL simply no-ops
+    # and is reported in the run log). They enrich thin regions via name/gazetteer assignment.
+    ("Yale E360", "https://e360.yale.edu/feed.xml", 2, True),
+    ("Guardian Environment", "https://www.theguardian.com/environment/rss", 2, True),
+    ("Mongabay Latam", "https://es.mongabay.com/feed/", 2, True),
+    ("Reporterre", "https://reporterre.net/spip.php?page=backend", 2, True),
+    ("Down To Earth (India)", "https://www.downtoearth.org.in/rss/environment", 2, True),
     ("Climate Home News", "https://www.climatechangenews.com/feed/", 2, True),
     ("Guardian Environment", "https://www.theguardian.com/environment/rss", 2, True),
     ("Mongabay Latam", "https://es.mongabay.com/feed/", 2, True),
@@ -256,6 +263,21 @@ def google_news(q):
     return ("Front: " + q,
             "https://news.google.com/rss/search?q=%s+when:%dd&hl=en-US&gl=US&ceid=US:en"
             % (quote(q), WIRE_MAX_AGE_DAYS),
+            2, True)
+
+def google_news_local(q, iso):
+    """Google News RSS scoped to a country's own language/edition -- better local coverage
+    of a subregion than the default en-US edition. Falls back to en-US when no locale is known."""
+    from urllib.parse import quote
+    loc = _REGION_LOCALE.get(iso)
+    if loc:
+        hl, gl = loc
+        ceid = "%s:%s" % (gl, hl.split("-")[0])
+    else:
+        hl, gl, ceid = "en-US", "US", "US:en"
+    return ("Local: " + q,
+            "https://news.google.com/rss/search?q=%s+when:%dd&hl=%s&gl=%s&ceid=%s"
+            % (quote(q), WIRE_MAX_AGE_DAYS, hl, gl, ceid),
             2, True)
 
 def _fold(s):
@@ -865,6 +887,44 @@ def _region_named(iso, text):
 # English-language news matches the canonical trackerData key.
 _SUB_ALIAS = {"Bayern": "Bavaria", "Niedersachsen": "Lower Saxony", "Nordrhein-Westfalen": "North Rhine-Westphalia", "Rheinland-Pfalz": "Rhineland-Palatinate", "Sachsen": "Saxony", "Sachsen-Anhalt": "Saxony-Anhalt", "Thüringen": "Thuringia", "Hessen": "Hesse", "Mecklenburg-Vorpommern": "Mecklenburg-W. Pomerania", "Lombardia": "Lombardy", "Piemonte": "Piedmont", "Toscana": "Tuscany", "Sicilia": "Sicily", "Sardegna": "Sardinia", "Puglia": "Apulia", "Trentino-Alto Adige/Sudtirol": "Trentino-South Tyrol", "Cataluña": "Catalonia", "Andalucía": "Andalusia", "País Vasco": "Basque Country", "Aragón": "Aragon", "Castilla y León": "Castile and León", "Castilla-La Mancha": "Castile-La Mancha", "Islas Baleares": "Balearic Islands", "Canary Is.": "Canary Islands", "Foral de Navarra": "Navarre", "Valenciana": "Valencia", "Bretagne": "Brittany", "Normandie": "Normandy", "Corse": "Corsica", "Kärnten": "Carinthia", "Steiermark": "Styria", "Tirol": "Tyrol", "Niederösterreich": "Lower Austria", "Oberösterreich": "Upper Austria", "Wien": "Vienna", "Genève": "Geneva", "Zürich": "Zurich", "Graubünden": "Grisons", "Noord-Holland": "North Holland", "Zuid-Holland": "South Holland", "Zeeland": "Zealand", "Noord-Brabant": "North Brabant"}
 
+# Additional endonym <-> English subregion aliases (extends coverage of the per-subregion sweep).
+_SUB_ALIAS.update({
+ # Poland (voivodeships)
+ "Dolnośląskie": "Lower Silesia", "Kujawsko-Pomorskie": "Kuyavia-Pomerania", "Łódzkie": "Łódź",
+ "Małopolskie": "Lesser Poland", "Mazowieckie": "Masovia", "Opolskie": "Opole", "Podkarpackie": "Subcarpathia",
+ "Podlaskie": "Podlaskie", "Pomorskie": "Pomerania", "Śląskie": "Silesia", "Świętokrzyskie": "Holy Cross",
+ "Warmińsko-Mazurskie": "Warmia-Masuria", "Wielkopolskie": "Greater Poland", "Zachodniopomorskie": "West Pomerania",
+ "Lubelskie": "Lublin", "Lubuskie": "Lubusz",
+ # Romania (județe / counties -- endonym forms)
+ "Bihor": "Bihor", "Cluj": "Cluj", "Timiş": "Timiș", "Iaşi": "Iași", "Braşov": "Brașov", "Argeş": "Argeș",
+ "Bistriţa-Năsăud": "Bistrița-Năsăud", "Caraş-Severin": "Caraș-Severin", "Maramureş": "Maramureș",
+ "Mureş": "Mureș", "Vâlcea": "Vâlcea", "Dâmboviţa": "Dâmbovița", "Galaţi": "Galați", "Constanţa": "Constanța",
+ # Czechia
+ "Jihomoravský": "South Moravian", "Jihočeský": "South Bohemian", "Moravskoslezský": "Moravian-Silesian",
+ "Ústecký": "Ústí nad Labem", "Královéhradecký": "Hradec Králové", "Plzeňský": "Plzeň", "Karlovarský": "Karlovy Vary",
+ # Greece
+ "Κεντρική Μακεδονία": "Central Macedonia", "Αττική": "Attica", "Κρήτη": "Crete", "Ήπειρος": "Epirus",
+ "Θεσσαλία": "Thessaly", "Πελοπόννησος": "Peloponnese",
+ # Portugal
+ "Lisboa": "Lisbon", "Açores": "Azores", "Madeira": "Madeira", "Bragança": "Braganza",
+ # Sweden / Norway / Finland
+ "Skåne": "Scania", "Västra Götaland": "West Gotaland", "Norrbotten": "Norrbotten", "Västerbotten": "Vasterbotten",
+ "Trøndelag": "Trondelag", "Nordland": "Nordland", "Vestland": "Vestland", "Rogaland": "Rogaland",
+ "Uusimaa": "Uusimaa", "Lappi": "Lapland", "Pohjois-Pohjanmaa": "North Ostrobothnia",
+ # Belgium / Austria extra
+ "Vlaanderen": "Flanders", "Wallonie": "Wallonia", "Antwerpen": "Antwerp", "Vorarlberg": "Vorarlberg",
+ "Salzburg": "Salzburg", "Burgenland": "Burgenland",
+ # France extra
+ "Nouvelle-Aquitaine": "Nouvelle-Aquitaine", "Occitanie": "Occitania", "Provence-Alpes-Côte d'Azur": "Provence-Alpes-Cote d'Azur",
+ "Auvergne-Rhône-Alpes": "Auvergne-Rhone-Alpes", "Grand Est": "Grand Est", "Hauts-de-France": "Hauts-de-France",
+ "Île-de-France": "Ile-de-France", "Bourgogne-Franche-Comté": "Bourgogne-Franche-Comte", "Pays de la Loire": "Pays de la Loire",
+ # Italy / Spain extra
+ "Lazio": "Latium", "Campania": "Campania", "Emilia-Romagna": "Emilia-Romagna", "Veneto": "Veneto",
+ "Friuli-Venezia Giulia": "Friuli-Venezia Giulia", "Valle d'Aosta": "Aosta Valley", "Abruzzo": "Abruzzo",
+ "Galicia": "Galicia", "Galiza": "Galicia", "Comunidad de Madrid": "Madrid", "Región de Murcia": "Murcia",
+ "Principado de Asturias": "Asturias", "Cantabria": "Cantabria", "La Rioja": "La Rioja", "Extremadura": "Extremadura",
+})
+
 def _slugify(s):
     s = unicodedata.normalize('NFD', s or '')
     s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
@@ -1021,6 +1081,8 @@ def collect_by_region(per_region=60, budget_min=None, only=None):
             key = re.sub(r"[^a-z0-9]", "", (title or "").lower())[:60]
             if not title or not link or key in seen:
                 return False
+            if not _ontopic({"title": title, "snippet": snippet}):
+                return False
             seen.add(key)
             out.append({"name": nm, "title": title[:200], "link": link, "date": date_ms,
                         "sig": 2, "snippet": (snippet or "")[:280], "iso": iso,
@@ -1166,6 +1228,92 @@ def _gdelt_q(query, days, maxrec=40):
             print("  gdelt(q) failed: %s" % (str(e)[:70]))
         return []
 
+# ---- Relevance gate: an item must actually be about a project / land / environmental
+# fight, not merely mention a place name. This is what keeps Samsung, hotels, sport and
+# national politics out of the feed. Multilingual, matched at word starts.
+_ONTOPIC_TERMS = [
+ # English -- projects, extraction, infrastructure, harm
+ "mining","mine ","miner","coal","lignite","oil ","crude","petroleum","gas ","gasfield","fracking","frack",
+ "pipeline","refiner","smelter","drill","borehole","offshore","tailings","cyanide","mercury","toxic","contaminat",
+ "pollut","emission","sewage","effluent","spill","dam ","hydroelectr","hydropower","reservoir","quarry","aggregate",
+ "wind farm","windfarm","solar farm","solar park","power plant","powerplant","power station","nuclear","reactor",
+ "landfill","incinerat","waste ","dumpsite","deforest","logging","timber","clearcut","clear-cut","rainforest",
+ "wetland","mangrove","peatland","watershed","aquifer","river","estuary","habitat","wildlife","biodivers","ecolog",
+ "endangered","species","conservation","protected area","national park","nature reserve","rewilding",
+ "highway","motorway","expressway","airport","seaport","harbour","railway","transmission line","megaproject",
+ "infrastructure project","development project","housing estate","land reclamation","dredg","canal ",
+ "rezon","zoning","planning permission","planning application","permit","licence","license","concession",
+ "environmental impact","impact assessment","eia","esia","ovos","aimbient","moratorium","extractive","mineral",
+ "gold mine","copper","lithium","cobalt","bauxite","iron ore","nickel","uranium","phosphate","sand mining",
+ "evict","displac","resettl","expropriat","land grab","indigenous","first nations","tribal land","customary land",
+ "protest","demonstrat","blockade","occupation","activist","land defender","water defender","campaigner",
+ "lawsuit","litigation","injunction","tribunal","judicial review","public inquiry","public hearing","objection",
+ "gas plant","coal plant","carbon","fossil","climate","biomass","geotherm","tar sand","oil sand","shale",
+ # Spanish / Portuguese
+ "minería","mina ","minera","carbón","petróleo","oleoducto","gasoducto","represa","presa ","hidroeléctric",
+ "contaminación","deforestación","bosque","selva","humedal","cuenca","vertedero","relaves","ambiental",
+ "biodiversidad","indígena","desalojo","despojo","concesión","extracción","protesta","oposición","demanda",
+ "mineração","carvão","barragem","hidrelétric","poluição","desmatamento","floresta","rejeito","licenciamento",
+ "indígena","despejo","protesto","oposição",
+ # French
+ "pétrole","gaz naturel","charbon","barrage","hydroélectr","pollution","déforestation","forêt","zone humide",
+ "biodiversité","autochtone","expropriation","concession","manifestation","opposition","recours","carrière",
+ "décharge","éolien","photovolta","nucléaire","autoroute","aéroport",
+ # German
+ "bergbau","tagebau","kohle","braunkohle","erdöl","erdgas","staudamm","wasserkraft","verschmutzung","abholzung",
+ "wald ","feuchtgebiet","artenvielfalt","enteignung","tagebau","protest","widerstand","klage","biomasse",
+ "windpark","solarpark","atomkraft","autobahn","flughafen","deponie","tagebau",
+ # Italian / Dutch / Polish / Lithuanian / Scandinavian (core)
+ "miniera","petrolio","carbone","diga ","idroelettric","inquinamento","deforestazione","foresta","bonifica",
+ "biodiversità","espropri","concessione","protesta","opposizione","ricorso","discarica","biomassa",
+ "mijnbouw","steenkool","aardgas","vervuiling","ontbossing","natuurgebied","stortplaats","windpark",
+ "kopalnia","węgiel","zanieczyszczenie","wylesianie","wysypisko","elektrownia","protest",
+ "kasykl","aplinkos","tarša","miškų","protestas","sąvartyn","elektrinė",
+ "gruva","gruvdrift","kolgruva","förorening","avskogning","vattenkraft","deponi","vindkraft",
+]
+_ONTOPIC = re.compile(r"(?i)(?<![a-zà-ÿ])(" + "|".join(re.escape(t) for t in _ONTOPIC_TERMS) + r")")
+
+def _ontopic(item):
+    """True if the item's title/snippet actually concerns a project / land / environmental fight."""
+    if os.environ.get("WIRE_SKIP_ONTOPIC") == "1":
+        return True
+    blob = ((item.get("title") or "") + " " + (item.get("snippet") or "")).lower()
+    return bool(_ONTOPIC.search(blob))
+
+
+# Expected dominant news language per country (GDELT language names, lowercase). Used to
+# drop cross-language geo-mistags -- e.g. an Italian article about Italy that merely mentions
+# "Austria". English and unknown languages are always allowed; unlisted countries are lenient.
+_EXP_LANG = {
+ "DEU":"german","AUT":"german","ITA":"italian","FRA":"french","NLD":"dutch","POL":"polish",
+ "LTU":"lithuanian","LVA":"latvian","EST":"estonian","SWE":"swedish","NOR":"norwegian","FIN":"finnish",
+ "GRC":"greek","CZE":"czech","HUN":"hungarian","ROU":"romanian","BGR":"bulgarian","HRV":"croatian",
+ "SVK":"slovak","SVN":"slovenian","TUR":"turkish","RUS":"russian","UKR":"ukrainian","JPN":"japanese",
+ "KOR":"korean","THA":"thai","VNM":"vietnamese","IDN":"indonesian","CHN":"chinese",
+ "ESP":"spanish","MEX":"spanish","ARG":"spanish","COL":"spanish","CHL":"spanish","PER":"spanish",
+ "VEN":"spanish","ECU":"spanish","BOL":"spanish","GTM":"spanish","DOM":"spanish","CRI":"spanish","PAN":"spanish",
+ "BRA":"portuguese","PRT":"portuguese",
+}
+
+def _lang_ok(item):
+    """Drop a foreign-language article that neither matches the country's language nor names
+    the place in its title -- the cross-language geo-mistag guard."""
+    if os.environ.get("WIRE_SKIP_LANGGUARD") == "1":
+        return True
+    lang = (item.get("lang") or "").strip().lower()
+    if not lang or lang in ("unknown", "english"):
+        return True
+    exp = _EXP_LANG.get(item.get("iso") or "")
+    if not exp:
+        return True            # no expectation on file -> lenient
+    if exp in lang:
+        return True            # local-language coverage -> keep
+    name = _WIRE_REGIONS.get(item.get("iso") or "", "")
+    reg = item.get("region") or ""
+    title = _slugify(item.get("title") or "")
+    return bool((name and _slugify(name) in title) or (reg and _slugify(reg) in title))
+
+
 def _map_sub_keys():
     """iso3 -> ordered list of unique canonical subregion display keys (from the map)."""
     out = {}
@@ -1177,6 +1325,82 @@ def _map_sub_keys():
         if keys:
             out[iso] = keys
     return out
+
+
+# City -> admin-1 gazetteer. When an article names a major city but not its region, this
+# maps it to the correct subregion. Values are resolved to the map's real canonical key by
+# slug-match, so a slightly-off name is corrected or safely ignored (never orphaned).
+_CITY_TO_SUB = {
+ "USA": {"los angeles":"California","san francisco":"California","san diego":"California","houston":"Texas",
+   "dallas":"Texas","austin":"Texas","miami":"Florida","orlando":"Florida","chicago":"Illinois","seattle":"Washington",
+   "portland":"Oregon","denver":"Colorado","phoenix":"Arizona","atlanta":"Georgia","boston":"Massachusetts",
+   "detroit":"Michigan","minneapolis":"Minnesota","new orleans":"Louisiana","pittsburgh":"Pennsylvania",
+   "philadelphia":"Pennsylvania","cleveland":"Ohio","columbus":"Ohio","nashville":"Tennessee","charlotte":"North Carolina"},
+ "CAN": {"toronto":"Ontario","ottawa":"Ontario","montreal":"Quebec","quebec city":"Quebec","vancouver":"British Columbia",
+   "victoria":"British Columbia","calgary":"Alberta","edmonton":"Alberta","winnipeg":"Manitoba","halifax":"Nova Scotia",
+   "saskatoon":"Saskatchewan","regina":"Saskatchewan","yellowknife":"Northwest Territories","whitehorse":"Yukon"},
+ "AUS": {"sydney":"New South Wales","newcastle":"New South Wales","melbourne":"Victoria","brisbane":"Queensland",
+   "cairns":"Queensland","townsville":"Queensland","perth":"Western Australia","adelaide":"South Australia",
+   "hobart":"Tasmania","darwin":"Northern Territory","canberra":"Australian Capital Territory"},
+ "BRA": {"sao paulo":"São Paulo","rio de janeiro":"Rio de Janeiro","belo horizonte":"Minas Gerais","manaus":"Amazonas",
+   "belem":"Pará","salvador":"Bahia","recife":"Pernambuco","fortaleza":"Ceará","curitiba":"Paraná",
+   "porto alegre":"Rio Grande do Sul","brasilia":"Federal District","cuiaba":"Mato Grosso","goiania":"Goiás"},
+ "MEX": {"guadalajara":"Jalisco","monterrey":"Nuevo León","puebla":"Puebla","tijuana":"Baja California",
+   "cancun":"Quintana Roo","merida":"Yucatán","oaxaca":"Oaxaca","chihuahua":"Chihuahua","culiacan":"Sinaloa"},
+ "ARG": {"cordoba":"Córdoba","rosario":"Santa Fe","mendoza":"Mendoza","la plata":"Buenos Aires",
+   "san miguel de tucuman":"Tucumán","salta":"Salta","neuquen":"Neuquén","bariloche":"Río Negro"},
+ "IND": {"mumbai":"Maharashtra","pune":"Maharashtra","bengaluru":"Karnataka","bangalore":"Karnataka",
+   "chennai":"Tamil Nadu","kolkata":"West Bengal","hyderabad":"Telangana","ahmedabad":"Gujarat",
+   "jaipur":"Rajasthan","lucknow":"Uttar Pradesh","bhopal":"Madhya Pradesh","patna":"Bihar","kochi":"Kerala",
+   "guwahati":"Assam","bhubaneswar":"Odisha","raipur":"Chhattisgarh","ranchi":"Jharkhand","dehradun":"Uttarakhand"},
+ "IDN": {"jakarta":"Jakarta","surabaya":"East Java","bandung":"West Java","medan":"North Sumatra",
+   "makassar":"South Sulawesi","semarang":"Central Java","palembang":"South Sumatra","balikpapan":"East Kalimantan",
+   "pontianak":"West Kalimantan","jayapura":"Papua","pekanbaru":"Riau"},
+ "DEU": {"munich":"Bavaria","münchen":"Bavaria","nuremberg":"Bavaria","hamburg":"Hamburg","cologne":"North Rhine-Westphalia","köln":"North Rhine-Westphalia","koln":"North Rhine-Westphalia",
+   "düsseldorf":"North Rhine-Westphalia","dusseldorf":"North Rhine-Westphalia","dortmund":"North Rhine-Westphalia","frankfurt":"Hesse","stuttgart":"Baden-Württemberg",
+   "dresden":"Saxony","leipzig":"Saxony","hanover":"Lower Saxony","bremen":"Bremen"},
+ "FRA": {"marseille":"Provence-Alpes-Cote d'Azur","nice":"Provence-Alpes-Cote d'Azur","lyon":"Auvergne-Rhone-Alpes",
+   "grenoble":"Auvergne-Rhone-Alpes","toulouse":"Occitania","montpellier":"Occitania","bordeaux":"Nouvelle-Aquitaine",
+   "nantes":"Pays de la Loire","strasbourg":"Grand Est","lille":"Hauts-de-France","rennes":"Brittany"},
+ "ESP": {"barcelona":"Catalonia","valencia":"Valencia","seville":"Andalusia","sevilla":"Andalusia","malaga":"Andalusia",
+   "bilbao":"Basque Country","zaragoza":"Aragon","murcia":"Murcia","vigo":"Galicia","santiago de compostela":"Galicia"},
+ "ITA": {"milan":"Lombardy","milano":"Lombardy","turin":"Piedmont","torino":"Piedmont","naples":"Campania","napoli":"Campania",
+   "florence":"Tuscany","firenze":"Tuscany","bologna":"Emilia-Romagna","venice":"Veneto","venezia":"Veneto",
+   "palermo":"Sicily","bari":"Apulia","genoa":"Liguria","genova":"Liguria"},
+ "GBR": {"manchester":"England","birmingham":"England","leeds":"England","liverpool":"England","bristol":"England",
+   "newcastle":"England","glasgow":"Scotland","edinburgh":"Scotland","aberdeen":"Scotland","cardiff":"Wales",
+   "swansea":"Wales","belfast":"Northern Ireland"},
+ "ZAF": {"cape town":"Western Cape","durban":"KwaZulu-Natal","johannesburg":"Gauteng","pretoria":"Gauteng",
+   "port elizabeth":"Eastern Cape","gqeberha":"Eastern Cape","bloemfontein":"Free State","polokwane":"Limpopo",
+   "nelspruit":"Mpumalanga","kimberley":"Northern Cape"},
+}
+
+def _sub_by_city(iso, text):
+    """Return the map's canonical subregion key for a city named in the text, or None."""
+    cities = _CITY_TO_SUB.get(iso)
+    if not cities:
+        return None
+    blob = " " + _slugify(text) + " "
+    canon_keys = _map_sub_keys().get(iso, [])
+    slug_to_canon = {}
+    for c in canon_keys:
+        slug_to_canon[_slugify(c)] = c
+        slug_to_canon[_strip_suffix(_slugify(c))] = c
+        if c in _SUB_ALIAS:                              # canon is an endonym: index its English alias
+            slug_to_canon[_slugify(_SUB_ALIAS[c])] = c
+    for _endo, _eng in _SUB_ALIAS.items():               # English alias -> endonym canon, either direction
+        se = _slugify(_endo)
+        if se in slug_to_canon:
+            slug_to_canon.setdefault(_slugify(_eng), slug_to_canon[se])
+    for city, sub_name in cities.items():
+        if (" " + _slugify(city) + " ") in blob:
+            want = _slugify(sub_name)
+            if want in slug_to_canon:
+                return slug_to_canon[want]
+            for sslug, canon in slug_to_canon.items():
+                if sslug and (sslug == want or sslug.startswith(want) or want.startswith(sslug)):
+                    return canon
+    return None
 
 
 def collect_by_subregion(budget_min=None, per_sub=12):
@@ -1221,6 +1445,8 @@ def collect_by_subregion(budget_min=None, per_sub=12):
                 key = re.sub(r"[^a-z0-9]", "", title.lower())[:60]
                 if key in seen:
                     continue
+                if not _ontopic({"title": title}):
+                    continue
                 seen.add(key)
                 out.append({"name": country, "title": title[:200], "link": link,
                             "date": _gdelt_date_ms(art.get("seendate")), "sig": 2,
@@ -1229,6 +1455,66 @@ def collect_by_subregion(budget_min=None, per_sub=12):
                 kept += 1
             _t.sleep(pace)
     print("  wire subregions: swept %d/%d, kept %d" % (done, total, len(out)))
+    return out
+
+
+def collect_secondary_subs(empty, budget_min=None, per_sub=6):
+    """Locale-targeted Google News backfill for the map subregions the main sweep left empty.
+    Uses each country's own news edition, so thin regions get local-language coverage. The
+    on-topic gate and a name check keep it clean; budget-limited so Google News is not hammered."""
+    if os.environ.get("WIRE_SKIP_SECONDARY") == "1":
+        return []
+    import time as _t
+    budget_min = budget_min or int(os.environ.get("WIRE_SECONDARY_BUDGET_MIN", "30"))
+    t_end = _t.time() + budget_min * 60
+    topic = ("(environment OR mine OR mining OR pipeline OR dam OR logging OR deforestation OR "
+             "pollution OR quarry OR landfill OR protest OR \"power plant\" OR \"wind farm\")")
+    out, seen = [], set()
+    for iso, canon in empty:
+        if _t.time() > t_end:
+            break
+        country = _WIRE_REGIONS.get(iso) or iso
+        name = _SUB_ALIAS.get(canon) or canon
+        q = '"%s" %s %s' % (name, topic, country)
+        _n, url, _w, _s = google_news_local(q, iso)
+        try:
+            fp = feedparser.parse(url)
+        except Exception:
+            continue
+        got = 0
+        for e in fp.entries[:20]:
+            if got >= per_sub:
+                break
+            title = clean(e.get("title")); link = e.get("link", "")
+            if not title or not link:
+                continue
+            summary = clean(e.get("summary", ""))
+            blob = title + " " + summary
+            if _blocked(blob) or not _ontopic({"title": title, "snippet": summary}):
+                continue
+            sblob = _slugify(blob)
+            if _slugify(name) not in sblob and _slugify(canon) not in sblob:
+                continue
+            key = re.sub(r"[^a-z0-9]", "", title.lower())[:60]
+            if key in seen:
+                continue
+            seen.add(key)
+            ts = None
+            for f in ("published_parsed", "updated_parsed"):
+                if e.get(f):
+                    ts = time.strftime("%Y-%m-%dT%H:%M:%SZ", e.get(f)); break
+            date_ms = 0
+            if ts:
+                try:
+                    date_ms = int(calendar.timegm(time.strptime(ts, "%Y-%m-%dT%H:%M:%SZ"))) * 1000
+                except Exception:
+                    date_ms = 0
+            out.append({"name": country, "title": title[:200], "link": link, "date": date_ms,
+                        "sig": 2, "snippet": summary[:280], "iso": iso, "region": canon,
+                        "widened": 0, "lang": "Unknown"})
+            got += 1
+    if out:
+        print("secondary backfill added %d items across empty subregions" % len(out))
     return out
 
 
@@ -1248,6 +1534,21 @@ def main():
             if k in seen:
                 continue
             seen.add(k); items.append(it)
+        # Promote country-level items to a subregion when a known city is named (gazetteer).
+        for it in items:
+            if it.get("iso") and not it.get("region"):
+                r = _sub_by_city(it["iso"], (it.get("title") or "") + " " + (it.get("snippet") or ""))
+                if r:
+                    it["region"] = r
+        # Locale-targeted secondary backfill for subregions the main sweep left empty.
+        if os.environ.get("WIRE_SKIP_SECONDARY") != "1":
+            covered = set((i.get("iso"), i.get("region")) for i in items if i.get("region"))
+            allsubs = [(iso, c) for iso, cs in _map_sub_keys().items() for c in cs]
+            empty = [sp for sp in allsubs if sp not in covered]
+            for it in collect_secondary_subs(empty):
+                k = re.sub(r"[^a-z0-9]", "", (it.get("title") or "").lower())[:60]
+                if k and k not in seen:
+                    seen.add(k); items.append(it)
     # Carry forward what earlier runs found. A region that lands once stays covered
     # even if a later sweep is throttled, so coverage accumulates instead of resetting.
     if os.environ.get("WIRE_NO_MERGE") != "1" and os.path.exists("wire.json"):
@@ -1265,6 +1566,14 @@ def main():
             print("merge skipped: %s" % e)
     before = len(items)
     items = [i for i in items if not _too_old(i)]
+    _ot = len(items)
+    items = [i for i in items if _ontopic(i)]
+    if len(items) != _ot:
+        print("relevance filter dropped %d off-topic items" % (_ot - len(items)))
+    _lo = len(items)
+    items = [i for i in items if _lang_ok(i)]
+    if len(items) != _lo:
+        print("language guard dropped %d cross-language geo-mistags" % (_lo - len(items)))
     if len(items) != before:
         print("wire: dropped %d items older than %d days" % (before - len(items), WIRE_MAX_AGE_DAYS))
     items.sort(key=lambda i: -(i.get("date") or 0))

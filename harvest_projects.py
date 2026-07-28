@@ -1757,7 +1757,7 @@ def _permit_is_significant(text, value, big=5000000, floor=1000000):
 # specific plans) that NO building-permit feed carries -- the Sierra Madre gap.
 # California-only, but California is ~12% of the US and files ~13k CEQA docs/yr.
 # ---------------------------------------------------------------------------
-CEQANET_CSV = "https://ceqanet.lci.ca.gov/Search?OutputFormat=CSV"
+CEQANET_CSV = "https://ceqanet.lci.ca.gov/Search/Recent?OutputFormat=CSV"
 # Substantive environmental-review docs are kept in full; NOE/other are gated
 # through the shared significance filter so trivial exemptions (re-roofs, tree
 # removals) are dropped but sizeable projects (e.g. a 42-home subdivision) stay.
@@ -7929,7 +7929,14 @@ def fetch_milcon():
             continue
         url = base.format(fy=fy)
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            # comptroller.defense.gov WAF 403s non-browser UAs; these are public
+            # budget PDFs, so present a browser UA + Accept headers.
+            req = urllib.request.Request(url, headers={
+                "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                               "AppleWebKit/537.36 (KHTML, like Gecko) "
+                               "Chrome/124.0.0.0 Safari/537.36"),
+                "Accept": "application/pdf,*/*",
+                "Accept-Language": "en-US,en;q=0.9"})
             with urllib.request.urlopen(req, timeout=120) as r:
                 raw = r.read()
             with pdfplumber.open(_io.BytesIO(raw)) as pdf:

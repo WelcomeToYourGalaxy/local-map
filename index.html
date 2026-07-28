@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Live Global Project Resistance Map</title>
+<title>Live Global Project Map</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
@@ -296,8 +296,8 @@ body.info-open #wirePanel{bottom:auto;max-height:calc(50vh - 46px);}
     <b>Two ways to filter:</b><br>
     <b>1&middot; Lens pills (right)</b> — each lens is a kind of research: corporate ownership, contracts &amp; money, court records, environmental compliance, FOIA, property, people &amp; networks, monitoring, watchdogs. Selecting one filters the map to that theme so you can see where those resources exist. Below the pills you can narrow further.<br>
     <b>2&middot; Index</b> — a directory of the resources on the map. Group &amp; sort it (by country, level, lens…) and search by name.<br><br>
-    <b>Navigate.</b> Click a country to zoom in — its regions load and any that hold resources light up. Click a lit region to open its list of research tools, and to drill deeper into its sub-divisions (state &rarr; county &rarr; municipal), since many records — property, courts, permits — are held locally. Click empty space or zoom out to step back up. <b>Facility dots become clickable once you zoom in (about zoom 8).</b> <br><br>
-    <span style="color:#3f8068;">&#9679; police</span>, <span style="color:#5f8f48;">town halls</span>, <span style="color:#487d4f;">fire</span>, <span style="color:#4f8464;">gov offices</span>, agency HQs — local buildings relevant to different campaigns (records, policing, permits, land use). <b>Zoom in</b> to click a dot for details (or toggle it off, top-right, to select regions instead). <b>Click a town-hall or government-office dot for its website</b> — that is where municipalities post the planning applications, agendas and permit files for local projects, often earliest of all.<br><br>
+    <b>Navigate.</b> Click a country to zoom in — its regions load and any that hold resources light up. Click a lit region to open its list of research tools, and to drill deeper into its sub-divisions (state &rarr; county &rarr; municipal), since many records — property, courts, permits — are held locally. Click empty space or zoom out to step back up.<br><br>
+    <span style="color:#3f8068;">&#9679; police</span>, <span style="color:#5f8f48;">town halls</span>, <span style="color:#487d4f;">fire</span>, <span style="color:#4f8464;">gov offices</span>, agency HQs — local buildings relevant to different campaigns (records, policing, permits, land use). <b>Facility dots become clickable once you zoom in (about zoom 8)</b> — click one for details (or toggle it off, top-right, to select regions instead). <b>Click a town-hall or government-office dot for its website</b> — that is where municipalities post the planning applications, agendas and permit files for local projects, often earliest of all.<br><br>
     <b>How to read an entry.</b> Every resource spells out what you <i>can</i> and <i>can’t</i> get from it, and ties it to a concrete aim — stopping a development, fighting a polluter, exposing a landlord, following political money. Sources are official government databases or independent watchdogs and newsrooms; every link is live and verified, and gaps are held honestly, never guessed. <b>As of now the index holds roughly 2,780 verified resources across 212 countries and territories, plus cross-border international bodies</b> &mdash; there is no honest way to say what fraction of every relevant source on Earth that is (no one has counted them all), so treat it as a large, growing, verified set rather than a finished one; the number climbs with every build.<br><br>
     <b>Note:</b> A resource is placed at the level of the people it can help, not its street address. A law firm based in one town that takes cases anywhere in the state (or an organisation that serves a whole country) is a region-wide source: it appears under &ldquo;Higher-level / region-wide sources&rdquo; at every county or region within that reach, <i>even though it is physically local to one place</i>. Its placement reflects who it can serve, not its location. Only genuinely place-bound resources (a county recorder, a single-county firm) sit at the local level.<br><br>
     <b class="hl-sec">You don&rsquo;t have to go it alone</b><br>
@@ -310,10 +310,7 @@ body.info-open #wirePanel{bottom:auto;max-height:calc(50vh - 46px);}
 <div id="wirePanel">
   <div class="help-head wire-head-drag" title="Click to collapse · drag to move"><span> Global Wire</span><span class="help-tog"></span></div>
   <div class="wire-body">
-    <div class="wire-lead">The modern development machine runs on paper: an environmental review filed, a wetland permit sought, a rezoning buried in a legal ad no one reads. That paperwork is also its weakness &mdash; every notice is a comment window, every review a place to intervene, every permit a decision that can be challenged.</div>
-    <div class="wire-thread">
-      <div class="wire-thread-s wire-climate-static" id="wireClimate">Against that machine grew a web of defenders — riverkeepers and land trusts, tribal nations and neighborhood coalitions, wilderness alliances and environmental-law firms that sue for free. They learned that a listed species, a floodplain, a buried document or a company’s own record can stop a project cold.<br><br>The fights are everywhere at once — lithium mines and data centers, pipelines and warehouses, LNG terminals and clear-cuts — and they move fast. This <b>land-defense news wire</b> watches for them: the projects entering the pipeline, the companies behind them, and the places worth defending. Find the fight.</div>
-    </div>
+    <div class="wire-lead">The modern development machine runs on paper: an environmental review filed, a wetland permit sought, a rezoning buried in a legal ad no one reads. That paperwork is also its weakness &mdash; every notice is a comment window, every review a place to intervene, every permit a decision that can be challenged.<br><br>Against that machine grew a web of defenders — riverkeepers and land trusts, tribal nations and neighborhood coalitions, wilderness alliances and environmental-law firms that sue for free. They learned that a listed species, a floodplain, a buried document or a company’s own record can stop a project cold.<br><br>The fights are everywhere at once — lithium mines and data centers, pipelines and warehouses, LNG terminals and clear-cuts — and they move fast. This <b>land-defense news wire</b> watches for them: the projects entering the pipeline, the companies behind them, and the places worth defending. Find the fight.</div>
     <div class="wire-tabs"><span class="wire-tab on" data-wm="live" onclick="setWireMode('live')"> Live</span><span class="wire-tab" data-wm="timeline" onclick="setWireMode('timeline')"> Timeline</span></div>
     <div id="wireRegionWrap" style="display:none;"><select id="wireRegion" onchange="setWireRegion(this.value)" title="Filter the wire by place"><option value="">All regions</option></select><select id="wireDays" onchange="setWireDays(this.value)" title="How far back to show" style="margin-top:5px;"><option value="7">Last 7 days</option><option value="30" selected>Last 30 days</option><option value="90">Last 90 days</option><option value="365">Last year</option><option value="0">Everything held</option></select><select id="wireSort" onchange="setWireSort(this.value)" title="How to order the feed" style="margin-top:5px;"><option value="smart" selected>Sort: project size / impact</option><option value="hits">Sort: most covered (news hits)</option><option value="new">Sort: newest first</option><option value="old">Sort: oldest first</option><option value="lang">Sort: by language</option><option value="az">Sort: A–Z by place</option></select></div>
     <div id="wireItems"><div class="wire-load">Loading the wire&hellip;</div></div>
@@ -356,7 +353,7 @@ body.info-open #wirePanel{bottom:auto;max-height:calc(50vh - 46px);}
 </div>
 </div>
 
-<div id="header"><h1 id="title">Live Global Project Resistance Map</h1><div class="subtitle" id="subtitle"></div></div>
+<div id="header"><h1 id="title">Live Global Project Map</h1><div class="subtitle" id="subtitle"></div></div>
 <div id="map"></div>
 <div id="vign" aria-hidden="true"></div>
 <div id="gbLoad">Loading…</div>
@@ -1342,7 +1339,7 @@ function buildFacFilter(){ var box=document.getElementById('facFilter'); if(!box
 }
 buildBestPills();
 function buildCourtMarkers(){ if(courtBuilt)return; courtBuilt=true; _facLayer=new FacilityLayer(); _facLayer.addTo(map);
-  var cb=document.getElementById('facToggle'); if(cb)cb.addEventListener('change',function(e){toggleCourts(e.target.checked);}); }
+  var cb=document.getElementById('facToggle'); if(cb){ cb.onchange=function(){ toggleCourts(cb.checked); }; toggleCourts(cb.checked); } }
 (function loadExecFacilities(){
   var FAC_BASE="https://welcometoyourgalaxy.github.io/executive-map/";
   var SETS=[["legalmap_local_courthouse.json","ch"],["execmap_local_police.json","po"],["execmap_local_townhall.json","th"],["execmap_local_firestation.json","fs"],["execmap_local_govoffice.json","go"],["execmap_local_ministry.json","mi"]];

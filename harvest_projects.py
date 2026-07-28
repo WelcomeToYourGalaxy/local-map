@@ -705,6 +705,7 @@ _PROJECT_ALLOW = (
     "airport","runway","fiber","broadband","cell tower","telecom","wastewater","sewer",
     "water treatment","levee","channel","dredging","mining claim","mineral exploration",
     "borrow pit","geophysical","reroute","interconnection","desalination","pumped storage",
+    "trail","trailhead","greenway","boardwalk","bike path","pedestrian bridge","footbridge","rail-trail",
 )
 _RESEARCH_DENY = (
     "marine mammal","incidental take","scientific research","research permit","cetacean","pinniped",
@@ -8061,25 +8062,37 @@ def _us_resi_coverage(items):
 # LANDFOLIO / FLEXICADASTRE mining-licence cadastres (Ethiopia confirmed).
 # The captured layer Ethiopia_Licenses/MapServer/3 exposes the real tenement
 # schema: Code, Status, Parties (holder), Type/TypeCode, DteApplied/DteGranted/
-# DteExpires, Commodities, AreaValue/AreaUnit, guidLicense. For a cadastre the
-# in-process analog of "proposed/under-construction" is an APPLICATION-stage
-# tenement -- a granted+active licence is operating extraction and must be
-# excluded. We therefore keep ONLY statuses whose text reads as an application/
-# pending/proposed licence and drop everything else, including any status string
-# we don't recognise (the non-negotiable fail-safe gate).
+# DteExpires, Commodities, AreaValue/AreaUnit, guidLicense.
 #
-# Two things block a live daily wiring and are NOT guessed here:
-#   1. the ArcGIS token in the captured URL is session-generated and expires, so
-#      it can't be hardcoded; and
-#   2. the exact Status vocabulary is unconfirmed.
-# So this fetcher is OFF by default: it emits nothing unless FLEXICADASTRE=1.
-# It first tries the query WITHOUT a token (many Landfolio layers allow anonymous
-# read); if a token env is set it appends it. Every failure path returns [].
+# VERIFIED (live query, 2026): layer 3 is specifically the APPLICATIONS layer --
+# a returnDistinctValues query on Status came back with 11 values, ALL of them
+# application-stage (Application; Application Approved - Awaiting License Fee
+# Payment; Application Received - Pending {Document,Payment,Shape} Verification;
+# Application Received - Area Invalid : Resubmit; Application Received - Newspaper
+# Notification Required; Evaluation Complete - Awaiting Application Approval;
+# Federal/Regional Application Received - Pending Payment; License Fee Received -
+# Pending Granting). No granted/active/operating rows live here -- so every
+# feature in this layer is a PROPOSED extraction project. _TENEMENT_INPROCESS
+# matches all 11 (via "appl"/"pending") and still drops any granted/operating/
+# unrecognised status, keeping the fail-safe gate intact if the layer ever mixes.
+#
+# BLOCKER (verified): the layer is token-gated -- an anonymous query returns
+# {"error":{"code":499,"message":"Token Required"}}. The viewer's token is
+# session-generated and expires, so it can't be hardcoded. A daily job needs a
+# token-MINTING step (capture the viewer's generateToken request); until that is
+# wired, this fetcher stays OFF by default and emits nothing unless FLEXICADASTRE=1
+# AND a working token is supplied via FLEXICADASTRE_ETH_TOKEN. Every failure
+# path returns []; a stale token just yields a 499 and an empty result.
 _FLEXICADASTRE = [
-    # base MapServer/layer query URL (no query string), country, cc, token env var
+    # base MapServer/layer query URL (no query string), country, cc, token env var,
+    # and token_page = the viewer page that embeds a fresh session token in its HTML.
+    # Leave token_page "" until the exact URL is confirmed; when set, the harvester
+    # scrapes a fresh token from it each run (no expiring secret needed).
     {"url": "https://ethiopian.miningcadastre.com/arcgis/rest/services/"
             "Ethiopia_Licenses/MapServer/3/query",
-     "country": "Ethiopia", "cc": "et", "token_env": "FLEXICADASTRE_ETH_TOKEN"},
+     "country": "Ethiopia", "cc": "et", "token_env": "FLEXICADASTRE_ETH_TOKEN",
+     "token_page": "https://ethiopian.portal.miningcadastre.com/mappage.aspx"
+                   "?pageid=a16a9300-7c58-4f81-9e5c-97e13b22b0c6"},
 ]
 # Only these status readings pass the in-process gate. Anything else -> excluded.
 _TENEMENT_INPROCESS = _re.compile(r"appl|pending|proposed|under ?review|submitted|lodged", _re.I)
@@ -8103,6 +8116,39 @@ def _ring_centroid(geom):
         return None
 
 
+_BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+               "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+
+def _flexi_scrape_token(page_url):
+    """Fetch the Landfolio viewer page and pull a fresh ArcGIS session token out of
+    the MapPage.Shared.CreateStandardMap('{...}') config it embeds. The query-usable
+    token is the one in the "MapServiceTokens" array (the licence MapService points at
+    MapServiceTokenId 2). Returns "" on any failure -- caller falls back to the env token.
+    NOTE: these tokens are minted ArcGISServerTokenClientType=RequestIP, i.e. bound to
+    the IP that requested the page, so the scrape and the /query MUST run from the same
+    machine in the same job (true inside one GitHub Actions run). That IP-binding is also
+    why a scraped/pasted token can't be tested from a different host."""
+    import http.cookiejar
+    cj = http.cookiejar.CookieJar()
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+    req = urllib.request.Request(page_url, headers={"User-Agent": _BROWSER_UA,
+                                                    "Accept": "text/html"})
+    with opener.open(req, timeout=TIMEOUT) as r:
+        html = r.read().decode("utf-8", "replace")
+    m = _re.search(r'"MapServiceTokens"\s*:\s*(\[.*?\])', html, _re.S)
+    if m:
+        try:
+            arr = json.loads(m.group(1))
+            by_id = {t.get("Id"): t.get("Token") for t in arr if isinstance(t, dict)}
+            return by_id.get(2) or (arr[-1].get("Token") if arr else "") or ""
+        except Exception:
+            pass
+    # looser fallback: first Token inside the MapServiceTokens array
+    m2 = _re.search(r'"MapServiceTokens"\s*:\s*\[\s*\{[^}]*?"Token"\s*:\s*"([^"]+)"', html, _re.S)
+    return m2.group(1) if m2 else ""
+
+
 def fetch_flexicadastre():
     if os.environ.get("FLEXICADASTRE") != "1":
         return []
@@ -8110,25 +8156,84 @@ def fetch_flexicadastre():
     FIELDS = ("Code,Status,Parties,Type,TypeCode,DteApplied,DteGranted,"
               "DteExpires,Commodities,AreaValue,AreaUnit,guidLicense")
     for cfg in _FLEXICADASTRE:
-        base = cfg["url"]
-        params = {"where": "1=1", "outFields": FIELDS, "returnGeometry": "true",
-                  "outSR": "4326", "f": "json", "resultRecordCount": "2000"}
+        base = cfg["url"]                       # ".../MapServer/<n>/query"
+        layer = base[:-6] if base.endswith("/query") else base   # ".../MapServer/<n>"
         tok = os.environ.get(cfg.get("token_env", ""), "")
-        if tok:
-            params["token"] = tok
-        url = base + "?" + urllib.parse.urlencode(params)
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA,
-                                                       "Accept": "application/json"})
+        tp = cfg.get("token_page", "")
+        if tp:
+            try:
+                scraped = _flexi_scrape_token(tp)
+                if scraped:
+                    tok = scraped
+                    print("  flexicadastre %s: scraped a fresh token from the viewer page"
+                          % cfg["country"])
+                else:
+                    print("  flexicadastre %s: viewer page had no token -- using env token"
+                          % cfg["country"])
+            except Exception as e:
+                print("  flexicadastre %s: token scrape failed (%s) -- using env token"
+                      % (cfg["country"], e))
+
+        def _get(u):
+            req = urllib.request.Request(u, headers={"User-Agent": UA,
+                                                     "Accept": "application/json"})
             with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-                gj = json.loads(r.read().decode("utf-8", "replace"))
+                return json.loads(r.read().decode("utf-8", "replace"))
+
+        # 1) read the layer's own capabilities so we page by its real limits
+        #    rather than guessing (this also avoids the param combos that 400).
+        page = 1000
+        paginates = False
+        try:
+            meta_q = {"f": "json"}
+            if tok:
+                meta_q["token"] = tok
+            meta = _get(layer + "?" + urllib.parse.urlencode(meta_q))
+            if isinstance(meta, dict) and not meta.get("error"):
+                page = int(meta.get("maxRecordCount") or 1000) or 1000
+                aqc = meta.get("advancedQueryCapabilities") or {}
+                paginates = bool(aqc.get("supportsPagination"))
+            elif isinstance(meta, dict) and meta.get("error"):
+                print("  flexicadastre %s: layer metadata error %s (needs a valid token)"
+                      % (cfg["country"], str(meta.get("error"))[:120]))
         except Exception as e:
-            print("  flexicadastre %s failed: %s" % (cfg["country"], e)); continue
-        if isinstance(gj, dict) and gj.get("error"):
-            print("  flexicadastre %s API error: %s (needs a valid token or anonymous "
-                  "read)" % (cfg["country"], str(gj.get("error"))[:160])); continue
-        feats = gj.get("features", []) if isinstance(gj, dict) else []
-        print("  flexicadastre %s: %d raw tenements" % (cfg["country"], len(feats)))
+            print("  flexicadastre %s: metadata probe failed (%s) -- using defaults"
+                  % (cfg["country"], e))
+        page = max(200, min(page, 2000))
+
+        # 2) pull every feature. With pagination: walk resultOffset in page steps.
+        #    Without it: one query (server-capped) + an honest note about the cap.
+        feats, offset, guard = [], 0, 0
+        while True:
+            q = {"where": "1=1", "outFields": FIELDS, "returnGeometry": "true",
+                 "outSR": "4326", "f": "json"}
+            if tok:
+                q["token"] = tok
+            if paginates:
+                q["resultOffset"] = str(offset)
+                q["resultRecordCount"] = str(page)
+            try:
+                gj = _get(base + "?" + urllib.parse.urlencode(q))
+            except Exception as e:
+                print("  flexicadastre %s query failed at offset %d: %s"
+                      % (cfg["country"], offset, e)); break
+            if isinstance(gj, dict) and gj.get("error"):
+                print("  flexicadastre %s API error at offset %d: %s"
+                      % (cfg["country"], offset, str(gj.get("error"))[:160])); break
+            batch = gj.get("features", []) if isinstance(gj, dict) else []
+            feats += batch
+            if not paginates:
+                if gj.get("exceededTransferLimit") or len(batch) >= page:
+                    print("  flexicadastre %s: server has no pagination -- got the first "
+                          "%d of ~%d; spatial tiling needed for the rest"
+                          % (cfg["country"], len(batch), 3313))
+                break
+            offset += page
+            guard += 1
+            if len(batch) < page or not gj.get("exceededTransferLimit") or guard > 40:
+                break
+        print("  flexicadastre %s: %d raw tenements pulled" % (cfg["country"], len(feats)))
+
         kept = 0
         for f in feats:
             try:

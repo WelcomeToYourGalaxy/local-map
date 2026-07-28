@@ -7193,9 +7193,30 @@ _JUNK_LAYER = _re.compile(
     _re.I)
 
 
+_INVENTORY_LAYER = _re.compile(
+    # Geological INVENTORY layers (every known deposit/showing) masquerade as
+    # projects because they contain "mineral"/"mine"/etc. and pass _WFS_KEEP.
+    # They are NOT proposed/under-construction projects, so they fail the gate.
+    # Reject them by name. Multilingual: DE (Austria) Lagerstaette/Vorkommen,
+    # FR gisement, ES yacimiento/ocurrencia, PT jazida, IT giacimento/occorrenza,
+    # NL voorkomen. Kept deliberately narrow so real licence/permit/application
+    # layers (which never carry these words) are untouched. Override: FED_KEEP_INVENTORY=1.
+    r"occurrence|\bdeposits?\b|\bshowings?\b|mineralis|mineraliz|metallogen|"
+    r"\boutcrops?\b|ore ?bod|litholog|g[e\u00e9]olog|"
+    r"gisement|yacimiento|jazida|lagerst|vorkomm|"
+    r"ocurrencia|occorrenz|giacimento|voorkomen",
+    _re.I)
+
+
 def _layer_is_junk(*names):
+    _drop_inv = os.environ.get("FED_KEEP_INVENTORY") != "1"
     for n in names:
-        if n and _JUNK_LAYER.search(str(n)):
+        if not n:
+            continue
+        s = str(n)
+        if _JUNK_LAYER.search(s):
+            return True
+        if _drop_inv and _INVENTORY_LAYER.search(s):
             return True
     return False
 

@@ -705,6 +705,7 @@ _PROJECT_ALLOW = (
     "airport","runway","fiber","broadband","cell tower","telecom","wastewater","sewer",
     "water treatment","levee","channel","dredging","mining claim","mineral exploration",
     "borrow pit","geophysical","reroute","interconnection","desalination","pumped storage",
+    "trail","trailhead","greenway","boardwalk","bike path","pedestrian bridge","footbridge","rail-trail",
 )
 _RESEARCH_DENY = (
     "marine mammal","incidental take","scientific research","research permit","cetacean","pinniped",
@@ -8061,20 +8062,27 @@ def _us_resi_coverage(items):
 # LANDFOLIO / FLEXICADASTRE mining-licence cadastres (Ethiopia confirmed).
 # The captured layer Ethiopia_Licenses/MapServer/3 exposes the real tenement
 # schema: Code, Status, Parties (holder), Type/TypeCode, DteApplied/DteGranted/
-# DteExpires, Commodities, AreaValue/AreaUnit, guidLicense. For a cadastre the
-# in-process analog of "proposed/under-construction" is an APPLICATION-stage
-# tenement -- a granted+active licence is operating extraction and must be
-# excluded. We therefore keep ONLY statuses whose text reads as an application/
-# pending/proposed licence and drop everything else, including any status string
-# we don't recognise (the non-negotiable fail-safe gate).
+# DteExpires, Commodities, AreaValue/AreaUnit, guidLicense.
 #
-# Two things block a live daily wiring and are NOT guessed here:
-#   1. the ArcGIS token in the captured URL is session-generated and expires, so
-#      it can't be hardcoded; and
-#   2. the exact Status vocabulary is unconfirmed.
-# So this fetcher is OFF by default: it emits nothing unless FLEXICADASTRE=1.
-# It first tries the query WITHOUT a token (many Landfolio layers allow anonymous
-# read); if a token env is set it appends it. Every failure path returns [].
+# VERIFIED (live query, 2026): layer 3 is specifically the APPLICATIONS layer --
+# a returnDistinctValues query on Status came back with 11 values, ALL of them
+# application-stage (Application; Application Approved - Awaiting License Fee
+# Payment; Application Received - Pending {Document,Payment,Shape} Verification;
+# Application Received - Area Invalid : Resubmit; Application Received - Newspaper
+# Notification Required; Evaluation Complete - Awaiting Application Approval;
+# Federal/Regional Application Received - Pending Payment; License Fee Received -
+# Pending Granting). No granted/active/operating rows live here -- so every
+# feature in this layer is a PROPOSED extraction project. _TENEMENT_INPROCESS
+# matches all 11 (via "appl"/"pending") and still drops any granted/operating/
+# unrecognised status, keeping the fail-safe gate intact if the layer ever mixes.
+#
+# BLOCKER (verified): the layer is token-gated -- an anonymous query returns
+# {"error":{"code":499,"message":"Token Required"}}. The viewer's token is
+# session-generated and expires, so it can't be hardcoded. A daily job needs a
+# token-MINTING step (capture the viewer's generateToken request); until that is
+# wired, this fetcher stays OFF by default and emits nothing unless FLEXICADASTRE=1
+# AND a working token is supplied via FLEXICADASTRE_ETH_TOKEN. Every failure
+# path returns []; a stale token just yields a 499 and an empty result.
 _FLEXICADASTRE = [
     # base MapServer/layer query URL (no query string), country, cc, token env var
     {"url": "https://ethiopian.miningcadastre.com/arcgis/rest/services/"

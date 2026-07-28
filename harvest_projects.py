@@ -777,6 +777,11 @@ def fetch_federal_register(days=180, per_page=100):
 # their export endpoints (EJAtlas + Land Matrix carry real lat/lng; GEM ships
 # downloadable trackers with coordinates).
 def fetch_epa_eis(): return []
+# FERC eLibrary REJECTED (verified 2026-07): it exposes an API, but eLibrary is a
+# docket/document index (filings, orders, eComment notices) with NO project
+# coordinates. Plotting it would mean text-geocoding ~2M mostly non-geographic
+# documents; the live comment windows are real but do not overcome the no-points
+# gate. Stays a stub. (data.ferc.gov is financial/forms data -- also no project pts.)
 def fetch_ferc(): return []
 def fetch_ejatlas(path="data/ejatlas.geojson"):
     """Environmental Justice Atlas conflicts (global). EJAtlas has NO public API,
@@ -7528,11 +7533,23 @@ def _finish(items):
         except Exception:
             pass
     items = [_slim(p) for p in items]
-    out = {"_meta": {"generated": datetime.datetime.utcnow().isoformat() + "Z",
-                     "count": len(items),
-                     "sources": "socrata permits, land matrix, global energy monitor, epa eis, ferc, ejatlas",
-                     "rating_scale": "1 minor / 2 local / 3 regional / 4 major / 5 landscape"},
-           "projects": items}
+    # One honest, verifiable coverage ratio (US new-residential vs Census BPS).
+    # Fail-safe: omitted entirely if the Census feed does not resolve.
+    _cov = None
+    try:
+        _cov = _us_resi_coverage(items)
+    except Exception as _e:
+        print("  census coverage: skipped (%s)" % _e)
+    _meta = {"generated": datetime.datetime.utcnow().isoformat() + "Z",
+             "count": len(items),
+             "sources": ("permitstack, arcgis hub, socrata, federal register EIS, "
+                         "BLM/USFS NEPA, national registers (FR/UK/AU/CA/BR/CL/CO/IE/PT "
+                         "+ AU-state/CA-province), open-data federations, world bank, "
+                         "IATI, land matrix, global energy monitor, EMODnet wind"),
+             "rating_scale": "1 minor / 2 local / 3 regional / 4 major / 5 landscape"}
+    if _cov:
+        _meta["us_resi_coverage"] = _cov
+    out = {"_meta": _meta, "projects": items}
     _dump_projects(out)
     print("wrote projects.json.gz with %d projects" % len(items))
     if not items:
@@ -7679,6 +7696,268 @@ def _carry_sources(pred, label):
     print("  [%s] carried %d entries forward (not refreshed this run)" % (label, len(keep)))
     return keep
 
+# ---------------------------------------------------------------------------
+# US military construction (MILCON) -- AUTOMATIC annual layer.
+# Source: DoD Comptroller C-1 "Construction Programs", a PDF at a stable URL
+# pattern: comptroller.defense.gov/Portals/45/Documents/defbudget/FY{fy}/FY{fy}_c1.pdf
+# The C-1 has no coordinates (installation names only) and no permit status, so
+# this is an installation-CENTROID layer geocoded via a bundled base gazetteer,
+# tagged "programmed/appropriated". It emits at most one dot per gazetteer base
+# that the C-1 names -- a bounded STARTER; expand _DOD_BASES for wider coverage.
+# Fail-safe: any fetch/parse problem (incl. missing pdfplumber) -> returns [].
+_DOD_BASES = {
+    # name substring (lowercased) -> (lat, lng, label)  -- confident centroids only.
+    # Keys are distinctive substrings likely to appear verbatim in the C-1.
+    # --- Pacific / strategic (the on-thesis buildout) ---
+    "andersen":        (13.584, 144.924, "Andersen AFB, Guam"),
+    "naval base guam": (13.440, 144.660, "Naval Base Guam"),
+    "camp blaz":       (13.470, 144.860, "MCB Camp Blaz, Guam"),
+    "tinian":          (14.999, 145.635, "Tinian, CNMI"),
+    "wake island":     (19.282, 166.650, "Wake Island"),
+    "kwajalein":       (8.720, 167.730, "Kwajalein / Reagan Test Site"),
+    "diego garcia":    (-7.313, 72.411, "Diego Garcia"),
+    "pearl harbor":    (21.350, -157.950, "JB Pearl Harbor-Hickam, HI"),
+    "schofield":       (21.490, -158.060, "Schofield Barracks, HI"),
+    "kaneohe":         (21.450, -157.770, "MCB Hawaii, Kaneohe"),
+    "kadena":          (26.360, 127.770, "Kadena AB, Okinawa"),
+    "camp foster":     (26.280, 127.780, "Camp Foster, Okinawa"),
+    "yokota":          (35.748, 139.348, "Yokota AB, Japan"),
+    "iwakuni":         (34.144, 132.236, "MCAS Iwakuni, Japan"),
+    "yokosuka":        (35.290, 139.663, "Fleet Activities Yokosuka, Japan"),
+    "camp humphreys":  (36.963, 127.031, "Camp Humphreys, South Korea"),
+    "osan":            (37.090, 127.030, "Osan AB, South Korea"),
+    "kunsan":          (35.900, 126.620, "Kunsan AB, South Korea"),
+    # --- Alaska ---
+    "eielson":         (64.665, -147.102, "Eielson AFB, AK"),
+    "fort wainwright": (64.828, -147.640, "Fort Wainwright, AK"),
+    "fort greely":     (63.900, -145.730, "Fort Greely, AK"),
+    "elmendorf":       (61.250, -149.800, "JB Elmendorf-Richardson, AK"),
+    "clear space":     (64.300, -149.190, "Clear SFS, AK"),
+    # --- US Army ---
+    "fort liberty":    (35.140, -79.010, "Fort Liberty, NC"),
+    "fort cavazos":    (31.130, -97.780, "Fort Cavazos, TX"),
+    "fort moore":      (32.350, -84.970, "Fort Moore, GA"),
+    "fort campbell":   (36.670, -87.460, "Fort Campbell, KY"),
+    "fort stewart":    (31.870, -81.610, "Fort Stewart, GA"),
+    "fort carson":     (38.740, -104.790, "Fort Carson, CO"),
+    "fort riley":      (39.100, -96.810, "Fort Riley, KS"),
+    "fort drum":       (44.050, -75.760, "Fort Drum, NY"),
+    "fort bliss":      (31.810, -106.421, "Fort Bliss, TX"),
+    "fort sill":       (34.650, -98.400, "Fort Sill, OK"),
+    "fort leonard wood":(37.750, -92.130, "Fort Leonard Wood, MO"),
+    "fort irwin":      (35.260, -116.680, "Fort Irwin, CA"),
+    "fort johnson":    (31.050, -93.200, "Fort Johnson, LA"),
+    "fort eisenhower": (33.420, -82.150, "Fort Eisenhower, GA"),
+    "fort belvoir":    (38.720, -77.140, "Fort Belvoir, VA"),
+    "fort knox":       (37.890, -85.960, "Fort Knox, KY"),
+    "aberdeen proving":(39.470, -76.130, "Aberdeen Proving Ground, MD"),
+    "redstone":        (34.680, -86.650, "Redstone Arsenal, AL"),
+    "west point":      (41.390, -73.960, "West Point, NY"),
+    # --- US Navy ---
+    "norfolk":         (36.944, -76.313, "Naval Station Norfolk, VA"),
+    "san diego":       (32.684, -117.120, "Naval Base San Diego, CA"),
+    "coronado":        (32.700, -117.190, "Naval Base Coronado, CA"),
+    "point loma":      (32.710, -117.240, "Naval Base Point Loma, CA"),
+    "kitsap":          (47.720, -122.710, "Naval Base Kitsap, WA"),
+    "whidbey":         (48.350, -122.660, "NAS Whidbey Island, WA"),
+    "everett":         (47.990, -122.230, "Naval Station Everett, WA"),
+    "mayport":         (30.390, -81.420, "Naval Station Mayport, FL"),
+    "jacksonville":    (30.240, -81.680, "NAS Jacksonville, FL"),
+    "pensacola":       (30.350, -87.310, "NAS Pensacola, FL"),
+    "new london":      (41.400, -72.090, "Submarine Base New London, CT"),
+    "great lakes":     (42.310, -87.850, "Naval Station Great Lakes, IL"),
+    "oceana":          (36.820, -76.030, "NAS Oceana, VA"),
+    "yorktown":        (37.230, -76.550, "Naval Weapons Station Yorktown, VA"),
+    "portsmouth naval":(43.080, -70.740, "Portsmouth Naval Shipyard, ME"),
+    # --- US Air Force / Space Force ---
+    "nellis":          (36.240, -115.030, "Nellis AFB, NV"),
+    "edwards":         (34.900, -117.880, "Edwards AFB, CA"),
+    "wright-patterson":(39.830, -84.050, "Wright-Patterson AFB, OH"),
+    "hill air force":  (41.120, -111.970, "Hill AFB, UT"),
+    "travis":          (38.260, -121.930, "Travis AFB, CA"),
+    "andrews":         (38.810, -76.870, "JB Andrews, MD"),
+    "vandenberg":      (34.740, -120.570, "Vandenberg SFB, CA"),
+    "peterson":        (38.820, -104.700, "Peterson SFB, CO"),
+    "buckley":         (39.700, -104.750, "Buckley SFB, CO"),
+    "barksdale":       (32.500, -93.660, "Barksdale AFB, LA"),
+    "minot":           (48.420, -101.360, "Minot AFB, ND"),
+    "malmstrom":       (47.510, -111.190, "Malmstrom AFB, MT"),
+    "warren":          (41.150, -104.870, "F.E. Warren AFB, WY"),
+    "whiteman":        (38.730, -93.550, "Whiteman AFB, MO"),
+    "offutt":          (41.120, -95.910, "Offutt AFB, NE"),
+    "tyndall":         (30.070, -85.575, "Tyndall AFB, FL"),
+    # --- US Marine Corps ---
+    "camp pendleton":  (33.350, -117.420, "MCB Camp Pendleton, CA"),
+    "camp lejeune":    (34.650, -77.340, "MCB Camp Lejeune, NC"),
+    "quantico":        (38.520, -77.300, "MCB Quantico, VA"),
+    "miramar":         (32.870, -117.140, "MCAS Miramar, CA"),
+    "cherry point":    (34.900, -76.880, "MCAS Cherry Point, NC"),
+    "twentynine palms":(34.300, -116.160, "MCAGCC Twentynine Palms, CA"),
+    # --- Europe / Middle East ---
+    "ramstein":        (49.437, 7.600, "Ramstein AB, Germany"),
+    "lakenheath":      (52.410, 0.560, "RAF Lakenheath, UK"),
+    "mildenhall":      (52.360, 0.490, "RAF Mildenhall, UK"),
+    "aviano":          (46.030, 12.600, "Aviano AB, Italy"),
+    "rota naval":      (36.620, -6.350, "Naval Station Rota, Spain"),
+    "incirlik":        (37.000, 35.430, "Incirlik AB, Turkey"),
+    "al udeid":        (25.120, 51.320, "Al Udeid AB, Qatar"),
+    "pituffik":        (76.530, -68.700, "Pituffik SB, Greenland"),
+    "guantanamo":      (19.900, -75.100, "NS Guantanamo Bay, Cuba"),
+}
+
+
+def fetch_milcon():
+    fy_env = os.environ.get("MILCON_C1_FY")
+    yr = datetime.datetime.utcnow().year
+    fys = [fy_env] if fy_env else [str(yr + 1), str(yr)]   # newest first; whichever is published
+    base = os.environ.get("MILCON_C1_URL_TMPL",
+                          "https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY{fy}/FY{fy}_c1.pdf")
+    try:
+        import pdfplumber  # noqa
+    except Exception:
+        print("  milcon: pdfplumber not installed (pip install pdfplumber) -- skip"); return []
+    import io as _io
+    text = None; used_fy = None
+    for fy in fys:
+        if not fy:
+            continue
+        url = base.format(fy=fy)
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=120) as r:
+                raw = r.read()
+            with pdfplumber.open(_io.BytesIO(raw)) as pdf:
+                text = "\n".join((p.extract_text() or "") for p in pdf.pages)
+            used_fy = fy
+            if text and len(text) > 2000:
+                break
+        except Exception as e:
+            print("  milcon: FY%s fetch/parse failed (%s)" % (fy, e)); text = None
+    if not text:
+        print("  milcon: no C-1 retrieved -- skip"); return []
+    low = text.lower()
+    money = re.compile(r"\$?\s?([\d,]{4,})")
+    out = []
+    for key, (lat, lng, label) in _DOD_BASES.items():
+        pos = low.find(key)
+        if pos < 0:
+            continue
+        # nearest dollar figure on the same line, if any (C-1 is $ in thousands)
+        line = text[max(0, pos - 120): pos + 160]
+        amt = None
+        m = money.search(line)
+        if m:
+            try:
+                v = int(m.group(1).replace(",", "")) * 1000  # C-1 is $ thousands
+                if v >= 1_000_000:
+                    amt = v
+            except Exception:
+                amt = None
+        rec = {"name": "Military construction \u2014 " + label,
+               "source": "milcon",
+               "type": "Military construction",
+               "lat": lat, "lng": lng, "precise": False,
+               "impact": 4, "status": "Programmed (FY%s appropriation)" % (used_fy or "?"),
+               "desc": "Named in the DoD Comptroller C-1 Construction Programs (FY%s). "
+                       "Installation-level; see the C-1 for the project list." % (used_fy or "?")}
+        if amt:
+            rec["size"] = "~$%.0fM" % (amt / 1_000_000.0)
+        out.append(rec)
+    print("  milcon: %d installations matched in FY%s C-1" % (len(out), used_fy))
+    return out
+
+
+def _census_bps_latest_month_units():
+    """US Census Building Permits Survey: national housing units AUTHORIZED by
+    permit, latest available month, NOT seasonally adjusted (raw monthly count).
+    Verified keyless endpoint: api.census.gov/data/timeseries/eits/resconst.
+    Fail-safe by design: returns (month, units) or None -- it NEVER emits a
+    guessed number. The series is matched by code AND the value is sanity-bounded
+    to a plausible monthly total (handling both 'units' and 'thousands' scaling),
+    so a wrong series is dropped rather than reported."""
+    import datetime as _dt
+    yr = _dt.datetime.utcnow().year
+    url = ("https://api.census.gov/data/timeseries/eits/resconst?"
+           "get=cell_value,time,category_code,data_type_code,seasonally_adj"
+           "&for=us:*&time=from+%d-01" % (yr - 1))
+    try:
+        rows = _get_json(url)
+    except Exception as e:
+        print("  census bps: fetch failed (%s)" % e); return None
+    if not isinstance(rows, list) or len(rows) < 2:
+        print("  census bps: empty/unexpected"); return None
+    hdr = rows[0]
+    try:
+        iv = hdr.index("cell_value"); it = hdr.index("time")
+        ic = hdr.index("category_code"); idt = hdr.index("data_type_code")
+        isa = hdr.index("seasonally_adj")
+    except ValueError:
+        print("  census bps: unexpected schema"); return None
+    best = None
+    for r in rows[1:]:
+        try:
+            cat = (r[ic] or "").upper(); dt = (r[idt] or "").upper()
+            sa = (r[isa] or "").strip().lower()
+            if "AUTH" not in cat: continue            # authorized by permit
+            if dt not in ("TOTAL",): continue          # total units (all structure types)
+            if sa not in ("no", "n", "not seasonally adjusted", ""):
+                continue                               # raw counts, not SAAR
+            val = float(r[iv]); tm = r[it]
+        except Exception:
+            continue
+        if 40 <= val <= 300:            # reported in thousands -> normalise to units
+            val *= 1000.0
+        elif not (40000 <= val <= 300000):
+            continue                    # neither scale is plausible for a month -> drop
+        if best is None or tm > best[0]:
+            best = (tm, val)
+    if not best:
+        print("  census bps: no plausible monthly total-authorized series found"); return None
+    print("  census bps: %s US units authorized by permit = %d" % (best[0], int(best[1])))
+    return best
+
+
+def _us_resi_coverage(items):
+    """One bounded, verifiable coverage ratio (the only honest one available):
+    US new-residential permits the map caught in the last ~30 days, over the
+    latest Census national monthly units authorized. Fail-safe: returns a dict or
+    None and never fabricates -- if the Census feed does not resolve, nothing is
+    emitted and the map simply omits the figure."""
+    bps = _census_bps_latest_month_units()
+    if not bps:
+        return None
+    month, denom = bps
+    if not denom:
+        return None
+    import datetime as _dt
+    cutoff = (_dt.datetime.utcnow() - _dt.timedelta(days=31)).strftime("%Y-%m-%d")
+    RES = ("residential", "dwelling", "housing", "apartment", "condo",
+           "single-family", "single family", "multifamily", "multi-family",
+           "townhome", "townhouse", "duplex")
+    caught = 0
+    for p in items:
+        if (p.get("source") or "") != "permitstack":
+            continue
+        blob = ((p.get("type") or "") + " " + (p.get("desc") or "") + " "
+                + (p.get("name") or "")).lower()
+        if not any(k in blob for k in RES):
+            continue
+        d = str(p.get("date") or "")[:10]
+        if d and d < cutoff:
+            continue
+        caught += 1
+    if caught <= 0:
+        return None
+    return {"scope": "US new-residential permits ($1M+ caught), last ~30 days",
+            "caught": caught,
+            "census_month": month,
+            "census_units_authorized": int(denom),
+            "ratio_pct": round(100.0 * caught / denom, 3),
+            "note": "size-biased fraction: the map catches only $1M+ permits, "
+                    "so this is a small, deliberately partial slice of all "
+                    "Census-counted units."}
+
+
 def main():
     # merge job: fold the shard artifacts into projects.json
     if os.environ.get("OSM_MERGE") == "1":
@@ -7809,6 +8088,7 @@ def main():
     items += _run("ireland_eia", fetch_ireland_eia)                # Ireland national EIA Location Point layer (CC-BY)
     items += _run("world_bank", fetch_world_bank)               # GLOBAL: active WB-financed projects
     items += _run("iati", fetch_iati)                           # GLOBAL: aid projects WITH coordinates
+    items += _run("milcon", fetch_milcon)                       # US DoD C-1 military construction (installation-level, programmed)
     items += _run("land_matrix", fetch_land_matrix)               # GLOBAL: large-scale land acquisitions (Land Matrix, country-level)
     items += _run("gem", fetch_gem)
     items += _run("emodnet_wind", fetch_emodnet_wind)          # EU SEAS: offshore wind farms in development (EMODnet Human Activities)                               # GLOBAL: proposed fossil infra -- coal plants+mines, gas, oil (Global Energy Monitor, live)

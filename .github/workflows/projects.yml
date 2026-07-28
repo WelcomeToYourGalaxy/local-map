@@ -45,6 +45,12 @@ jobs:
           # --- credentials (add these as repo Settings > Secrets and variables > Actions) ---
           PERMITSTACK_API_KEY: ${{ secrets.PERMITSTACK_API_KEY }}   # US building permits (source skips if unset)
           DATA_GOV_IN_KEY: ${{ secrets.DATA_GOV_IN_KEY }}           # India data.gov.in (source skips if unset)
+          # Ethiopia mining-licence APPLICATIONS (Landfolio cadastre). OFF by default.
+          # To do a one-shot live pull: set FLEXICADASTRE to "1" here AND add a FRESH
+          # FLEXICADASTRE_ETH_TOKEN secret (the viewer's session token; it expires within
+          # hours, so a scheduled run needs the page-scrape token route, not a static secret).
+          FLEXICADASTRE: "0"
+          FLEXICADASTRE_ETH_TOKEN: ${{ secrets.FLEXICADASTRE_ETH_TOKEN }}
           # --- optional tuning (all have safe defaults; leave unset to accept them) ---
           # MILCON_C1_FY: "2026"        # pin the DoD C-1 fiscal year (default: try newest, then current)
           # HARVEST_FEDERATIONS: "1"    # include CKAN/ODS/GeoNode/WFS/OGC-API federations

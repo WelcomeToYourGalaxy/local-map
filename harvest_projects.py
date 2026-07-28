@@ -1757,7 +1757,7 @@ def _permit_is_significant(text, value, big=5000000, floor=1000000):
 # specific plans) that NO building-permit feed carries -- the Sierra Madre gap.
 # California-only, but California is ~12% of the US and files ~13k CEQA docs/yr.
 # ---------------------------------------------------------------------------
-CEQANET_CSV = "https://ceqanet.lci.ca.gov/Search?OutputFormat=CSV"
+CEQANET_CSV = "https://ceqanet.lci.ca.gov/Search/Recent?OutputFormat=CSV"
 # Substantive environmental-review docs are kept in full; NOE/other are gated
 # through the shared significance filter so trivial exemptions (re-roofs, tree
 # removals) are dropped but sizeable projects (e.g. a 42-home subdivision) stay.
@@ -7188,8 +7188,9 @@ _JUNK_LAYER = _re.compile(
     r"bathymetr|sea ?bed ?map|habitat ?map|seabed ?substrate|"
     r"\bgrid\b|raster|hex(agon)?|cell[s]? |statistic|census|indicator|"
     r"\bcommune[s]?\b|municipalit(y|ies)|admin(istrative)? ?bound|"
-    r"parcel|cadastr[ae]l? ?parcel|land ?register|"
+    r"parcel|cadastr[ae]l? ?parcel|land ?register|catastro|cadastro|catasto|kataster|kadaster|kadastr|"
     r"population|demograph|land ?cover|corine|elevation|contour|"
+    r"existing ?land ?use|existinglanduse|agricultural ?area|agriculturalarea|"
     r"protected ?area|natura ?2000|designation|zonage|zoning ?plan",
     _re.I)
 
@@ -7223,8 +7224,10 @@ def _layer_is_junk(*names):
 
 _WFS_KEEP = _re.compile(
     r"permit|planning|develop|construct|mining|\bmine\b|quarr|pipeline|concession|"
-    r"infrastructur|\bproject|licen[cs]e|environ|impact|land ?use|zoning|cadastr|"
-    r"obra|proyecto|miner|licencia|concesi|urbanism|catastro|ambient|ordenamiento|"
+    r"infrastructur|\bproject|licen[cs]e|environ|impact|zoning|"
+    r"\beia\b|\beis\b|\beir\b|\bseia\b|\besia\b|\buvp\b|impact assessment|impact statement|"
+    r"[e\u00e9]tude d.?impact|umweltvertr|milieueffect|avalia\u00e7\u00e3o.{0,12}impacto|"
+    r"obra|proyecto|miner|licencia|concesi|urbanism|ambient|ordenamiento|"
     r"licenciamento|empreendimento|minera|permis|amenagement|chantier|carri\u00e8re|"
     r"exploitation|baugen|genehmig|planung|bergbau|umwelt|vorhaben|"
     r"wind ?farm|offshore|hydrocarbon|dredg|aggregate extraction|"
@@ -7541,7 +7544,10 @@ _NONPROJECT = _re.compile(
     r"points? d.int[e\u00e9]r[e\u00ea]t|points? of interest|"
     r"signal[e\u00e9]tique|\bsignage\b|"
     r"corbeilles?|poubelles?|"
-    r"\bbancs? publics?|park benches?",
+    r"\bbancs? publics?|park benches?|"
+    r"catastro|cadastro|catasto|\bcadastre\b|cadastral ?parcel|parcela ?catastral|parcela ?cadastral|kadastr|"
+    r"kataster|kadaster|existing ?land ?use|existinglanduse|land ?use ?inventory|"
+    r"agricultural ?area|agriculturalarea",
     _re.I)
 
 
@@ -7923,7 +7929,14 @@ def fetch_milcon():
             continue
         url = base.format(fy=fy)
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            # comptroller.defense.gov WAF 403s non-browser UAs; these are public
+            # budget PDFs, so present a browser UA + Accept headers.
+            req = urllib.request.Request(url, headers={
+                "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                               "AppleWebKit/537.36 (KHTML, like Gecko) "
+                               "Chrome/124.0.0.0 Safari/537.36"),
+                "Accept": "application/pdf,*/*",
+                "Accept-Language": "en-US,en;q=0.9"})
             with urllib.request.urlopen(req, timeout=120) as r:
                 raw = r.read()
             with pdfplumber.open(_io.BytesIO(raw)) as pdf:

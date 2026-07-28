@@ -1,38 +1,65 @@
+# .github/workflows/projects.yml
+# Daily harvest of the "Live projects" layer -> projects.json.gz (committed to repo root).
+# This is the LIVE-PROJECTS harvester (harvest_projects.py). It is SEPARATE from
+# the news wire (wire_harvest.py / wire.yml) and from the weekly sharded OSM run
+# (projects_osm.yml). All three are distinct workflows and all must exist in the repo.
 name: Harvest live projects
+
 on:
   schedule:
-    - cron: '0 8 * * *'      # daily at 08:00 UTC
-  workflow_dispatch: {}       # allow manual runs
+    - cron: "17 6 * * *"      # daily, 06:17 UTC
+  workflow_dispatch: {}         # manual "Run workflow" button
+
+# allow the job to push the refreshed projects.json.gz back to the repo
 permissions:
   contents: write
+
+concurrency:
+  group: harvest-projects
+  cancel-in-progress: false
+
 jobs:
   harvest:
     runs-on: ubuntu-latest
+    timeout-minutes: 330        # sources are budget-capped inside the script
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      - name: Install deps
-        run: pip install permitstack requests
-      - name: Harvest projects.json
-        env:
-          PERMITSTACK_API_KEY: ${{ secrets.PERMITSTACK_API_KEY }}
-        run: python harvest_projects.py
-      - name: Commit if changed
+          python-version: "3.11"
+
+      - name: Install dependencies
+        # harvest_projects.py is almost pure stdlib. Its only third-party imports are:
+        #   permitstack -> the US PermitStack source
+        #   pdfplumber  -> the US MILCON (DoD C-1) source
         run: |
-          git config user.name  "projects-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add projects.json.gz
-          if git diff --staged --quiet; then echo "no changes"; exit 0; fi
-          git commit -m "chore: refresh projects.json"
-          BR="$(git rev-parse --abbrev-ref HEAD)"
-          for i in 1 2 3 4 5; do
-            git fetch origin "$BR" || true
-            if git merge -X ours FETCH_HEAD -m "merge remote; keep fresh projects.json" && git push origin HEAD:"$BR"; then
-              echo "pushed"; exit 0
-            fi
-            git merge --abort 2>/dev/null || true
-            echo "push race, retry $i"; sleep 6
-          done
-          echo "push failed after retries"; exit 1
+          python -m pip install --upgrade pip
+          pip install permitstack pdfplumber
+
+      - name: Run harvester
+        env:
+          # --- credentials (add these as repo Settings > Secrets and variables > Actions) ---
+          PERMITSTACK_API_KEY: ${{ secrets.PERMITSTACK_API_KEY }}   # US building permits (source skips if unset)
+          DATA_GOV_IN_KEY: ${{ secrets.DATA_GOV_IN_KEY }}           # India data.gov.in (source skips if unset)
+          # --- optional tuning (all have safe defaults; leave unset to accept them) ---
+          # MILCON_C1_FY: "2026"        # pin the DoD C-1 fiscal year (default: try newest, then current)
+          # HARVEST_FEDERATIONS: "1"    # include CKAN/ODS/GeoNode/WFS/OGC-API federations
+          # HARVEST_OSM: "0"            # keep OSM OFF here; it runs in projects_osm.yml
+        run: |
+          python harvest_projects.py
+
+      - name: Commit refreshed projects.json.gz
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain projects.json.gz)" ]; then
+            git add projects.json.gz
+            git commit -m "chore(projects): daily harvest $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No change in projects.json.gz -- nothing to commit."
+          fi

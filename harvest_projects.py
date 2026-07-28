@@ -7515,9 +7515,87 @@ def fetch_ckan_federation(per_portal=None, per_ds=1500):
     return out
 
 
+# ---------------------------------------------------------------------------
+# UNIVERSAL NON-PROJECT REJECT.  Open-data portals (esp. ArcGIS Hub / data.gouv)
+# publish amenity + furniture INVENTORIES that slip past the per-source filters
+# because they are not "junk layers" in the geological sense -- they are just not
+# proposed/under-construction PROJECTS. Examples the map surfaced: "places de
+# stationnement PMR" (accessible parking spaces), "stationnement velo" (bike
+# racks), "PDIPR" (a hiking-trail plan), "base permanente des equipements" (INSEE
+# facility census). This runs over the FINAL merged set, so it catches leaks from
+# every source at once. Kept deliberately phrase-specific so real construction
+# ("parc de stationnement", "panneaux solaires") is untouched. Override: KEEP_AMENITIES=1.
+_NONPROJECT = _re.compile(
+    r"places? de stationnement|stationnement pmr|stationnement v[e\u00e9]lo|"
+    r"aires? de stationnement|zones? de stationnement|"
+    r"parking spaces?|car ?park spaces?|bike ?parking|cycle ?parking|\bpmr\b|"
+    r"\bpdipr\b|itin[e\u00e9]raires? de promenade|itin[e\u00e9]raires? de randonn[e\u00e9]e|"
+    r"base permanente des [e\u00e9]quipements|\bbpe\b|"
+    r"mobilier urbain|street ?furniture|"
+    r"arr[e\u00ea]ts? de bus|bus ?stops?|abribus|"
+    r"[e\u00e9]clairage public|street ?lights?|lampadaires?|"
+    r"hydrants?|fontaines?|drinking ?fountains?|"
+    r"d[e\u00e9]fibrillateurs?|defibrillators?|"
+    r"toilettes publiques|public toilets?|"
+    r"points? d.int[e\u00e9]r[e\u00ea]t|points? of interest|"
+    r"signal[e\u00e9]tique|\bsignage\b|"
+    r"corbeilles?|poubelles?|"
+    r"\bbancs? publics?|park benches?",
+    _re.I)
+
+
+def _reject_nonproject(items):
+    if os.environ.get("KEEP_AMENITIES") == "1":
+        return items
+    from collections import Counter
+    kept, dropped = [], Counter()
+    for p in items:
+        txt = " ".join(str(p.get(k, "")) for k in ("name", "title", "type", "desc"))
+        m = _NONPROJECT.search(txt)
+        if m:
+            dropped[m.group(0).lower()] += 1
+        else:
+            kept.append(p)
+    tot = sum(dropped.values())
+    if tot:
+        top = ", ".join("%s x%d" % (k, n) for k, n in dropped.most_common(12))
+        print("  [non-project] dropped %d amenity/inventory rows (%s)" % (tot, top))
+    return kept
+
+
+_STOP = set(("the a an of and or to in for on at by de la le les des du un une "
+             "et projet project new construction site plan of a and").split())
+
+
+def _scour_report(items, top_n=40):
+    """Print a keyword histogram + per-source counts of the FINAL set so junk
+    categories stand out for manual review. Purely diagnostic -- drops nothing."""
+    from collections import Counter
+    words, bysrc = Counter(), Counter()
+    for p in items:
+        bysrc[p.get("source", "?").split(":")[0]] += 1
+        txt = " ".join(str(p.get(k, "")) for k in ("name", "title", "type"))
+        for w in _re.findall(r"[A-Za-z\u00c0-\u017f]{4,}", txt.lower()):
+            if w not in _STOP:
+                words[w] += 1
+    print("SCOUR: top title keywords (review for anything that isn't a proposed/"
+          "under-construction project):")
+    line = []
+    for w, n in words.most_common(top_n):
+        line.append("%s:%d" % (w, n))
+        if len(line) == 8:
+            print("   " + "  ".join(line)); line = []
+    if line:
+        print("   " + "  ".join(line))
+    print("SCOUR: rows by source: "
+          + ", ".join("%s=%d" % (s, n) for s, n in bysrc.most_common()))
+
+
 def _finish(items):
     _print_diagnostics()
     items = [p for p in items if p.get("lat") is not None and p.get("lng") is not None]
+    items = _reject_nonproject(items)
+    _scour_report(items)
     items = dedup(items)
     items.sort(key=lambda p: -(p.get("impact") or 0))
     # per-source preservation: if a source comes back much thinner than what is
@@ -7979,6 +8057,116 @@ def _us_resi_coverage(items):
                     "Census-counted units."}
 
 
+# ---------------------------------------------------------------------------
+# LANDFOLIO / FLEXICADASTRE mining-licence cadastres (Ethiopia confirmed).
+# The captured layer Ethiopia_Licenses/MapServer/3 exposes the real tenement
+# schema: Code, Status, Parties (holder), Type/TypeCode, DteApplied/DteGranted/
+# DteExpires, Commodities, AreaValue/AreaUnit, guidLicense. For a cadastre the
+# in-process analog of "proposed/under-construction" is an APPLICATION-stage
+# tenement -- a granted+active licence is operating extraction and must be
+# excluded. We therefore keep ONLY statuses whose text reads as an application/
+# pending/proposed licence and drop everything else, including any status string
+# we don't recognise (the non-negotiable fail-safe gate).
+#
+# Two things block a live daily wiring and are NOT guessed here:
+#   1. the ArcGIS token in the captured URL is session-generated and expires, so
+#      it can't be hardcoded; and
+#   2. the exact Status vocabulary is unconfirmed.
+# So this fetcher is OFF by default: it emits nothing unless FLEXICADASTRE=1.
+# It first tries the query WITHOUT a token (many Landfolio layers allow anonymous
+# read); if a token env is set it appends it. Every failure path returns [].
+_FLEXICADASTRE = [
+    # base MapServer/layer query URL (no query string), country, cc, token env var
+    {"url": "https://ethiopian.miningcadastre.com/arcgis/rest/services/"
+            "Ethiopia_Licenses/MapServer/3/query",
+     "country": "Ethiopia", "cc": "et", "token_env": "FLEXICADASTRE_ETH_TOKEN"},
+]
+# Only these status readings pass the in-process gate. Anything else -> excluded.
+_TENEMENT_INPROCESS = _re.compile(r"appl|pending|proposed|under ?review|submitted|lodged", _re.I)
+
+
+def _ring_centroid(geom):
+    """Average of the first ring's vertices -- adequate for a marker point."""
+    try:
+        rings = geom.get("rings") or []
+        if not rings:
+            return None
+        ring = rings[0]
+        if not ring:
+            return None
+        xs = [pt[0] for pt in ring if len(pt) >= 2]
+        ys = [pt[1] for pt in ring if len(pt) >= 2]
+        if not xs or not ys:
+            return None
+        return (sum(ys) / len(ys), sum(xs) / len(xs))   # (lat, lng)
+    except Exception:
+        return None
+
+
+def fetch_flexicadastre():
+    if os.environ.get("FLEXICADASTRE") != "1":
+        return []
+    out = []
+    FIELDS = ("Code,Status,Parties,Type,TypeCode,DteApplied,DteGranted,"
+              "DteExpires,Commodities,AreaValue,AreaUnit,guidLicense")
+    for cfg in _FLEXICADASTRE:
+        base = cfg["url"]
+        params = {"where": "1=1", "outFields": FIELDS, "returnGeometry": "true",
+                  "outSR": "4326", "f": "json", "resultRecordCount": "2000"}
+        tok = os.environ.get(cfg.get("token_env", ""), "")
+        if tok:
+            params["token"] = tok
+        url = base + "?" + urllib.parse.urlencode(params)
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA,
+                                                       "Accept": "application/json"})
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+                gj = json.loads(r.read().decode("utf-8", "replace"))
+        except Exception as e:
+            print("  flexicadastre %s failed: %s" % (cfg["country"], e)); continue
+        if isinstance(gj, dict) and gj.get("error"):
+            print("  flexicadastre %s API error: %s (needs a valid token or anonymous "
+                  "read)" % (cfg["country"], str(gj.get("error"))[:160])); continue
+        feats = gj.get("features", []) if isinstance(gj, dict) else []
+        print("  flexicadastre %s: %d raw tenements" % (cfg["country"], len(feats)))
+        kept = 0
+        for f in feats:
+            try:
+                a = f.get("attributes") or {}
+                status = str(a.get("Status") or "")
+                if not _TENEMENT_INPROCESS.search(status):
+                    continue                       # in-process gate: drop granted/operating/unknown
+                c = _ring_centroid(f.get("geometry") or {})
+                if not c:
+                    continue
+                lat, lng = c
+                commod = str(a.get("Commodities") or "").strip()
+                typ = str(a.get("Type") or "mining licence").strip()
+                code = str(a.get("Code") or "").strip()
+                nm = " ".join(x for x in [commod, typ, ("application " + code) if code else ""] if x).strip()
+                area = ""
+                if a.get("AreaValue"):
+                    area = ("%s %s" % (a.get("AreaValue"), a.get("AreaUnit") or "")).strip()
+                out.append({
+                    "name": (nm or ("Mining application " + code))[:140],
+                    "type": typ or "mining licence application",
+                    "state": "", "lat": round(lat, 5), "lng": round(lng, 5),
+                    "size": area, "status": "Application (%s)" % status,
+                    "company": str(a.get("Parties") or "")[:120],
+                    "url": base.split("/arcgis/")[0],
+                    "desc": ("Mining-tenement APPLICATION from the %s cadastre "
+                             "(Landfolio). Commodities: %s. Point is the parcel centroid."
+                             % (cfg["country"], commod or "n/a")),
+                    "impact": 3, "precise": False,
+                    "source": "flexicadastre:" + cfg["cc"],
+                })
+                kept += 1
+            except Exception:
+                continue
+        print("  flexicadastre %s: kept %d application-stage tenements" % (cfg["country"], kept))
+    return out
+
+
 def main():
     # merge job: fold the shard artifacts into projects.json
     if os.environ.get("OSM_MERGE") == "1":
@@ -8098,6 +8286,7 @@ def main():
     items += _run("iaac_ca", fetch_iaac_ca)                     # Canada federal impact assessments
     items += _run("anla_co", fetch_anla_co)                     # Colombia ANLA environmental-licensing projects
     items += _run("ibama_br", fetch_ibama_br)
+    items += _run("flexicadastre", fetch_flexicadastre)         # Landfolio mining-licence APPLICATIONS (OFF unless FLEXICADASTRE=1)
     items += _run("ireland_planning", fetch_ireland_planning)          # Ireland national planning DB (size-gated)
     items += _run("portugal_eia", fetch_portugal_eia)              # Portugal national EIA processes (APA/SNIAmb)                   # Brazil federal environmental licences
     items += _run("chile_seia", fetch_chile_seia)                  # Chile SEIA -- major EIA projects under evaluation (SEA)

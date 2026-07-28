@@ -212,6 +212,8 @@ body.info-open #wirePanel{bottom:auto;max-height:calc(50vh - 46px);}
 #wirePanel .help-tog::before{content:"\25B4";}
 #wirePanel.collapsed .help-tog::before{content:"\25BE";}
 #wirePanel .help-head{cursor:pointer;}
+/* unit open: index leaves the sidebar and drops beneath the wire in the left column */
+body.info-open #indexPanel{position:fixed !important;left:14px !important;width:300px !important;top:calc(50vh + 8px) !important;bottom:18px !important;max-height:none !important;z-index:1000;}
 .wire-body{padding:9px 11px 10px;font-size:11.5px;flex:1 1 auto;min-height:0;overflow-y:auto;}
 .wire-lead{color:#b0c4b2;line-height:1.4;margin-bottom:8px;}
 .wire-thread{background:rgba(10,25,17,0.55);border:1px solid rgba(120,200,150,0.22);border-radius:7px;padding:8px 10px;margin-bottom:9px;}
@@ -942,7 +944,7 @@ function gbApplyBubble(iso,layer){ if(!layer) return;
   });
   if(changed) layer.setStyle(f=>gbUnitStyle(iso,gbCurLvl,f));
 }
-function showInfoPanel(html){ document.body.classList.add('info-open'); const b=document.getElementById('infoBody'); if(b)b.innerHTML=html; const p=document.getElementById('infoPanel'); if(p){ try{ if(window.innerWidth>640){ const ix=document.getElementById('indexPanel'); if(ix){ const r=ix.getBoundingClientRect(); p.style.left=(Math.round(r.right)+12)+'px'; } const wp=document.getElementById('wirePanel'); if(wp){ const wr=wp.getBoundingClientRect(); var _tv=Math.max(70,Math.round(wr.bottom)+12); _tv=Math.min(_tv, window.innerHeight-260); p.style.top=_tv+'px'; p.style.maxHeight=(window.innerHeight-_tv-16)+'px'; p.style.overflowY='auto'; } } }catch(e){} p.classList.add('open'); } }
+function showInfoPanel(html){ document.body.classList.add('info-open'); const b=document.getElementById('infoBody'); if(b)b.innerHTML=html; const p=document.getElementById('infoPanel'); if(p){ try{ if(window.innerWidth>640){ const hp=document.getElementById('helpPanel'); if(hp){ const r=hp.getBoundingClientRect(); var _tv=Math.round(r.bottom)+9; p.style.left=Math.round(r.left)+'px'; p.style.width=Math.round(r.width)+'px'; p.style.top=_tv+'px'; p.style.bottom='18px'; p.style.maxHeight=(window.innerHeight-_tv-18)+'px'; p.style.overflowY='auto'; } } }catch(e){} p.classList.add('open'); } }
 function hideInfoPanel(){ const p=document.getElementById('infoPanel'); if(p)p.classList.remove('open'); document.body.classList.remove('info-open'); }
 function gbFitPad(sz){ return (window.innerWidth<=640) ? {paddingTopLeft:[40,95],paddingBottomRight:[40,Math.round(sz.y*0.5)+16]} : {paddingTopLeft:[Math.max(660,Math.min(720,Math.round(sz.x*0.45))),72],paddingBottomRight:[40,50]}; }
 function gbFitWithPanel(bounds){ if(!bounds)return; try{ gbFitTime=Date.now(); map.fitBounds(bounds,gbFitPad(map.getSize())); }catch(e){} }
@@ -1794,10 +1796,11 @@ document.getElementById('subBox').addEventListener('click',e=>{ const c=e.target
  var sx,sy,sl,st,on=false,moved=false;
  function down(e){ var ev=e.touches?e.touches[0]:e; var r=p.getBoundingClientRect(); on=true; moved=false; sl=r.left; st=r.top; sx=ev.clientX; sy=ev.clientY; document.addEventListener("mousemove",move); document.addEventListener("mouseup",up); document.addEventListener("touchmove",move,{passive:false}); document.addEventListener("touchend",up); }
  function move(e){ if(!on)return; var ev=e.touches?e.touches[0]:e; var dx=ev.clientX-sx, dy=ev.clientY-sy; if(Math.abs(dx)>4||Math.abs(dy)>4){ moved=true; p.style.transition="none"; var w=p.offsetWidth, hh=p.offsetHeight; var nl=Math.max(4,Math.min(sl+dx, window.innerWidth-w-4)); var nt=Math.max(4,Math.min(st+dy, window.innerHeight-hh-4)); p.style.left=nl+"px"; p.style.top=nt+"px"; p.style.right="auto"; } if(e.cancelable)e.preventDefault(); }
- function up(){ on=false; document.removeEventListener("mousemove",move); document.removeEventListener("mouseup",up); document.removeEventListener("touchmove",move); document.removeEventListener("touchend",up); if(!moved){ p.classList.toggle("collapsed"); } }
- hdl.addEventListener("mousedown",down); hdl.addEventListener("touchstart",down,{passive:false}); hdl.style.cursor="move";
+ function up(){ on=false; document.removeEventListener("mousemove",move); document.removeEventListener("mouseup",up); document.removeEventListener("touchmove",move); document.removeEventListener("touchend",up); p._wasDrag=moved; }
+ hdl.addEventListener("mousedown",down); hdl.addEventListener("touchstart",down,{passive:false}); hdl.style.cursor="move"; hdl.addEventListener("click",function(){ if(p._wasDrag){ p._wasDrag=false; return; } p.classList.toggle("collapsed"); });
 })();
 try{var _wp=document.getElementById("wirePanel"); if(_wp && window.L){ L.DomEvent.disableScrollPropagation(_wp); L.DomEvent.disableClickPropagation(_wp);} }catch(e){}
+try{ var _ixt=document.getElementById('idxToggle'); if(_ixt){ _ixt.style.cursor='pointer'; _ixt.onclick=function(e){ e.stopPropagation(); var _ip=document.getElementById('indexPanel'); var _c=_ip.classList.toggle('collapsed'); _ixt.textContent=_c?'+':'\u2212'; }; } }catch(e){}
 /* Defer the wire (network fetch + filtering) until the browser is idle after first
    paint, so the map and panels render immediately instead of competing with it. */
 (window.requestIdleCallback||function(f){return setTimeout(f,500);})(function(){

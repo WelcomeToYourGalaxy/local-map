@@ -2267,6 +2267,17 @@ _CA_PROV = {
     "YUKON": (63.0, -135.0), "YT": (63.0, -135.0),
 }
 _NAT_CENTER = {"iaac_ca": (56.13, -106.35), "epbc_au": (-25.27, 133.78), "anla_co": (4.57, -74.30)}
+# Australian state/territory centroids (approximate) for coord-less/out-of-box EPBC
+# referrals -- better than dumping everything on the continental centre.
+_AU_STATE = {
+    "NSW": (-31.8, 147.0), "NEW SOUTH WALES": (-31.8, 147.0),
+    "VIC": (-36.9, 144.3), "VICTORIA": (-36.9, 144.3),
+    "QLD": (-22.0, 144.3), "QUEENSLAND": (-22.0, 144.3),
+    "WA": (-25.3, 122.3), "WESTERN AUSTRALIA": (-25.3, 122.3),
+    "SA": (-30.0, 135.8), "SOUTH AUSTRALIA": (-30.0, 135.8),
+    "TAS": (-42.0, 146.6), "TASMANIA": (-42.0, 146.6),
+    "NT": (-19.4, 133.4), "NORTHERN TERRITORY": (-19.4, 133.4),
+    "ACT": (-35.5, 149.0), "AUSTRALIAN CAPITAL TERRITORY": (-35.5, 149.0)}
 
 def _fallback_center(src, region_text):
     """(lat, lng, label) for approximate placement, or None."""
@@ -2281,6 +2292,14 @@ def _fallback_center(src, region_text):
             if k in rt:
                 v = _CA_PROV[k]
                 return (v[0], v[1], k.title())
+    if src == "epbc_au" and rt:
+        toks = set(rt.replace(",", " ").replace("/", " ").split())
+        for ab in ("NSW", "VIC", "QLD", "WA", "SA", "TAS", "NT", "ACT"):
+            if ab in toks:
+                v = _AU_STATE[ab]; return (v[0], v[1], ab)
+        for k in sorted([k for k in _AU_STATE if len(k) > 3], key=len, reverse=True):
+            if k in rt:
+                v = _AU_STATE[k]; return (v[0], v[1], k.title())
     c = _NAT_CENTER.get(src)
     if c:
         return (c[0], c[1], "national")
@@ -3472,16 +3491,18 @@ def fetch_epbc_au():
     out = []; dropped = 0
     for f in feats:
         try:
+            pr = f.get("properties") or {}
+            up = {str(k).upper(): v for k, v in pr.items()}
             ll = _geom_center(f.get("geometry") or {})
-            if not ll: continue
-            _au_approx = False
-            if not _box_ok("epbc_au", ll[0], ll[1]):
-                fb = _fallback_center("epbc_au", "")
+            _au_approx = False; _au_lvl = ""
+            if (not ll) or (not _box_ok("epbc_au", ll[0], ll[1])):
+                # No usable geometry or out-of-box: place at the named STATE centroid
+                # when we have one, else the continental centroid. Never drop silently.
+                fb = _fallback_center("epbc_au", str(up.get("STATE") or ""))
                 if not fb:
                     dropped += 1; continue
                 ll = (fb[0], fb[1]); _au_approx = True; dropped += 1
-            pr = f.get("properties") or {}
-            up = {str(k).upper(): v for k, v in pr.items()}
+                _au_lvl = "state" if (fb[2] and fb[2] != "national") else "national"
             nm = _best_name(pr, ("TITLE", "REFERRAL_TITLE", "PROPOSAL_NAME",
                                  "PROPOSAL", "NAME")) or "EPBC referral"
             status = str(up.get("STATUS") or up.get("DECISION") or up.get("ASSESSMENT_STATUS") or "")
@@ -3494,13 +3515,16 @@ def fetch_epbc_au():
                  "date": _iso_date(up.get("DATE") or up.get("REFERRAL_DATE")
                                    or up.get("DATE_RECEIVED")),
                  "desc": ("Australian EPBC Act referral" + ((" \u00b7 " + ref) if ref else "") +
-                          ((" \u00b7 " + status) if status else "") + ". Placed at the referral area centroid."),
+                          ((" \u00b7 " + status) if status else "") +
+                          (". Placed at the referral area centroid." if not _au_approx else
+                           (". Exact site not in the data \u2014 shown at the " + (_au_lvl or "national")
+                            + " level; open the portal for specifics."))),
                  "source": "epbc_au"}
             p["impact"] = rate_project(p, sensitivity=1)
             out.append(p)
         except Exception:
             continue
-    print("  epbc au: %d referrals (%d re-placed at national level)" % (len(out), dropped))
+    print("  epbc au: %d referrals (%d re-placed at state/national level)" % (len(out), dropped))
     return out
 
 
@@ -7991,7 +8015,7 @@ def _census_bps_latest_month_units():
     import datetime as _dt
     yr = _dt.datetime.utcnow().year
     url = ("https://api.census.gov/data/timeseries/eits/resconst?"
-           "get=cell_value,time,category_code,data_type_code,seasonally_adj"
+           "get=cell_value,time_slot_id,category_code,data_type_code,seasonally_adj,error_data"
            "&for=us:*&time=from+%d-01" % (yr - 1))
     try:
         rows = _get_json(url)
@@ -8001,7 +8025,7 @@ def _census_bps_latest_month_units():
         print("  census bps: empty/unexpected"); return None
     hdr = rows[0]
     try:
-        iv = hdr.index("cell_value"); it = hdr.index("time")
+        iv = hdr.index("cell_value"); it = hdr.index("time") if "time" in hdr else hdr.index("time_slot_id")
         ic = hdr.index("category_code"); idt = hdr.index("data_type_code")
         isa = hdr.index("seasonally_adj")
     except ValueError:

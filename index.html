@@ -150,7 +150,7 @@
   #idxStatsBar b{color:var(--accent-hi);font-size:12px;font-family:'Marcellus','Georgia',serif;}
 .prison-dot{background:#5a8449;border:1.6px solid #fff;border-radius:2px;box-shadow:0 0 4px rgba(0,0,0,.75);box-sizing:border-box;cursor:pointer;transition:transform .12s;} .prison-dot:hover{transform:scale(1.6);} .czoom-lo .prison-dot{transform:scale(.62);} .czoom-hi .prison-dot{transform:scale(1.4);} .court-dot{background:#3f7d64;border:1.6px solid #fff;border-radius:50%;box-shadow:0 0 4px rgba(0,0,0,.75);box-sizing:border-box;cursor:pointer;transition:transform .12s;} .court-dot:hover{transform:scale(1.6);} .czoom-lo .court-dot{transform:scale(.62);} .czoom-hi .court-dot{transform:scale(1.4);}
 .fac-tip{position:absolute;z-index:1200;max-width:250px;background:#0a2014;border:1px solid #284836;border-radius:8px;padding:8px 10px;font:12px/1.4 system-ui;color:#e6eefc;box-shadow:0 4px 16px rgba(0,0,0,.55);pointer-events:auto;} .fac-tip a{color:#5cbf90;word-break:break-all;} .fac-tip .ip-title{font-weight:600;margin-bottom:2px;}
-#sidebar{position:fixed;left:14px;top:70px;width:270px;z-index:1001;display:flex;flex-direction:column;gap:9px;max-height:calc(100vh - 84px);}
+#sidebar{position:fixed;left:322px;top:70px;width:270px;z-index:1001;display:flex;flex-direction:column;gap:9px;max-height:calc(100vh - 84px);}
 #helpPanel{flex:0 0 auto;background:rgba(10,25,17,0.96);border:1px solid var(--accent-soft);border-radius:10px;backdrop-filter:blur(12px);box-shadow:0 4px 22px rgba(0,0,0,0.45);font-size:11.5px;overflow:hidden;}
 #helpPanel .help-head{padding:9px 12px;font-weight:700;cursor:pointer;display:flex;justify-content:space-between;align-items:center;color:#e6eefc;font-size:12px;}
 #helpPanel .help-body{padding:2px 12px 11px;line-height:1.5;color:#c6d6c9;max-height:44vh;overflow-y:auto;scrollbar-width:thin;}
@@ -199,7 +199,7 @@
 .best-wrap{margin:8px 0;} .best-hint{font-size:10px;color:#84a08c;margin:2px 0 5px;line-height:1.35;}#bestPills{display:flex;gap:5px;flex-wrap:wrap;}.best-pill{font-size:11px;padding:3px 9px;border-radius:12px;border:1px solid var(--accent-soft);color:#c6d6c9;cursor:pointer;background:rgba(255,255,255,.03);user-select:none;}.best-pill:hover{border-color:#5cbf90;}.best-pill.on{background:#5cbf90;color:#07150c;border-color:#5cbf90;font-weight:600;}
 .top-src{margin:6px 0 10px;padding:7px 9px;background:rgba(58,150,104,.10);border:1px solid rgba(58,150,104,.28);border-radius:8px;}.top-src-h{font-size:11px;font-weight:700;color:#82cc9c;margin-bottom:5px;letter-spacing:.02em;}.ts-row{font-size:12px;margin:3px 0;display:flex;align-items:center;gap:6px;flex-wrap:wrap;}.ts-row a{color:#5cbf90;}.ts-b{font-size:9.5px;padding:1px 6px;border-radius:9px;font-weight:600;white-space:nowrap;}.ts-pop{background:#79ab57;color:#1a1200;} .ts-help{background:#54ad7f;color:#04180a;}
 
-#wirePanel{position:fixed;left:292px;top:70px;width:300px;z-index:1000;background:rgba(10,25,17,0.97);border:1px solid var(--accent-soft);border-radius:10px;box-shadow:0 4px 22px rgba(0,0,0,0.45);overflow:hidden;bottom:18px;max-height:none;display:flex;flex-direction:column;transition:bottom .22s ease,max-height .22s ease;}
+#wirePanel{position:fixed;left:14px;top:70px;width:300px;z-index:1000;background:rgba(10,25,17,0.97);border:1px solid var(--accent-soft);border-radius:10px;box-shadow:0 4px 22px rgba(0,0,0,0.45);overflow:hidden;bottom:18px;max-height:none;display:flex;flex-direction:column;transition:bottom .22s ease,max-height .22s ease;}
 /* the wire owns the whole column until a unit is opened, then yields the lower half */
 body.info-open #wirePanel{bottom:auto;max-height:calc(50vh - 46px);}
 /* collapsed: shrink to the header instead of holding the full column open */
@@ -1299,7 +1299,7 @@ const FacilityLayer=L.Layer.extend({
     if(this._onClick)map.getContainer().removeEventListener('click',this._onClick,true); },
   _rad:function(){ var z=this._map.getZoom(); return z<=3?0.9:z<=5?1.35:z<=7?2.0:z<=9?2.8:3.6; },
   _draw:function(){ var m=this._map,cv=this._cv,s=m.getSize(); var tl=m.containerPointToLayerPoint([0,0]); L.DomUtil.setPosition(cv,tl); cv.width=s.x; cv.height=s.y;
-    var ctx=cv.getContext('2d'); ctx.clearRect(0,0,s.x,s.y); var b=m.getBounds(); var N=b.getNorth(),S=b.getSouth(),W=b.getWest(),E=b.getEast(); var r=this._rad();
+    var ctx=cv.getContext('2d'); ctx.clearRect(0,0,s.x,s.y); if(!courtVisible)return; var b=m.getBounds(); var N=b.getNorth(),S=b.getSouth(),W=b.getWest(),E=b.getEast(); var r=this._rad();
     var _vis=_facInView(S,N,W,E); for(var _i=0;_i<_vis.length;_i++){ var p=_vis[_i]; if(!facActive[p.k])continue; var pt=m.latLngToContainerPoint([p.la,p.lo]); ctx.fillStyle=FACCOL[p.k]||'#0f5030'; {ctx.beginPath(); ctx.arc(pt.x,pt.y,r,0,6.2832); ctx.fill(); if(r>=2.3){ctx.lineWidth=1;ctx.strokeStyle='rgba(10,31,18,0.85)';ctx.stroke();}} } },
   _nearest:function(cp){ var m=this._map; var ll=m.containerPointToLatLng(cp), ll2=m.containerPointToLatLng([cp.x+18,cp.y+18]);
     var dla=Math.abs(ll2.lat-ll.lat)+0.002, dlo=Math.abs(ll2.lng-ll.lng)+0.002; var cand=_facInView(ll.lat-dla,ll.lat+dla,ll.lng-dlo,ll.lng+dlo);
@@ -1351,8 +1351,9 @@ function buildCourtMarkers(){ if(courtBuilt)return; courtBuilt=true; _facLayer=n
    });
 })();
 function toggleCourts(on){ courtVisible=(on===undefined)?!courtVisible:on; if(!_facLayer){ try{ buildCourtMarkers(); }catch(e){} if(!_facLayer)return; }
-  if(courtVisible){ if(!map.hasLayer(_facLayer))_facLayer.addTo(map); if(_facLayer._cv){ _facLayer._cv.style.display=''; } if(_facLayer._draw)_facLayer._draw(); }
-  else { if(_facLayer._cv){ _facLayer._cv.style.display='none'; } if(map.hasLayer(_facLayer))map.removeLayer(_facLayer); } }
+  if(!map.hasLayer(_facLayer))_facLayer.addTo(map);
+  if(_facLayer._cv){ _facLayer._cv.style.display=courtVisible?'':'none'; }
+  if(_facLayer._draw)_facLayer._draw(); }
 function rebuild(){ if(!window.__ready){ updateStats(); return; }
   geojsonLayer.setStyle(window.__baseStyle);
   intlMarkers.forEach(({mk,body})=>{ const v=vis(body.trackers); if(v.length){ if(!map.hasLayer(mk))mk.addTo(map); } else if(map.hasLayer(mk))map.removeLayer(mk); });

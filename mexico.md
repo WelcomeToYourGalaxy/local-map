@@ -1,1036 +1,457 @@
-
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN MEXICO
 
-**Complete Community Opposition How-To**
-
-A practical guide for communities facing destructive development projects in Mexico, grounded in the constitutional and environmental-impact system and documented campaigns
-
-*This guide uses the Mexican legal terms you will actually encounter (amparo, Manifestación de Impacto Ambiental, interés legítimo, consulta previa, and so on), each explained in plain language where it first comes up. It describes the national framework; states and municipalities have their own rules and authorities, so check locally.*
-
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
-
----
-
-## TABLE OF CONTENTS
-
-1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
-2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
-3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
-5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
-7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
-8. **STEP 4: LEGAL CHALLENGES** — Consultation, the amparo, and administrative challenge
-9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
-10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
-11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
-13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
-14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
-15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
-
----
+*Complete Community Opposition How-To*
 
 # INTRODUCTION & FRAMEWORK
 
-## Why This Matters
+Community action decides project outcomes in Mexico. The clearest proof is a river in Guerrero. When the Federal Electricity Commission (CFE) moved to build the **La Parota** dam on the **Río Papagayo** near Acapulco — a 900-megawatt project that would have flooded some 17,000 hectares, displaced 25,000 people, and harmed 75,000 more downstream — the affected campesinos did not wait to be consulted. In 2003 they formed the **Consejo de Ejidos y Comunidades Opositoras a la Presa La Parota (CECOP)**, blocked the CFE's engineers from their communal land, and fought on every front for more than two decades. Their decisive weapon was distinctly Mexican: because the land was collectively owned, the project needed the consent of the community **assembly (asamblea)** — and when the CFE tried to manufacture that consent through rigged assemblies, CECOP took the matter to the **agrarian courts**, which **annulled the fraudulent assemblies**. Alongside that, an **amparo** — Mexico's constitutional injunction — froze the illegally granted environmental clearance and water concession. In 2012 the state government signed accords promising not to build the dam without the communities' consent, and in July 2026, after twenty-three years of resistance, the federal government **cancelled La Parota definitively**. A state-owned mega-dam was beaten in the end because a community owned its land in common, guarded the assembly that spoke for it, and used the courts built for exactly that. The story is worth grasping in full. The CFE had eyed the Papagayo since the 1970s; when it relaunched La Parota and sent engineers onto communal land, campesinos from three villages blocked them on 28 July 2003, the very day that CECOP was born. The agrarian court in Acapulco — Tribunal Unitario Agrario no. 41 — nullified the assemblies the CFE relied on, and in 2007 a federal judge granted an amparo suspending the environmental clearance and water concession. In 2012 the Cacahuatepec Accords with the state government promised no dam without the communities' consent, and in July 2026 the federal government declared the project cancelled for good. The cost was heavy — CECOP endured internal splits, repression, and the imprisonment of leaders such as Marco Antonio Suástegui — but the river still runs, and the communities still hold their land.
 
-Community action directly determines project outcomes in Mexico. Projects that clear every political and commercial hurdle still fall when opposition is organised, documented, and legally sharp. In 2018, six Maya children of **Homún**, in Yucatán, filed an **amparo** — a constitutional-protection suit — and a judge ordered a mega pig farm halted; the Supreme Court confirmed the suspension in 2021, after the community documented the threat to the **cenotes** their water comes from and the consultation they were never given. Across the country, communities using the **amparo**, the **suspension**, and their right to **consultation** have forced projects to be refused, halted, redesigned, or abandoned. These outcomes were not inevitable; communities made them happen.
+La Parota teaches two things about winning in Mexico. The first is the pattern: not a single silver bullet, but the combination of every lever — the collective land and its assembly, the agrarian courts, the amparo, prior consultation, the environmental authorities, mobilisation, and national and international attention — pressed for as long as it takes. The second is distinctly Mexican and worth stating at the outset. Roughly half of all the land in Mexico is **social property** — **ejidos** and **comunidades** owned and governed collectively — and a project on that land needs the **asamblea's** consent, enforceable through specialised **agrarian courts**. Layered over that is the **amparo**, a fast and powerful constitutional suit that can **suspend** an act that violates rights. Together, collective land and the amparo give Mexican communities two of the strongest tools any people anywhere hold against an unwanted project.
 
-But most communities don't know HOW to make opposition effective. They attend one public meeting, then give up. They assume "the ministry will refuse it" without building public pressure, filing objections, or going to court. They generate coverage without a strategy. They organise people and then lose them to burnout after four months.
+Most communities, though, do not know HOW to make opposition effective. They attend one meeting and go home. They assume the project "is already decided," and so they never guard the assembly, never take a rigged approval to the agrarian court, never file an amparo, never demand consultation, never file a denuncia with the environmental authority, never build the mobilisation that changes a decision. They generate a burst of outrage without a plan to sustain it. They gather a crowd and lose it to exhaustion. The gap between a community that stops a project and one that watches it get built is rarely courage or numbers. It is method.
 
-**This guide shows what actually works — in the Mexican system.**
+**This guide shows what actually works — inside the Mexican system.**
 
 ## The Strategic Framework
 
-Successful opposition campaigns follow the same basic pattern:
+Effective opposition campaigns follow the same underlying pattern, whichever project they face:
 
 ```
-STEP 1: TARGET IDENTIFICATION
-↓
-STEP 2: DOCUMENTATION (proof of harm)
-↓
-STEP 3: LOCAL OPPOSITION BUILD (organised community)
-↓
-STEP 4: LEGAL CHALLENGES (amparo / suspension)
-↓
-STEP 5: MEDIA STRATEGY (public visibility)
-
-These operate SIMULTANEOUSLY (not sequentially)
-Each step amplifies the others
-Multi-tactic pressure compounds toward victory
+STEP 1: TARGET IDENTIFICATION  (find the decision and its weak point)
+        |
+STEP 2: DOCUMENTATION          (build proof of harm and of every defect)
+        |
+STEP 3: LOCAL OPPOSITION        (organise a movement that lasts)
+        |
+STEP 4: LEGAL CHALLENGES        (the assembly, the agrarian court, the amparo, consulta)
+        |
+STEP 5: MEDIA STRATEGY         (make the fight visible and impossible to ignore)
 ```
 
-**Why the legal step matters so much here:** Mexico gives communities a distinctive and powerful set of levers. The **amparo** — one of Mexico's signature contributions to constitutional law — lets a person or community ask a federal court to protect a right, and to grant a **suspensión** (a precautionary injunction) that can **halt a project while the case runs**. Standing is broad: under the **interés legítimo** (legitimate interest) doctrine, the courts have held that a person who benefits from an ecosystem's environmental services can sue **without having to prove the environmental damage first**. Courts apply the **precautionary principle** and the principle of **non-regression**. Where a project affects an **Indigenous people**, their **prior consultation (consulta previa)** is required. And an **environmental-impact authorization** rests on a study — the **MIA** — whose defects are a direct route to court. No Mexican campaign should be planned without understanding these. (One honest caveat: a 2024 judicial reform **narrowed** courts' power to suspend general rules, so get current advice — the amparo remains central, but the ground has shifted.)
+These steps operate **simultaneously, not in sequence**. Documentation feeds the legal case and the media story at once; the movement sustains the pressure that decision-makers and courts respond to; a lawsuit is a headline and a headline strengthens a lawsuit. The community that runs all five together, each reinforcing the others, is the one that wins. CECOP did exactly this — it documented the harm, organised a durable movement, guarded and defended its assemblies in the agrarian courts, fought with amparos, and made La Parota a national and international cause, all at once, for twenty-three years.
 
-## Critical Caveat: A Tilted System Can Make Opposition Harder (But Doesn't Make It Impossible)
+## The Levers That Are Distinctly Strong Here
 
-**Before you invest time, money, and emotional energy, understand this:**
+Every country's system has its own pressure points. Mexico's give communities a distinctive set:
 
-**First, a definition.** This guide calls it a **system tilted toward approval** (sometimes called *institutional bias*). It does not mean anything illegal. It means the bodies that decide on a project lean toward approving it — because the government is pushing investment and infrastructure, because the developer's own study drives the assessment, or because authorizations are rarely refused.
+- **Collective land and the assembly (asamblea).** On ejido and comunidad land — roughly half the country — a project needs the assembly's consent under the Agrarian Law. Guard the assembly, and you hold a gate the project must pass; if it is manipulated, you can have it annulled.
+- **The agrarian courts.** Specialised **Tribunales Agrarios** decide disputes over social property and assembly decisions — the forum that nullified the rigged La Parota assemblies.
+- **The amparo.** Mexico's constitutional protection suit can win a **suspensión** freezing an act — an environmental permit, a water concession, works — that violates rights such as the right to a healthy environment, to water, or to consultation.
+- **Prior consultation.** Under **ILO Convention 169** and the Constitution, Indigenous and equivalent communities have a right to free, prior, and informed **consulta**, and the Supreme Court has struck down projects and permits granted without it.
+- **Environmental authorisation and the citizen complaint.** Projects need an environmental authorisation from **SEMARNAT** based on an impact statement (**MIA**), and any citizen can file a **denuncia popular** with the enforcement agency **PROFEPA**.
+- **A deep resistance tradition.** From the countryside to the cities, Mexico has a powerful tradition of community and campesino mobilisation.
 
-When these factors are present, opposition becomes harder. It does not become impossible. It becomes slower and more expensive and has a lower chance of stopping a project outright — but it still routinely wins suspensions, conditions, redesigns, and delay. Where there is genuine misconduct — bribery, an undeclared interest, the offences under the anti-corruption law — that is a different and more serious problem, covered in Section 11.
+## What This Guide Will Not Pretend
 
-**This is covered in Sections 10 and 11. Read them before committing resources.**
+It would be dishonest to promise these levers always prevail. Assemblies can be **manipulated, bought, or split** by a determined proponent, as the CFE tried at La Parota — vigilance is constant. The federal government pushes large infrastructure hard and has **declared major projects matters of "national security"** to shield them from injunctions and scrutiny — a tactic used around the Tren Maya and other megaprojects, and only partly curbed by the courts. The amparo is powerful but can be **slow**, and suspensions can be contested. And Mexico is one of the most dangerous countries on Earth to defend land and the environment — CECOP's own leaders faced imprisonment and persecution. This guide takes those facts seriously, names them plainly, and shows you how to win anyway — and, where an outright stop is not realistic, how to secure the delay, the conditions, the exposure, and the worn-down proponent that, in a hard fight, are often what winning actually looks like.
 
----
+# HOW THE SYSTEM WORKS
 
-# HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
+You cannot pull a lever you cannot see. Before you spend a single weekend, map who actually decides your project's fate, at which level, and where along that path the decision is weakest.
 
-If you've never dealt with how projects get approved, read this section first. It explains, in plain terms, who holds power over a development in Mexico, how a decision gets made, why the money so often points toward "yes," and the handful of words you'll need. Every term is defined here on first use. The rest of the guide assumes you know this map.
+## The Levels of Decision
 
-## The levels of government — and what each one controls
+A Mexican development project runs through several tracks at once, and each is a place to intervene.
 
-Mexico is a federal republic with three levels of government.
+**The land and its assembly.** If the project sits on **ejido or comunidad** land, the decisive gate is the **asamblea** — the collective assembly that, under the Agrarian Law, must consent to the use or transfer of the land. No valid assembly, no valid project. This is often the strongest and most distinctly Mexican point of leverage.
 
-- **Federal government** — the **Ministry of the Environment (SEMARNAT)** evaluates the **environmental-impact statement (MIA)** and issues the **environmental-impact authorization** for federally-listed works; the **Federal Environmental Protection Agency (PROFEPA)** enforces environmental law; the national water commission (**CONAGUA**) grants water concessions; and the sector ministries handle energy, mining, and infrastructure.
-- **State government** — the state environment secretariat evaluates the **MIA** for state-competence projects and grants state and land-use permits (in Homún, the Yucatán state environment authority granted the pig-farm permits).
-- **Municipal government** — the **municipio** controls local land use, building and operating licences, and the urban-development plan.
+**Environmental authorisation.** A project with significant impact needs an **autorización de impacto ambiental** from **SEMARNAT**, based on a **Manifestación de Impacto Ambiental (MIA)**, and often a **water concession** from **CONAGUA**. These federal permits are frequent targets of challenge.
 
-**So which body decides *your* project?**
-- A mine, power plant, dam, tourism megaproject, industrial farm, or major road → an **environmental-impact authorization** based on a **MIA**, from **SEMARNAT** (federal) or the state environment authority depending on the project; plus a **land-use-change (cambio de uso de suelo)** authorization for forest land, a **CONAGUA** water concession, and municipal licences.
-- Anything affecting an **Indigenous people** → their **prior consultation (consulta previa)**, under the Constitution and **ILO Convention 169**.
-- Anything in a **protected natural area** or a wetland → the additional clearance and the stricter rules that apply.
+**Consultation.** Where Indigenous or equivalent communities are affected, a **consulta previa** under ILO Convention 169 and the Constitution is required — and the courts have voided projects that skipped it.
 
-## The expert and enforcement bodies
+**The courts.** Two forums matter above all: the **Tribunales Agrarios** for disputes over collective land and assemblies, and the federal courts through the **amparo**, up to the **Suprema Corte de Justicia de la Nación (SCJN)**, for violations of constitutional rights.
 
-- **SEMARNAT (and its impact-assessment office) and the state environment authorities** — evaluate the **MIA** and decide the authorization.
-- **PROFEPA** — inspects and enforces, and can order corrective measures, closures, and sanctions.
-- **The courts, the audit office, the anti-corruption prosecutor, and the transparency authority** — the accountability bodies (see the overseers, below, and Section 11).
+## The Journey of a Project
 
-## How a decision is actually made — the authorization journey
+A typical project moves from a proposal, to attempts to secure the **land** (an assembly vote, a purchase, an easement), to the **MIA and environmental authorisation** and any **water concession**, through any **consulta**, into the **courts** if challenged — agrarian and amparo — and only then to construction. **Every one of those stages is a door you can put your foot in.** The earliest doors are the cheapest and widest: guarding the assembly, a denuncia to PROFEPA, evidence that the MIA is deficient. The later doors — annulling a rigged assembly in the agrarian court, an amparo against the permit, a consulta claim — are more demanding but real, and communities walk through them and win, as CECOP did. Find out exactly where your project stands on this path today; that tells you which door is open now.
 
-For a project that may affect the environment, the developer must obtain an **environmental-impact authorization** based on a **MIA** under the framework environmental law (**LGEEPA**). The process runs roughly:
+## Follow the Money and the Permit
 
-1. **Submission** — the developer files the **MIA** with SEMARNAT or the state authority.
-2. **Public consultation** — any person may ask that the MIA be put to **public consultation (consulta pública)**, and a **public information meeting (reunión pública)** may be held, where the community can raise objections **on the record**.
-3. **Evaluation** — the authority evaluates the impacts, alternatives, and mitigation, and may seek expert opinions.
-4. **Decision** — the authority **authorizes, conditionally authorizes, or denies** the project.
+Behind the project stand a proponent (sometimes the State itself, as with the CFE), its financiers, its contractors, and the officials who authorised it. Trace who owns and funds the proponent, who profits, and which authority granted the land use, the environmental authorisation, and the water. Two questions unlock most Mexican fights: **Was it lawful — the assembly, the MIA, the water concession, the consulta — and were the impacts honestly assessed?** and **Who benefits from pretending they were?** Where the State is the proponent, the political and reputational fronts matter as much as the legal ones. And even a State proponent has exposures a community can reach: contractors and suppliers with reputations to protect, development banks with environmental and social standards, and a government that must answer to voters and to international scrutiny. Mapping who builds, funds, and profits from the project reveals pressure points that the permitting file alone never shows.
 
-Where an **Indigenous people** is affected, a genuine **prior consultation** must take place. A **defective or misleading MIA, a consultation that was skipped or stage-managed, or an authorization granted without a required study** are among the strongest grounds to stop or delay a project — and the direct route to the **amparo**.
+## The Overseers
 
-## The rulebook — the laws that decide the outcome
+Finally, know the bodies that watch the deciders, because they are levers too. The **Tribunales Agrarios** and the federal courts up to the **SCJN** review legality and rights. **PROFEPA** enforces environmental law and takes citizen complaints. The **Comisión Nacional de los Derechos Humanos (CNDH)** examines rights violations, including against defenders. The **Auditoría Superior de la Federación** audits public money, and, since Mexico ratified it, the **Escazú Agreement** protects environmental information, participation, justice, and — vitally here — defenders. Each overseer is a separate front, reachable with the same evidence, and a project rarely survives pressure on several at once. You do not have to choose one door: the same well-documented file can go to the Tribunal Agrario, the federal courts through an amparo, PROFEPA, the CNDH, the auditor, the proponent's financiers, and the press at once, and each front that opens makes the others harder to close. A Mexican campaign's power comes not from any single lever but from applying several at the same time — with the guarded assembly as the foundation the whole structure rests on.
 
-- **The Constitution** — the right of every person to a **healthy environment (medio ambiente sano)** for their development and well-being (Article 4); the rights of **Indigenous peoples**, including consultation (Article 2); and the state's role over natural resources (Article 27).
-- **The LGEEPA (General Law of Ecological Balance and Environmental Protection)** — the framework: the **MIA** and the environmental-impact authorization, and (Article 180) the **interés legítimo** to challenge them.
-- **The Ley de Amparo** — the constitutional-protection suit and the **suspension**.
-- **The Federal Environmental Liability Law** — claims for **environmental damage (daño ambiental)**.
-- **ILO Convention 169 and the Escazú Agreement** — Indigenous consultation, and environmental access rights.
+# QUICK REFERENCE: SUCCESS RATES
 
-## Follow the money — why the system often leans toward "yes"
-
-- **States and municipalities** compete hard for investment and the jobs a project brings, so there is often intense official pressure to approve.
-- **The federal government** promotes energy, tourism, and infrastructure, and designates some as **priority projects (obras prioritarias)** with strong backing.
-- **Developers** are often large companies, and — importantly — the **MIA is prepared by the developer's own consultant**, so it tends to read in the project's favour.
-- Refusals are relatively rare; most projects that reach a decision are authorized, with conditions.
-
-None of this makes a decision inevitable. It explains why a decision rarely tips your way on its own — it takes organised, evidenced pressure.
-
-## The overseers — who watches the decision-makers
-
-- **The federal courts (the Judicial Branch of the Federation)** — hear the **amparo**, grant the **suspension**, and apply the **precautionary** and **non-regression** principles; the administrative-justice court (**TFJA**) hears administrative challenges.
-- **PROFEPA** — enforces, and can be pushed to act on a citizen complaint (**denuncia popular**).
-- **The Federal Audit Office (ASF)**, the **anti-corruption prosecutor**, and the **Secretariat of Anti-Corruption and Good Governance** — the integrity bodies (see Section 11).
-- **The transparency authority** — which guarantees the right to public information (its structure changed in 2025 — see Section 11).
-
----
-
-# QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
-
-These ranges describe the general effectiveness of each tactic drawn from documented opposition campaigns. They are patterns, not guarantees. In Mexico, the variable most likely to push a campaign above these ranges is a well-founded challenge on a real defect — a misleading **MIA**, a missing **prior consultation**, or a threat to a water system or protected area — carried through an **amparo** with a **suspension** (Step 4).
+Before you commit months of effort, calibrate honestly. These figures are **directional, not guarantees** — patterns drawn from how Mexican and comparable campaigns tend to go, not a controlled study. The decisive variables are whether the project sits on **ejido or comunidad land** (which puts the assembly in your hands), whether **Indigenous consultation** is engaged, whether the **environmental authorisation or water concession has real defects**, whether an **amparo** can win a suspension, whether the government has shielded the project as "national security," and whether the public and the proponent can be reached. Where collective land and consulta are engaged and the community organises, Mexico's levers are strong; where the paperwork is clean and the State is determined, discount the figures and think in terms of delay, conditions, exposure, and mobilisation.
 
 ## Individual Step Success Rates
 
-| Step | Success Rate | Timeline | Cost (MXN) | What "Success" Means |
-|------|--------------|----------|------|---------------------|
-| **Documentation Only** | 5-10% | 3-4 months | MX$150,000 | Project slowed, public awareness only |
-| **Opposition Only** | 15-20% | 6-12 months | MX$450,000 | Public pressure, minor modifications |
-| **Legal Only** | 20-30% | 12-24 months | MX$0-600,000 | Strong with a suspension if the defect is real |
-| **Media Only** | 10-15% | 3-6 months | MX$150,000 | Public knows, but no action |
-| **Docs + Opposition** | 25-35% | 12 months | MX$550,000 | Slowed, some modifications |
-| **Docs + Legal** | 30-40% | 12-18 months | MX$700,000 | Stronger legal arguments |
-| **Opposition + Legal** | 35-45% | 12-18 months | MX$900,000 | Political pressure strengthens the case |
-| **Opposition + Media** | 30-40% | 9-12 months | MX$550,000 | Visibility creates political pressure |
-| **All 5 Steps Combined** | 60-75% | 12-24 months | MX$1,000,000 | Authorization annulled/refused/modified or project halted |
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Guarding / defending the assembly** | 30–55% | ongoing | low | No valid land consent; project stalls |
+| **Annulling a rigged assembly (agrarian court)** | 30–55% | 1–4 years | low–moderate | Fraudulent approval voided (the CECOP lever) |
+| **Amparo with suspensión** | 30–55% | months–years | low–moderate | Permit/works frozen for rights violation |
+| **Consulta previa claim (ILO 169, SCJN)** | 35–60% | 1–4 years | low–moderate | Permit/project voided for no consultation |
+| **Challenge to the MIA / environmental authorisation** | 25–45% | 1–3 years | low–moderate | Authorisation suspended or annulled |
+| **PROFEPA denuncia popular** | 20–45% | months–years | low | Inspection, sanction, or suspension |
+| **Water-concession challenge (CONAGUA)** | 20–45% | 1–3 years | low–moderate | Concession questioned; project constrained |
+| **Transparency / information route** | high for disclosure | weeks–months | low | Documents released; defects exposed |
+| **Media & public campaign** | 30–55% | ongoing | low | Political cost raised; decision shifts |
+| **International / financier pressure** | 25–50% | 6–48 months | low | Backers or buyers walk away |
+| **All steps combined (collective land, consulta)** | 45–65% | 1–5 years | low–moderate | Stalled, voided, conditioned, or cancelled |
+| **All steps combined (clean permit, "national security")** | 20–45% | 1–5 years | low–moderate | Delayed, exposed, conditioned; sometimes stopped |
 
-**Key insight:** All five steps together = 3-4x more effective than any single step.
+**Key insight:** every step together beats any single one, and Mexico's real strengths are distinctive — **collective land and the assembly**, the **agrarian courts** that void rigged approvals, the **amparo** with its suspensión, **consulta previa** that the Supreme Court enforces, the **MIA and PROFEPA** environmental route, and a **deep resistance tradition**. Its constraints are **assemblies that can be manipulated**, the government's **"national security" shielding of megaprojects**, the **slowness** of the amparo, and **grave danger to defenders**.
 
-*A note on legal cost: an **amparo** can be brought at modest cost, and public-interest environmental lawyers (such as **CEMDA**) and legal clinics take these cases, often at no charge — so the "Legal" figures are not a hard floor. The main cost is expert evidence, not court fees.*
-
----
+*A note on cost: guarding the assembly, filing a denuncia to PROFEPA, and requesting information are inexpensive, and human-rights and environmental organisations (such as the network that supported CECOP), agrarian-rights lawyers, and legal clinics carry amparos and agrarian cases. The amparo does not require a lawyer in theory, though one helps greatly. The expenditure that most changes outcomes is committed **legal support** — for the agrarian court, the amparo, and the consulta claim — and the reach of the **media and mobilisation**, exactly what CECOP marshalled over two decades.*
 
 ## Effectiveness Visualization
 
 ```
-SUCCESS PROBABILITY (Authorization Annulled/Refused/Modified/Project Halted)
+SUCCESS PROBABILITY (stalled, delayed, voided, conditioned, or cancelled)
 
-CLEAN DECISION SCENARIO:
-All 5 Steps Combined:  ████████████████ 65-75%
-Same chance as: a coin coming up heads twice (75%)
+COLLECTIVE LAND + CONSULTA -- ejido/comunidad, Indigenous rights, community organised:
+All steps combined:          █████████████   45-65%
+Consulta previa (SCJN):      ████████████    35-60%
+Assembly defence / agrarian court:████████████ 30-55%
+Amparo with suspensión:      ████████████    30-55%
+Single step:                 ██              5-60%
 
-4 Steps Combined:      ███████████████ 55-65%
-Same chance as: a forecast of 60% rain being correct
-
-3 Steps Combined:      ██████████ 45-55%
-Same chance as: a single coin flip (50%)
-
-2 Steps Combined:      ████████ 30-40%
-Same chance as: drawing a face card from a deck
-
-Single Step:           ██ 5-20%
-Same chance as: rolling a specific number on one die
-
-WITH MODERATE TILT FACTORS:
-(Strong pro-investment push, or a developer-funded MIA)
-
-All 5 Steps Combined:  ██████████ 40-45%
-4 Steps Combined:      ████████ 30-40%
-3 Steps Combined:      ██████ 20-30%
-2 Steps Combined:      ████ 15-25%
-Single Step:           ██ 3-12%
-
-WITH SEVERE TILT FACTORS:
-(A federal priority project, developer-only studies, heavy political backing)
-
-All 5 Steps Combined:  ████ 25-30%
-4 Steps Combined:      ███ 18-24%
-3 Steps Combined:      ██ 12-18%
-2 Steps Combined:      █ 8-15%
-Single Step:           █ 2-8%
+CLEAN PERMIT, "NATIONAL SECURITY" -- State-backed megaproject:
+All steps combined:          █████████       20-45%
+Mobilisation + media + amparo:███████████     the strongest combination
+Delay / conditions:          ████████████    more achievable than an outright stop
+Single step:                 ██              5-45%
 ```
 
-**One important point:** a single clear legal defect — most powerfully a missing **prior consultation**, a misleading **MIA**, or a threat to a water system — can lead a federal court to grant a **suspension** and halt a project even where the politics favour it, because it is applying a constitutional standard the authority cannot ignore. (A defect that is later "cured" can let the project resume, so an early win may need defending — as the Homún community has found.)
-
----
+**How to read this honestly.** The levers that most change outcomes in Mexico are **collective land, the agrarian courts, consulta, and the amparo** where they apply, and **the mobilisation and the media** everywhere. La Parota shows the ceiling: a community that owned its land in common, guarded its assemblies, and fought in the agrarian courts and with amparos beat a state mega-dam over twenty-three years. The floor is set by manipulated assemblies and by a government that shields its megaprojects as "national security." Most Mexican fights sit between them, and the honest lesson is that collective land, the courts, consulta, and mobilisation are real and distinctive levers — but against a determined, State-backed project, the realistic win is often delay, conditions, exposure, and a proponent worn down, as much as an outright, permanent stop. Use the table to plan, not to predict: it tells you which combinations have historically done the most work and where to put scarce time first. The single most important reading is that no row on its own is as strong as the rows run together — the community that guards its assembly, documents everything, files its amparo, presses consulta, and publicises at once consistently outperforms the one that pins its hopes on any single move.
 
 ## Step Importance Ranking (When All Combined)
 
-```
-1. OPPOSITION BUILDING (Step 3)     ████████████████ 25%
-   Why: creates political pressure, visible to decision-makers, enables other steps
-
-2. DOCUMENTATION (Step 2)           ███████████████ 22%
-   Why: provides ammunition for the amparo, courts, and media; grounds opposition in facts
-
-3. MEDIA STRATEGY (Step 5)          ████████████ 20%
-   Why: makes opposition/legal/documentation visible, creates political cost
-
-4. LEGAL CHALLENGES (Step 4)        ███████████ 18%
-   Why: the amparo and suspension can halt a project — and hold the MIA and consultation levers
-
-5. TARGET ID (Step 1)               ██████ 15%
-   Why: foundation — if wrong, everything fails
-```
-
-**Real insight:** a large, organised, visible community that has also put well-argued objections on the record in the **public consultation** and, as an Indigenous people, insisted on genuine **prior consultation**, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
-
----
+1. **Collective land and the assembly, defended in the agrarian courts** — Mexico's most distinctive lever; the gate that, guarded, a project cannot pass, and, if rigged, can be voided — the CECOP lever.
+2. **The amparo with its suspensión** — the fast constitutional injunction that freezes an unlawful permit or works.
+3. **Consulta previa** — the ILO 169 right the Supreme Court enforces by voiding projects that skip it.
+4. **The mobilised, sustained movement** — the CECOP tradition that holds the line and makes a project a national cause.
+5. **The environmental route and media** — the MIA challenge, the PROFEPA denuncia, and the coverage that raises the cost of proceeding.
 
 ## What Mexican Campaigns Actually Show
 
-A few patterns recur. **Organised opposition and a documented file are the base**, and Mexico's distinctive lever is the **amparo** and its **suspension**, which can halt a project while the courts examine it. **The environmental-impact process (*MIA*)** supplies the procedural foothold, and where Indigenous peoples are affected, **consultation rights** add a powerful further front. **A durable coalition and sustained media** turn these into political cost. **The ceiling depends on the project's backing** — a favoured project is usually delayed or conditioned, while a defective MIA or a violated consultation is genuinely vulnerable, and the amparo's suspension can buy decisive time. The through-line: **build the file, file the amparo, assert consultation, and hold the coalition and coverage together.**
+A few patterns recur. **Collective land can stop a mega-dam** — La Parota proved it, through assemblies that the community guarded, defended, and, where they were faked, had annulled. **The agrarian courts void rigged approvals** — the fraudulent assemblies the CFE relied on at La Parota were annulled by the Tribunal Unitario Agrario, pulling the legal ground out from under the dam. **The amparo freezes projects** — a suspensión halted the dam's illegally granted environmental clearance and water concession while the case was fought. **Consulta matters** — the Supreme Court has voided projects, permits, and even laws granted or passed without the genuine prior consultation the affected communities were owed. **But assemblies can be manipulated**, the government shields megaprojects as "national security," the amparo is slow, and defenders face lethal danger. The through-line: **guard the assembly; take any rigged approval to the agrarian court; file an amparo for a suspensión; demand consulta; challenge the MIA and the water concession; mobilise the public — and expect a long fight measured in delay, conditions, and exposure as much as an outright stop.**
 
 # STEP 1: TARGET IDENTIFICATION
 
-**Time to complete:** Weeks 1-4
-**Cost:** MX$0
-**Outcome:** A clear picture of what you're fighting, who decides, and when the decision is final
+Every effective campaign begins by finding the exact decision that governs the project — and its weakest point. Vague opposition to "the dam" goes nowhere; opposition to "the environmental authorisation and water concession granted on a rigged assembly the agrarian court can annul, without the consulta previa ILO 169 requires" is a case. Answer five questions.
 
-## Core Questions You Must Answer
+## The Five Core Questions
 
-Before you organise a single person, answer these precisely.
+**1. What exactly is proposed, and on whose land?** Name the project, the proponent, and — first of all — **whose land** it sits on. Is it **ejido or comunidad (social property)**, which brings the assembly and the agrarian courts into play? Then the specific permits: the environmental authorisation (MIA), the water concession, any concession or contract. Each is a place a defect hides.
 
-### Question 1: What Exactly Will Be Destroyed?
+**2. What stage is it at?** Trying to secure the land through an assembly? MIA under review at SEMARNAT? Authorisation granted? Water concession issued? In the courts? Under construction? The stage dictates the door. If the assembly is being sought, guarding it is the powerful route now; if permits are granted, the amparo and the agrarian court are the route.
 
-Not: "Environmental damage"
-But: "The farm sits over the aquifer-recharge zone that feeds the **cenotes** [number] families drink from, and its waste threatens to contaminate them."
+**3. Is it on collective land — and is the assembly sound?** This is often the decisive Mexican question. On ejido or comunidad land, was there a **valid assembly** — properly convened, with quorum, freely deciding — or a rigged one you can annul in the agrarian court? Guarding or challenging the assembly is frequently the strongest single move.
 
-Not: "Pollution"
-But: "The plant will emit an estimated [X] of fine particles over the nearest homes of 1,500 people, in an area already exceeding the air-quality standard."
+**4. Are Indigenous peoples affected, and was there consulta?** Where Indigenous or equivalent communities are affected, a **consulta previa** under ILO 169 is required, and its absence is among the strongest grounds — the Supreme Court has voided projects for it. Establish whether it happened and whether it was genuine.
 
-Not: "Community harm"
-But: "The project crosses the territory of the [Indigenous people] without the **consultation** the Constitution requires, and cuts [number] families' access to their land."
+**5. Who decides, who benefits, and who is watching?** Which authorities issued the land use, the MIA, and the water; who owns, funds, and profits from the proponent (including the State); which communities, ejidos, and organisations are engaged; and which agrarian and human-rights lawyers, environmental groups, press, and international allies can be reached. This maps your levers and your audiences at once.
 
-**Why this matters:** specific harms are easier to document, litigate, and organise around. Vague opposition dies; specific opposition survives. Harm to an **Indigenous territory**, a **water system**, a protected natural area, or a wetland also opens a **specific legal front** (prior consultation; the water, forest, or protected-area rules; the amparo).
+## A Worked Example
 
-### Question 2: Who Decides?
+Suppose the CFE, or a company, proposes a dam or mine on ejido and comunidad land, seeking the assemblies' consent, with the MIA under review.
 
-You cannot pressure an abstraction. Identify the decision-maker precisely — it is usually one of these:
+Working the five questions: the project sits on **collective land**, so the **assembly** is the gate — guard it, and watch for any attempt to rig it. It is **seeking land consent and environmental authorisation**, so guarding the assembly and challenging the MIA are the live routes now, with the agrarian court and an amparo in reserve. If the communities are **Indigenous or equivalent**, **consulta previa** is required. The permits and the water concession may be defective. The assembly and the courts carry more weight than quiet lobbying.
 
-- **SEMARNAT** (federal) — for the **MIA** and environmental-impact authorization of federal works, and land-use change on forest land.
-- **The state environment authority** — for the **MIA** of state-competence projects and state/land-use permits.
-- **The municipio** — for local licences and land use.
-- **CONAGUA** — for the water concession.
-
-Write it down concretely: "The state environment authority will decide the environmental-impact authorization after the MIA is reviewed. The project affects an Indigenous community, so a prior consultation is required, and it needs a CONAGUA water concession."
-
-### Question 3: What Specific Action Stops It?
-
-Not: "Stop the project"
-But: "Persuade the authority to deny the authorization, or win a suspension in an amparo" — or, if refusal is unrealistic, "obtain strict conditions, real remediation, and a redesign."
-
-Not: "Protect the environment"
-But: "Show the **MIA** is misleading, the **consultation** was skipped, or a required study is missing, and file an **amparo** seeking a **suspension**."
-
-**Why this matters:** you can demand something achievable. Vague demands are easy to ignore; specific ones create measurable pressure and, if the process is unlawful, become the ground for a court to act.
-
-### Question 4: When Is the Decision Final?
-
-Timeline tells you how much time you have. Map every date: when the **MIA** is filed, the window to request a **public consultation**, the public meeting, and the authorization. Don't wait: request the consultation and object during it, and be ready to file an **amparo** — an amparo has a **short deadline** (generally within 15 working days of learning of the act), so move quickly, and seek a **suspension** at the same time.
-
-### Question 5: Are There Documented Financial or Policy Pressures?
-
-This is the tilted-system assessment question. Know it BEFORE you organise:
-- Is the project a federal **priority project (obra prioritaria)** or a big state investment, hardening political backing?
-- Is the **MIA** prepared and paid for by the developer's own consultant only?
-- Does the state or municipio depend on the project for jobs and revenue?
-- Is the developer a large company with deep resources for studies, lawyers, and appeals?
-- Has the project begun works before the authorization — presenting a *fait accompli*?
-
-**Why this matters:** if strong "priority project" backing or developer-controlled studies are present, opposition must overcome different barriers (Section 10). It doesn't mean opposition can't work — it means realistic expectations and, often, a focus on the **MIA**, the **consultation**, and the missing-study defects, on conditions, and on the **amparo**, rather than a straight political refusal.
-
----
+Within a weekend you have moved from "we oppose the dam" to a target list: organise to guard the assembly and document any manipulation; prepare to annul a rigged assembly in the agrarian court; file a denuncia with PROFEPA and scrutinise the MIA; establish the consulta right; line up agrarian and amparo lawyers for a suspensión; challenge the water concession; and prepare the land-and-river story for the press. That is a campaign, not a complaint. Notice what the exercise did: it converted a diffuse fear into a short list of concrete, assignable tasks — guard the assembly, file the denuncia, ready the amparo, establish the consulta right — each tied to a specific lever and each of which can begin this week, several of them before the assembly is even convened or the authorisation granted. That is the difference the five questions make.
 
 # STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
 
-**Time to complete:** Months 1-4
-**Cost:** MX$150,000-250,000 (MXN)
-**Outcome:** Three polished reports (30+ pages total) showing specific, quantified harms
+Documentation is the foundation everything else stands on. An agrarian-court judge, a federal amparo judge, a journalist, and a proponent's financiers all move on evidence, not indignation. Build your file in three layers.
 
-**Success Rate (Documentation Alone):** 5-10%
-**Success Rate (Documentation + Opposition):** 25-35%
-**Success Rate (Documentation + Opposition + Legal + Media):** 60-75%
+## Layer 1: The Official Record
 
-## The Three Documentation Layers
+Get the documents the decision rests on. Obtain the **assembly records (actas de asamblea)** — the convocation, the attendance, the quorum, the vote — which are where a rigged approval is exposed; the **MIA and the environmental authorisation** from SEMARNAT; the **water concession** from CONAGUA; any **consulta record**; and the ejido or comunidad's own agrarian documents. Much is obtainable through Mexico's **transparency law** and the access-to-information system. The gap between what the paper claims — a valid assembly, an adequate impact statement, a genuine consulta — and what actually happened is where cases are won. CECOP's victory rested exactly here: proving that the assemblies the CFE relied on were invalid. Read the assembly records with special care — the date and form of the convocation, the list of who was entitled to vote and who actually attended, whether the quorum the law demands was truly met, whether the vote was free — because this is where manufactured consent falls apart. And read the MIA against the grain, for the effect scoped out in a sentence, the displacement undercounted, the water demand softened; it is written by consultants paid to secure the authorisation, and its gaps are your grounds.
 
-Documentation turns vague opposition ("This is bad") into undeniable evidence ("This specific harm will occur to these specific people/places at these specific costs"). Success comes from three layers working together.
+## Layer 2: The Ground Truth
 
----
+Document the reality the paper hides. Photograph and date the **actual land** — the river, the fields, the forest, the community, the footprint — and geotag it. Log **incidents**: a coerced meeting, an intimidation, works beyond permit, a diverted stream. Capture **before-and-after** with your own photos and with freely available satellite imagery, to show clearing or the true scale. Record **who lives and farms here** — the ejidatarios and comuneros, the land use, the water sources — because collective landholding and use are the heart of the agrarian case. Record **testimony**: above all, first-hand accounts of how an assembly was convened and conducted, since procedural fraud is the classic ground for annulment; and residents', farmers', and independent experts' accounts of the harm.
 
-## LAYER 1: BASELINE CONDITIONS DOCUMENTATION
+## Layer 3: The Defects and the Rights
 
-**What it is:** documentation of existing conditions BEFORE the project begins — including who lives on and uses the land, and how.
-
-**Why it matters:** developers claim "the land is idle" or "already degraded." Baseline documentation proves what — and who — was there, and it cannot be reconstructed later.
-
-**Documented case — the Maya community of Homún and the mega pig farm**
-
-A company obtained permits to build an industrial farm of some 49,000 pigs at **Homún**, a Maya town in Yucatán that sits in the **Ring of Cenotes** — a reserve of hundreds of sinkholes over the aquifer that supplies the region's water. Its backers treated it as an ordinary agribusiness. The community made that impossible. Organised as the collective **Kanan Ts'ono'ot (Guardians of the Cenotes)**, and accompanied by a human-rights organisation, they documented two things: that the company's **environmental-impact study was full of irregularities**, and that the farm threatened to contaminate the **cenotes** and the aquifer the town drinks from — and that they, an Indigenous people, had never been **consulted**.
-
-It changed the outcome. In 2018, **six Maya children of Homún filed an amparo**, and a federal judge granted a **suspension** that halted the farm; in 2021, the **Supreme Court confirmed the definitive suspension**, keeping the farm closed pending the merits. The community's documented account — of the flawed study, the threat to the water, and the missing consultation — was the thing the courts acted on. (Honesty matters here: the company has kept trying to overturn the suspension, and the case continues — a reminder that a legal victory often has to be defended.)
-
-**Why it matters for you:** the Homún community's documentation — of the study's defects and the threat to the cenotes — was decisive. Documenting existing conditions, including who lives there, the water systems they depend on, and what the study got wrong, is the foundation of everything that follows.
-
-**Building your own baseline (typical process).** Document existing conditions before the project starts, because a developer will claim the land is "idle" and baseline cannot be reconstructed later. A workable approach: surveys across a season cycle of the project area plus reference sites; a species and habitat inventory with GPS locations, flagging anything protected that the developer's **MIA** omitted; a record of who occupies and uses the land — farming, fishing, gathering, sacred sites — and whether it is **Indigenous territory** (the basis of a **consultation** right); the **water systems** the community depends on (cenotes, aquifers, rivers, springs — as at Homún); proximity to any protected area or wetland; and water and air baselines (quality and seasonal variation). Typical cost is around MX$150,000-200,000 for a technical consultant/ecologist, GPS, and testing — reducible with knowledgeable community members, university researchers, and naturalists. Dated, same-spot photographs and geo-referenced maps make it credible.
-
----
-
-## LAYER 2: IMPACT ANALYSIS
-
-**What it is:** detailed analysis of what specific harms will occur, based on the project description plus your baseline.
-
-**Why it matters:** it shows not just "something bad" but "specifically THIS BAD in THIS WAY" — and it maps directly onto what the **MIA** must properly assess.
-
-**Use the developer's own words and the assessment rules.** Powerful, documentable weak points in Mexican assessments include:
-- **A misleading or incomplete MIA.** The **MIA** must genuinely assess the project's significant impacts, alternatives, and mitigation. A study that omits or understates impacts — the water system, as at Homún — is a strong ground.
-- **A defective public consultation.** The **public consultation** must be genuinely available and its objections addressed. A skipped or stage-managed process is a strong, specific defect.
-- **A missing prior consultation.** For an **Indigenous people**, a genuine **prior consultation** is required — its absence is a strong ground, and was central at Homún.
-
-Convert each of the developer's admissions ("temporary disturbance," "limited clearing") into a quantified prediction against your baseline.
-
-**Outcome (illustrative):** a **MIA** or **consultation** found defective can lead a court to grant a **suspension** and annul the authorization — halting the project, or adding months or years.
-
----
-
-## LAYER 3: HEALTH & ECONOMIC IMPACT DOCUMENTATION
-
-**What it is:** quantification of human-health and economic costs to the community.
-
-**Why it matters:** decision-makers and the public respond to human cost. "X hectares affected" matters less than "an estimated 45 additional respiratory cases a year, and MX$X of health-system cost" — or "the farming, fishing, and cenote ecotourism that sustain 200 families destroyed."
-
-**Method:** use recognised air-quality or water modelling and the public-health literature to translate emissions or contamination into health and livelihood outcomes, then attach costs — additional respiratory and gastrointestinal cases, lost farming, fishing, and tourism income, and total annual and lifetime cost for the affected population.
-
-**Outcome (illustrative):** an independent health-and-livelihood analysis can move a municipio or state, feed the amparo, and force conditions the original design lacked.
-
----
-
-## How to Structure Your Documentation
-
-### Phase 1: Baseline Conditions (Months 1-2)
-Engage a technical consultant or ecologist (or use knowledgeable community members, university researchers, and naturalists); document conditions AND human occupation, use, Indigenous status, water systems, and sacred sites. **Deliverable:** a 20-30 page baseline report with species/habitat inventory, a record of use and rights, water/air data, dated photographs, and geo-referenced maps.
-
-### Phase 2: Impact Analysis (Months 2-3)
-Obtain the **MIA** and the authorization file (request them; the transparency system can help); identify specific impacts; test the study against the rules (completeness, public consultation, prior consultation, water, protected areas). **Deliverable:** a 20-30 page impact analysis with quantified predicted impacts, comparison to baseline, and the developer's own admissions quoted back.
-
-### Phase 3: Health/Economic Analysis (Months 3-4)
-Identify affected populations; estimate health and livelihood impacts and costs. **Deliverable:** a 15-20 page report written for the public and press.
-
----
-
-## Common Documentation Pitfalls (What Fails)
-- **Waiting for perfect data.** Documented data beats perfect data that arrives after the authorization.
-- **Only environmental data.** Add health, livelihood, and human-occupation impacts — the arguments that move decision-makers, the courts, and the public.
-- **No independent check.** A report the authority can dismiss as "activist material" is far stronger after an independent expert or a university reviews it.
-- **Ignoring the developer's own admissions.** Their **MIA** is your best source; quote it against itself. Use the transparency system to get it and the file.
-
----
-
-## Documentation Budget Breakdown (MXN)
-
-| Item | Cost | Notes |
-|------|------|-------|
-| Technical consultant / ecologist (baseline + species ID) | MX$120,000 | Protected-species and habitat survey |
-| GPS / survey equipment | MX$12,000 | Mapping/documentation |
-| Water/air testing | MX$25,000 | Sampling across seasons |
-| Independent / university expert review | MX$20,000 | Credibility |
-| Printing/information-request/translation | MX$8,000 | Local-language copies for decision-makers |
-| **TOTAL** | **MX$185,000** | Reducible with university partners and community members |
-
----
+Finally, document the failures of process and the legal lines the project crosses. Was the **assembly invalid** — no proper convocation, no quorum, coerced, or fabricated? Was **consulta previa** skipped or staged? Was the **MIA deficient** — understating the flooding, the displacement, the water, the species, the cumulative effects? Was the **water concession** unlawful? Does the project violate the constitutional rights to a **healthy environment** or to **water**? Each defect is a separate ground — for an agrarian-court annulment, an amparo, a consulta claim, a PROFEPA denuncia — and together they make a case that is hard to wave away. This is the layer that most often decides Mexican fights, because here a project that looked authorised is revealed to rest on a rigged assembly, a skipped consulta, a deficient impact statement, or an unlawful water grab. Work it methodically against each requirement: was the assembly validly convened and carried; was consulta previa owed and genuinely held; did the MIA honestly assess the flooding, displacement, water, and species; was the water concession lawfully granted; does the project respect the rights to a healthy environment and to water? Where the answer is no, capture the proof — because each 'no' is a separate ground the agrarian court, an amparo, PROFEPA, or the Supreme Court can act on.
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
-Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+This is the practical companion to Step 2: the specific records that decide Mexican cases, and where to obtain them. You will not need every item; you will need the few that expose your project's particular defect.
 
-**Start at the deciding body's register and the municipio's own website.** In Mexico the official documents for a project — the Manifestación de Impacto Ambiental (MIA), the public-consultation notices, the environmental authorization (autorización de impacto ambiental) and its conditions — are posted by the body running the review: SEMARNAT (federal) or the state environmental authority for the MIA, the municipio for land use and construction licences, and CONAGUA for water. The official documents for most local projects live on the municipio's own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+## The Land, the Permits, and Their Paper Trail
 
-**The project file and the Manifestación de Impacto Ambiental (MIA).** Get the developer's Manifestación de Impacto Ambiental (MIA) as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+- **The assembly records (actas de asamblea)** — the convocation, attendance list, quorum, and vote — from the ejido or comunidad and the agrarian registry (RAN). These are decisive: a defective convocation or quorum is the classic ground to annul.
+- **The MIA and the environmental authorisation**, from SEMARNAT. Read the MIA for what it understates — the flooding, the displacement, the water, the species, the cumulative effects.
+- **The water concession**, from CONAGUA — whether it was lawfully granted for this use.
+- **Any consulta record** — whether a consulta previa happened, how, and whether the community accepts it as genuine.
+- **The ejido/comunidad documents** — the census of ejidatarios/comuneros, the internal rules, the land plan (from the RAN).
+- **Contracts, concessions, and permits** tying the proponent to the land and the project.
 
-**Baseline environmental data.** Federal and state environmental data; CONABIO biodiversity and protected-area records; and the developer's own MIA baseline studies.
+## How to Get Them
 
-**Ownership and money.** Company ownership from the Registro Público de Comercio; land from the Registro Público de la Propiedad and the Registro Agrario Nacional (for ejido land); and officials' asset declarations.
+Assembly records are held by the ejido and the **Registro Agrario Nacional**; environmental documents by SEMARNAT; water by CONAGUA. For everything else, use Mexico's **transparency law and access-to-information system (the national platform)**: a request to the authority obliges a response, with the transparency institute behind you if it is refused. A refusal is itself a documentable fact. Move early: guarding an assembly must happen before the vote, and the deadlines for an **amparo** (which run from when you learn of the act) and for agrarian challenges are strict, so evidence and objections gathered while the doors are open carry far more weight — and preserve far more of your rights — than the same point raised later. A practical tip: request the assembly records from the Registro Agrario Nacional as well as from the comisariado, so you can compare the official file with what the community witnessed — discrepancies between the two are often the clearest proof of a rigged assembly. Keep dated proof of every request and every refusal, and treat a refusal as both a documentable fact and a signal of where the weakness lies.
 
-**Case law and precedent.** Federal court decisions are published by the Poder Judicial de la Federación; amparo rulings shape environmental practice.
+## The Ground Evidence
 
-**How to force a document open.** A request under the transparency law (**LGTAIP**), via the Plataforma Nacional de Transparencia, compels disclosure of records a public body holds. Use the request wording in Section 8E.
+- **Dated, geotagged photographs and video** of the land, the river, the community, the works.
+- **Satellite before-and-after** from freely available imagery, to show clearing, flooding, or the true extent.
+- **First-hand accounts of the assembly** — who was convened, who attended, how the vote was taken — since procedural fraud is the classic ground for annulment; record them carefully and, where possible, in writing or on video.
+- **Independent technical readings** — a hydrologist's, ecologist's, or agronomist's report, and an independent review of the MIA. Environmental and agrarian organisations and university clinics can help source these.
+- **Maps** overlaying the footprint on the ejido and comunidad land, the river, the water sources, and any protected area — a single map showing a reservoir over collective land and a community's water is worth pages of argument.
+- **Testimony** from ejidatarios, comuneros, and residents on the land, the water, and the harm.
 
-**Free and low-cost help.** Environmental and human-rights NGOs (e.g. CEMDA) litigate and advise; the amparo is the central constitutional tool.
+## Organise It So It Persuades
 
-**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+Keep a **master timeline** of every assembly, permit, concession, consulta, and deadline, plus incidents — the spine of any agrarian case or amparo. Keep a **document index** so any fact can be sourced in seconds. And keep an **argument bank** (developed in a later section) that pairs each fact with what it proves, to whom. A well-ordered file is not bureaucracy; it is what lets a volunteer, a lawyer, a journalist, and a judge all see the same clear picture fast — and it guards against the campaign's own worst enemy, a claim that cannot be sourced when the other side challenges it. In a fight that can run for years — La Parota ran for twenty-three — and pass through many hands, the community with the better-kept file is very often the one that prevails.
 
-## Researchers for Hire, and Everyday Research Tools
+# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE A MOVEMENT THAT LASTS
 
-If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+Evidence and law do not stop projects on their own. Organised people do — sustained, visible, and credible over the months or years a fight takes. This is the step CECOP did best: campesinos who organised, guarded their assemblies, and held together for more than two decades.
 
-For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
+## Phase 1: The Core, and the Assembly
 
-# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
+Start with a small, committed core — five to fifteen people who will carry the work. On collective land, the single most important early task is to **organise around the assembly**: understand who the recognised ejidatarios and comuneros are, ensure they attend, and be ready to document and challenge any attempt to convene a rigged or coerced meeting. The assembly is your gate; guarding it is job one. Assign roles: documentation, legal liaison (agrarian and amparo), assembly organising, media, community liaison, and coordination. Agree on the goal — a project blocked at the assembly, a rigged assembly annulled, a permit frozen by amparo, a cancellation — and on what you will and will not accept.
 
-**Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
-**Cost:** ~MX$450,000 (MXN) for a full year
-**Outcome:** 50-100 core people, 5-10 organisations, sustained organisation
+## Phase 2: The Coalition
 
-**Success Rate (Opposition Alone):** 15-20%
-**Success Rate (Opposition + Documentation + Legal + Media):** 60-75%
+Then widen deliberately. Bring in **neighbouring ejidos and comunidades, campesino and Indigenous organisations, fishers, students, scientists, and faith networks**. Reach the **allies with capacity** — the agrarian-rights and human-rights organisations and lawyers who litigate these cases; the national and international networks (as International Rivers and others were for CECOP) whose reach and expertise amplify a local fight; independent experts; and the reputational-pressure campaigners who reach financiers and buyers. CECOP drew its power from exactly this breadth — dozens of communities united across a region, joined to national and international allies — which is precisely the spread a winning campaign needs.
 
-## Critical Insight About Organising
+**A worked coalition example.** Facing a dam on collective land, several ejidos and comunidades unite in a council; they guard their assemblies together; they bring in agrarian and amparo lawyers and an independent hydrologist; a national organisation amplifies the fight; and international allies raise its profile. No single community could have carried it; together they cover the assemblies, the courts, the science, the legitimacy, and the national and international reach — the CECOP model.
 
-**Most opposition campaigns fail not because they can't build opposition, but because opposition burns out after 4-8 months.** You need structures that prevent it.
+## Phase 3: Sustaining It
 
----
+Campaigns die of burnout, not defeat. Meet on a rhythm. Give people concrete, finishable tasks. Mark small wins — an assembly held firm, a rigged assembly annulled, a suspensión granted, a document pried loose. Rotate the exhausting roles. And protect people — this is grave in Mexico, one of the deadliest countries for defenders, and CECOP's own leaders faced imprisonment and persecution: keep leadership collective and visible; document every threat; build strong links to human-rights organisations, the CNDH, the press, and international networks that raise the cost of harming a known leader; and get security and legal advice. Sustaining a campaign — as CECOP's twenty-three years show — is how these fights are won, and the ones that endure pace themselves. Build in the things that keep people together and safe: welcome newcomers, share food, mark the victories, root the campaign in the community's own life and its assembly, and never let a leader stand alone and exposed. A fight that can run for decades survives only if it becomes part of who the community is — and in Mexico, collective and visible leadership is not only how a movement endures but part of how its people are kept alive.
 
-## PHASE 1: FOUNDATION (Months 1-2)
+## Phase 4: Showing Strength
 
-**Goal:** a core group of 15-20 motivated people and a clear picture of their concerns.
+Numbers and legitimacy must be seen. Turn people out for the assemblies, the hearings, and public meetings. Hold peaceful, well-documented actions — the roadblocks and gatherings that made La Parota a national story from the first blockade of CFE engineers in 2003. Be clear-eyed about safety and legal risk, and take advice, especially where actions or the defence of land could expose leaders to criminalisation. The point is not spectacle; it is to demonstrate, to the authorities, the courts, the proponent, and the public, that the opposition is broad, rooted, and not going away — and that the assembly will not be delivered. Choose actions that photograph well and that anyone can join — a march to the state capital, a gathering on the threatened land, an assembly held in the open and well documented — and record them yourselves, so the breadth and spirit of the resistance survive as a record even if no outlet covers them. A visibly broad, peaceful, rooted movement, standing on its own collective land, is among the most persuasive arguments an authority or a court can weigh.
 
-### Step 1a: One-to-One Conversations
-People don't join movements from pamphlets; they join from relationships. Identify the 15-20 people most affected or interested. **Talk to** each in person for an hour. Ask: "What's your biggest concern about this project?" Listen — don't pitch. Ask what they'd be willing to do. Each person has a different concern (land, water, farming, health, a sacred site, a way of life). Opposition organised around each shared concern is stronger than one generic message.
+# STEP 4: LEGAL CHALLENGES — THE ASSEMBLY, THE AGRARIAN COURT, THE AMPARO, AND CONSULTA
 
-### Step 1b: Affinity Groups by Concern
-Organise small groups (3-8 people) around a shared concern, not around "opposition":
-- **Land/livelihood group** — farming, fishing, ecotourism, displacement and compensation
-- **Water group** — the cenotes, aquifer, rivers, springs, contamination
-- **Health group** — air quality, dust, water-borne disease
-- **Rights group** — **Indigenous territory** and **consultation**, sacred sites
-Each group meets regularly and works out how opposition serves *their* interest, coordinating while keeping its own framing.
+Mexican law gives communities a real arsenal, and you do not need a final ruling to win with it: guarding an assembly, annulling a rigged one, or winning an amparo suspension delays a project, forces disclosure, and creates leverage and headlines. Engage agrarian and amparo lawyers early — but understand the tools yourself.
 
-### Step 1c: Use the Community Assembly and the *Ejido*, and Register a Collective
-Two vehicles matter. First, Mexican communities have their own strong structures — the **community assembly (asamblea)**, and, on collectively-held land, the **ejido or comunidad agraria** and its assembly, whose decisions carry legal weight over that land — and, for an Indigenous people, the right to **consultation**; a clear, recorded community decision against the project is one of the strongest things you can produce. Second, a **registered civil association (asociación civil, A.C.)** can speak for the community, receive donations, and file an **amparo**; partner with established organisations (such as **CEMDA**) and a legal clinic early.
+## The Assembly and the Agrarian Court
 
----
+On ejido and comunidad land, the first and often strongest lever is the **assembly**. Under the Agrarian Law, the use or transfer of collective land requires a **valid asamblea** — properly convened, with the required quorum, freely deciding. Guard it: no valid assembly, no valid project. This is worth dwelling on, because it inverts the usual balance of power: on collective land the community is not a mere objector hoping to influence a distant decision-maker — it is the owner whose consent the project actually requires, and whose assembly is a decision the law puts in the community's own hands. Losing that consent, or having it faked, is the single most damaging thing that can happen to a campaign; keeping it whole is the single most powerful. And where a proponent manufactures consent through a rigged or coerced assembly — as the CFE did at La Parota — you can take it to the **Tribunal Unitario Agrario** and have it **annulled**, which pulls the legal ground out from under the project. This is the distinctly Mexican move that stopped La Parota, and it is available wherever collective land is at stake. The system rests on Article 27 of the Constitution and the Agrarian Law: an ejido or comunidad governs its land through the assembly of its recognised members, with an elected comisariado to represent it, and the most important decisions — above all the use or transfer of common land — require a specially convened assembly with a heightened quorum and formalities recorded at the Registro Agrario Nacional. Those formalities are not red tape; they are the community's protection, and a proponent that cuts corners on them hands you the ground to void the whole approval.
 
-## PHASE 2: PUBLIC LAUNCH (Months 2-3)
+## The Amparo and the Suspensión
 
-**Goal:** announce opposition to the public, the media, and decision-makers.
+Mexico's great constitutional tool is the **amparo** — a suit in the federal courts that an act of authority violates constitutional rights. Its power for communities is the **suspensión**: an order that **freezes** the challenged act — an environmental authorisation, a water concession, the works themselves — while the case is decided. An amparo can be grounded in the rights to a **healthy environment** and to **water** (Article 4), the right to **consulta** (Article 2), or a defective permit, and it reaches up to the **Suprema Corte**. It can be slow, and suspensions can be contested, but a suspensión won early can halt a project for years — and even a temporary halt shifts the ground, buying the time in which assemblies are defended, evidence is gathered, allies are found, and a proponent's patience and finance are tested — as the 2007 amparo did at La Parota against the illegal environmental clearance and water concession. The suspension comes in two stages — a provisional suspension that can freeze the act almost immediately while the court considers it, and a definitive suspension that holds for the life of the case — which is why filing early matters so much: a provisional suspension won in the first days can stop bulldozers before they start. The amparo is technical and the deadlines strict (generally counted from when you learn of the act), so competent counsel is worth finding, even though the Constitution does not, in principle, require a lawyer to file one.
 
-### Step 2a: Public Meeting (community assembly)
-Hold a community assembly where people set out their concerns to themselves, to the municipal and *ejido* authorities, and to press. A serious, informational meeting carries weight. Typical shape: welcome → project explanation → community concerns (each person a few minutes) → expert Q&A (an ecologist, a health voice, a lawyer) → next steps.
+## Consulta Previa
 
-### Step 2b: Opposition Materials (Factsheets)
-One page, in the **local language** (Spanish and, where relevant, the Indigenous language). Decision-makers and neighbours won't read 30 pages; one page gets read. Structure: a headline stating the problem → quick quantified facts → the specific impact → **what you're asking for** → the evidence base → contact/resources. Print widely; distribute at markets, the municipal palace, churches, health centres; post a digital version. Cost: ~MX$8,000.
+Where Indigenous or equivalent communities are affected, **consulta previa** under **ILO Convention 169** and the Constitution is among the strongest grounds. The consultation must be **prior, free, informed, culturally appropriate, and aimed at agreement** — not a meeting held after the decision is made. The **Suprema Corte** has repeatedly **voided projects, permits, and even laws** granted or passed without a proper consulta, in cases from wind farms to aqueducts to genetically modified crops. Where your community is entitled to consulta and did not genuinely receive it, that defect can undo the project — a lever led by the affected community, whose leadership you support rather than supplant. In practice that means offering capacity — research, evidence, logistics, a legal contact — rather than direction, and accepting that the community may pursue the fight on its own terms and at its own pace; the consulta right and the land are theirs, and a campaign that forgets it both wrongs the people it claims to serve and weakens the strongest ground the case stands on. Mexico ratified ILO Convention 169 in 1990, and Article 2 of the Constitution recognises Indigenous and Afro-Mexican peoples' rights, including to consultation; the Supreme Court has built a substantial body of rulings insisting the consulta be genuine, and has struck down wind projects, an aqueduct, and even a permit for genetically modified crops where it was absent or a sham. The consultation must reach the community through its own representative institutions and in its own language, with enough information and time to decide — a briefing staged to tick a box is not a consulta, and the courts have said so plainly.
 
-### Step 2c: The Public Consultation, the Consulta Previa, and the Community's Recorded Position (the decisive record)
-Two things matter most here. First, **request the public consultation** on the MIA and turn people out to **speak and file written objections** (and demand a proper process, in the local language), each raising real grounds — a misleading **MIA**, harm to the cenotes or a protected area, ignored displacement. Second, secure the **records that carry weight**: a clear, formally recorded **community position** against the project, and — for an Indigenous people — an insistence that any **prior consultation** be genuine and, if the community objects, that its position is recorded. Together these build a record the courts take seriously. Cost: ~MX$3,000.
+## The Environmental Route and the Water Concession
 
-### Step 2d: Media Coverage at Launch
-Release data + objections + the recorded community position = a story. (Full press-release example is in Section 9, 9G.) Contact reporters, then send the study. Expect 1-3 local stories.
+Two further levers complete the arsenal. The **environmental authorisation** rests on the **MIA**, and a deficient impact statement — understating the flooding, displacement, water, or species — can be challenged, while any citizen can file a **denuncia popular** with **PROFEPA**, which can inspect, sanction, and suspend. And the **water concession** from CONAGUA can be questioned where it was unlawfully granted — water was central to the La Parota challenge, and is central to many Mexican fights. and because water scarcity touches everyone in a community whether or not they hold land, Water is often the sharpest edge of a Mexican project, because a dam, mine, brewery, or resort typically needs a large concession from CONAGUA, and those concessions — in a country of deep water stress — are both legally contestable and politically explosive; a community that can show a project would take water it cannot spare has an argument that reaches the courts, the regulator, and the public at once. Pair the water case with the MIA challenge and the PROFEPA denuncia, and you have three environmental fronts running together.
 
----
+## Where to File and With Whom
 
-## PHASE 3: COALITION EXPANSION (Months 3-6)
-
-**Goal:** grow from 20 core people to 50+ core plus 5-10 organisations.
-
-### Step 3a: Organisation Outreach
-Approach environmental and rights organisations — the **Mexican Center for Environmental Law (CEMDA)**, other NGOs and networks, university law and science clinics, Indigenous-peoples' organisations, *ejido* unions, fishers' and farmers' groups, and religious bodies (which carry real weight in Mexican communities) — plus tourism operators and businesses that lose from the project. Research each; contact the right person; explain how opposition serves *their* aims; make a specific, tailored ask.
-
-Tailored asks:
-- **CEMDA / a legal clinic:** "We need help preparing an amparo and a request for a suspension — can you assist?"
-- **A university group:** "Would your researchers assess the aquifer or health impacts independently?"
-- **An Indigenous organisation:** "Help us insist on a genuine prior consultation and record the community's position."
-- **Ejido / fishers / religious leaders:** "This takes the land and water we depend on — will you object and speak at the consultation?"
-
-### Step 3b: Coalition Agreements (Written)
-A written agreement — who's in, how decisions are made, meeting frequency, the public message, who may speak for the coalition, conflict resolution, money, and an exit clause — prevents later conflict. Consensus is stronger but slower; voting is faster but can fracture.
-
-### Step 3c: Coordinated Public Work
-Assign leadership by strength: environmental analysis to the NGO/university; Indigenous territory and consultation to the community and an Indigenous organisation; livelihood to the *ejido*/fishers' groups; media to whoever has the contacts; the legal track to the law group and the registered association. Sequence activities so each builds momentum (coalition launch → data release → recorded community position → public consultation).
-
----
-
-## PHASE 4: SUSTAINED PRESSURE (Months 6-12)
-
-**Goal:** maintain organised opposition across a 12+ month timeline.
-
-### Step 4a: Public Demonstrations (marches / plantones)
-Regular, same time and place, growing attendance — outside the municipal palace, the state government, or at the site. Handle logistics: any required notice, marshals, accessibility, and a sound system for large gatherings. Momentum matters: "50 gather" becomes "gathering grows to 500."
-
-### Step 4b: Media Campaign (Ongoing)
-Monthly rhythm: week 1 a release tied to an event/data; weeks 2-3 social media 3x/week; week 4 a reporter check-in. Rotate themes (community position recorded → expert finding → coalition growth → march → amparo filed).
-
-### Step 4c: Common Opposition Failure Points (How to Prevent)
-
-**Failure Point 1: Burnout (Months 4-8).** Prevent it: regular (not constant) meetings; celebrate milestones; fund one part-time coordinator so volunteers don't carry logistics; schedule breaks; keep a public progress tracker. Campaigns that bring in a part-time coordinator when founders tire tend to last for years; those that don't often collapse around month six.
-
-**Failure Point 2: Coalition Conflict.** Prevent it with a written agreement and decision process, a clear escalation path (discuss → mediator), an explicit exit clause, and rotating leadership. Respect that Indigenous communities and *ejidos* decide by their own processes — and be alert to developers trying to split a community by co-opting some leaders or staging a "consent"; keep decisions transparent and collective.
-
-**Failure Point 3: Competing Funding.** Grants with conflicting conditions can pull groups off shared work. Coordinate grants up front and agree no group commits coalition resources without a coalition decision.
-
-**Failure Point 4: No Clear Wins.** Name milestones as victories (community position recorded, 500 objections filed, a large march, the amparo admitted, a suspension granted) and publicise cumulative progress.
-
----
-
-## Opposition Building Budget: Year-Long Campaign (MXN)
-
-| Item | Cost |
-|------|------|
-| Factsheet printing (local language) | MX$15,000 |
-| Website/phone/data (annual) | MX$12,000 |
-| Meeting / venue costs | MX$22,000 |
-| Outreach travel (often remote areas) | MX$70,000 |
-| Objection/recording materials | MX$4,000 |
-| Demonstration supplies (banners, sound) | MX$30,000 |
-| Coalition meeting costs | MX$22,000 |
-| Part-time coordinator honorarium (12 months) | MX$210,000 |
-| Social-media / content (part-time, 3 months) | MX$50,000 |
-| Fundraiser/event costs | MX$20,000 |
-| **TOTAL** | **MX$455,000** |
-
-**Funding the campaign.** Money typically comes from four places: individual donations (local collections and online fundraisers, plus dedicated legal-cost appeals); grants from environmental and rights funders (long lead times — apply early); benefit events; and in-kind support from coalition organisations (expertise, meeting space, volunteer time). A registered civil association can receive donations and, where eligible, grants. Aim to raise half the budget by month 6 and the rest by month 12. **Reductions:** use a volunteer coordinator, or run a shorter 6-month campaign, to cut ~MX$210,000; and organisations such as CEMDA and legal clinics often act at no charge.
-
----
-
-## Hiring Help to Run the Campaign
-
-You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
-
-# STEP 4: LEGAL CHALLENGES — THE AMPARO, THE SUSPENSION, AND CONSENT
-
-**Time to complete:** 3-24 months (depends on track)
-**Cost:** MX$0-600,000 (MXN; an amparo can be brought at modest cost — the main cost is expert evidence)
-**Outcome:** an authorization annulled or refused, a project halted, conditions, or a project shelved
-
-**Representation impact:**
-- Experienced environmental lawyers or a public-interest law group: 35-45% favourable-outcome likelihood
-- General or less specialised representation: 25-35%
-- Self-representation: 5-15%
-- **A key advantage:** the **amparo** is accessible, and public-interest environmental lawyers (such as **CEMDA**) and university legal clinics take these cases, often at no charge; standing is broad under the **interés legítimo** doctrine.
-
-**Success Rate (Legal Only):** 20-30%
-**Success Rate (Legal + Opposition + Media):** 60-70%
-
-Mexican legal strategy has three tracks, and the **amparo** with a **suspension** is the distinctive, decisive tool.
-
----
-
-## TRACK 1: PARTICIPATION AND THE PAPER TRAIL (the front door)
-
-Most fights are shaped here, on the record, before the amparo is filed.
-
-- **Request the public consultation and object.** Ask that the **MIA** be put to **public consultation**, and file written objections raising real **legal grounds** — a misleading MIA, harm to the water system or a protected area, ignored displacement, a consultation not held in the local language.
-- **Record the community's position and, for an Indigenous people, insist on consultation.** A clear, formally recorded **community position**, and — for an **Indigenous people** — a genuine **prior consultation** (or a recorded objection to its absence), carry weight.
-- **Use the transparency system.** Request the **MIA**, the authorization file, and the correspondence through the public-information system (the National Transparency Platform); escalate a refusal to the transparency authority. This turns a closed process into a documented one.
-- **File a citizen complaint (denuncia popular) with PROFEPA** where there is a violation, to trigger inspection and enforcement.
-
-**Why this track matters:** filing well — specific, on time, grounded in the law and the evidence — plus the information paper trail and the recorded community position, often does more than any amount of noise, and it builds the case you'll need for Tracks 2 and 3.
-
----
-
-## TRACK 2: THE MIA, CONSULTATION, AND CONSTITUTIONAL LEVERS (the strongest cards)
-
-Several grounds make this powerful.
-
-**1. A misleading MIA or a missing required study.** The **MIA** must genuinely assess the project's significant impacts and alternatives, and some works need studies (such as a land-use-change or risk study) before they can proceed. Where they are defective or missing — as at **Homún** — the authorization is vulnerable in an **amparo**.
-
-**2. A missing or defective prior consultation.** For an **Indigenous people**, a genuine **prior consultation (consulta previa)** is required under the Constitution and ILO Convention 169; the courts have annulled authorizations granted without it. This is a strong, specific ground.
-
-**3. Broad standing and protective principles.** Under the **interés legítimo** doctrine, the courts have held that a person who benefits from an ecosystem's environmental services can bring an amparo **without first proving the environmental damage** — the risk of damage is the merits question — and they apply the **precautionary principle** and the principle of **non-regression** (a protection, once granted, should not be rolled back). These make it easier to get into court and to win.
-
-**The suspension — the halting lever.** In an amparo, the court can grant a **suspensión** (a precautionary injunction) that **halts the project while the case runs** — the tool that stopped the Homún farm. (Honest caveat: a 2024 judicial reform **narrowed** the courts' power to suspend general rules, and a 2025 proposal sought to limit NGO standing — so get **current advice** on what a court can suspend today.)
-
----
-
-## TRACK 3: THE AMPARO, THE ADMINISTRATIVE COURT, AND COLLECTIVE ACTIONS
-
-Match the tool to the goal:
-- **The amparo (juicio de amparo)** — the constitutional-protection suit against the authority's act, filed with a federal district judge, seeking a **suspensión** and, ultimately, the annulment of the authorization; it can rise to the collegiate courts and the **Supreme Court (SCJN)**.
-- **The administrative challenge** — the administrative appeal (**recurso de revisión**) and the suit before the **Federal Court of Administrative Justice (TFJA)** against the authorization.
-- **The collective action (acción colectiva)** and the **Federal Environmental Liability Law** claim — for collective environmental interests and for **environmental damage (daño ambiental)** and its reparation.
-
-**Be realistic about two things.** First, an amparo's protection traditionally benefits **the plaintiffs** (its "relative effect"), so bring it in the name of the affected community and, where possible, as a collective matter, and pair it with the political and media steps. Second, a defect that is later **cured** can let a project resume, and the developer may keep litigating — as at **Homún**, where the company has repeatedly tried to overturn the suspension. So an early win may need defending: keep opposition and media pressure alive alongside the case.
-
----
-
-## Legal Strategy Decision Tree
-
-```
-START: Is a MIA in review, or an environmental-impact authorization issued?
-├─ IN REVIEW → Request the public consultation + object NOW (Track 1). Use the
-│              transparency system. Record the community position / insist on consulta.
-└─ ISSUED    → Note the SHORT amparo deadline (generally 15 working days once you know).
-               Get current advice on what a court can suspend (post-2024 reform).
-
-Q1: What is the defect?
-├─ Missing/defective prior consultation (Indigenous people) → AMPARO (strong ground).
-├─ Misleading MIA / missing required study / threat to water or a protected area
-│      → AMPARO seeking a SUSPENSION.
-├─ A violation to enforce → DENUNCIA POPULAR to PROFEPA; and/or the administrative
-│      suit before the TFJA.
-├─ Environmental damage has occurred → COLLECTIVE ACTION / Environmental Liability claim.
-└─ No real defect (lawful process, you just disagree) → focus on opposition + media.
-
-Q2: Are works imminent?
-└─ YES → Seek a SUSPENSION in the amparo to halt works — and plan for a possible
-        resumption if a curable defect is fixed.
-
-Q3: Budget?
-├─ MX$0        → Amparo with CEMDA / a legal clinic; broad interés legítimo standing.
-├─ MX$0-300k   → Amparo + a suspension + expert evidence with an environmental lawyer.
-└─ MX$300-600k → Full case + expert witnesses, combined with opposition + media.
-
-RECOMMENDED PATHS
-Path A — Clear defect: amparo + suspension + Track 1 record + information file + media.
-  Highest ceiling.
-Path B — Arguable but not clear-cut: build opposition + media; take advice; litigate if a
-  defect crystallises.
-Path C — No legal defect: don't litigate. Win it politically, on the record, and in the press.
-```
-
----
-
-## Litigation Success Factors
-Litigation succeeds when **combined** with the other steps:
-- Litigation alone: 20-30%
-- Litigation + opposition: 35-45%
-- Litigation + opposition + media: 50-70%
-- A clear defect — a missing **prior consultation**, a misleading **MIA**, or a threat to a water system — can exceed these (as at Homún), though a cured defect may let the project resume.
-
-A court that sees a genuine legal defect, plus visible organised opposition, plus press coverage, treats the matter as serious.
-
-## What to Avoid: Legal Failures
-- **Litigating instead of organising.** A lone technical point with no visible opposition reads as a niche dispute. Build opposition; litigate with it visible.
-- **Missing the amparo deadline.** It is short (generally 15 working days once you know of the act) — move fast, and seek the suspension at the same time.
-- **Not seeking the suspension.** Without it, the project may be finished before the case ends.
-- **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The authorization was granted without the prior consultation the Constitution requires" is a ground a court can act on.
-
----
+Assembly disputes run in the **Tribunales Agrarios**; amparos in the federal courts up to the **SCJN**; consulta claims through the amparo and the courts; environmental complaints to **PROFEPA**. Get help early: agrarian-rights and human-rights organisations, environmental and amparo lawyers, and legal clinics know exactly these procedures and can advise on the strongest ground, the strict deadlines, the suspensión, and how a non-Indigenous community can properly support a consulta case. A lawyer engaged before the assembly, and while the amparo deadline is alive, is worth far more than help sought after the machinery arrives. Ask at the first meeting which lever is strongest for your facts — an assembly guarded or annulled is often more decisive than any permit challenge, because it denies the project its land entirely — and clarify the strict, unforgiving deadlines for the amparo and the agrarian action, because a good case lost to a missed deadline is the most avoidable defeat there is.
 
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
-Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Mexico — so you file the right fact against the right rule.
+You have a file of evidence. Now you must turn it into arguments — because the same fact persuades an agrarian judge, a federal amparo judge, an environmental official, a journalist, a financier, and the community itself in different ways. Learning to translate your evidence for each audience is what lets a community reach every lever at once.
 
-**A defective public consultation → challenge.** Where the consulta pública was skipped or deficient. Feed it with: the consultation record and its gaps.
+## One Fact, Many Arguments
 
-**An amparo → suspend and review the authorization.** The amparo protects the constitutional right to a healthy environment and can suspend a project. Feed it with: the rights violation and your documented harm.
+Take a single documented fact — say, that a dam was authorised on the strength of a rigged assembly, on a MIA that understated the flooding, without the consulta previa the communities were owed. That one fact becomes:
 
-**An inadequate MIA → nullity.** Ignored effects, no alternatives, weak assessment. Feed it with: the MIA gaps and your expert critique.
+- **An agrarian argument:** the assembly was invalid — improperly convened, without quorum, coerced — and must be annulled in the Tribunal Agrario, voiding the land consent.
+- **A consulta argument:** the communities' right to free, prior, and informed consultation was denied — a ground the Supreme Court has used to void projects.
+- **An amparo argument:** the environmental authorisation and water concession violate the rights to a healthy environment and to water — grounds for a suspensión freezing the project.
+- **A media argument:** a mega-dam pushed through on a fixed assembly and a whitewashed impact statement, over a community that was never truly consulted — a clear, human story.
+- **A reputational argument:** a project resting on an annullable assembly and a challengeable permit is a legal and reputational risk to its financiers and contractors.
 
-**Indigenous or ejido consultation (ILO 169) skipped → strong ground.** Feed it with: the affected community/ejido position and the absence of free, prior, informed consultation.
+Same fact, five arguments, five audiences. Go through your strongest facts and, for each, ask what it proves to each audience. That table is your campaign's argument bank — and in Mexico the arguments that most often decide things are the **invalid assembly and the missing consulta**, because they pull the legal ground out from under the project, and the **amparo**, because its suspensión can freeze the works while the rest plays out. Keep the arguments anchored to the same documented facts, so a claim made to a reporter can be backed in the court file and a claim made to the court can be spoken plainly at an assembly; consistency across audiences is itself persuasive. Learning to move fluently between these registers — the invalid assembly for the agrarian court, the missing consulta for the Supreme Court, the water and environment for the community and the public, the reputational risk for the financier, the human story for the reporter — is one of the most valuable skills a campaign develops, because it lets the same underlying evidence work every lever at once without ever straying from the facts.
 
-**Authorization conditions breached → enforcement.** Feed it with: the conditions and dated evidence of breach, to PROFEPA.
+## Match the Argument to the Audience
 
-The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." An environmental NGO can tell you fast whether an amparo or an administrative challenge is the right route.
+**The agrarian and federal courts** want the illegality framed precisely against the specific rule — the Agrarian Law on assemblies, ILO 169 on consulta, Article 4 on environment and water, the defective MIA — with the documents and the timeline that prove it.
+
+**Environmental officials and PROFEPA** respond to legal risk and their mandate — the deficient MIA, the harm, the reasons to inspect and sanction.
+
+**Journalists** need a specific, verified, human story with a hook: a named river, a named community, a rigged assembly, a documented defect, a live decision.
+
+**Financiers, contractors, and buyers** respond to legal and reputational exposure — a contested project on an annullable assembly and a challengeable permit, tied to a named proponent.
+
+**The community itself** needs to see that the fight is winnable and shared — the small wins, the growing movement, the pressure mounting — so it lasts through the years these fights take.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
-**Time to complete:** the full 12-month campaign
-**Cost:** ~MX$150,000 (MXN) for trained spokespeople + ongoing support
-**Outcome:** regular coverage reaching a large audience, political pressure on decision-makers
+Media is not vanity; it is a lever. Coverage raises the political cost of a project, reaches officials, ministers, and the proponent's backers your letters cannot, protects activists by making them visible — which matters intensely in Mexico — and can turn a local fight into a national and international cause. CECOP proved it: for over two decades, the images of campesinos defending the Papagayo, and the story of a community that would not sell its land, kept La Parota a national issue until it was cancelled.
 
-**Success Rate (Media Only):** 10-15%
-**Success Rate (Media + Opposition + Documentation + Legal):** 60-75%
+## Build the Story
 
-Mexico has a strong national press, a vigorous investigative-journalism and environmental-journalism sector, and very heavy social-media use, that cover exactly these fights — and a record of that coverage shifting outcomes. The Homún case drew national and international attention, which raised the political cost of the farm.
+Reporters need specifics: a named place and people, a dated and documented defect or harm, a clear stake, and a live decision or deadline. "A project threatens the environment" is not a story; "a mega-dam was pushed through on a fixed assembly and would flood 17,000 hectares and displace 25,000 people, and the community is fighting it in the agrarian courts" is. Lead with your strongest verified fact, attach the map and the imagery, and offer a human voice — a comunero, a community leader, a scientist — and a striking image, as the Papagayo and its defenders became. Mexican and international audiences respond powerfully to land and water and to the defence of the commons: a named river, a community that refuses to sell its land, a rigged assembly exposed, and a decision with a date carry a moral clarity that a debate about megawatts never will. CECOP's slogan — that the land is not for sale — told the whole story in a single line, and it is that concrete, rooted stake that reporters and the public remember.
 
-## How Journalists Actually Work
-What reporters care about, in order: (1) **news** (something new happened), (2) **consequence** (someone is affected), (3) **timeliness** (it's happening now), (4) **conflict** (a real dispute), (5) **new information**. What they don't care about: your opinion, how angry you are, vague statements, or meetings with no hook.
+## Reach the Right Outlets
 
-## The Newsworthiness Formula
-**NEWS = DATA + CONSEQUENCE + TIMELINESS + NEW INFORMATION**
-- **Bad:** "Residents oppose the project." (no data, no specific consequence, nothing new) → ignored.
-- **Good:** "Information-law documents show the MIA never assessed the cenotes 300 families drink from; six children have filed an amparo; a judge decides on the suspension next week." → covered.
+Work outward in rings. **Local and regional media** first, where the project is felt. Then **national outlets** — the major papers and Mexico's strong investigative and independent press — which carry political weight. Then, for a project touching a listed company, an international financier, or a globally resonant value (Indigenous rights, a great river, biodiversity), **international and financial media**, which reach the money and the world. Feed each ring what it needs, and let coverage in one pull in the next. Pay particular attention to the rings that reach the **money and the government**: national coverage raises the political cost, and international and reputational coverage can reach a proponent's financiers where the domestic process cannot. It is worth identifying the specific environment, agrarian, and human-rights reporters at the national papers and the strong independent outlets, and the international correspondents who cover Indigenous rights and megaprojects; a journalist who already knows the terrain needs less briefing and carries more weight, and a single well-sourced investigation into a rigged assembly or a whitewashed impact statement can move a minister or a financier more than a month of press releases. Offer your strongest documented finding as an exclusive and you gain an ally, not just a mention.
 
-The difference is roughly a 4-5x change in the likelihood of coverage.
+## Sustain It, Make It Safe and True
 
-## Know the Outlets That Cover This Beat
-- **Local and community media** and **regional press** — the audience that reaches your municipal and state officials.
-- **National outlets** — *La Jornada*, *Proceso*, *El Universal*, *Reforma*, and *Aristegui Noticias* — for projects with wider significance.
-- **Investigative and environmental outlets** — *Animal Político*, *Pie de Página*, and **Mongabay Latam** — for deeper reporting on authorizations, water, and Indigenous rights.
-- **Social media** — powerful in Mexico — plus international outlets for landmark cases (as at Homún).
+A single article changes little; a drumbeat changes decisions. Plan a sequence — the assembly, the court ruling, the amparo, the new document, the action — so there is always a next hook, and build your own record (a simple site, a social feed, a growing album of dated photographs and video) so the story exists in a form journalists can pick up and that survives if posts are removed. Keep messaging disciplined, accurate, and consistent; one exaggeration handed to the other side can cost you credibility you cannot rebuild. And weigh safety in every choice — in Mexico, visibility can protect a leader, but exposure can also endanger one, so coordinate with human-rights organisations on how and when to raise a profile. Verified, specific, human, and relentless — that is the coverage that shifts outcomes.
 
-## Building Reporter Relationships (The Key)
-Reporters don't ring campaigners for comment; campaigners ring reporters with tips. Identify 5-10 local, regional, and specialist reporters (environment, water, Indigenous-rights beats). **Contact** them first: "I saw your piece on [similar story]. We've got a similar situation in [place] and I think your readers should know." Then keep the relationship warm over months — a relevant article, an information-law document, a milestone — so that when the big story lands, they already know you.
+# EMAILS & LETTERS
 
-## Sample Media Timeline
-- Month 1: build relationships (contact five reporters)
-- Month 2: first story (public-consultation objections / recorded community position)
-- Month 3: press event releasing the survey/information findings; expert available
-- Month 4: coalition announcement
-- Month 5: march coverage
-- Month 6: decision-date coverage
+Written communications are how you object, create a record, and reach the bodies that can act. Each does double duty: it asks for something and it documents that you asked. Keep copies of everything, and send important items so that receipt is provable. Below are adaptable templates for the situations you will meet most often. Keep them factual, specific, and grounded in the law and the evidence.
 
-## Real Media Dynamics (Mexican grounding)
-- **Coverage plus mobilisation shifts outcomes:** the Homún fight combined community organising, the documentation of the cenote threat, and the children's amparo with national and international coverage that raised the political cost.
-- **Information-law documents make stories:** a disclosure that contradicts the developer's claims — a MIA that ignored the water system, a missing consultation — is a gift to a reporter and a court.
-- **Independent evidence beats the developer's study:** independent hydrological, ecological, or health analysis that contradicts an optimistic **MIA** lets the press write "experts dispute the developer's figures," and decision-makers take notice.
+## 8A. Objection / Denuncia to PROFEPA and SEMARNAT
 
-## Media Measurement
-Track cumulative stories and reach month over month. **Success indicators:** regular (at least monthly) coverage that carries your message and specific data, and visible decision-maker response. **Failure indicators:** no coverage for 2+ months, superficial coverage that drops your argument, or no response from decision-makers.
+**To:** PROFEPA (denuncia popular) and SEMARNAT
+**Subject:** Denuncia popular — [project], [location]
 
----
+As a person/community affected by [project] at [location], I file this denuncia. My grounds, with evidence: (1) the MIA [understates/omits] [impact — e.g. the flooding, the displacement, the water, the species]; (2) [the environmental authorisation was granted despite [defect]]; (3) [works are proceeding beyond or without authorisation]; (4) [the project harms the right to a healthy environment and to water]. I request that PROFEPA inspect, investigate, and — where warranted — order the suspension of the activity, and that SEMARNAT reconsider the authorisation. [Attachments: photographs, technical note, maps.]
 
-## Amplifying at Scale — Media Help for Hire
+## 8B. Transparency / Access-to-Information Request
 
-Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
+**To:** [SEMARNAT / CONAGUA / the Registro Agrario Nacional / the authority]
+**Subject:** Solicitud de acceso a la información — [project]
 
-# SECTION 8: EMAILS & LETTERS YOU CAN COPY
+Under the transparency and access-to-information law, I request: the MIA and the environmental authorisation; the water concession; the assembly records (actas de asamblea) held in the agrarian registry; any consulta record; and [correspondence between the proponent and the authority on [issue]]. Please respond within the legal period. I note the public interest in environmental and land information.
 
-These are ready-to-use messages. Adapt the bracketed parts and send them. Keep them short, specific, and grounded in the law and the evidence — that is what gets read and acted on. The **public-information request (8E)** and the press release (8G) are among the highest-leverage messages here.
+## 8C. Instructing Agrarian / Amparo Counsel
 
-## 8A. Email to a reporter (story pitch)
+**To:** an agrarian-rights or human-rights lawyer or organisation
+**Subject:** [Project] — assembly annulment and/or amparo
 
-```
-Subject: Story tip: [specific finding] — [the authority] decides [date]
+We believe the [project] on our ejido/comunidad land is unlawful because [the assembly relied on was invalid — improperly convened / without quorum / coerced; the environmental authorisation and water concession are defective; consulta previa was skipped]. We attach the assembly records, the MIA, the concession, and our timeline, and seek your advice on **annulling the assembly in the Tribunal Agrario** and/or an **amparo with a suspensión**, the strict deadlines, and the strongest ground. Time is critical.
 
-Dear [Reporter],
+## 8D. Supporting a Community's Consulta / Rights (at their invitation)
 
-I follow your coverage of [beat / recent story]. We have something in [place]
-your readers should know about, and there's a clear news hook.
+**To:** [the authority / the court], with the community's agreement
+**Subject:** [Project] — consulta previa and the rights of [community]
 
-In one line: [information-law documents / the community's recorded position / an
-independent survey] show [quantified finding — e.g. "the MIA never assessed the
-cenotes 300 families drink from"], and [SEMARNAT / the state authority] decides
-on [date].
+As a community group in [place], at the invitation of and in support of [Indigenous/equivalent community], we underline the rights it has asserted regarding [project]: its right to **free, prior, and informed consultation** under ILO Convention 169 and the Constitution, and its rights to its land, water, and environment. We do not speak for the community; we stand with it, and we ask that its right to consulta be honoured before any authorisation or works proceed. [Attach material the community is content to have shared.]
 
-Why it's newsworthy: it's new (just obtained), specific (affects [# people /
-hectares / an Indigenous community]), and time-sensitive (decision [date]).
+## 8E. Letter to a Financier / Contractor / Buyer
 
-I can share the full report and the documents and connect you with [one named
-expert] for an interview. Would a quick call this week work?
+**To:** [the project's financier / contractor / buyer]
+**Subject:** [Project] — legal and reputational risk
 
-Regards,
-[Name] — [Organisation] — [phone] — [email]
-```
+We write regarding your [financing of / work on / purchasing from] [proponent] in connection with [project]. The project [one-line stake — e.g. "rests on an assembly the agrarian court can annul and a permit under amparo challenge, and is opposed by the affected communities"], and our documented concerns include [the invalid assembly, the missing consulta, the deficient MIA, the pending suspensión]. We ask you to weigh the legal, reputational, and financial risk, and whether your own [environmental, social, and human-rights commitments] are consistent with supporting it. We are glad to share our evidence.
 
-## 8B. Letter to SEMARNAT, the state authority, or the governor/municipio
+## 8F. Letter to an Official / Legislator / the CNDH
 
-```
-Subject: [Deny / attach strict conditions to] [project] — environmental-impact authorization [ref]
+**To:** [the relevant authority / a legislator / the Comisión Nacional de los Derechos Humanos]
+**Subject:** [Project] — concerns and request
 
-To [SEMARNAT / the Head of the State Environment Authority / the Governor / the
-Municipal President],
+We are residents of [place] writing about [project]. Our concern, briefly: [one or two specific grounds — a rigged assembly, a threat to a community's land and water, a skipped consulta, threats against defenders]. Within your responsibility, we ask you to [halt or review the authorisation / uphold the assembly and consulta rights / protect the defenders at risk]. [If true:] [#] communities and organisations share this concern, and the project carries real legal risk. We welcome a meeting and can share our full evidence.
 
-I am a resident of [place] writing about the [project], on which a decision (the
-environmental-impact authorization based on the MIA) is expected around [date].
+## 8G. Email to a Reporter (Regional, National, or International)
 
-The concern, briefly: [one or two specific grounds — e.g. "the MIA fails to assess
-the cenotes the town depends on, and the Indigenous community was never consulted"].
+**To:** [journalist]
+**Subject:** Story tip: [specific finding] — [the river / the community]
 
-I am asking you to [specific, achievable action — e.g. "deny the authorization," or
-"require strict conditions, real remediation, and a redesign"].
+I follow your coverage of [beat]. We have something your readers should know, with a clear news hook: [documents] show [quantified finding — e.g. "a mega-dam was pushed through on a fixed assembly, would flood 17,000 hectares and displace thousands, and is being fought in the agrarian courts"], with [a decision/hearing] due [date]. It is specific, verified, and it echoes La Parota. I can share the full file and — where the community wishes to speak — connect you with affected people and an expert. Could we talk this week?
 
-[If true:] The affected community has formally recorded its objection; [#] residents
-filed objections in the public consultation; [#] organisations share the concern.
+## 8H. Letter Requesting Protective Measures for Defenders
 
-I would welcome a meeting and can share our full evidence.
+**To:** [the CNDH / the federal protection mechanism for defenders], copied to allies
+**Subject:** Protection request — defenders of [community] opposing [project]
 
-Respectfully,
-[Name], [address], [phone], [email]
-```
-
-## 8C. Objection in the public consultation / recorded community position
-
-```
-PART A — WRITTEN OBJECTION (public consultation on the MIA)
-To: [SEMARNAT / the state environment authority], re [project]
-
-Objection to the [project]. Consultation requested/held [date].
-1. Who I am: [name], [community], [interest].
-2. Grounds (with evidence):
-   a. [Indigenous consultation] — the project affects the [people]; the prior
-      consultation the Constitution and ILO 169 require has not taken place. (Attach.)
-   b. [Misleading MIA] — the study omits [impact], understates [impact], and
-      [ignores] the water system / protected area documented here.
-   c. [Defective process] — the consultation was not made genuinely available /
-      not held in [language] / objections were not addressed.
-3. What I ask: that the authorization be DENIED; alternatively, [strict conditions
-   and a redesign].
-[Name] — [contact] — Attachments: [baseline / impact / health report]
-
-PART B — RECORDED COMMUNITY POSITION (assembly / Indigenous people)
-"The [community], through its assembly / its own decision-making, records that it
-OBJECTS to the [project] and does not consent to it, for the following reasons:
-[rights / livelihood / water / sacred sites]. Recorded [date], [who was present /
-how decided]."
-```
-
-## 8D. Coalition outreach email (to an organisation)
-
-```
-Subject: [Organisation] + [project] — a specific ask that fits your work
+We report that leaders and members of [community/organisation] opposing [project] face [threats / intimidation / criminalisation / violence]: [sourced facts, dates]. Given Mexico's documented dangers for land and environmental defenders, we request [protective measures / an investigation / monitoring], and we are informing human-rights organisations and the press. We attach the record of incidents.
 
-Dear [Name],
-
-I'm [name] with [organisation] in [place]. We're working on [project], which
-[one-line stake]. I'm getting in touch because this connects directly to
-[organisation]'s work on [their aim].
+## Using the Templates Well
 
-We're not asking you to adopt our whole campaign — just one concrete thing that
-serves your aims: [tailored ask — e.g. "help us prepare an amparo and a request
-for a suspension," or "help us insist on a genuine prior consultation," or "have
-your researchers assess the aquifer impacts independently"].
-
-If helpful, I can send a one-page brief and arrange a short call.
-
-Thanks for considering it,
-[Name] — [Organisation] — [contact]
-```
-
-## 8E. Public-information request (the transparency tool)
-
-```
-NOTE: Requests go through the National Transparency Platform (Plataforma Nacional
-de Transparencia). In 2025 the autonomous institute (INAI) was replaced; the
-guarantor role now sits with the federal transparency authority — but the RIGHT to
-request public information continues, and the platform still operates.
-
-To: The Transparency Unit of [SEMARNAT / the state environment authority / the
-municipio]
-
-Request for public information
-
-Please provide the following concerning [project] (ref [ref]):
-1. The environmental-impact statement (MIA) and the environmental-impact
-   authorization (and any conditions).
-2. The record of the public consultation / public meeting and the objections received.
-3. For forest land: the land-use-change (cambio de uso de suelo) authorization; for
-   water: the CONAGUA concession.
-4. Any prior-consultation record for the affected Indigenous people.
-5. The correspondence between [the authority] and [the developer], [dates].
-
-If any information is withheld, please state the legal basis; I reserve the right to
-seek review before the transparency authority.
-
-[Name] — [address] — [date]
-```
-
-## 8F. Legal challenge — amparo / suspension (act fast; get current advice)
-
-```
-NOTE: An amparo has a SHORT deadline (generally 15 working days once you learn of
-the act). SEEK THE SUSPENSION at the same time. A 2024 judicial reform changed what
-courts can suspend — CONFIRM THE CURRENT POSITION with an environmental lawyer or a
-clinic (e.g. CEMDA) FIRST. Standing is broad (interés legítimo — you need not prove
-the environmental damage to sue).
-
-[AMPARO PETITION — heading and form as advised by counsel]
-[Date]
-
-Complainant(s): [affected persons / community / registered association — interés
-legítimo], [address].
-Responsible authority: [SEMARNAT / the state authority] and its act: [the
-environmental-impact authorization [ref], dated [date]].
-
-1. The right violated: the right to a healthy environment (Art. 4); [and the right
-   to prior consultation of the Indigenous people (Art. 2 / ILO 169)].
-2. Grounds:
-   Ground 1 — [missing/defective prior consultation].
-   Ground 2 — [misleading MIA / missing required study].
-   Ground 3 — [threat to the water system / protected area; precautionary principle;
-   non-regression].
-3. SUSPENSION requested to halt works while the case is decided.
-
-[Name / counsel] — [contact]
-```
-
-## 8G. Press release (effective)
-
-```
-FOR IMMEDIATE RELEASE
-
-[HEADLINE: make it NEWS, not opinion]
-[Subtitle: consequence + timeliness]
-
-[DATELINE: Place / Date]
-
-[LEAD — answer "why now?"]
-[Local organisation] released [study / information-law documents / the community's
-recorded position] today showing [specific finding] affecting [# of people /
-hectares / an Indigenous community].
-
-KEY FINDINGS
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-
-[DIRECT QUOTE — specific, from a credible voice, not a slogan]
-"[What the finding means]," said [Name, Title].
-
-[CONTEXT — why it matters; reference a documented case where relevant]
-
-[DECISION POINT — create urgency]
-[SEMARNAT / the state authority / the court] decides on [date].
-
-[CALL TO ACTION] To support or file an objection: [how].
-For more: [contact].
-
-CONTACT: [Name / Organisation / Phone / Email]
-ATTACHMENTS: full report, information-law documents, the community's recorded position, maps, Q&A
-```
-
-## 8H. Legal strategy decision tree
-See Step 4 for the full decision tree — Tracks 1-3, the amparo, the suspension, interés legítimo, prior consultation, the denuncia popular to PROFEPA, the current-position caution after the 2024 reform, and the budget branches.
-
----
+Send important communications so that receipt is provable, and log every one in your timeline — above all the assembly dates and the strict amparo and agrarian deadlines. Keep them factual, specific, and grounded in the law and the evidence; attach your documentation; and route them, where you can, through or with the affected community (following its lead), your agrarian and amparo lawyers, and your human-rights and international allies. The reply — or the silence — becomes part of your record, and in Mexico that record feeds the levers that matter most: the assembly and the agrarian court, the amparo, consulta, the environmental route, and the public — with the protection of your people woven through all of it.
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
-Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+Not everyone can run a long campaign. With a few hours a week you can still do real damage to a bad project. In rough order of impact for the effort:
 
-1. **Take part in the consulta pública and submit written objections before the deadline. Name one or two concrete grounds (water, an ejido, a protected area). It enters the record.**
-2. **Get the Manifestación de Impacto Ambiental (MIA) and quote its worst admission back to the autoridad ambiental.** The developer's own words carry the most weight.
-3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
-4. **File one transparency request** (Section 8E) — even if someone else uses it later.
-5. **Point one environmental NGO at the fight.** An environmental NGO such as CEMDA may take it from there — you hand off, you don't have to lead.
-6. **Where indigenous or ejido land is affected, ensure the community knows the timeline** — the consultation right (and an amparo) is a strong, distinct lever.
-7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+**1. Guard the assembly — first, if it's collective land.** On ejido or comunidad land, the assembly is the gate. Organise so recognised ejidatarios and comuneros attend, and document any attempt to convene a rigged or coerced meeting. No valid assembly, no valid project — the single highest-leverage move there is. Elsewhere a community can only ask a distant official to say no; on ejido or comunidad land, the community itself holds the yes-or-no, and that is a power worth defending with everything you have.
 
-Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+**2. Check for Indigenous status and consulta.** Establish whether the affected communities are entitled to **consulta previa** and whether it genuinely happened. A missing consulta is a ground the Supreme Court has used to void projects.
 
-# SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
+**3. File an amparo for a suspensión — mind the deadline.** The moment an unlawful permit, concession, or work appears, an amparo (8C) can freeze it. The deadline runs from when you learn of the act, so move fast and get legal advice.
 
-**What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because the government is pushing investment and infrastructure, because the developer's own consultant writes the impact study, or because authorizations are rarely refused. It rarely means anyone broke the law. Here is how the tilt works — and how communities win anyway.
+**4. Get the documents.** The assembly records, MIA, and water concession are obtainable through the transparency system (8B). The gap between the paper and the reality is usually the case.
 
-## Important Caveat
-This section describes patterns from documented Mexican dynamics and public policy — "priority project" backing, developer-funded **MIA** studies, rarely-refused authorizations, and projects that begin before approval. It is not a statistical claim about "X% of all decisions." Read it as: "where these patterns appear, here is what happens and what it means for opposition."
+**5. File a denuncia with PROFEPA.** A denuncia popular (8A) can trigger an inspection and even a suspension, and it costs nothing.
 
-## What This Tilt DOES (and DOESN'T DO)
-**DOES:** create financial and political incentive to approve (jobs, revenue, investment, **priority-project** status); bias information (the **MIA** is commissioned by the developer, and reads optimistically); advantage well-resourced developers; and — after the 2024 judicial reform — narrow the courts' power to grant broad **suspensions**.
-**DOESN'T:** guarantee approval; make opposition impossible; remove the right to **prior consultation**; remove the **amparo**, the **interés legítimo** doctrine, or the **precautionary** and **non-regression** principles; or prevent annulments, conditions, and delay.
+**6. Take a rigged assembly to the agrarian court.** If consent was manufactured, the Tribunal Agrario can annul it (8C) — the move that stopped La Parota.
 
-**The 2024 judicial reform, specifically.** A 2024 constitutional reform reshaped the judiciary and limited courts' power to suspend general norms, and a 2025 proposal sought to narrow the standing of environmental NGOs. The practical lesson: the **amparo** remains the central tool, and **interés legítimo** standing and the **prior-consultation** ground remain strong — but what a court can **suspend** has shifted, so get **current advice** and lead with the cleanest, most concrete ground (a missing consultation, a defective MIA, a threat to a specific water system).
+**7. Tell the story and protect your people.** A river, a community's land, a rigged assembly is a powerful story (8G); and in Mexico, build protection for exposed leaders in from the start (8H).
 
-**Analogy:** a tilted system is like playing on a pitch sloped against you. It makes winning harder, not impossible — so your strategy has to be sharper and more visible, your legal grounds cleaner, and your information paper trail solid.
+Do only the first three and you will have guarded the gate, identified your strongest ground, and — if needed — frozen the project while you regroup. Then come back and read the rest. Even the shortest version has a spine: guard the assembly, check consulta, file the amparo. Everything else in this guide amplifies those three moves. A community that does only them has already done more than most projects' opponents ever manage — and, on collective land, has often done enough to deny the project lawful ground, put the consulta question on the table, and freeze the works while a fuller fight is built.
 
-## Assessment Framework — Determine Your Situation
-**GREEN FLAG (low tilt):** an ordinary authorization with genuine scrutiny; no "priority project" label; a clear legal defect; Indigenous territory or a documented water system engaged. → 65-75% with all 5 steps. Proceed with standard opposition.
+# WHEN THE SYSTEM IS TILTED
 
-**YELLOW FLAG (moderate tilt):** strong pro-investment push and a developer-funded **MIA**, but independent evidence is possible and a legal ground (MIA, consultation, water) is arguable. → 40-45% with all 5 steps; often win conditions and delay even if not a refusal. Proceed; prioritise the consultation and MIA defects.
+Mexico's system is tilted in specific ways you must understand, so you neither waste effort nor miss the levers that still work.
 
-**RED FLAG (high tilt):** a federal **priority project**, developer-only studies, heavy political backing, and works already begun. → 25-30% to stop; 50-60% to modify/delay. Decide whether delay/conditions justify the investment; lead with the cleanest ground; build power and a record for the next round.
+## Where the Tilt Shows
 
-## Direct Action and Defender Safety: Factual Information (Descriptive, Not Prescriptive)
-When authorization and legal routes are exhausted, some Mexican communities have used non-violent direct action — marches, sit-ins (*plantones*), and blockades. This is descriptive of what has occurred, not guidance, and in Mexico it comes with a grave safety warning.
+The tilt shows first in the **assembly itself**: a determined proponent can try to **manipulate, buy, or split** the community, convening rigged meetings and manufacturing consent, exactly as the CFE did at La Parota — so the gate must be guarded, not assumed. Beyond that, the federal government pushes large infrastructure hard and has **declared major projects matters of "national security,"** an attempt to **shield them from injunctions and transparency** — a tactic deployed around the **Tren Maya** and other megaprojects, which the courts have only partly curbed. In 2021 the government issued an agreement declaring its flagship infrastructure — including the Tren Maya railway across the Yucatán and the Interoceanic Corridor — to be in the public and national interest and matters of national security, which was used to withhold information and to resist the amparos and suspensions that communities and environmental groups had obtained. The Supreme Court later struck down key parts of that attempt to place projects beyond judicial and public scrutiny, but the episode is a candid warning: for a project the State treats as strategic, expect it to reach for tools that narrow the community's normal levers, and plan to contest that framing itself. The **amparo**, though powerful, can be **slow**, and its suspensions contested. And Mexico is **one of the deadliest countries in the world for land and environmental defenders**, with criminalisation, threats, and violence a real and recurring danger — CECOP's own leaders were imprisoned and persecuted. International monitors have for years placed Mexico among the countries with the most killings of land and environmental defenders, and the tools used against them include not only violence but the courts themselves — fabricated criminal charges intended to tie up and intimidate a movement's leaders. This is not a reason to abandon the fight, but it is a reason to build protection into every decision from the first day: collective and rotating leadership, documented threats, fast links to human-rights organisations and the CNDH, and, where warranted, formal protective measures. Where this tilt bites, the formal process gives less than it should — but real levers still reach past it.
 
-**Mexico is one of the most dangerous countries in the world for environmental and land defenders — and for journalists.** International monitoring has repeatedly ranked it among the deadliest countries for people who defend land and the environment, with a high rate of killings and near-total **impunity**. The murder of **Samir Flores Soberanes** — a Náhuatl community-radio founder and land-and-water defender from Amilcingo, Morelos, shot dead outside his home on 20 February 2019, three days before a government consultation on a project he opposed, after years of threats — is a documented and infamous example; his killing remains unpunished. Defenders and journalists reporting on these conflicts face threats, attacks, criminalisation, and murder.
+## What Still Works — And Some Is Distinctive
 
-Anyone considering direct action — or even visible organising in a high-conflict area, especially over energy, mining, water, or megaprojects — should take the physical and legal risk with the utmost seriousness: don't act alone; keep actions non-violent, lawful, and well-documented; line up **legal support** in advance; keep decisions transparent and collective so a developer or armed interests cannot co-opt or split the community; and stay connected to human-rights bodies — the **National Human Rights Commission (CNDH)**, the federal **Mechanism for the Protection of Human Rights Defenders and Journalists**, and organisations such as **CEMDA** — and to the press, because visibility is a measure of protection. If you or your organisers are threatened, treat it as an emergency: report it, document it, seek protection through the Mechanism, and tell your networks. Direct action has produced delay and attention in documented cases, but on its own rarely stops a project permanently; combined with documentation, consultation, the amparo, and media, it is more consequential — and safer.
+The decisive point is that even where the system tilts, real and distinctive levers reach past it.
 
-## Honest Assessment
-Where the system is tilted, opposition using authorization and legal methods has lower odds of an outright stop — but still reliably wins annulments or conditions, forces delay (often long), imposes political cost, builds durable community power, and creates a record for the courts. And Mexico offers genuine equalisers: the **amparo** and its **suspension**; broad **interés legítimo** standing (no need to prove the damage first); the **precautionary** and **non-regression** principles; the right to **prior consultation**; and the transparency system. Neither scenario makes opposition futile.
+**Collective land cannot simply be taken.** The assembly requirement is structural: guard it, and the project has no lawful land; rig it, and the agrarian court can annul the fraud — a barrier that does not depend on the government's goodwill.
 
----
+**Consulta is enforced by the Supreme Court.** The right to prior consultation has voided projects, permits, and even laws, whatever the executive wanted.
+
+**The amparo reaches the highest court.** However a project is framed — even as "national security" — an amparo can test it against constitutional rights, and the courts have pushed back on attempts to place projects beyond judicial reach.
+
+**The record and the movement endure.** What you document powers agrarian cases and amparos over years, and an organised community — the CECOP model — outlasts a proponent betting on fatigue.
+
+**Mobilisation and international attention endure.** The tradition of campesino and community resistance, joined to national and international allies, is a force no permit can dissolve.
+
+## The Honest Frame
+
+So the honest frame for Mexico is real but demanding. Collective land and the assembly, the agrarian courts, the amparo, consulta, and a deep resistance tradition give a community genuine — in places distinctive — power, as La Parota proved. But assemblies can be manipulated, the government shields its megaprojects as "national security," the amparo is slow, and defenders face lethal danger. So diagnose the tilt honestly: guard the assembly above all, lean on the agrarian courts, the amparo, consulta, and the mobilisation, not on official goodwill; document every defect; protect your people first and always; treat a win as something to be defended, not banked — La Parota's 2012 accords held only because the community stayed organised for the fourteen more years it took to reach definitive cancellation; and think in terms of delay, conditions, exposure, and a proponent worn down as much as an outright, permanent stop. Against a State-backed megaproject, that is often what winning looks like — and it is real.
 
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
+Sometimes a project advances not despite the evidence but because someone is being improperly favoured, pressured, or paid. Undue influence changes your strategy: you stop trying to persuade a captured decision-maker and start exposing and going around them.
 
-**Municipio officials and councillors.** The most common pressure point: a municipio dependent on the project, or an official with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the administrative-responsibility law and conflict-of-interest rules — misconduct can void acts and sanction officials.
+## How to Tell
 
-**SEMARNAT, the state authority, and PROFEPA.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: an amparo or an administrative nullity challenge.
+Look for the signatures of capture. A **rigged assembly** — convened without proper notice, without quorum, with outsiders or coerced voters — is itself often the fingerprint of corruption. An **environmental authorisation granted against the evidence**, over a plainly deficient MIA; a **consulta staged** as a formality; **payments, jobs, or contracts** steered to a local power broker or a compliant assembly leader; a **water concession** granted irregularly; **conditions never enforced**; and a project **wrapped in "national security"** to escape scrutiny all point the same way. And **threats, criminalisation, or violence against the community's leaders** — tragically common in Mexico — are themselves a signature of something deeply wrong. One anomaly may be error; a pattern is capture.
 
-**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the commercial and property registries and asset declarations surface the timeline a journalist needs.
+## Who Can Be Captured — and Who Is Harder
 
-**The courts.** Mexico's amparo and its constitutional environmental right are strong levers, and courts have suspended major projects. The constraints are delay and, in places, uneven enforcement; seek the suspensión where work could start before judgment.
+Be clear-eyed about where undue influence reaches. A **local assembly leader (comisariado), a municipal official, a state authority, or a single agency** can be pressured, bought, or captured. But the Mexican system has bodies harder to reach that a captured local arrangement cannot easily control: the **Tribunales Agrarios** and the federal courts up to the **SCJN**; **PROFEPA** and the environmental authorities at the federal level; the **CNDH**; the **Auditoría Superior de la Federación**; the international human-rights system and the Escazú framework; and a vigorous national and international press. Undue influence thrives on darkness and on staying local; your task is to lift the matter out of the captured node and into the light and the higher, cleaner fora.
 
-**Federal and state politicians and priority projects.** Where a project is a stated federal or state priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
+## What to Do
 
-**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Fiscalía (for crimes), the Auditoría Superior for public money, and the internal-control organs (órganos internos de control) — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
+Do not confront and tip off the captured decision-maker. Instead, **document the anomaly precisely** — the defective assembly, the steered payments, the staged consulta, the irregular concession — and take it, with evidence, to the bodies above: the Tribunal Agrario, the federal courts through an amparo, PROFEPA, the CNDH, the auditor, and the press. Pair the referral with the assembly annulment, the amparo, and the reputational pressure, so the wrongdoing and the harm are exposed together. Exposure has its own momentum: an agrarian-court annulment or a court's attention creates a record other bodies must reckon with, and a rigged assembly proven is the collapse of the project's legal foundation. And protect yourself above all — this is life-and-death in parts of Mexico: get security and legal advice, coordinate with human-rights organisations and the CNDH, keep the work collective and visible, and never carry it alone.
 
-# INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
+# INTEGRATION & TIMELINE
 
-## Realistic 12-Month Campaign Timeline
+The five steps win when they run together. Here is how they fit across the life of a fight.
 
-**Months 1-2 — Foundation + Documentation:** identify the target and decision-maker (Step 1); begin baseline surveys, map Indigenous territory, water systems, and use (Step 2); convene the community assembly and form or partner with a registered association (Step 3); file first **information requests**, request the **public consultation**, and make first reporter contacts (Steps 4-5). *Outcome:* structure forming, the record and paper trail beginning.
+## Early (Weeks 0–8): Identify, Organise the Assembly, and Document
 
-**Months 2-3 — Public Launch:** baseline complete; community assembly + objections in the public consultation + **recorded community position** (Steps 3-4); media event (Step 5). *Outcome:* opposition visible, objections and position on the record, 3-5 stories.
+Pin down the project, the land, and the stage (Step 1), and — on collective land — **organise around the assembly** at once (Step 3). Begin the file — get the assembly records, MIA, and water concession through the transparency system (Step 2 and What to Gather). And move fast on what will not wait: **guard the assembly**, **file a denuncia with PROFEPA**, **establish the consulta right**, and, if an unlawful act has occurred, **file an amparo for a suspensión** within its deadline. Reach agrarian and amparo lawyers and human-rights organisations, and put protection for exposed leaders in place. This early phase is cheap, and it sets up everything else.
 
-**Months 3-4 — Coalition + Impact Analysis:** complete impact analysis testing the **MIA** (Step 2); expand the coalition and bring in a law group/clinic and (on Indigenous land) an Indigenous organisation (Step 3); prepare the **amparo** grounds — with current advice on the suspension (Step 4); data-release press event (Step 5). *Outcome:* broad coalition, legal grounds identified, coverage expanding.
+## Middle (Months 2–36): Escalate on Every Front
 
-**Months 4-6 — Expansion + Health Data:** health/livelihood report (Step 2); sustained marches (Step 3); the authorization decision (Step 4); expert press events (Step 5). *Outcome:* possible refusal or strict conditions, quantified impacts, regional media.
+Grow the movement and coalition (Step 3). Turn your evidence into arguments for each audience (Turning Evidence). Escalate as the facts warrant — annul a rigged assembly in the **Tribunal Agrario**, press the **amparo** and its suspensión, bring the **consulta** claim, and challenge the **MIA** and the **water concession** (Step 4). Refer any capture to the courts, PROFEPA, the CNDH, and the auditor. Press the financiers and contractors (8E). Build the media drumbeat from local to national to international (Step 5). Each front feeds the others. Do the cheap, time-sensitive things first, because a lost assembly or a lapsed amparo deadline cannot be recovered. And sequence the moves with your lawyers and the community so they land when they bite hardest — the assembly guarded before the vote, the provisional suspension sought the moment an unlawful act appears, the consulta claim led by the affected community, the agrarian annulment pressed on the fullest proof of fraud — because in the Mexican system a single well-timed move can matter more than a stronger argument made too late.
 
-**Months 6-9 — Escalation + Amparo:** marches escalating (Step 3); file the **amparo** and seek the **suspension** (Step 4); ongoing monthly media (Step 5). *Outcome:* sustained pressure, case live, works possibly halted.
+## Later (Months 6 to years): Sustain, Win the Line, and Redefine the Win
 
-**Months 9-12 — Peak Pressure + Positioning:** maintain opposition (Step 3); hearings / positioning, and watch for a **re-granted authorization** after any suspension (Step 4); media momentum (Step 5). *Outcome:* authorization + opposition + media + law compound; annulment, conditions, or the project shelved.
+Sustain the movement against burnout; protect your people; keep the record and the coverage alive. Pursue the durable prizes — a **project blocked at the assembly**, a **rigged assembly annulled**, a **permit or work frozen by amparo**, a **project voided for want of consulta**, a **cancellation**. And judge success honestly. Sometimes it is an outright stop — a dam cancelled, a river saved, as La Parota finally was. More often, against a determined State, it is a project **delayed for years, shrunk, conditioned, or so exposed and legally besieged that it is abandoned**. That is not a lesser victory. It is what winning usually looks like — and remember that La Parota's decisive halt in 2012 became a definitive cancellation only in 2026, because the community never stopped.
 
-## Key Principles (What Separates Winning Campaigns from Losing Ones)
-1. **Specificity** — "the MIA never assessed the cenotes the town depends on," not "we oppose the project."
-2. **Multi-tactic pressure** — objections + recorded position + consultation + opposition + media + amparo, together.
-3. **Long-term organising** — sustain 12+ months; prevent burnout; keep people safe.
-4. **Documentation first** — build the evidence (including who lives there and the water systems), then object and litigate on it.
-5. **Coalition building** — 5-10 diverse groups; respect Indigenous communities' and *ejidos'* own processes and guard against co-option.
-6. **Use the amparo, interés legítimo, and prior consultation** — the constitutional suit, broad standing, and the consultation right are distinctively strong Mexican levers.
-7. **Act fast and seek the suspension** — the amparo deadline is short; get current advice post-2024 reform.
-8. **Realistic expectations** — expect conditions/modifications/delay; a refusal or annulment is the bonus; expect works-ahead-of-permits and possible re-granting.
-9. **Persistence and safety** — plan for 12-24 months, keep momentum, and protect organisers and whistleblowers — the danger here is real.
+## The Shape of a Campaign
 
-## Warning Signs — Act Early
-Watch for these and respond fast: attendance declining around months 4-5 (burnout); coalition members leaving or being co-opted; no media coverage for 2-3 months; the case stalling or an authorization re-granted after a suspension; fundraising below half your target by month 6; a core organiser leaving without a successor; **threats, criminalisation, or intimidation** against organisers (treat as a safety emergency — see Section 9); or someone new pushing illegal or reckless tactics. Each has a fix earlier in this guide — catch it early and the campaign holds.
+```
+WEEKS 0-8      Identify | Organise the assembly | Document | Denuncia to PROFEPA | Amparo if needed | Protect leaders
+MONTHS 2-36    Grow the movement | Arguments | Agrarian court + amparo + consulta + MIA/water | Financiers | Media
+MONTHS/YEARS   Sustain | Protect people | Win the annulment / suspensión / cancellation | Defend the win | Redefine it
+```
 
----
+# FINAL ASSESSMENT
 
-# FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
+Mexico gives communities a genuinely powerful — and, in places, distinctive — set of tools, and the honest measure of this guide is how squarely it faces both their strength and their limits.
 
-## Real Outcomes: What Winning Looks Like
-- **Authorization refused / project shelved** (rarer): usually needs overwhelming opposition + a strong MIA or consultation case + heavy media + lower tilt. Homún (the farm halted for years by a suspension) shows it happens — and also shows a win can be re-fought.
-- **Authorization modified** (most common victory): strict conditions, genuine remediation and relocation, buffers, independent monitoring, redesign — often via the authority or a court.
-- **Delay / attrition:** halted for years while the amparo runs; costs mount and financiers lose confidence; the developer sometimes walks away.
-- **Defeat:** the project proceeds (sometimes after a re-granted authorization or a cured defect). Focus then shifts to enforcing conditions and remediation, monitoring compliance, and the next opening.
+The strengths are real and distinctive. On the roughly half of Mexico that is **social property**, a project needs the **assembly's** consent — a gate the community controls, and, if it is rigged, one the **agrarian courts** will void, as they did at La Parota. Over everything sits the **amparo**, whose **suspensión** can freeze an unlawful permit, concession, or work while the case is fought, up to the **Suprema Corte**. Where Indigenous or equivalent communities are affected, **consulta previa** — enforced by that Court, which has voided projects, permits, and laws — is among the strongest grounds anywhere. And the environmental route (the **MIA** challenge, the **PROFEPA** denuncia) and a **deep resistance tradition** complete the arsenal.
 
-## Decision Point: Continue, Modify, or Reassess
-**Continue** if the legal grounds are live, the consultation and information record is strong, opposition is holding or growing, media is at least monthly, the coalition is stable, and organisers are safe.
-**Modify** if attendance is falling, coverage has dropped for 2+ months, coalition members are leaving, the legal position has weakened, or you discover the system is more tilted than assessed.
-**Reassess** if, after ~12 months (and perhaps an amparo) authorization and legal options are exhausted, the decision looks settled despite real effort, the community is exhausted, or resources are gone — or if the personal or legal risk to organisers has become unacceptable. Ask: has opposition already won partial victory (conditions, remediation, delay)? Would more effort win more, or just prolong the fight? Should energy shift to enforcing conditions, to the next project, or to changing the policy?
+The limits are just as real. Assemblies can be manipulated; the government shields its megaprojects as "national security"; the amparo is slow; and Mexico is one of the most dangerous places on Earth to defend land and rivers. No guide should pretend otherwise. La Parota took twenty-three years, and its 2012 halt held only because the community stayed organised until the definitive cancellation in 2026; that endurance is the condition of this fight, not its exception.
 
----
+So the realistic promise is this: **guard the assembly above all, take any rigged approval to the agrarian court, file an amparo for a suspensión, demand and enforce consulta, challenge the MIA and the water, mobilise the public, and protect your people first — and run all of it together, following the affected community's lead.** Do that, and even against a State-backed megaproject you can force delay, conditions, exposure, an annulled assembly, a frozen permit, a voided authorisation, and a proponent worn down — and, in the end, an outright stop. Do it as CECOP did, owning its land in common, guarding its assemblies, and holding for twenty-three years, and you can win a victory that protects not only your own river but sets a precedent others will stand on.
 
-## The Bottom Line
+A last word on endurance. These fights are won in years — sometimes decades — not weeks, and the proponent is counting on your exhaustion, and, in Mexico, sometimes on your fear. Its advantage is money, patience, and power; yours is legitimacy, the land you hold in common and govern through your own assembly, the amparo, the right to be consulted, and the plain fact that you are defending your home and your river while it is merely pursuing a return. Play to that. Keep the file, keep the assembly, keep the movement, keep the record and the coverage alive, protect your people, and treat every delay, every annulled assembly, every suspensión, every disclosed document, and every headline as a brick in a wall that grows too high and too costly for the project to climb.
 
-Opposition work can stop or significantly modify destructive projects in Mexico — even where investment, resource revenue, and "priority project" politics point toward approval. Opposition creates multiple, compounding forms of pressure: on the record, politically, in the press, and in the courts. Where the system is tilted, an outright stop is less likely, but opposition still delivers annulments, conditions, remediation, delay, and durable power.
-
-And Mexico offers genuine equalisers: the **amparo** and its **suspensión**, which can halt a project while a court decides — as at **Homún**; broad **interés legítimo** standing, so a community can sue without first proving the damage; the **precautionary** and **non-regression** principles; the right of **Indigenous peoples** to **prior consultation**; and the transparency system that prises the file open. When a project truly cannot lawfully proceed, a court can halt or annul it — remembering that such a win must then be defended.
-
-Know your situation. Assess how tilted the system is, honestly, and get current advice on what a court can suspend today. Watch for genuine corruption and refer it to the integrity bodies. Keep organisers and whistleblowers safe — the danger here is real. Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers.
-
----
+The tools are here, and La Parota proves they work: a mega-dam that would have drowned a valley and displaced twenty-five thousand people was stopped and, at last, cancelled, because a community owned its land in common, refused to let its assembly be stolen, and held the line for twenty-three years. What decides the outcome is method, endurance, and courage — and those you supply. Begin today, begin cheaply, and build from there. Communities before you have stopped what looked unstoppable — a mega-dam cancelled after twenty-three years, an assembly defended against every attempt to steal it, a river left to run free. The tools are here, and the strongest of them — the land held in common and the amparo — rest in the community's own hands; what has ever been missing in the fights that were lost was not the law but the organisation, the endurance, and the protection to use it. So can yours.

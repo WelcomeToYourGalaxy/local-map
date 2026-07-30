@@ -1,757 +1,458 @@
-
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN ARGENTINA
 
-A practical, honest, step-by-step guide for residents, assemblies and organisations facing a mine, dam, fracking pad, factory, waste site, port, highway or real-estate mega-project that threatens their health, land or water.
-
-This guide is grounded in Argentine law and real Argentine campaigns. It does not promise victory. It sets out what has actually worked, what the legal tools really do, where the system leans toward approval, and how to tell an ordinary loss apart from genuine corruption.
-
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
-
-## TABLE OF CONTENTS
-
-1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
-2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
-3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
-5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
-7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
-8. **STEP 4: LEGAL CHALLENGES** — Participation, the amparo ambiental, and the courts
-9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
-10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
-11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
-13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
-14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
-15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
-
----
+*Complete Community Opposition How-To*
 
 # INTRODUCTION & FRAMEWORK
 
-## Why This Matters
+Community action decides project outcomes in Argentina. The country's most famous environmental victory did not come from a court or a minister — it came from a small Patagonian town that organised, informed itself, and voted. On 23 March 2003, the people of **Esquel**, in Chubut, held a plebiscite on the Canadian company Meridian Gold's plan to open a cyanide-leach gold mine six kilometres from the city. **Eighty-one per cent voted "No a la Mina."** The town council declared Esquel a non-toxic municipality, and within months the provincial legislature passed **Law 5001**, banning open-pit metal mining with cyanide across all of Chubut — the first such law in Argentina. A community with no money and no power stopped a multinational's mine and changed provincial law, and it did so by organising in neighbourhood assemblies, walking door to door, and refusing to be told the decision had already been made.
 
-Across Argentina, the same story repeats: an open-pit mine above a town's water supply, a fracking pad in Vaca Muerta, a lithium project on the salt flats of the Puna, a soy frontier eating into native forest, a riverside neighbourhood poisoned by tanneries, a wetland drained for gated developments. The people who live there almost never hear about it early, and by the time the bulldozers are visible the decision feels sealed.
+Esquel was not a one-off. It birthed a movement — the socio-environmental assemblies (*asambleas*) that spread across the Andean provinces and joined into the national **Unión de Asambleas Ciudadanas**, a network of a hundred communities that give each other strength. And it showed the pattern that wins in Argentina: inform the community, organise it into assemblies that last, use every legal and political lever, and make the fight impossible to ignore. When, in December 2021, the Chubut legislature tried to gut Law 5001 with a mining "zonification," the province erupted; after days of mass protest — the "**Chubutazo**" — the legislature repealed its own law within days. The threat never fully leaves, but neither does the power that beat it.
 
-It usually is not. Argentina has, on paper, one of the stronger environmental-rights frameworks in Latin America — a constitutional right to a healthy environment, a duty on polluters to *restore* what they damage, and a fast constitutional remedy (the **amparo**) that almost anyone can file. Communities have used these tools to stop cyanide gold mines, to force the clean-up of the country's most polluted river, and to hold megaprojects in court for years until they collapsed. None of it happened automatically. It happened because residents organised early, documented carefully, and used the specific legal doors the system leaves open.
+Most communities, though, do not know HOW to make opposition effective. They attend one hearing and go home. They assume the province "will approve it anyway," and so they never file an amparo, never demand the environmental study, never build the assembly and the public pressure that change a decision. They generate a burst of outrage without a plan to sustain it. They gather a crowd and lose it to exhaustion. The gap between a community that stops a project and one that watches it get built is rarely courage or numbers. It is method.
 
-This guide exists because those doors are hard to find when you are frightened, tired and new to all of it. It lays them out plainly.
+**This guide shows what actually works — inside the Argentine system.**
 
 ## The Strategic Framework
 
-Winning campaigns in Argentina almost always combine five things. No single one is enough; the combination is what holds.
+Effective opposition campaigns follow the same underlying pattern, whichever project they face:
 
-1. **Target identification** — Know exactly what is being decided, by which level of government, under which law, and by what date. Argentine environmental power is split between the **Nación** (national government), 23 **provinces** plus the City of Buenos Aires, and municipalities. Getting this wrong wastes months.
-2. **Documentation** — Build an evidence record so solid that approving the project becomes legally risky. In Argentina the record you create during **participación ciudadana** (citizen participation) and the **audiencia pública** (public hearing) is not just protest; it becomes part of the file a judge later reads.
-3. **Local opposition** — Organise a durable base. Argentina's tradition of neighbourhood **asambleas** (citizen assemblies) is one of the most powerful community forms in the hemisphere; the anti-mining assemblies that stopped projects in Esquel, Famatina and Andalgalá began exactly this way.
-4. **Legal challenges** — Use the **amparo ambiental**, the collective-damage action, and the **precautionary principle** to force pauses, disclosure and, sometimes, cancellation.
-5. **Media strategy** — Make the fight visible and legible, so decision-makers pay a political price for approval.
+```
+STEP 1: TARGET IDENTIFICATION  (find the decision and its weak point)
+        |
+STEP 2: DOCUMENTATION          (build proof of harm and of every defect)
+        |
+STEP 3: LOCAL OPPOSITION        (organise assemblies that last)
+        |
+STEP 4: LEGAL CHALLENGES        (amparo, precautionary principle, provincial bans)
+        |
+STEP 5: MEDIA STRATEGY         (make the fight visible and impossible to ignore)
+```
 
-The distinctive lever in Argentina — the thing that gives this system its particular character — is the combination of **Article 41 of the Constitution** and the **Ley General del Ambiente** (General Environmental Law No. 25.675). Article 41 gives every inhabitant a right to a healthy, balanced environment and says that environmental damage "will primarily generate the obligation to **restore**" (*recomponer*). The General Environmental Law then hands almost anyone the standing to enforce that: the affected person, the **Defensor del Pueblo** (Ombudsman), environmental NGOs, and the State itself can sue over **collective environmental damage**, and *any* person may file an **amparo** to make a harmful activity stop. That breadth of access — not a specialised agency, but an open courthouse door — is the spine of this guide.
+These steps operate **simultaneously, not in sequence**. Documentation feeds the legal case and the media story at once; the assembly sustains the pressure the courts and politicians respond to; a lawsuit is a headline and a headline strengthens a lawsuit. The community that runs all five together, each reinforcing the others, is the one that wins. Esquel did exactly this — it informed itself with independent experts, organised assemblies, pursued the plebiscite and the law, and made its fight a national and international story, all at once.
 
-## Critical Caveat: A Tilted System Can Make Opposition Harder (But Doesn't Make It Impossible)
+## The Levers That Are Distinctly Strong Here
 
-Be clear-eyed. The same country with these strong tools also owns its resources at the provincial level, and many provinces depend on mining, oil and gas royalties to pay salaries — so provincial governments frequently *want* the project. The environmental study is usually written by consultants the company pays. The public hearing is mandatory but its result is **not binding**. Since 2024, the national **Régimen de Incentivo para las Grandes Inversiones (RIGI)** offers thirty years of tax, customs and regulatory stability to large investments, which critics say shields extractive projects from later community and legal challenge. The national environment authority has been downgraded from a ministry to a sub-secretariat, and in 2026 Congress narrowed the **Glacier Law**'s protections.
+Every country's system has its own pressure points. Argentina's give communities a distinctive set:
 
-None of this means you lose. It means you should expect the system to lean toward "yes," plan for a longer fight, and lean hardest on the tools that are *hardest* for officials to ignore — the mandatory hearing record, the precautionary principle, and the courts. Section 10 explains this tilt in honest detail; Section 11 explains how to tell it apart from outright corruption.
+- **The citizens' assembly.** Argentina has a real, living tradition of *asambleas socioambientales* — self-organised neighbourhood assemblies that carry a fight for years and link nationally through the UAC. This is an organising lever few countries can match, and it is how Esquel and dozens of towns since have won.
+- **Provincial power over resources.** The Constitution (Article 124) gives the provinces original ownership of their natural resources, which means a **province can ban a whole class of mining** — as Chubut, Mendoza, and others have. A community that cannot beat a single project can sometimes win a provincial law that stops all of them.
+- **The amparo ambiental.** Article 43 of the Constitution and the General Environmental Law give anyone a fast action to stop environmental harm, with broad standing — the affected, environmental associations, and the Ombudsman can all bring it.
+- **The precautionary principle in statute.** The General Environmental Law (25.675) writes the precautionary principle into national law: where grave or irreversible harm threatens, the lack of scientific certainty is no excuse for inaction — and the Supreme Court has used it to suspend permits.
+- **Direct democracy.** Plebiscites, popular consultations, and popular-initiative laws let citizens decide or propose directly — the tools that gave Esquel its result.
+- **Public hearings and glaciers.** The mandatory public hearing (*audiencia pública*) in environmental assessment is a real entry point, and the national Glacier Law bars mining on glaciers and periglacial areas — a hard line across the cordillera.
 
----
+## What This Guide Will Not Pretend
 
-# HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
+It would be dishonest to promise these levers always prevail. Argentine federalism cuts both ways: a province that wants a project — and several live off mining, oil, and now lithium — can push it as hard as Chubut resisted one. Provincial bans are fragile; Law 5001 itself contains a loophole its authors have fought off attackers over for twenty years, and the national and several provincial governments today actively promote extraction. Enforcement is uneven, public hearings are often non-binding, and Indigenous consultation is too frequently a formality. Protesters have faced repression in mining towns like Andalgalá and Famatina. This guide takes those facts seriously, names them plainly, and shows you how to win anyway — and, where an outright, permanent stop is not realistic, how to secure the delay, the exposure, the provincial line held, and the worn-down proponent that, in a hard fight, are what winning actually looks like.
 
-Before the steps, a plain-language primer. If you understand this section, you are ahead of most people who walk into this fight.
+# HOW THE SYSTEM WORKS
 
-## The levels of government — and what each one controls
+You cannot pull a lever you cannot see. Before you spend a single afternoon, map who actually decides your project's fate, at which level, and where along that path the decision is weakest.
 
-Argentina is a **federal** country, and this is the single most important thing to grasp. The Constitution (Article 124) says the provinces own the natural resources in their territory. That means:
+## The Levels of Decision
 
-- **The province** (or the City of Buenos Aires) is usually the authority that approves a mine, a provincial road, an industrial plant, a forest-clearing permit or a real-estate development. Each province has its own environmental agency, its own environmental law, and its own **Evaluación de Impacto Ambiental** (Environmental Impact Assessment) procedure. Provincial power is where most of these fights are won or lost.
-- **The Nación** (national government) sets **presupuestos mínimos** — nationwide *minimum* environmental standards that provinces cannot fall below (the General Environmental Law, the Forest Law, the Glacier Law, the Water Law and others). It also decides matters that cross provincial borders or involve federal jurisdiction (interjurisdictional rivers, national parks, projects with national funding, nuclear and large energy works). A national floor plus provincial detail is the pattern.
-- **The municipality** controls land use, zoning and local permits, and can often be a decisive ally or obstacle — a municipal ordinance or a local **consulta popular** (binding or non-binding local referendum) has stopped projects on its own.
+An Argentine development project runs a gauntlet of approvals, and each is a place to intervene.
 
-Practical rule: identify *which* level holds the pen on your project before you do anything else. A brilliant campaign aimed at the wrong government achieves nothing.
+**Provincial.** This is the decisive level for most extractive and land-use projects. Because the provinces own their natural resources, it is the **provincial authorities** — the mining or environment secretariat — that grant the concession, approve the environmental-impact study (*Estudio de Impacto Ambiental*), and issue the environmental authorisation. It is also the provincial **legislature** that can pass — or repeal — a mining ban. The province is where Esquel's fight was won and is repeatedly refought.
 
-## The expert and decision bodies
+**Municipal.** The **municipality** controls land use, local permits, and its own ordinances, and can declare itself non-toxic, call a local plebiscite, or refuse a permit — as Esquel's council did. The municipal level is close, responsive, and often where a campaign first bites.
 
-- **Provincial environmental authorities** — the secretariat or ministry of environment in your province; they run the EIA and issue the final approval (often called a **Declaración de Impacto Ambiental**, DIA).
-- **The national environment authority** — currently a sub-secretariat within a larger ministry; it handles federal-jurisdiction matters, the native-forest and glacier regimes, and national policy. Its downgrading is itself a signal of the current tilt.
-- **ACUMAR** — the tri-jurisdictional basin authority created to clean up the Matanza-Riachuelo river after the Supreme Court's *Mendoza* ruling; a model for how a court can build an enforcement body.
-- **IANIGLA** — the state glaciology institute that compiles the **National Glacier Inventory** used to decide where mining is barred.
-- **Chubutazo** — the week of mass protest in Chubut in December 2021 that forced the repeal of a law which would have opened the province to mining; a landmark defence of an existing provincial ban.
-- **COFEMA** — the Federal Environmental Council, where the Nación and provinces coordinate policy.
-- **The Ministerio Público Fiscal** (public prosecutors), including specialised environmental units, which can bring criminal or public-interest actions.
-- **The Defensor del Pueblo** (Ombudsman), who has explicit standing to sue over collective environmental damage — but note honestly that the *national* Ombudsman post has sat vacant for years, a real gap; some provinces have their own functioning ombudsmen.
+**National.** The Nation sets the "minimum environmental standards" (*presupuestos mínimos*) that all provinces must meet — the General Environmental Law, the Glacier Law, the native-forests law, the environmental-information law — and runs federal permitting for some projects and cross-provincial matters. National law is a floor the province cannot go below, and a lever when a province tries.
 
-## How a decision is actually made — the permit journey
+**Indigenous territories.** Cutting across these: where a project affects an **Indigenous people's territory**, their right to prior, free, and informed consultation applies, under ILO Convention 169 (Argentine law 24.071) and Article 75(17) of the Constitution — a right that, at Esquel, began with a Mapuche community's denunciation of intrusion onto its land.
 
-For most projects the path looks like this:
+## The Journey of a Project
 
-1. The proponent files a project and an **Estudio de Impacto Ambiental** (EsIA) — the technical impact study, prepared by consultants the company hires.
-2. The authority reviews it and (for projects that qualify) opens **participación ciudadana** and calls an **audiencia pública** — a mandatory public hearing where anyone can speak and submit written observations.
-3. The authority weighs the study, the observations and its own technical review, then issues (or refuses) the environmental approval — the DIA.
-4. Construction and operating permits follow.
+A typical project moves from concession, to an environmental-impact study, to a **public hearing (audiencia pública)**, to the environmental authorisation and its conditions, through any required consultation, to local land-use and water permits, and only then to construction. **Every one of those stages is a door you can put your foot in.** The earliest doors are the cheapest and widest: an objection to the study, a demand that it address a risk it ignored, evidence entered at the public hearing. The later doors — an amparo against the authorisation, a push for a provincial ban, a plebiscite — are more demanding but real, and communities walk through them and win. Find out exactly where your project stands on this path today; that tells you which door is open now.
 
-Two things matter enormously here. First, the hearing is **mandatory but non-binding** — skipping it, or holding it as a sham, is a serious legal defect you can attack; but a well-run hearing that goes against you does not by itself stop the project. Second, everything filed in participation becomes part of the **administrative file** (*expediente*), which a judge can later examine. Your written observations are evidence.
+## Follow the Money and the Province
 
-A practical note on *which* projects trigger a full assessment and hearing: each province lists the activities that require an Environmental Impact Assessment — typically mining, hydrocarbons, large infrastructure, industrial plants, waste facilities, forest clearing above a threshold, and sizeable developments. Smaller works may face only a lighter procedure or none. Two things follow. First, check your province's list early: if the project legally *requires* an EIA and a hearing and the proponent is trying to avoid one (by splitting a big project into small pieces, a tactic called "salami-slicing," or by mis-categorising it), that evasion is itself a strong legal challenge. Second, if the project is below the threshold that guarantees a hearing, you may have to *demand* participation actively rather than wait for it — and the Escazú Agreement's participation guarantees strengthen that demand.
+Behind the permits stand a proponent, its financiers, its buyers, and the provincial officials who signed off. A mining firm is often the subsidiary of a listed foreign company — Meridian, at Esquel, was Canadian, and the project later passed to Yamana — answerable to shareholders, lenders, and markets a reputational blow can reach. Trace who owns the proponent, who funds it, who buys its output, and which officials and which province granted its permits. Two questions unlock most Argentine fights: **Did the province follow its own and the national rules — the study, the hearing, the standards?** and **Who in the province benefits from pretending it did?** Mapping the chain also tells you where the project is vulnerable that the province is not: a listed parent answers to a stock exchange and to lenders with environmental and social standards; a buyer with a public reputation does not want to be named alongside a contested mine; a financier can be asked, in writing and in the press, whether it knew the process was defective. These are pressure points a hostile provincial official does not control.
 
-## The rulebook — the laws that decide the outcome
+## The Overseers
 
-- **Constitution, Article 41** — the right to a healthy environment and the polluter's duty to *restore*.
-- **Constitution, Article 43** — the **amparo**, a fast constitutional action against acts that harm rights, including collective rights like the environment.
-- **General Environmental Law No. 25.675 (LGA)** — the master statute: it codifies the **precautionary principle** and prevention principle, defines **collective environmental damage**, sets who may sue, requires EIA and public participation, and mandates environmental insurance for risky activities.
-- **Sectoral minimum-standard laws** — Native **Forest Law No. 26.331**, **Glacier Law No. 26.639** (narrowed by Law No. 27.804 in 2026), the Water Law, the industrial-waste law and others.
-- **Provincial environmental codes** — each province's own EIA rules and, in some, mining bans (several provinces prohibit open-pit metal mining with cyanide).
-- **Mining Investment Law No. 24.196** and the Mining Code — the incentive framework that makes mining attractive, and, since 2024, the **RIGI**.
-- **The Escazú Agreement (Law No. 27.566)** — the regional treaty guaranteeing access to environmental information, participation and justice, and protection of environmental defenders, including a **non-regression** principle that rollbacks cannot legally reduce existing protection.
+Finally, know the bodies that watch the deciders, because they are levers too. The **Defensor del Pueblo** (national and provincial) can bring an environmental amparo in its own right and defends affected communities. The courts — provincial, federal, and ultimately the **Supreme Court (CSJN)**, which has ordered basin-wide cleanups and suspended permits on precautionary grounds — enforce the Constitution and the environmental laws. The **Auditoría** bodies check public money. And the **Escazú Agreement**, which Argentina ratified and made binding, obliges the State to guarantee environmental information, participation, and justice, and to protect defenders. Argentina ratified Escazú through Law 27.566, making it binding domestic law; it is the first international treaty in the world with specific provisions to protect environmental human-rights defenders, and for a community whose leaders face threats that protection is not abstract — it is a standard the State can be held to, and a frame that draws international eyes to any reprisal. Each overseer is a separate front, reachable with the same evidence, and a project rarely survives pressure on several at once. The national and provincial audit bodies (the *Auditoría*) can examine how public money and public decisions were handled around a project, and their findings carry official weight; the prosecutorial bodies can open inquiries where the facts suggest wrongdoing. You do not have to choose one door — the same documented file can be sent to the courts, the Ombudsman, the auditors, and the press together, and each that acts makes the others harder to ignore.
 
-## Follow the money — why the system often leans toward "yes"
+# QUICK REFERENCE: SUCCESS RATES
 
-Provinces own the resource and collect the royalties, so a mine or oilfield can be a province's largest revenue source — which aligns the very government that regulates the project with the project's success. National policy since 2023 has prioritised extraction (lithium, copper, shale oil and gas in Vaca Muerta) as a source of dollars, and the RIGI locks in incentives for decades. Understanding this is not cynicism; it tells you *why* the technical process can feel pre-decided, and *where* to apply pressure — the political and legal costs of approval, not the merits alone.
-
-## The overseers — who watches the decision-makers
-
-The **courts** (provincial, federal, and the **Corte Suprema de Justicia de la Nación**, CSJN) are the strongest overseers, because the amparo gives fast access to them. The **Ministerio Público Fiscal** can investigate. The **Auditoría General de la Nación** and provincial audit courts review public spending. The **Agencia de Acceso a la Información Pública** enforces the freedom-of-information law. The **Oficina Anticorrupción** handles official misconduct. And civil society — the assemblies, FARN, Greenpeace, university law clinics — functions as a de facto overseer, patrolling, documenting and litigating.
-
----
-
-# QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
-
-These figures are **directional estimates**, not published statistics. They reflect patterns seen across Argentine campaigns, and are here to help you allocate scarce time and money — not to promise an outcome.
+Before you commit months of effort, calibrate honestly. These figures are **directional, not guarantees** — patterns drawn from how Argentine and comparable campaigns tend to go, not a controlled study. The decisive variables are whether your province is hostile or persuadable, whether a provincial ban is within reach, whether the environmental study and hearing have real defects, whether glaciers or an Indigenous territory are involved, and whether the public can be mobilised and the world made to watch. Where the province is winnable and the community organises, Argentina's levers are strong; where a pro-mining province champions the project, discount the figures and think in terms of the provincial line held, delay, exposure, and outside pressure. Use the table to plan, not to predict: it tells you which combinations of levers have historically done the most work, and where to put your scarce time first. The single most important reading of it is that no row on its own is as strong as the rows run together — the community that documents, organises, litigates, and publicises at once consistently outperforms the one that pins its hopes on any single move.
 
 ## Individual Step Success Rates
 
 | Approach | Success Rate | Timeline | Cost | What "Success" Means |
 |----------|--------------|----------|------|----------------------|
-| **Documentation only** | 10–20% | 1–3 months | low | Foundation for every other step |
-| **Local opposition / assembly only** | 20–35% | 3–18 months | low | Political cost; plateaus alone |
-| **Amparo / legal challenge only** | 25–45% | 3–24 months | low–moderate | Pause or cancellation on procedural or precautionary grounds |
-| **Media only** | 10–20% | ongoing | low | Shifts politics; does not decide permits |
-| **Citizen participation (substantive observations)** | ~30% | during review | low | Unanswered observations = a reviewable defect |
-| **Consulta popular / provincial legislation** | 30–55% | 6–36 months | low–moderate | Local vote or provincial ban (e.g. Esquel, Chubut) |
-| **All steps combined** | 40–60% | 12–36 months | low–moderate | Stopped, banned, redesigned, or delayed |
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Objection + public hearing (audiencia pública)** | 15–35% | during review | low | On record; conditions or a redo |
+| **Amparo ambiental (courts)** | 30–50% | 6–30 months | low–moderate | Activity suspended; authorisation reviewed |
+| **Precautionary measure (medida cautelar)** | 30–50% | weeks–months | low–moderate | Project frozen while the case runs |
+| **Municipal action (ordinance / non-toxic declaration)** | 25–45% | 3–18 months | low | Local block; political weight |
+| **Provincial ban / law** | 20–45% | 12–48 months | moderate | Whole class of mining prohibited |
+| **Plebiscite / popular consultation** | 25–50% | 12–36 months | moderate | Binding or decisive local verdict |
+| **Indigenous consultation (ILO 169)** | 25–50% | ongoing | low | No lawful process; project stalled |
+| **Glacier Law / protected-area defence** | 30–50% | 6–30 months | low–moderate | Project barred from closed ground |
+| **Defensor del Pueblo / CSJN route** | 20–45% | 12–48 months | low | Findings; suspension; precedent |
+| **International attention / financier pressure** | 25–50% | 6–48 months | low | Reputational pressure; proponent falters |
+| **All steps combined (persuadable province)** | 45–65% | 12–36 months | low–moderate | Stalled, delayed, banned, or forced to change |
+| **All steps combined (pro-mining province)** | 25–45% | 12–48 months | low–moderate | Delayed, exposed, conditioned; sometimes stopped |
 
-**Key insight:** all steps together beat any single one, and Argentina's real strengths are the **amparo** (which can win a pause or cancellation on procedural or precautionary grounds), the **provincial consulta popular and legislation** (the route that produced provincial mining bans), **substantive citizen observations** that create reviewable defects, and the **federal structure** that lets a fight be won province by province. Its constraint is that **courts are reluctant to substitute their judgment for the agency's on the merits**, so the procedural and precautionary grounds matter most.
+**Key insight:** every step together beats any single one, and Argentina's real strengths are distinctive — a living **assembly movement** with a national network, **provinces that can ban a whole class of mining**, the fast **amparo ambiental** with broad standing, a **precautionary principle** written into national law and used by the Supreme Court, **direct-democracy tools** that gave Esquel its win, a mandatory **public hearing**, a **Glacier Law** that closes the high cordillera, and a **free, combative press**. Its constraints are a **federalism that lets pro-extraction provinces push hard**, **fragile provincial bans**, **often non-binding hearings**, **weak enforcement**, and **repression in some mining towns**.
+
+*A note on cost: informing the community, documenting, organising assemblies, and filing an amparo are inexpensive, and public-interest lawyers, the assemblies' own networks, and the Ombudsman have carried community cases. A provincial ban or a plebiscite is more demanding, needing a sustained province-wide campaign. The expenditure that most changes outcomes is committed **legal support** and the reach of the **media and assembly campaign** — exactly what Esquel marshalled.*
 
 ## Effectiveness Visualization
 
-Think of it as a chain, not a menu:
+```
+SUCCESS PROBABILITY (stalled, delayed, banned, forced to change, or stopped)
 
-- Documentation + Opposition → the project becomes politically costly.
-- Documentation + Legal → the project becomes legally risky.
-- Opposition + Media → the project becomes visible and contested.
-- **All five together → the strongest position, historically associated with the wins that actually held.**
+PERSUADABLE PROVINCE -- winnable politics, real defects, community organised:
+All steps combined:          █████████████   45-65%
+Amparo + precautionary:      ████████████    30-50%
+Provincial ban / plebiscite: ████████████    the decisive local levers
+Glacier / protected ground:  ████████████    30-50%
+Single step:                 ██              5-50%
 
-The Esquel anti-mining campaign (Chubut, 2003) combined all five: documentation of the water risk, a mass assembly, a local **consulta popular** in which about 81% voted "No," relentless local media, and legal/legislative follow-through that produced a provincial ban. That is the template.
+PRO-MINING PROVINCE -- province champions it, enforcement weak:
+All steps combined:          █████████       25-45%
+Assembly + amparo + exposure:███████████     the strongest combination
+Delay / hearing defect:      ████████████    more achievable than an outright stop
+Single step:                 ██              5-35%
+```
+
+**How to read this honestly.** The levers that most change outcomes in Argentina are **the organised assembly and the provincial ban**, reinforced by the amparo, the precautionary principle, direct democracy, the Glacier Law, and public and international pressure. Esquel shows the ceiling: an informed, organised community won a plebiscite and a provincial law that has held, with fights, for two decades. The floor is set by pro-extraction provinces and the fragility of even a famous ban. Most Argentine fights sit between them, and the honest lesson is that the assembly, the province, and the courts are powerful levers — but against a project a province champions, the realistic win is often the provincial line held, delay, exposure, and a proponent worn down, as much as an outright, permanent stop.
 
 ## Step Importance Ranking (When All Combined)
 
-1. **Local opposition** — nothing survives without a durable base; assemblies are the engine.
-2. **Legal challenges** — the amparo and precautionary principle are Argentina's sharpest tools.
-3. **Documentation** — feeds both the courtroom and the press.
-4. **Target identification** — cheap, fast, and the thing most often gotten wrong.
-5. **Media** — the multiplier that turns the other four into political pressure.
-
-Money follows this ranking: spend first on organising and on the evidence your lawyer will need, not on glossy materials.
+1. **The organised assembly** — Argentina's distinctive engine; the informed, lasting community that carries every other lever, as it did at Esquel.
+2. **Provincial power** — the ban, the plebiscite, the municipal ordinance; the levers that stop not one project but a class of them.
+3. **The amparo and the precautionary principle** — the fast court action and the statutory principle that freeze a project and force review.
+4. **The closed ground and consultation** — the Glacier Law, protected areas, and Indigenous consultation a project cannot lawfully override.
+5. **Public and international pressure** — the press, the national assembly network, and the financier exposure that raise the cost of proceeding.
 
 ## What Argentine Campaigns Actually Show
 
-Argentina's record is unusually rich, because the assembly tradition has produced repeated, documented wins — and repeated attempts to roll them back. A few examples that show the full arc:
-
-- **Mendoza and Law 7722 (2007, defended 2019).** Mendoza's Law 7722 bans cyanide and sulfuric acid in mining and blocks water-intensive projects — a protection won by years of assembly pressure. In December 2019 the governor pushed Law 9209 to gut it, and roughly **50,000 people marched more than 100 kilometres** from the Uco Valley to the provincial capital under the slogan "*el agua no se negocia*" (water is not negotiable). Within days the government reversed course and **repealed the reform**, reinstating Law 7722. It is one of the clearest people-power environmental victories in the hemisphere — and, as of 2025, Mendoza's assemblies are mobilising again against a revived copper project (PSJ Cobre Mendocino) near Uspallata.
-- **Esquel and the Chubutazo (2003, 2021).** Esquel's 2003 plebiscite (about 82% "No a la Mina") produced Chubut's Law 5001, the country's first provincial open-pit-mining ban. When the legislature tried to overturn it with a "mining zonification" law in December 2021, a week of mass protest — the **Chubutazo** — forced its repeal. (Honesty: years later, courts confirmed criminal convictions of several residents who took part, a reminder that protest now carries legal risk.)
-- **Famatina (La Rioja).** The assembly "El Famatina no se toca" held a mountain-pass blockade that repeatedly drove out successive mining companies — organising and physical presence, sustained over years.
-- **Andalgalá (Catamarca).** Assemblies resisting the Agua Rica/MARA project won court-ordered suspensions and a municipal ordinance banning mining in the department — the local-government lever in action.
-
-The through-line: durable assemblies, a specific legal or electoral instrument (a provincial law, a plebiscite, a municipal ordinance, a court order), and relentless visibility. None relied on a single tactic.
-
----
+A few patterns recur. **An organised town can beat a multinational** — Esquel did, at the ballot. **A province can ban mining** — Chubut and Mendoza did, and communities defend those laws fiercely. **The assembly endures** — the *asambleas* and the UAC have carried fights for twenty years. **The amparo and precautionary principle bite** — courts have suspended projects and permits. **Closed ground stays closed** — the Glacier Law bars the high cordillera. **The people can be asked directly** — a plebiscite decided Esquel. **But federalism cuts both ways**, pro-extraction provinces push hard, and even famous bans are attacked again and again. The through-line: **inform and organise the community; prove every defect and harm; use the municipality, the province, the courts, and the vote; defend the provincial line; reach the world — and expect a long, recurring fight measured in the line held, delay, and exposure as much as an outright stop.**
 
 # STEP 1: TARGET IDENTIFICATION
 
-You cannot fight what you cannot define. Before spending a peso or an evening, answer five questions precisely.
+Every effective campaign begins by finding the exact decision that governs the project — and its weakest point. Vague opposition to "the mine" goes nowhere; opposition to "the provincial environmental authorisation granted on a study that ignored the town's water, without a genuine public hearing, for a project the Glacier Law and a provincial ban may prohibit" is a case. Answer five questions.
 
-## Core Questions You Must Answer
+## The Five Core Questions
 
-### Question 1: What Exactly Will Be Destroyed?
+**1. What exactly is proposed, and under what permit?** Name the project, the proponent, and the specific approval it needs or holds — the mining concession, the environmental-impact study and its authorisation, the water permit. Each instrument has conditions and a paper trail, and each is a place a defect hides.
 
-Name the specific harm in concrete terms: *how many hectares of native forest, whose drinking-water source, which wetland, how much water per day drawn from which aquifer, what emissions over which neighbourhood.* "It's bad for the environment" persuades no one. "This open-pit project sits above the recharge zone of the aquifer that supplies 12,000 residents and will consume an estimated X million litres of water per day" is the sentence that starts a campaign. Get the project's own numbers from its EsIA and check them.
+**2. What stage is it at?** Concession granted? Study under review? Public hearing held or pending? Authorisation issued? Under construction? The stage dictates the door. If the study is under review, your objection and your evidence at the hearing are cheap and powerful. If it is authorised, an amparo and a precautionary measure may be the route.
 
-### Question 2: Who Decides?
+**3. Which province, and is it winnable — or bannable?** This is the pivotal Argentine question. Identify the province, its stance, and whether a **provincial ban** on this class of mining already exists (which may make the project illegal outright) or is within reach. The province is where the decisive power sits.
 
-Identify the exact authority holding the pen — almost always a **provincial** environmental agency, sometimes a national body (for interjurisdictional rivers, national parks, or federally funded works), sometimes a municipality for land use. Find the named office, the file (**expediente**) number, and the responsible official. This single answer determines every address you will write to.
+**4. Is the ground closed or specially protected?** Is the project on or near a **glacier or periglacial area** (barred by national law), a protected area, a native forest, or a watershed — or on an **Indigenous territory** whose consultation is required? Closed ground can defeat a project on the documents alone.
 
-### Question 3: What Specific Action Stops It?
+**5. Who decides, who benefits, and who is watching?** Which provincial officials and body granted the permits; who owns and funds the proponent and buys its output; which municipality's land use and which community's consultation are engaged; and which press, assemblies, and national or international allies can be reached. This maps your levers and your audiences at once.
 
-Is the decision an EIA approval (DIA) still pending? A forest **OTBN** reclassification? A municipal zoning change? A pending **audiencia pública**? Each has a different intervention point. The goal is to find the *pending decision* you can influence, not the abstract project.
+## A Worked Example
 
-### Question 4: When Is the Decision Final?
+Suppose a company proposes an open-pit metal mine on a mountain that feeds a town's water, in a province with no ban, and it has an approved environmental study and authorisation.
 
-Deadlines govern everything. When does the participation window open and close? When is the hearing? Argentine administrative and amparo deadlines can be short — an amparo is meant to be filed promptly once you know of the harmful act. Missing a comment period or an appeal window can end a campaign before it starts. Build a dated timeline immediately and treat it as sacred.
+Working the five questions: the project needs a **provincial environmental authorisation** (obtained — request it, the study, and the hearing record), a **concession**, and **water and land-use permits**. It is **authorised**, so an amparo with a precautionary measure is the live route. The province has **no ban** — so a provincial-ban campaign and, at the municipal level, an ordinance or plebiscite become strategic goals. The mountain and the water raise the **precautionary principle**, and a nearby **glacier or protected area** may close ground. The **municipality and any Indigenous community** are engaged, and the water gives a **media and assembly** hook.
 
-### Question 5: Are There Documented Financial or Policy Pressures?
-
-Is the project inside the **RIGI**? Does the province depend on its royalties? Is it a provincial-government priority, a national "strategic" project, or tied to a specific company with political ties? This is not about proving corruption; it is about understanding the current you are swimming against so you can plan realistically and aim your media and legal pressure where it bites.
-
-## Worked examples: which level holds the pen
-
-Getting the jurisdiction right is the cheapest decisive move in the whole campaign. Some patterns:
-
-- **An open-pit mine or a lithium project.** Almost always **provincial** — the province owns the mineral, runs the EIA and issues the approval. Your primary arena is the provincial environmental authority and provincial courts, even if the incentives (RIGI) and the company are national or foreign.
-- **A dam or contamination on a river that crosses provinces, or a project in a national park.** **Federal** jurisdiction — file with national bodies and in federal court, as *Mendoza* did over the interjurisdictional Matanza-Riachuelo basin.
-- **A real-estate mega-development, a landfill, or a change in what may be built on wetland.** Often turns on **municipal** zoning and land-use decisions — a municipal ordinance or a local **consulta popular** can be decisive, and the municipality may be your fastest-moving arena.
-- **A fracking pad in Vaca Muerta.** Provincial hydrocarbon authorities lead, but federal energy policy and national "strategic" designations shape the pressure.
-- **Clearing native forest for agriculture.** Governed by the province's **OTBN** forest zoning under the national Forest Law — challengeable if the land's protection category forbids clearing.
-
-When a project spans levels, you may need to act on more than one front at once — but always know which authority actually signs the approval you are trying to stop.
-
-Write the answers down in one page. That page is your campaign's spine.
-
----
+Within an afternoon you have moved from "we oppose the mine" to a target list: request and scrutinise the study, authorisation, and hearing record; file an amparo on the precautionary principle and the study's defects, with a precautionary measure; check glacier, protected-area, and watershed status; assert any Indigenous consultation; build the municipal ordinance and a provincial-ban push; and prepare the water story for the press and the assembly. That is a campaign, not a complaint. Notice what the exercise did: it converted a diffuse fear into a short list of concrete, assignable tasks, each tied to a specific lever and a specific audience, and each of which can begin this week. That is the difference the five questions make — they turn "someone should do something" into "these six things, by these people, starting now."
 
 # STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
 
-Documentation is what separates a campaign a judge takes seriously from one dismissed as noise. In Argentina it does double duty: it arms your lawyer, and — because your participation submissions enter the official file — it becomes part of the very record on which the decision (and any later court challenge) rests.
+Documentation is the foundation everything else stands on. A judge, the Ombudsman, a journalist, and a company's financiers all move on evidence, not indignation. Build your file in three layers.
 
-## The Three Documentation Layers
+## Layer 1: The Official Record
 
-Build three layers. Each answers a different question and reaches a different audience.
+Get the documents the decision rests on. Request the **environmental-impact study and its authorisation and conditions**; the **public-hearing record** (who spoke, what was raised, how it was answered); the **mining concession**; the **water permit**; and any consultation records. Argentina's **environmental-information law (25.831)** and the constitutional right to information make these obtainable, and the gap between what they promise and what is happening on the ground is where cases are won. Esquel's community forced the project into the open precisely by informing itself — bringing in independent experts to read what the company would not plainly say. Read the study not only for what it claims but for what it leaves out and what it quietly concedes in an appendix or a footnote — the water consumption buried in a table, the closure plan that assumes perpetual treatment, the cumulative effects it declines to assess. The official record is written to reassure; read against the grain, it is often where the strongest objection is hiding in plain sight.
 
-## LAYER 1: BASELINE CONDITIONS DOCUMENTATION
+## Layer 2: The Ground Truth
 
-This is proof of what exists *before* the project — the reference point against which harm is measured.
+Document the reality the paper hides. Photograph and date the **actual footprint** — cleared ground, drill platforms, silted or lowered water sources — and geotag it. Log **incidents**: a spill, a fish kill, a spring gone dry, dust or sediment. Capture **before-and-after** with your own photos and with freely available satellite imagery, which can show clearing, encroachment, and the true scale of operations. Record **testimony**: elders on the land's history and use, farmers on the water and the crops, and independent technical readings where you can get them — a water sample, a hydrologist's or geologist's note. At Esquel, an independent expert's damning assessment of the project ("the worst I have read") was central to turning the town.
 
-**Documented case — the Matanza-Riachuelo (*Mendoza*) precedent.** In July 2004, **Beatriz Mendoza**, a health worker, and seventeen neighbours and professionals from the Matanza-Riachuelo river basin — one of the most polluted areas in the country, including the Villa Inflamable settlement in Avellaneda — filed a collective damages claim directly before the **Corte Suprema de Justicia de la Nación**. They relied on Article 41 of the Constitution and the General Environmental Law, suing the Nación, the Province of Buenos Aires, the City of Buenos Aires and 44 industrial polluters. What made the case winnable was documentation: studies establishing the basin as among the most contaminated in the country, and the concrete health harms to families living beside the industrial hub. In 2006 the CSJN agreed to hear the collective claim and ordered the defendants to produce an integrated clean-up plan; on **8 July 2008** it issued a landmark ruling finding that the governments had a legal duty to prevent harm and to *restore* the basin, and it built a structural remedy: it created enforcement benchmarks, assigned the newly formed basin authority **ACUMAR** to carry out a clean-up plan (public information, industrial-pollution control, waste-dump removal, water and sewer works), put a federal court in charge of monitoring compliance, and granted standing to NGOs — **Greenpeace Argentina, FARN, CELS**, the La Boca neighbourhood association and the Ombudsman — to patrol the basin and report breaches. Honesty matters here: more than fifteen years later the clean-up remains incomplete, Villa Inflamable is still gravely polluted, and the ruling notably left the 44 companies' liability undecided, effectively shielding them. The case is proof both of how far the constitutional-plus-collective-damage lever can reach — a court ordering the State to remediate an entire river basin — and of how slow enforcement can be without relentless follow-up. That combination, ambition plus incomplete follow-through, is the honest lesson.
+## Layer 3: The Defects and the Closed Ground
 
-**Building your own baseline (typical process).** You will rarely have the Supreme Court's resources, but the method scales down:
-
-- **Water:** sample and test the streams, wells or aquifer the project will affect *now*, through a certified laboratory or a public university, so you have "before" figures. Photograph and GPS-tag each site.
-- **Air and soil:** where relevant, gather existing measurements and take dated, located photographs of current conditions.
-- **Ecology:** document the species, forest category, wetland or habitat present, using official inventories (the forest **OTBN** map, the glacier inventory, provincial biodiversity data) and, ideally, a local biologist or university.
-- **Human baseline:** record current land uses, Indigenous or *campesino* presence, health conditions and livelihoods — the people and uses the project would displace.
-
-Date-stamp everything, keep originals, and store copies in more than one place.
-
-## LAYER 2: IMPACT ANALYSIS
-
-Now show what the project *will do* to that baseline. Read the company's EsIA closely — its own admissions are often your best evidence — and identify: understated water use, missing cumulative-impact analysis (several projects together), ignored alternatives, gaps in the baseline, and violations of a **presupuesto mínimo** (a national minimum standard the project cannot breach). Where you can, commission an independent technical review; a single credible expert report that contradicts the EsIA is worth more than a hundred signatures. Frame each impact against a specific legal duty — the precautionary principle, the forest category, the glacier prohibition, the water law — so it lands as a *legal* problem, not just a worry.
-
-## LAYER 3: HEALTH & ECONOMIC IMPACT DOCUMENTATION
-
-Numbers about hectares move fewer people than numbers about children and livelihoods. Document the health risks (respiratory, water-borne, exposure), the economic base at stake (tourism, agriculture, fishing, farming), and who bears the cost versus who takes the profit. In Argentina, tourism-and-water arguments have repeatedly beaten mining in the courts of public opinion — Esquel's residents asked whether they would "mortgage the glaciers and the water for a handful of multinationals," and won.
-
-## How to Structure Your Documentation
-
-### Phase 1: Baseline Conditions (Months 1-2)
-Collect the "before" record while the project is still on paper — water tests, photographs, inventories, testimonies. This window closes fast once work begins.
-
-### Phase 2: Impact Analysis (Months 2-3)
-Dissect the EsIA, obtain the file via a freedom-of-information request, and line up an independent expert.
-
-### Phase 3: Health/Economic Analysis (Months 3-4)
-Compile health and livelihood evidence and translate the technical findings into plain, human terms for the hearing and the press.
-
-## Common Documentation Pitfalls (What Fails)
-
-- **Emotion without evidence.** Fear is real but not admissible; pair every claim with a source.
-- **Missing the baseline window.** Once construction starts, "before" data is gone forever.
-- **No chain of custody.** Undated, unlocated, un-sourced photos and samples are easy to dismiss.
-- **Ignoring the file.** The strongest arguments often sit inside the official **expediente** — request it early.
-- **One copy only.** Keep duplicates off-site and online.
-
-## Documentation Budget Breakdown (ARS)
-
-Argentina's inflation makes fixed peso figures go stale quickly, so treat these as *relative* orders of magnitude and convert to current values (many groups budget informally in US-dollar equivalents). A grassroots documentation effort commonly runs from a few hundred thousand pesos to a few million:
-
-- Independent water/soil laboratory tests: the largest line — several tests at a certified lab.
-- Independent technical review of the EsIA: often the single most valuable spend.
-- Travel, sampling supplies, printing, secure storage: modest but recurring.
-- **Cost-saving routes:** public universities and CONICET researchers, pro-bono university law and science clinics, and volunteer professionals within the assembly can replace most paid work. Many of Argentina's strongest cases were documented almost entirely by volunteers.
-
----
+Finally, document the failures of process and the legal lines the project crosses. Was the **environmental study deficient** — ignoring the water, the glaciers, the cumulative impact? Was the **public hearing skipped, or its objections ignored**? Does the footprint sit on or drain a **glacier or periglacial area** (barred by national law), a **protected area, a native forest, or a watershed**? Is there a **provincial ban** the project violates? Was **Indigenous consultation skipped**? Was the **precautionary principle ignored** in the face of serious risk? Each defect is a separate ground — for an objection, an amparo, a referral, or a ban campaign — and together they make a case that is hard to wave away. This is the layer that most often decides Argentine fights, because here a project that looked authorised is revealed to be violating the environmental law, the closed ground, or a provincial line the community has drawn. Work it methodically: for each requirement the law imposes — a complete study, a genuine hearing, respect for glaciers and forests and Indigenous territory, compliance with any provincial ban, application of the precautionary principle — ask whether the project actually met it, and where it did not, capture the proof. A defects file built this way is what turns an emotional objection into a legal case a judge, the Ombudsman, and a reporter can all act on.
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
-Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+This is the practical companion to Step 2: the specific records that decide Argentine cases, and where to obtain them. You will not need every item; you will need the few that expose your project's particular defect.
 
-**Start at the deciding body's register and the municipio's own website.** In Argentina the official documents for a project — the Estudio de Impacto Ambiental, the public-hearing (audiencia pública) notices, the Declaración de Impacto Ambiental (DIA) and its conditions — are posted by the body running the review: the provincial environmental authority (environment is largely provincial) for the DIA, the municipio for land use, and national bodies for federally regulated matters. The official documents for most local projects live on the municipio's own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+## The Permits and Their Paper Trail
 
-**The project file and the Estudio de Impacto Ambiental.** Get the developer's Estudio de Impacto Ambiental as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+- **The environmental-impact study (EIA) and its authorisation**, with the conditions attached. Held by the **provincial environment or mining authority**. Read it for what it omits — the water, the glaciers, the cumulative and downstream effects, the closure plan.
+- **The public-hearing (audiencia pública) record** — the transcript or minutes, the objections raised, and the authority's responses. A hearing skipped, or objections never answered, is a procedural defect you can build on.
+- **The mining concession**, from the provincial mining authority — its area and terms, and whether it overlaps closed ground.
+- **The water permit**, from the provincial water authority — its absence or breach is a live ground, and water is the issue that most often unites a community. In the irrigated provinces of Cuyo and the north-west, water is governed through user institutions — irrigation associations and water-user consortia — that are themselves powerful allies and hold records of allocations and flows; enlisting them brings both legitimacy and evidence. Everywhere, establish where the project's water comes from and goes to, how much it will consume, and what it will discharge, because the answer is usually the fact that moves the town, the press, and the province at once.
+- **Any Indigenous consultation record**, and the status of the community's territory.
+- **The relevant provincial and municipal norms** — a provincial mining ban, the municipal land-use ordinance, any local non-toxic declaration or plebiscite result.
 
-**Baseline environmental data.** Provincial and national environmental data; protected-area and species records; and the developer's own EIA baseline studies.
+## How to Get Them
 
-**Ownership and money.** Company ownership from the Inspección General de Justicia / provincial registries; land from the Registro de la Propiedad; and officials' asset declarations.
+Most of these are public. Use the **environmental-information law (25.831)** and the right of petition: a written request naming the documents obliges a timely answer, and the law is specifically designed to give citizens environmental information. Request at the provincial environment, mining, and water authorities and the municipality. When an authority stalls, a follow-up citing the law usually moves it; persistent refusal is itself a violation you can take to court or to the Ombudsman. Move early: the study review and the public hearing have real windows, and an objection or evidence entered while a window is open carries far more weight — and preserves far more of your rights — than the same point raised after the authorisation is signed. A practical tip: make your information requests specific and dated, keep proof of when you sent them and when (or whether) they were answered, and treat any refusal or silence not as a dead end but as a new, documentable fact — an authority that will not disclose an environmental study is itself a story and a legal problem.
 
-**Case law and precedent.** Supreme Court and provincial decisions are published; the amparo ambiental and the Mendoza (Riachuelo) line of cases shape practice.
+## The Ground Evidence
 
-**How to force a document open.** A request under the **access-to-information law (Ley 27.275)** and provincial equivalents compels disclosure of records a public body holds. Use the request wording in Section 8E.
+- **Dated, geotagged photographs and video** of the footprint, the clearing, the discharge, the drying water source.
+- **Satellite before-and-after** from freely available imagery, to show clearing, encroachment onto closed ground, or the true extent of operations — and, near the cordillera, proximity to glaciers.
+- **Independent technical readings** — a water sample, a hydrologist's or geologist's note, an independent review of the EIA. Community monitoring and university partners can supply these cheaply, and an independent expert's verdict was decisive at Esquel.
+- **Maps** overlaying the project footprint on the glacier or periglacial area, the protected area or native forest, the Indigenous territory, and the watershed — a single map showing a mine draining a town's water or sitting above a glacier is worth pages of argument.
+- **Sworn statements** from elders, farmers, and community and Indigenous authorities, on use, history, consultation, and harm.
 
-**Free and low-cost help.** Environmental NGOs (e.g. FARN) litigate and advise; the amparo ambiental is a fast, accessible constitutional action communities can bring.
+## Organise It So It Persuades
 
-**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+Keep a **master timeline** of every permit date, hearing, incident, objection, and deadline — the spine of any amparo. Keep a **document index** so any fact can be sourced in seconds. And keep an **argument bank** (developed in a later section) that pairs each fact with what it proves, to whom. A well-ordered file is not bureaucracy; it is what lets a volunteer, a lawyer, a reporter, and a judge all see the same clear picture fast — and it guards against the campaign's own worst enemy, a claim that cannot be sourced when the other side challenges it. In a fight that can run for years and pass through many hands, the community with the better-kept file is very often the one that prevails.
 
-## Researchers for Hire, and Everyday Research Tools
+# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE ASSEMBLIES THAT LAST
 
-If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+Evidence and law do not stop projects on their own. Organised people do — sustained, visible, and credible over the months or years a fight takes. This is the step Argentina does best, and Esquel is its model: a community that organised into open neighbourhood **assemblies** and never disbanded.
 
-For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
+## Phase 1: The Core
 
-# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE ASSEMBLIES THAT HOLD
+Start with a small, committed core — five to fifteen people who will carry the work. Where an Indigenous community is involved, include its **legitimate authorities** from the start, because their consultation and voice are the campaign's legal and moral spine — and, as at Esquel, an Indigenous community's denunciation of intrusion may be how the whole threat comes to light. Assign roles: documentation, legal liaison, media, community liaison, and coordination. Agree on the goal — refusal, a revoked authorisation, a municipal ordinance, a provincial ban, a plebiscite — and on what you will and will not accept.
 
-Argentina has a living tradition of the **asamblea** — the open neighbourhood assembly — and it is the country's most effective vehicle for this fight. The anti-mining assemblies of Esquel, Famatina, Andalgalá and Chilecito; the wetland and *humedales* assemblies; the anti-fracking and anti-agrochemical groups: nearly every lasting win grew from an assembly. Build one that endures.
+## Phase 2: The Assembly and the Coalition
 
-## Critical Insight About Organising
+Then build the **open assembly** — the *asamblea* — the distinctively Argentine form: a regular, public, horizontal meeting anyone in the community can join, where information is shared and decisions are taken together. It is the engine that informs the town and sustains the fight. Widen it deliberately: farmers' and water-user associations, teachers and health workers, students, small business, the Church, and the diaspora. Reach the **allies with capacity** — public-interest lawyers, independent scientists who can read the EIA, the provincial and national **assembly networks (the UAC)**, and international allies. Esquel's assembly informed itself with outside experts, linked to a national movement, and turned a technical fight into a town's common cause — and that is precisely the spread a winning campaign needs. The national network is a real asset. The **Unión de Asambleas Ciudadanas**, born out of Esquel and the assemblies that followed, links scores of communities across the country; it shares legal templates, expert contacts, and hard-won experience, mobilises solidarity when one town is under pressure, and turns isolated local fights into a movement with a common language — *"el agua vale más que el oro,"* *"No a la Mina,"* *"El agua no se negocia."* A community that plugs into it is not starting from zero; it inherits twenty years of others' methods and mistakes.
 
-Projects are patient; they wait out anger. What defeats them is not a single furious march but a base that is still standing in month eighteen. Organise for endurance, horizontal decision-making, and legitimacy — an assembly that visibly represents the community is far harder for officials and companies to dismiss than a handful of activists.
+**A worked coalition example.** Facing a mine that threatens a town's water, a handful of neighbours, a water-user association, an Indigenous community, and a few teachers form a core; they open a weekly assembly that draws hundreds; they bring in a legal-aid lawyer and an independent hydrologist; the municipal council passes an ordinance; and the UAC amplifies the fight across the province. No single group could have carried it; together they cover documentation, law, science, local legitimacy, and reach.
 
-## PHASE 1: FOUNDATION (Months 1-2)
+## Phase 3: Sustaining It
 
-### Step 1a: One-to-One Conversations
-Begin with quiet, personal conversations. Find the people already worried and the trusted figures — a doctor, a teacher, a priest, a rural union delegate, a respected elder. Ask what they fear losing. Relationships, not flyers, are the foundation.
+Campaigns die of burnout, not defeat. Meet on a rhythm — the assembly's regular meeting is itself the antidote. Give people concrete, finishable tasks. Mark small wins — an ordinance passed, a document pried loose, a hearing packed. Rotate the exhausting roles. And protect people: keep leadership collective and visible rather than resting the campaign on one exposed individual; document every threat, act of surveillance, or intimidation, which protects the person and becomes evidence; build outside links to the UAC, the Ombudsman, and national and international allies; and report threats at once. Repression has fallen on mining towns like Andalgalá and Famatina, so a campaign that protects its people is a campaign that can last — and lasting, as Esquel's two decades show, is how these fights are won. Build in the small human things that keep people together: share food, mark birthdays and anniversaries of the fight, welcome newcomers properly, and make the assembly a place people want to be, not only a duty. A movement is a community before it is a campaign, and the ones that endure are the ones whose members would show up for each other even if the project vanished tomorrow.
 
-### Step 1b: Affinity Groups by Concern
-People join for different reasons — water, health, tourism jobs, land, faith, Indigenous rights. Let each concern become a working group inside one assembly, so everyone has a role that fits their motivation.
+## Phase 4: Showing Strength
 
-### Step 1c: Use the Community's Own Structures — and Consider a Legal Vehicle
-Anchor the assembly in existing community structures (neighbourhood commissions, cooperatives, Indigenous communities, rural associations). To sue, receive donations or sign coalition agreements, consider forming a **civil association** (*asociación civil*) with legal personhood — Argentine law gives registered environmental NGOs explicit standing to bring collective-damage actions, so a formal vehicle can unlock the courtroom door.
+Numbers and legitimacy must be seen. Turn people out for hearings and council sessions. Gather signatures — for a popular-initiative law or a plebiscite. Hold peaceful, well-documented actions — marches, water forums, the *marchas* that made "No a la Mina" a household phrase. Other towns have written their own chapters. In **Famatina**, La Rioja, residents kept watch at the mountain road for years under the slogan *"El Famatina no se toca,"* turning back one mining company after another. In **Andalgalá**, Catamarca, the community's long resistance to a large mine — its *Caminata por el Agua y la Vida* — has continued despite arrests and attacks on activists' homes. These are not only cautionary tales about repression; they are proof that sustained, visible community presence can hold a line for a decade or more. When Chubut tried to gut Law 5001 in 2021, it was mass, sustained, peaceful protest — the Chubutazo — that forced the repeal within days. The point is not spectacle; it is to demonstrate, to officials, judges, and the press, that the opposition is broad, rooted, and not going away. Choose actions that photograph and travel well and that anyone can join — a human chain along the threatened river, a signature drive in the plaza, a candlelit vigil the night before a vote — and always document them yourselves, so the size and the spirit of the turnout exist as a record even if no outlet covers it. A visibly broad, peaceful, rooted movement is the single most persuasive argument a legislator or a judge weighs.
 
-## PHASE 2: PUBLIC LAUNCH (Months 2-3)
+# STEP 4: LEGAL CHALLENGES — THE AMPARO, THE PROVINCE, AND THE VOTE
 
-### Step 2a: Public Assembly (*asamblea abierta*)
-Hold an open assembly in an accessible place. Keep it welcoming and concrete: what the project is, what it threatens, what people can do this week. Decide by consensus where you can; nothing builds durable commitment like genuine participation.
+Argentine law gives communities a real arsenal, and you do not need a final ruling to win with it: a filing freezes a project, forces disclosure, and creates leverage and headlines. Engage a lawyer or the Ombudsman early — but understand the tools yourself.
 
-### Step 2b: Opposition Materials (Factsheets)
-Produce a one-page factsheet in plain language: the project, the specific threat, the numbers, the decision date, and one clear ask. Accuracy is everything — a single exaggeration hands the company an easy rebuttal.
+## The Amparo Ambiental and Precautionary Measures
 
-### Step 2c: Citizen Participation — File Substantive Observations (the decisive record)
-This is the step most communities underuse. When **participación ciudadana** opens and the **audiencia pública** is called, file *written, substantive, technical* observations and speak at the hearing. Every serious objection you enter becomes part of the official file, and an authority that approves the project without genuinely answering serious observations creates a **reviewable legal defect** a court can later strike down. Treat the hearing not as catharsis but as evidence-building.
+The core tool is the **amparo** (Article 43 of the Constitution), a fast action against any act or omission that harms a constitutional right — including the right to a healthy environment (Article 41). The **General Environmental Law (25.675)** widens it: **anyone** — the affected, environmental associations, the Ombudsman — may bring an amparo to **cease activities causing collective environmental damage**, and a judge may order **urgent precautionary measures (medidas cautelares), even without hearing the other side**, to prevent harm while the case runs. This means a community can get a project **frozen quickly** and force the authorisation and study under judicial review. It is your fastest and most flexible lever.
 
-### Step 2d: Media Coverage at Launch
-Time your public launch to generate first coverage (see Step 5). Arriving in the press as an organised, factual community sets the frame before the company can define you.
+## The Precautionary Principle
 
-## PHASE 3: COALITION EXPANSION (Months 3-6)
+The same law writes the **precautionary principle** into national law: where there is danger of grave or irreversible harm, the absence of full scientific certainty **may not be used to postpone** effective protective measures. This reverses the usual burden — the community need not prove certain harm; the risk of serious harm is enough to justify caution. The Supreme Court has applied it to **suspend permits** pending proper study, and it is the principle on which many environmental precautionary measures rest. The landmark is *Salas, Dino* (2008), in which the Supreme Court, invoking the precautionary principle, suspended deforestation and land-clearing authorisations across several departments of Salta pending a cumulative environmental-impact study — a ruling that shows a court will freeze approvals when the cumulative risk has not been honestly assessed. In the same period, in the *Mendoza* (Matanza-Riachuelo) case, the Court ordered a basin-wide clean-up and created a body to enforce it, establishing that collective environmental harm can be litigated to a binding, supervised remedy. Both are precedents you can put in front of a judge. Argue it explicitly, tied to the water, the glaciers, or the ecosystem at risk.
 
-### Step 3a: Organisation Outreach
-Reach beyond the neighbourhood: **FARN**, **Greenpeace Argentina**, the **Asociación Argentina de Abogados Ambientalistas**, **FUNDEPS**, university clinics, church networks, rural and Indigenous federations, and the national network of assemblies (**Unión de Asambleas de Comunidades / UAC**). Allies bring lawyers, scientists, reach and precedent.
+## The Province: Bans, Ordinances, and Direct Democracy
 
-### Step 3b: Coalition Agreements (Written)
-Put alliances in writing: shared goals, each group's role, spokespeople, and decision rules. Clear agreements prevent the internal fractures that quietly kill campaigns.
+Argentina's most powerful lever is often political and provincial. Because provinces own their resources (Article 124), a **provincial law can ban a whole class of mining** — open-pit, cyanide, or mining outright — as Chubut's Law 5001 and Mendoza's Law 7722 do. Mendoza's Law 7722, which bars the use of cyanide, mercury, sulfuric acid, and other toxic substances in mining, is instructive on both counts. In December 2019 the provincial legislature reformed it to permit those substances; within days a spontaneous, province-wide mobilisation under the banner *"el agua vale más que el oro"* — water is worth more than gold — filled the streets of Mendoza, and the governor was forced to reverse the reform and restore the ban. It is the same lesson as the Chubutazo: a provincial ban is won by a community and defended by one, again and again, and the mobilised community is what makes the law hold. A project in a banned province is simply illegal. Where no ban exists, the strategic goal becomes winning one, through the legislature, a **popular-initiative bill**, or a **plebiscite / popular consultation** — the direct-democracy tools that gave Esquel its verdict. These tools exist at every level. The national Constitution provides for a **popular initiative** (Article 39), letting citizens force a bill onto the legislature's agenda with enough signatures, and a **popular consultation** (Article 40); most provinces and municipalities have their own versions, and Esquel's was a municipal plebiscite. The **public hearing (audiencia pública)** is a further, everyday entry point: it is a formal, on-the-record stage in environmental assessment where any citizen may speak and enter evidence, and while its result is often non-binding, everything said there becomes part of the record a later amparo is built on — so a hearing packed with prepared, documented objections is never wasted, whatever the authority then decides. At the municipal level, an **ordinance** or a **non-toxic declaration** can block a project locally and build toward the provincial line. These are demanding, years-long campaigns — but they stop not one project but every project of its kind, and they are the Argentine victory that lasts.
 
-### Step 3c: Coordinated Public Work
-Move together — joint statements, coordinated filings, shared hearings. A province facing a mine, a university, a national NGO and a bishop at once feels pressure a single town cannot generate.
+## The Closed Ground and Consultation
 
-## PHASE 4: SUSTAINED PRESSURE (Months 6-12)
+Two more grounds can defeat a project on the law. The **Glacier Law (26.639)** bars mining and other activities on glaciers and periglacial areas across the cordillera — a hard line, and a National Glacier Inventory to prove it. That inventory is real and usable: the State scientific institute IANIGLA compiles the National Glacier Inventory, mapping the glaciers and periglacial bodies the law protects, so a community can often show, from public data, that a project's footprint or its water source sits on protected ground. The line has teeth — when a mining company and provinces challenged the law as unconstitutional, the Supreme Court upheld it, and mega-projects on the high cordillera, such as the Pascua Lama gold project on the border, have been halted in part over glacier and water concerns. The Glacier Law is one of the clearest "closed ground" arguments in the country. And **Indigenous consultation** under ILO 169 (law 24.071) and Article 75(17) must precede a project on Indigenous territory; a consultation skipped or faked is a defect the courts can act on. The right is specific: consultation must be *prior* (before the decision, not after), *free* (without pressure), and *informed* (with real information about the impacts), conducted through the community's own legitimate institutions — and, for measures that would gravely affect them, aimed at consent. Argentina recognises the ethnic and cultural pre-existence of Indigenous peoples in Article 75(17) and registers hundreds of communities nationally, and the courts have suspended projects and acts where consultation was omitted. If your project touches an Indigenous territory, the community's own authorities lead, and the failure to consult them properly is often the single strongest legal defect available. Assert both where they apply — closed ground and denied consultation are among the cleanest cases there are. A third line worth checking is the **native-forests law (26.331)**, which requires each province to map and categorise its forests and bars the clearing of the most protected ones — a project that clears red- or yellow-category forest, or that proceeds where the province never did the mapping and public participation the law requires, is on defective ground. Like the glaciers, the forests are a national floor a province cannot simply waive.
 
-### Step 4a: Public Demonstrations (marches / *movilizaciones*)
-Visible, disciplined, family-friendly mobilisations show breadth and resolve. Argentina's culture of peaceful mass mobilisation is a genuine strength — but see the safety note in Section 10, because the current environment for protest has hardened.
+## Where to File and With Whom
 
-### Step 4b: Media Campaign (Ongoing)
-Keep a steady drumbeat of coverage: new evidence, milestones, human stories. Momentum is a resource; do not let the story go quiet between crises.
-
-### Step 4c: Common Opposition Failure Points (How to Prevent)
-- **Burnout:** rotate roles, share load, celebrate small wins.
-- **Division:** agree decision rules early; address conflict openly.
-- **Co-optation:** beware selective "benefits," jobs or donations offered to split the community.
-- **Going quiet after the hearing:** the fight often continues in court for years — plan for the long haul.
-
-## Opposition Building Budget: Year-Long Campaign (ARS)
-
-Again, convert to current values given inflation. A year-long grassroots campaign is usually inexpensive relative to what is at stake:
-
-- Printing, banners, sound equipment, venue costs: modest and recurring.
-- Transport to hearings, provincial capital, and demonstrations: often the largest line for rural communities.
-- Communications (website, data, phone credit): small.
-- Legal-vehicle registration and basic accounting: one-time and modest.
-- **Most of the work is volunteer.** Argentina's assemblies have repeatedly beaten multinationals on budgets a company spends in an afternoon. Money helps; organisation wins.
-
----
-
-## Hiring Help to Run the Campaign
-
-You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
-
-# STEP 4: LEGAL CHALLENGES — PARTICIPATION, THE *AMPARO*, THE COURTS, AND THE ENFORCERS
-
-Legal action in Argentina is unusually accessible, because the Constitution and the General Environmental Law were written to open the courthouse door wide. You do not need to be the directly injured party to act; the affected person, environmental NGOs, the Ombudsman and the State all have standing, and *any* person may file an **amparo** to stop activity causing collective environmental damage. Treat the law as three tracks, escalating in force. **Get a lawyer early** — ideally one experienced in *derecho ambiental* — but understand the tracks yourself so you can direct the fight.
-
-## TRACK 1: PARTICIPATION AND THE PAPER TRAIL (the front door)
-
-Everything begins with the record. Two tools build it:
-
-- **Freedom of information (Ley 27.275).** Argentina's Access to Public Information law lets anyone request public records — the project file (**expediente**), the EsIA, permits, inspection reports, correspondence — usually within a set response time, enforced by the **Agencia de Acceso a la Información Pública**. The Escazú Agreement reinforces this for environmental data. File early and broadly; the documents you obtain are often the campaign's strongest evidence. (Sample request in Section 8E.)
-- **Substantive observations at the audiencia pública.** As covered in Step 3, written technical objections filed during participation become part of the file. Their legal power is specific: an authority must genuinely *consider* serious observations, and an approval that ignores them — or a hearing skipped or staged — is a **procedural defect** that can void the decision. This is the cheapest, most underused legal lever in the country.
-
-## TRACK 2: THE EIA, THE OBSERVATIONS, THE CONSULTATION, AND THE APPROVAL (the strongest cards)
-
-The environmental approval (the DIA and the EsIA behind it) is where most projects are legally vulnerable. Attack on these grounds:
-
-- **A defective study.** Understated water use, absent cumulative-impact analysis, ignored alternatives, a thin baseline, or reliance on outdated data. The company's own EsIA, read carefully, usually supplies the ammunition.
-- **Unanswered serious observations.** If the authority approved without meaningfully responding to substantive objections in the file, the decision is procedurally exposed.
-- **Indigenous consultation.** Where a project affects Indigenous communities, **free, prior and informed consultation** under ILO Convention 169 (constitutionally ranked in Argentina) and the constitutional recognition of Indigenous rights (Article 75(17)) is mandatory; its absence or its reduction to a formality is a powerful ground — as communities at **Salinas Grandes** (Jujuy/Salta) have argued against lithium projects.
-- **Breach of a minimum standard.** If the project violates a **presupuesto mínimo** — the Forest Law's category for that land, the Glacier Law's prohibition, the Water Law — that is a direct illegality, not a matter of discretion.
-
-## TRACK 3: THE *AMPARO*, THE PRECAUTIONARY MEASURE, THE COURTS, AND THE SPECIAL LAWS
-
-This is Argentina's sharpest track.
-
-- **The amparo ambiental.** Under Article 43 of the Constitution and Article 30 of the General Environmental Law, an amparo is a fast action to stop an act that harms the environment. It is meant to be quick and does not require exhausting every administrative avenue first. Alongside it, the **collective-environmental-damage action** seeks *recomposición* — restoration — reflecting Article 41's restoration-first duty.
-- **The precautionary measure (*medida cautelar* / *medida de no innovar*).** Early in the case you can ask the judge to freeze the project while the merits are decided. Here Argentina's **precautionary principle** (LGA, Article 4) is decisive: it lets a court order protective measures *even under scientific uncertainty* — the absence of proof of harm is not a reason to allow it. A well-argued precautionary request can pause a project for the years a case takes, which has ended more than one project on its own.
-- **Which court.** File in provincial court for a provincially approved project, federal court where the matter is interjurisdictional (a shared river, a national park, a federal project). Cases of national importance can reach the **CSJN** — as *Mendoza* did through original jurisdiction over an interjurisdictional basin.
-- **The special-law levers.** The **Glacier Law** bars mining in glacier and periglacial zones listed in the National Inventory (the CSJN upheld the law's constitutionality; note that Law No. 27.804 narrowed it in 2026 and that narrowing is itself being challenged on Escazú **non-regression** grounds). The **Forest Law** bars clearing in the highest-protection ("red"/"yellow") **OTBN** categories. Several provinces ban open-pit metal mining with cyanide (the ban Esquel's campaign secured in Chubut). Match your project to the specific statute it breaches.
-
-## The provincial-law lever — and defending the laws you already have
-
-Argentina's federalism cuts both ways. Because provinces can legislate *above* the national floor, communities have won province-wide bans that block whole categories of project — open-pit metal mining or cyanide use in Chubut (Law 5001), Mendoza (Law 7722), Tucumán, San Luis, Tierra del Fuego and others. The Supreme Court and provincial high courts have upheld these bans, reasoning from **Article 41** and the people's right of self-determination to restrict harmful activities. Two practical lessons follow. First, if your province has such a law, your fight may be less "stop this permit" than "**enforce the law you already have**" — often a stronger legal footing. Second, these laws are targets: governments repeatedly try to weaken them (Mendoza 2019, Chubut 2021), so defending an existing protection — through mobilisation and the **non-regression** principle — is itself a core form of resistance, and one where communities have a striking track record of winning.
-
-## The environmental-insurance lever (*seguro ambiental*)
-
-A quieter tool: the General Environmental Law (Article 22) requires anyone carrying out activities risky to the environment to hold **environmental insurance** (*seguro ambiental*) sufficient to fund restoration of the damage they could cause. Many projects operate without valid, adequate cover. A missing or insufficient *seguro ambiental* is a concrete compliance failure your lawyer can raise — an angle that avoids arguing the science and instead points to a legal box the proponent never ticked.
-
-## How the *amparo ambiental* actually works (in practice)
-
-The amparo is deliberately fast and accessible, and understanding its practical shape helps you use it well:
-
-- **Who can file:** the directly affected person, a registered environmental association, the Ombudsman, or the State. This breadth means a community can almost always find a valid claimant — often the local assembly's registered *asociación civil* is the cleanest route.
-- **How fast:** it is a summary proceeding meant to move quickly, and it generally does **not** require exhausting every administrative appeal first — important when harm is imminent.
-- **What to ask for:** the core of the action is usually the **precautionary measure** (*medida cautelar* / *de no innovar*) requesting immediate suspension of the project while the case proceeds. Because Argentine courts can grant this on **precautionary-principle** grounds, you do not need to prove certain harm — a credible risk of serious or irreversible damage can be enough.
-- **What wins:** procedural illegality (a skipped hearing, unanswered observations), a breach of a minimum-standard law, or missing Indigenous consultation are the strongest grounds, because they do not ask the judge to overrule the agency's science — only to enforce the rules.
-- **The realistic payoff:** even where a court ultimately declines to cancel a project, a precautionary suspension can hold it for the years litigation takes — long enough for politics, markets or evidence to change the outcome.
-
-## Indigenous consultation: a decisive and often-skipped lever
-
-Where a project affects Indigenous communities, Argentina owes **free, prior and informed consultation** under **ILO Convention 169** (which has constitutional rank) and the Constitution's recognition of Indigenous peoples' rights over their traditional lands (Article 75(17)). In practice this duty is frequently skipped or reduced to a box-ticking meeting held after decisions are made — which is exactly what makes it a powerful legal ground. Communities of the **Salinas Grandes** salt flats (Jujuy and Salta), facing lithium extraction and a 2023 provincial constitutional reform pushed through without genuine prior consultation, have built their resistance substantially on this failure. If your community is Indigenous, or the project sits on or affects Indigenous territory, document the absence or inadequacy of consultation carefully: it can void an approval on its own, and it draws national and international attention (including under the Escazú Agreement and the Inter-American human-rights system).
-
-## Legal Strategy Decision Tree
-
-- **Is a decision (DIA / permit / clearing authorisation) still pending?** → Focus on participation, FOI, and substantive observations now (Track 1–2); prepare the amparo in reserve.
-- **Was the project approved with a defective study or unanswered observations?** → Amparo challenging the approval's legality, plus a precautionary measure (Track 3).
-- **Is work starting or imminent, with real risk of irreversible harm?** → Amparo + urgent **precautionary measure** on precautionary-principle grounds to freeze it (Track 3).
-- **Does the project breach a minimum-standard law (glaciers, forests, water) or lack Indigenous consultation?** → Amparo on that specific illegality — the strongest posture.
-- **Is there evidence of falsified data, an undisclosed official interest, or a bribe?** → That is Section 11 (corruption), reported to prosecutors and the anti-corruption office in parallel.
-
-## Litigation Success Factors
-
-- **Speed.** File before harm is irreversible; courts protect what still exists more readily than what is already destroyed.
-- **Precaution over proof.** Argue uncertainty *for* protection — the precautionary principle is written into the law for exactly this.
-- **Procedure over merits.** Judges are far more comfortable voiding a decision for a skipped hearing or an ignored observation than for disagreeing with the agency's science.
-- **Standing breadth.** Use the widest available claimant — a registered NGO, the affected residents, a sympathetic ombudsman — and the collective-damage frame.
-- **A credible expert.** One serious technical report contradicting the EsIA anchors the whole case.
-
-## What to Avoid: Legal Failures
-
-- **Waiting too long.** Amparo and appeal windows are short; delay can forfeit the remedy.
-- **Suing on feelings.** Frame every claim as a breach of a specific legal duty.
-- **Going it alone.** Environmental litigation is specialised; a general lawyer without *ambiental* experience can miss the precautionary and collective-damage tools entirely.
-- **Treating the case as the whole campaign.** Litigation without organising and media pressure often wins a pause and loses the war of attrition.
-
-## Legal aid: who pays, and how to litigate on little
-
-Cost frightens communities out of court unnecessarily. Argentina offers several routes to litigate cheaply or free:
-
-- **University law clinics** (*clínicas jurídicas*) at public universities take environmental cases as teaching work, at no charge.
-- **NGO litigation:** FARN, environmental-lawyer networks and human-rights organisations litigate strategic cases directly or find pro-bono counsel.
-- **Beneficio de litigar sin gastos:** Argentine procedure lets people of limited means ask the court to waive filing fees and costs — a formal poverty exemption that removes the up-front financial barrier to an amparo.
-- **The amparo itself is cheap by design:** it is a summary action meant to be accessible, not a costly multi-year civil suit.
-- **The Ombudsman and the State as claimant:** where a provincial ombudsman or public prosecutor takes up the collective-damage claim, the community may not have to fund the litigation at all.
-
-The lesson from Esquel to Andalgalá is consistent: communities with almost no money have beaten companies with almost unlimited money, because the legal tools were built to be reachable. Do not let cost alone stop you from filing.
-
----
+Environmental amparos run before provincial and federal judges, and up to the **Supreme Court (CSJN)**, which has ordered cleanups and suspended permits. Get help early: public-interest law groups, the **Defensor del Pueblo** (which can bring an amparo itself), the assembly networks' lawyers, and university legal clinics have the experience and can advise on standing, the right action, and the risks before you file. A lawyer or Ombudsman contacted while objections are still live and evidence is fresh is worth far more than one contacted after the machinery arrives. When you approach a lawyer or a clinic, bring your timeline, your document index, and a one-page summary of the defect you believe is strongest; a well-organised community that has already done the documentation is far easier to take on, and far more likely to win, than one that arrives with only a grievance. The quality of your file, again, is the quality of your case.
 
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
-Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Argentina — so you file the right fact against the right rule.
-
-**A defective audiencia pública → grounds to annul.** Where the public hearing was skipped or its results ignored. Feed it with: the hearing record and its gaps.
-
-**An amparo ambiental + medida cautelar → suspend and review fast.** The environmental amparo can halt a project while it's decided. Feed it with: the rights violation and the risk of irreversible harm.
-
-**A DIA issued without proper EIA → nullity.** Ignored effects, no alternatives, weak assessment. Feed it with: the study's gaps and your expert critique.
-
-**Indigenous consultation (ILO 169, constitutional) skipped → strong ground.** Feed it with: the affected community's position and the absence of consultation.
-
-**The precautionary and non-regression principles.** Argentina's General Environmental Law (Ley 25.675) enshrines them. Feed it with: the environmental risk and the law's principles.
-
-The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." The amparo ambiental is fast and accessible; an environmental NGO can tell you how to plead it and the precautionary measure.
+You have a file of evidence. Now you must turn it into arguments — because the same fact persuades a judge, the Ombudsman, a journalist, a provincial legislator, an investor, and the community itself in different ways. Learning to translate your evidence for each audience is what lets a community reach every lever at once.
 
 ## One Fact, Many Arguments
 
-A single documented fact does several jobs at once, and learning to translate it multiplies its power. Take one finding — that substantive written observations filed during the assessment went unanswered. As a **legal argument**, it is a reviewable procedural defect that supports an **amparo** on due-process and precautionary grounds. As a **participation argument**, it shows the agency ignored the public it was required to hear. As a **political argument**, it becomes the case for a **consulta popular** or a provincial bill — the route that, at Esquel, turned an unanswered community into an ~81% "No" and a provincial ban. As a **media argument**, "they never answered us" is concrete and damning. Work through your strongest facts this way, asking what each proves to a judge, a legislature, a mayor, and a newsroom, and a pile of documents becomes an argument bank. In Argentina's federal structure, the same fact can be pressed province by province until one province closes the door.
+Take a single documented fact — say, that a mining authorisation was granted on a study that never assessed the town's water supply, after a public hearing whose objections went unanswered. That one fact becomes:
+
+- **A legal argument:** the authorisation rests on a deficient study and a defective hearing, and the precautionary principle was ignored — grounds for an amparo and a precautionary measure.
+- **A water argument:** the town's drinking and irrigation water is put at risk without assessment — the issue that unites a community and moves a plebiscite.
+- **A political argument:** provincial officials approved a project that threatens their own constituents' water, exposing them to accountability and building the case for a ban.
+- **A media argument:** a mine approved without studying the water it will consume or pollute — a clear, human story with a villain and a stake.
+- **A financier-and-buyer argument:** a project approved on a defective process in a contested province is a legal and reputational risk to those who fund and buy from the company.
+
+Same fact, five arguments, five audiences. Go through your strongest facts and, for each, ask what it proves to each audience. That table is your campaign's argument bank — and in Argentina the water argument, tied to a specific town and a specific defect, is often the one that moves both the assembly and the province. Keep the arguments anchored to the same documented facts, so a claim made to a reporter can be backed in a sworn statement and a claim made to the court can be spoken plainly at the assembly; consistency across audiences is itself persuasive.
+
+## Match the Argument to the Audience
+
+**The courts and the Ombudsman** want the breach framed precisely against the specific rule — the EIA's deficiencies, the hearing defect, the precautionary principle, the Glacier Law, the provincial ban — with the documents and the timeline that prove it.
+
+**Provincial and municipal officials** respond to their own community's clear voice and to legal and political risk — the ordinance, the ban campaign, the exposure of having approved a defective project.
+
+**Journalists** need a specific, verified, human story with a hook: a named town, a threatened water source, a documented defect, an imminent decision.
+
+**International allies, financiers, and buyers** respond to reputational and legal exposure — a contested project on a flawed process, tied to a named listed company.
+
+**The community itself** needs to see that the fight is winnable and shared — the small wins, the growing assembly, the pressure mounting — so it lasts.
+
+Learning to move fluently between these registers — the precise legal breach for the judge, the water for the town, the reputational risk for the financier, the human story for the reporter — is one of the most valuable skills a campaign can develop, because it lets the same underlying evidence work every lever at once without ever straying from the facts.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
-Coverage rarely decides a permit by itself, but it changes the political price of approval — and in Argentina, where governors and the national government answer to a highly mobilised public, that price is real. Media turns documentation and organising into pressure.
+Media is not vanity; it is a lever. Coverage raises the political cost of approval, reaches officials and financiers your letters cannot, protects activists by making them visible, and can turn a local fight into a provincial or national cause. Argentina's press is combative and its public mobilised, and "No a la Mina" became a national phrase precisely because Esquel made its fight impossible to ignore.
 
-## How Journalists Actually Work
+## Build the Story
 
-Reporters need a story with a hook, a human face, a conflict and a credible source — filed on a deadline. Make their job easy: hand them a clear factual summary, a compelling local voice, a document, and a photograph, and you are far more likely to be covered accurately. Become the source they trust and call.
+Reporters need specifics: a named place and people, a dated and documented defect or harm, a clear stake, and a live decision or deadline. "A mine threatens our town" is not a story; "a mining company holds an authorisation to open a cyanide pit six kilometres from a town of forty thousand, approved on a study that never assessed the town's water, and the community votes on it next month" is. Lead with your strongest verified fact, attach the map and the imagery, and offer a human voice — an elder, a mother, a *vecino autoconvocado* — and an independent expert.
 
-## The Newsworthiness Formula
+## Reach the Right Outlets
 
-A story travels when it has: a **specific threat** (to water, health, a beloved place), a **human face** (a family, a farmer, a child), a **conflict** (community vs. company/government), **stakes with a clock** (a hearing or deadline), and **credible evidence** (a test result, an expert, a document). Assemble these before you pitch.
+Work outward in rings. **Local and provincial press** first, where the story is felt and officials read it. Then **national outlets** — the major newspapers, broadcasters, and Argentina's strong online and investigative press — which carry political weight. Then, for a project touching a listed or foreign company or a globally resonant place (a glacier, Patagonia, an Indigenous territory), **international media and specialist environmental outlets**, which reach financiers and buyers. Feed each ring what it needs, and let coverage in one pull in the next. Pay particular attention to the ring that reaches the **money**: a listed proponent depends on shareholders, lenders, and buyers, and coverage in international and financial outlets — and briefings to responsible-investment bodies — can reach a company where provincial politics cannot. It is worth learning the specific investigative and environmental journalists who cover extraction in Argentina and the region; a reporter who already understands mining, glaciers, and Indigenous rights needs less briefing and writes with more authority, and a single well-sourced investigative piece can do more than a dozen brief notices. Give such a reporter an exclusive on your strongest documented finding and you gain an ally, not just a mention.
 
-## The framing that travels in Argentina: water
+## Sustain It, Make It Safe and True
 
-One frame has carried more Argentine environmental campaigns than any other: **water**. "*El agua vale más que el oro*" (water is worth more than gold) and "*el agua no se negocia*" (water is not negotiable) were not slogans invented for the press — they crystallised real fears about aquifers, glaciers and rivers, and they moved people who would never call themselves environmentalists. Esquel, Famatina, Mendoza and the glacier campaigns all won in the court of public opinion largely by making the fight about drinking water, not abstract ecology. If your project threatens a water source, lead with it: name the source, the number of people who depend on it, and the specific risk. Water is concrete, universal and non-partisan — it reaches farmers, tourism workers, mothers and mayors alike, and it is the frame most likely to turn a local worry into a provincial cause.
+A single article changes little; a drumbeat changes decisions. Plan a sequence — the filing, the hearing, the new document, the assembly action, the ban campaign, the plebiscite — so there is always a next hook, and build your own record (a simple page, a social feed, a growing album of dated photographs and video) so the story exists in a form journalists can pick up and that survives if posts are removed. Keep messaging disciplined, accurate, and consistent; one exaggeration handed to the other side can cost you credibility you cannot rebuild. And where activists have faced repression, weigh how and whom you expose: centre the collective and the documented facts rather than isolated individuals, coordinate with your legal and assembly leads, and never publish what you cannot stand behind. Verified, specific, human, and relentless — that is the coverage that shifts outcomes.
 
-## Know the Outlets That Cover This Beat
+# EMAILS & LETTERS
 
-- **National press:** *Página/12*, *La Nación*, *Clarín*, *Infobae*, *Perfil*, *Tiempo Argentino*, and *elDiarioAR* — different audiences and slants; pitch each in its own register.
-- **Environmental and investigative:** **Agencia Tierra Viva** (socio-environmental conflicts and assemblies), **Chequeado** (fact-checking — useful for correcting company claims), *La Nación Data* and other data teams, and **Mongabay Latam** for forests and biodiversity.
-- **Provincial and local media:** often the most important of all, because the decision-maker is provincial — but see the caution below.
-- **Radio and social platforms:** local radio reaches rural communities directly; social media lets you publish your own evidence and reach reporters.
+Written communications are how you enter objections, create a record, and reach the bodies that can act. Each does double duty: it asks for something and it documents that you asked. Keep copies of everything, and send important items so that receipt is provable. Below are adaptable templates for the situations you will meet most often. Keep them factual, specific, and grounded in the law and the evidence.
 
-## Building Reporter Relationships (The Key)
+## 8A. Objection During Environmental Review / at the Public Hearing
 
-Find the two or three journalists who already cover environment, extractivism or your province. Follow their work, offer them accurate tips and access before you need a favour, and always be reachable and honest. A single trusted reporter is worth more than a mass press-release blast.
+**To:** the provincial environment (or mining) authority
+**Subject:** Objection — [project], environmental-impact assessment [file no.]
 
-## Sample Media Timeline
+As a person affected by [project] at [location], I object during the environmental-impact review and at the public hearing. My grounds, with evidence: (1) the environmental-impact study [omits / understates] [effect — e.g. the impact on the town's water supply]; (2) [the public hearing was not genuinely held / objections were not answered]; (3) [the project affects a glacier / a protected area / an Indigenous territory / violates provincial law]; (4) the precautionary principle (Law 25.675) requires caution given the risk. I request that the authorisation be DENIED, or that [strict conditions / a proper study] be required, and that this objection be recorded. [Attachments.]
 
-- **Launch:** a factual first story framing the community as organised and evidence-based.
-- **Hearing:** coverage of the audiencia and the volume/quality of observations.
-- **New evidence:** each lab result or expert report is a fresh news peg.
-- **Legal filing:** the amparo and any precautionary measure are strong, concrete stories.
-- **Milestones and setbacks:** keep a steady rhythm so the fight never disappears.
+## 8B. Request for Environmental Information (Law 25.831)
 
-## Real Media Dynamics (Argentine grounding)
+**To:** [the provincial environment / mining / water authority; the municipality]
+**Subject:** Request for public environmental information — [project]
 
-Be strategic about Argentina's media landscape. Ownership is concentrated in a few large groups, and coverage of extractive projects can reflect commercial and political ties — including, at the provincial level, outlets that depend on provincial-government or mining advertising and may downplay opposition. Some national outlets and dedicated socio-environmental media cover assemblies sympathetically; others frame extraction as progress and protesters as obstacles. Map who is likely to be fair, cultivate them, and use your own channels to route around gatekeepers. Never exaggerate — in a polarised press, one inaccuracy becomes the company's headline.
+Under the Law on Free Access to Public Environmental Information (25.831) and the right of petition, I request copies of: the environmental-impact study and its authorisation and conditions; the public-hearing record; [the mining concession]; [the water permit]; [any Indigenous consultation record]; and [the applicable provincial and municipal norms]. As a member of an affected community, I ask that these be provided within the legal term.
 
-## Media Measurement
+## 8C. Statement Asserting Rights and Closed Ground
 
-Track what matters: stories placed, outlets reached, whether your framing and facts survive into the coverage, and — above all — whether decision-makers respond. Coverage that a governor or minister feels compelled to answer is worth more than clippings nobody in power reads.
+**To:** the provincial authority [and the company]
+**Subject:** [Project] — environmental rights, closed ground, and consultation
 
----
+[Project] threatens [the town's water / a glacier / a protected area] and proceeds [on the territory of [Indigenous community], through its legitimate authorities / in violation of provincial Law [no.]]. Under Article 41 of the Constitution and Law 25.675, we hold the right to a healthy environment and the protection of the precautionary principle; under the Glacier Law (26.639) [/ ILO 169 and Article 75(17)], [this ground is closed / our consultation is required]. These have not been respected. We require that all activity cease until they are, and reserve the right to bring an amparo with precautionary measures. [Signed by residents / the legitimate authorities.]
 
-## Amplifying at Scale — Media Help for Hire
+## 8D. Amparo Ambiental with Precautionary Measure (via counsel or the Ombudsman)
 
-Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
+**To:** the competent judge, via counsel or the Defensor del Pueblo
+**Subject:** Amparo ambiental and precautionary measure — [project]
 
-# SECTION 8: EMAILS & LETTERS YOU CAN COPY
+As [affected residents / an environmental association / an Indigenous community], we bring an amparo (Art. 43 of the Constitution; Law 25.675) with a precautionary measure against [the authority and the company], on the grounds that [the authorisation rests on a deficient study and a defective hearing / the project causes collective environmental damage / it sits on closed ground / consultation was denied / the precautionary principle was ignored]. We seek [the immediate suspension of the activity, the review and revocation of the authorisation, and measures to prevent and repair the harm]. [Grounds, timeline, technical readings, and maps attached.]
 
-Adapt these to your project and province. Keep them factual, brief and specific. Fill the bracketed fields.
+## 8E. Referral to the Defensor del Pueblo / Auditoría / Fiscalía
 
-## 8A. Email to a reporter (story pitch)
+**To:** the Defensor del Pueblo [or the audit body / the prosecutor]
+**Subject:** Referral — [harm / irregularity / rights violation], [project], [location]
 
-> **Subject:** Community in [town/province] challenges [project] over risk to [water/health/forest]
->
-> Dear [Name],
->
-> I write on behalf of [assembly / organisation], residents of [place]. A proposed [mine / fracking pad / factory / development] by [company] is advancing through [authority], with a decision expected around [date]. Our concern is concrete: [one sentence — e.g., "it would draw an estimated X million litres a day from the aquifer that supplies our town of Y people"].
->
-> We have [lab results / an independent technical review / the project's own file] documenting this, and residents who can speak to it. There is a clear deadline: [hearing / decision date].
->
-> Could we send you a short factual brief and connect you with affected residents? We can provide documents and photographs.
->
-> Thank you,
-> [Name, role, phone, email]
+We bring to your attention [the failures and the harm] connected with [project]: [sourced facts — an authorisation granted on a deficient study, a hearing whose objections were ignored, a glacier or watershed overlap, officials who acted or failed to act, threats against community members]. We request that you [bring or support an environmental amparo / defend the affected community / audit the public decisions and funds / open an inquiry], and we attach the documentation.
 
-## 8B. Letter to the environmental authority, or the municipality
+## 8F. Letter to the Municipality or Provincial Legislature
 
-> **Subject:** Formal concerns regarding [project], file [expediente N°]
->
-> To [Authority / official name and title]:
->
-> We, [assembly / organisation], representing residents of [place], submit our formal concerns regarding [project], currently under review in file [N°].
->
-> Our documented concerns are: (1) [specific impact + the legal duty it breaches — e.g., precautionary principle, Forest Law category, Glacier Law, Water Law]; (2) [specific impact]; (3) [specific impact]. We request that these be formally incorporated into the administrative file and answered on the record before any decision.
->
-> We also request confirmation of the dates for citizen participation and the **audiencia pública**, and full access to the file.
->
-> Respectfully,
-> [Names, on behalf of [organisation], contact]
+**To:** [the Mayor / the council / a provincial legislator / the legislature]
+**Subject:** [An ordinance / a ban / a hearing] — [project]
 
-## 8C. Citizen observation (participación) + recorded community position
+We are residents of [place] writing about [project]. Our concern, briefly: [one or two specific grounds — a threat to our water, a glacier overlap, a defective process]. Within your competence, we ask you to [pass a non-toxic / land-use ordinance / support a provincial ban on this class of mining / call a public hearing or plebiscite / address the provincial authorities]. [If true:] [#] residents and [#] organisations share this concern, and the matter carries legal and political risk. We welcome a meeting and can share our full evidence.
 
-> **Subject:** Written observations — [project], file [N°] — [name]
->
-> To [Authority]:
->
-> As [an affected resident / a registered environmental association with standing under Article 43 of the Constitution and the General Environmental Law], I submit the following observations for the file:
->
-> 1. **[Water / health / forest / glacier / Indigenous]:** [specific, evidenced objection, citing the EsIA page or the legal standard breached].
-> 2. **[Procedure]:** [e.g., the baseline is inadequate; cumulative impacts are not assessed; alternatives were not considered; Indigenous consultation under ILO 169 was not carried out].
-> 3. **[Request]:** that the authority reject the project, or at minimum require [independent study / additional baseline / rejection of the deficient EsIA], and that each observation above be answered on the record.
->
-> I request written confirmation that these observations were incorporated into file [N°].
->
-> [Name, ID/role, date, signature]
+## 8G. Coalition Outreach (to a legal-aid group, the UAC, or an international ally)
 
-## 8D. Coalition outreach email (to an organisation)
+**To:** [a public-interest law group / the Unión de Asambleas Ciudadanas / an international environmental organisation]
+**Subject:** [Project] — would you support our community's fight?
 
-> **Subject:** Request for support — community opposing [project] in [province]
->
-> Dear [Organisation],
->
-> [Assembly / group] in [place] is opposing [project], which threatens [impact]. We have [documentation / an active assembly / an approaching hearing on [date]].
->
-> We would value your support with [legal advice / an amparo / a technical review / amplification / standing as a co-claimant]. Given your work on [their focus], we believe this fits your mission. Could we arrange a call this week?
->
-> With respect and solidarity,
-> [Name, organisation, contact]
+We are a community assembly [and Indigenous community] in [place] facing [project], which [one-line stake — e.g. "would open a cyanide gold mine that threatens our water, approved on a study that never assessed it"]. We are getting in touch because [your network has carried these fights across the country / your reach can carry this to those who fund and buy from the company]. We are not asking you to adopt our whole campaign — only to consider [taking or advising on a case / connecting us to nearby assemblies / amplifying our fight]. We have documented evidence and community backing, and can send a brief and arrange a call.
 
-## 8E. Freedom-of-information request (Ley 27.275)
+## 8H. Email to a Reporter (Provincial, National, or International)
 
-> **Subject:** Access to public information request — Law 27.275 — [project / file N°]
->
-> To [Authority / its Access to Information officer]:
->
-> Under the Right of Access to Public Information (Law 27.275), I request copies of the following: (1) the complete file [N°] for [project], including the Environmental Impact Study; (2) all permits, resolutions and technical reports issued or pending; (3) the record of citizen participation and the audiencia pública; (4) all correspondence between the authority and [company] regarding this project; (5) [inspection / monitoring reports, if operating].
->
-> I request these in electronic form within the legal time limit. If any item is withheld, please cite the specific legal ground.
->
-> [Name, contact, date]
+**To:** [journalist]
+**Subject:** Story tip: [specific finding] — [the town / the water]
 
-## 8F. Legal challenge — amparo / precautionary measure / complaint (get advice)
+I follow your coverage of [beat]. We have something your readers should know, with a clear news hook: [documents] show [quantified finding — e.g. "a mining company holds an authorisation to open a cyanide pit six kilometres from our town, granted on a study that never assessed our water"], and [a decision / hearing / vote] is due [date]. It is specific, verified, and it echoes Esquel. I can share the full file and connect you with affected residents and [an independent expert]. Could we talk this week?
 
-> **Note:** This is a template to brief a lawyer, not a substitute for one. File through counsel experienced in *derecho ambiental*.
->
-> **Subject:** Instructions for environmental *amparo* — [project]
->
-> Facts: [project, authority, approval or imminent work, date]. Harm: [specific, and why it is serious and potentially irreversible]. Legal grounds: [Article 41 / Article 43 of the Constitution; General Environmental Law No. 25.675 (precautionary principle, Art. 4; collective damage, Art. 30); the specific minimum-standard law breached — Glacier / Forest / Water; absence of Indigenous consultation; procedural defect — hearing skipped or serious observations unanswered]. Requested: an **amparo** and an urgent **precautionary measure (medida cautelar / de no innovar)** to suspend the project pending the merits, on precautionary-principle grounds. Claimant/standing: [affected resident / registered environmental association / request Ombudsman intervention]. Evidence attached: [file, EsIA excerpts, lab results, expert report, photographs].
+## Using the Templates Well
 
-## 8G. Press release (effective)
-
-> **FOR IMMEDIATE RELEASE — [date]**
->
-> **[Community/assembly] warns [project] threatens [water/health/forest] of [place]**
->
-> [Place] — Residents of [place], organised as [assembly], today [filed observations / launched a legal challenge / held an assembly] against [project] by [company], warning it would [specific, evidenced impact].
->
-> "[Short, human quote from a named resident]," said [name, role].
->
-> [One paragraph of evidence: the numbers, the source, the legal duty at stake.] A decision by [authority] is expected around [date]; the community is calling for [clear ask].
->
-> Documentation and interviews available on request.
-> **Contact:** [name, phone, email]
-
-## 8H. Legal strategy decision tree (quick recap)
-
-> - Decision still pending → participation + FOI + substantive observations; prepare the amparo.
-> - Approved with a defective study or unanswered observations → amparo challenging legality + precautionary measure.
-> - Work imminent, irreversible harm → amparo + urgent precautionary measure (precautionary principle).
-> - Breaches a minimum-standard law or lacks Indigenous consultation → amparo on that illegality (strongest).
-> - Evidence of falsified data, undisclosed interest or a bribe → report to prosecutors and the anti-corruption office in parallel (Section 11).
-
----
+Send important communications so that receipt is provable, and log every one in your timeline — above all the authorisation dates, the hearing record, and any comment or appeal deadlines. Keep them factual, specific, and grounded in the law and the evidence; attach your documentation and technical readings; and route them, where you can, through or with the assembly, the legitimate community authorities, your legal-aid partner or the Ombudsman, and your allies. The reply — or the silence — becomes part of your record, and in Argentina that record feeds the levers that matter most: the assembly, the amparo, the closed ground, the province, and the vote.
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
-Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+Not everyone can run a long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
 
-1. **Take part in the audiencia pública and submit written observations before the deadline. Name one or two concrete grounds (water, a glacier or forest, an affected community). It enters the record.**
-2. **Get the Estudio de Impacto Ambiental and quote its worst admission back to the autoridad ambiental.** The developer's own words carry the most weight.
-3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
-4. **File one Ley 27.275 request** (Section 8E) — even if someone else uses it later.
-5. **Point one environmental NGO at the fight.** An environmental NGO such as FARN may take it from there — you hand off, you don't have to lead.
-6. **Consider an amparo ambiental with a precautionary measure** — a fast, accessible action that can suspend a project while the court decides.
-7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+**1. Find out if your province already bans it — today.** Check whether a provincial law bans this class of mining (as Chubut and Mendoza do). If it does, the project may be illegal outright, and your fight is enforcement, not persuasion.
 
-Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+**2. Open an assembly — even a small one.** The single most Argentine move is to gather your neighbours into an open, regular meeting. It informs the town, shares the load, and is the engine everything else runs on. Start it this week.
 
-# SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
+**3. Request the study and the hearing record.** One request under the environmental-information law (8B) forces out the EIA, the authorisation, and the hearing record — often revealing the missing water assessment, the ignored objection, or the closed-ground overlap that becomes your case.
 
-## Important Caveat
+**4. Check for glaciers, protected areas, and water.** Establish whether the footprint sits on or drains a glacier or periglacial area (barred by national law), a protected area, or a watershed. A single overlay map can prove a project is on closed ground.
 
-Sometimes you will do everything right and the project will still advance. Often this is not corruption — it is a system whose ordinary, lawful mechanics lean toward "yes." Understanding this honestly protects you from despair and from chasing conspiracies where there are none.
+**5. File an amparo with a precautionary measure — or ask the Ombudsman to.** The amparo (8D) is fast and, with a precautionary measure, can freeze the project quickly. The Defensor del Pueblo can bring it for you.
 
-## What This Tilt DOES (and DOESN'T DO)
+**6. Tell the world.** A threat to a town's water, a glacier, or Patagonia reaches the national and international press; a single accurate tip (8H) can turn a local fight into a cause and reach the company's financiers and buyers.
 
-The tilt is structural. In Argentina it works through several legal, everyday facts:
+**7. Push the municipality.** A letter to the council (8F) asking for a non-toxic or land-use ordinance is cheap and can block a project locally while you build the provincial case.
 
-- **Provinces own the resource and depend on its revenue.** The government that regulates a mine or oilfield often also collects its royalties and counts on them for salaries — so it wants the project to proceed.
-- **The company pays for the study.** The EsIA is prepared by consultants the proponent hires; it is rarely neutral.
-- **The hearing is non-binding.** The audiencia pública must happen, but the authority can lawfully approve over community objection.
-- **National policy favours extraction.** Since 2023 the national government has prioritised mining, lithium and Vaca Muerta shale as a source of dollars; the **RIGI** locks in incentives and stability for large investments for thirty years, which critics say insulates them from later challenge.
-- **Oversight has been weakened.** The national environment authority was downgraded from a ministry; the national **Ombudsman** post — a key standing-holder for environmental suits — has sat vacant for years; the native-forest protection fund is chronically underfunded; and in 2026 Congress narrowed the **Glacier Law**.
+Do only the first three and you will have checked the project's legality, started the engine that carries every other lever, and forced out the record that reveals its defect — the exact foundation Esquel built on. Then come back and read the rest. Even the shortest version has a spine: check the legality, start the assembly, force out the record. Everything else in this guide is an amplification of those three moves, and a community that does only them has already done more than most projects' opponents ever do.
 
-The current climate makes the tilt concrete. In 2023 the Province of Jujuy pushed through a constitutional reform quickly and without prior Indigenous consultation, in a lithium-rich region where Salinas Grandes communities were already resisting extraction. In late 2025, a Milei-aligned government in Mendoza advanced a copper project (PSJ Cobre Mendocino) that drew the province's largest environmental mobilisations since 2019. And nationally, the RIGI's thirty-year stability guarantees are designed precisely to make big projects harder to unwind later. These are the mechanics of a system leaning toward "yes" — lawful, deliberate, and beatable only with organisation, evidence and law applied together.
+# WHEN THE SYSTEM IS TILTED
 
-What the tilt does **not** do is make opposition pointless. It raises the bar. The counter is to lean on the tools the tilt cannot easily neutralise: the mandatory hearing record, the precautionary principle, minimum-standard laws, Indigenous consultation, and the courts — plus the political cost that organising and media impose.
+Argentina's system is tilted in specific ways you must understand, so you neither waste effort nor miss the levers that still work.
 
-## Assessment Framework — Determine Your Situation
+## Where the Tilt Shows
 
-Ask honestly:
+The tilt runs through **federalism**: the provinces own their resources and decide, so a province that wants mining, oil, or lithium can push it as hard as Chubut resisted one — and several provincial economies depend on extraction. The national government promotes it too. The pressure is intensifying: lithium in the northern *puna* (Jujuy, Salta, Catamarca), unconventional oil and gas at Vaca Muerta in Neuquén, and new national incentive regimes for large investments all push extraction hard, and provincial economies that depend on the royalties defend it. This is the current against which many communities now organise — which makes the assembly, the provincial line, and the closed ground more important, not less. **Public hearings are often non-binding**, and a provincial authority can approve over the objections raised. **Provincial bans are fragile** — Law 5001 carries a "zonification" loophole, and it and Mendoza's 7722 have faced repeated repeal attempts. **Enforcement lags**, and **Indigenous consultation** is too often a formality. And in some mining towns, **protest has met repression**. Two further pressures are worth naming plainly. Activists have faced **criminalisation** — charges, prosecutions, and restraining measures aimed at leaders — which is designed to drain a campaign's time and nerve; meet it by keeping leadership collective, documenting everything, and drawing on legal-aid and the Ombudsman rather than letting it isolate anyone. And proponents sometimes wield the threat of **international arbitration** against the State, arguing a ban or a revocation breaches an investment treaty; that is a pressure on governments, not a reason a community should stand down — the environmental rights and the closed ground are law too, and a project stopped lawfully is stopped. Where this tilt bites, the formal process gives less than it should — but real levers still reach past it.
 
-- Is the process *legal but biased* (study by the proponent, non-binding hearing, a province that wants the revenue)? → Fight through evidence, procedure and the courts; expect a long campaign.
-- Or are there *illegal acts* (a falsified study, an official with a hidden stake, a hearing never held, records withheld unlawfully)? → That is corruption; go to Section 11.
+## What Still Works — And Some Is Distinctive
 
-Most cases are the first. Knowing which you face keeps your strategy — and your claims — credible.
+The decisive point is that even where the system tilts, real and distinctive levers reach past it.
 
-## Direct Action and Safety: The Criminalisation Note
+**The organised assembly cannot be switched off.** A town organised into a lasting assembly, linked to a national network, is the lever that beat Esquel's mine and forced the Chubutazo repeal — and no authority can approve away a mobilised community.
 
-Argentina is a democracy with strong environmental-rights tools and, relative to the worst-affected countries in the region, comparatively low levels of lethal violence against defenders. That is the honest baseline — and it should not breed complacency, because the environment for protest and territorial defence has hardened.
+**A ban stops a class of projects.** Where you can win or defend a provincial ban, you stop not one mine but all of them — and communities have held these lines for two decades.
 
-- **Protest is being criminalised.** Since late 2023 the national security ministry has applied an "anti-picket" **protest protocol**, and demonstrations — including against the *Ley de Bases* in 2024 and recurring weekly protests — have been met with rubber bullets, tear gas, beatings and arbitrary detentions. Peaceful assembly remains a right, but expect a harder policing posture and prepare legal observers.
-- **Territorial defenders face charges.** Communities opposing lithium at **Salinas Grandes** (Jujuy/Salta) have faced threats, harassment and criminal complaints; in Patagonia, the Mapuche land conflict has produced deaths — **Santiago Maldonado**, who disappeared and died during a 2017 Gendarmería operation, and **Rafael Nahuel**, killed by security forces in 2017. In September 2024 a "Unified Command for Productive Security" was created to give extractive sectors "special security."
-- **Know your protections.** The **Escazú Agreement (Law 27.566)** obliges the State to protect environmental defenders and forbids **regression** in environmental protection — arguments civil society is actively using in court. Keep your actions peaceful and lawful, use legal observers, connect early with human-rights organisations (**CELS**, provincial ombudsmen, **ANDHES** in the north-west), and never let a member act alone under threat.
+**The amparo and precautionary principle reach the courts fast.** A community can get a project frozen with a precautionary measure, and the Supreme Court has suspended permits on precautionary grounds.
 
-Direct action is a personal and collective choice with real legal risk in the current climate; make it consciously, together, and with legal support arranged in advance.
+**Closed ground stays closed.** The Glacier Law bars the high cordillera regardless of the province's wishes, and an overlap is provable on a map.
 
-## Honest Assessment
+**The press and the world cannot be switched off.** A combative national press and international interest in Patagonia, the glaciers, and Indigenous rights reach past provincial politics to the company's financiers and buyers.
 
-Some projects are stopped. Many are delayed, shrunk or improved. Some proceed despite everything you do. A delay is not failure: it buys time for politics to shift, for a new government, for a market to move, for stronger evidence. Campaigns that "lost" the permit have still won bans, conditions, monitoring rights and precedents that protected the next community. Measure success honestly and broadly.
+## The Honest Frame
 
----
+So the honest frame for Argentina is real but recurring. The assembly, the provincial ban, the amparo, the precautionary principle, direct democracy, the closed ground, and a free press give a community genuine — in places distinctive — power, as Esquel and the Chubutazo proved. But federalism lets pro-extraction provinces push hard, bans are fragile and attacked again and again, hearings are often non-binding, enforcement lags, and protest can meet repression. So diagnose the tilt honestly: lean on the assembly, the province, the courts, and the closed ground, not on a friendly authority; document every defect and harm; protect your people and report threats at once; treat a provincial ban as a line to be defended forever, not won once; and think in terms of the line held, delay, exposure, and a proponent worn down as much as an outright, permanent stop. In a province-backed fight, that is often what winning looks like — and it is real.
 
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
+Sometimes a project advances not despite the evidence but because someone is being paid, pressured, or protected. Corruption changes your strategy: you stop trying to persuade a captured decision-maker and start exposing and going around them.
 
-**Municipio officials and councillors.** The most common pressure point: a municipio dependent on the project, or an official with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the ética pública and conflict-of-interest rules — misconduct can void acts and sanction officials.
+## How to Tell
 
-**The provincial environmental authority.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: an amparo ambiental or an administrative/judicial nullity action.
+Look for the signatures of capture. An **authorisation granted or a study waved through in the teeth of the evidence**, over strong documented objections and without addressing them, suggests more than error. A **public hearing staged as a formality**, its objections never answered; **officials with undisclosed interests** in the proponent; **permits issued at unusual speed**; **enforcement that never comes** despite obvious violations; and a **legislature that tries to convert a citizens' anti-mining initiative into a pro-mining law** — as happened in Chubut in 2014, when a legislator was photographed messaging a mining-company manager during the debate — all point the same way. And **threats or repression aimed at the assembly's leaders** are themselves a signature of something rotten. One anomaly may be incompetence; a pattern is capture. Corruption tends to leave its fingerprints in the sequence of events rather than in any single document — lay your timeline beside the official one and watch for approvals that cluster around a change of official or a company's arrival.
 
-**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the company registries, the property registry, and asset declarations surface the timeline a journalist needs.
+## Who Can Be Captured — and Who Is Harder
 
-**The courts.** Argentina's amparo ambiental and its General Environmental Law principles are strong, accessible levers, and courts have suspended projects and ordered clean-ups (Riachuelo). The constraints are provincial variation and enforcement; the medida cautelar is key where work could start before judgment.
+Be clear-eyed about where capture reaches. A **provincial office, a staged hearing, or a single legislator** can be bought or pressured. But the Argentine system has bodies harder to capture and that a corrupt provincial arrangement cannot easily reach: the **federal courts and the Supreme Court**; the **Defensor del Pueblo**; the **national audit and prosecutorial** bodies; the **national floor of environmental law** the province cannot go below; the **UAC and the national press**; and international attention. Corruption thrives on darkness and on staying provincial; your task is to lift the matter out of the captured node and into the light and the higher, cleaner fora.
 
-**Provincial and national politicians and priority projects.** Where a project is a stated provincial or national priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
+## What to Do
 
-**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Oficina Anticorrupción, the Auditoría General for public money, and the fiscalía for crimes — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
+Do not confront and tip off the captured official. Instead, **document the anomaly precisely** — the dates, the interests, the ignored objections, the missing inspections — and refer it, with evidence, to the bodies above (8E): the audit and prosecutorial bodies, the Ombudsman, the federal courts, and the press. Pair the referral with the amparo and the ban campaign, so the corruption and the harm are exposed together. Remember that exposure has its own momentum: an audit finding or a prosecutor's inquiry creates a record other bodies must reckon with, and a hearing shown to be staged collapses the process the authorisation stood on. And protect yourself above all — coordinate with your legal and assembly leads, involve the Ombudsman, keep the work collective and documented, and never carry it alone.
 
-# INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
+# INTEGRATION & TIMELINE
 
-## Realistic 12-Month Campaign Timeline
+The five steps win when they run together. Here is how they fit across the life of a fight.
 
-- **Months 1–2 (Foundation):** identify the target precisely; file the first FOI request; begin baseline documentation; hold the first one-to-ones and found the assembly.
-- **Months 2–3 (Launch):** public assembly; factsheet; first media story; monitor for the participation window.
-- **Months 3–4 (Evidence):** dissect the EsIA; commission an independent review; compile health and economic impacts.
-- **Months 3–6 (Coalition):** bring in NGOs, universities, church and Indigenous allies; sign written agreements; register a legal vehicle if needed.
-- **The hearing (whenever called):** file substantive written observations and speak — the decisive record.
-- **Months 6–12 (Escalation):** sustained mobilisation and media; prepare and, if warranted, file the **amparo** and precautionary measure; pursue any corruption evidence through proper channels.
-- **Throughout:** keep the base intact, the evidence growing, and the story alive.
+## Early (Weeks 0–8): Identify, Organise, and Document
 
-## Key Principles (What Separates Winning Campaigns from Losing Ones)
+Pin down the project, the permit, and the stage (Step 1). Open the assembly and form the core, with the legitimate community authorities (Step 3). Begin the file — request the study, the authorisation, and the hearing record (Step 2 and What to Gather). And move fast on what will not wait: **object during the review and at the public hearing**, and check whether a **provincial ban** already makes the project illegal. Reach a legal-aid group or the Ombudsman now, before deadlines close. This early phase is cheap, and it sets up everything else.
 
-- **Organise for endurance, not for one march.** The base still standing in month eighteen is the one that wins.
-- **Make it legal, not just emotional.** Every claim tied to a specific duty.
-- **Use procedure and precaution.** Argentina's sharpest tools reward the community that builds a clean record and argues uncertainty for protection.
-- **Combine all five tracks.** Documentation, organising, law and media reinforce one another; alone, each plateaus.
-- **Tell the truth, always.** Credibility is the one asset a community cannot buy back.
+## Middle (Months 2–12): Escalate on Every Front
 
-## Warning Signs — Act Early
+Grow the assembly and the coalition and show strength (Step 3). Turn your evidence into arguments for each audience (Turning Evidence). Escalate legally as the facts warrant — an amparo with a precautionary measure, the precautionary principle, the closed ground (Step 4). Refer the officials and the process to the audit bodies and the Ombudsman, and any threats promptly (8E). Build the media drumbeat from local to national to international (Step 5). Each front feeds the others: a filing is a headline, a headline is pressure, pressure moves an official, an official's document strengthens the filing. Do the cheap, time-sensitive things first, because a missed hearing or a lost deadline cannot be recovered.
 
-- Survey crews, notices, or a filed EsIA — the project is real; start now.
-- A participation window or hearing announced — your decisive record is due.
-- Work beginning — file for a precautionary measure *before* harm is irreversible.
-- Records refused, a hearing skipped, or a study that reads as fiction — escalate to legal and, if warranted, corruption channels.
+## Later (Months 6–48+): Sustain, Win the Line, and Redefine the Win
 
----
+Sustain the assembly against burnout; protect your people; keep the record and the coverage alive. Pursue the durable prizes — a **municipal ordinance**, a **provincial ban**, a **plebiscite** — the Argentine victories that outlast a single project. And judge success honestly. Sometimes it is an outright, permanent stop — an authorisation revoked, a project abandoned, a provincial ban won. More often, in a province-backed fight, it is a project **stalled for years, shrunk, re-sited, saddled with conditions, or so delayed and exposed that the proponent walks away** — and a provincial line drawn that protects the next town too. That is not a lesser victory. It is what winning usually looks like, and it is worth every effort it takes. And keep sight of the compounding return: every provincial ban won, every plebiscite held, every amparo that suspends a project, every hearing exposed as a sham adds to a body of precedent and example that the next community — and the national movement — draws on. Esquel did not only save its own valley; it created a template, a law, and a network that dozens of towns have used since. Your fight, however local, is also a deposit in that common account.
 
-# FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
+## The Shape of a Campaign
 
-## Real Outcomes: What Winning Looks Like
+```
+WEEKS 0-8      Identify | Open the assembly | Document | Object at the hearing | Get counsel
+MONTHS 2-12    Grow the assembly | Arguments | Amparo + precautionary measure | Referrals | Media
+MONTHS 6-48+   Sustain | Protect people | Win the ordinance / ban / plebiscite | Redefine the win
+```
 
-Argentine communities have secured the full range of outcomes: outright cancellations (Esquel's cyanide-mine defeat and the provincial ban that followed; assemblies that stopped projects in Famatina and elsewhere), court-ordered restoration of a devastated river basin (*Mendoza*), long precautionary suspensions that outlasted a company's patience, projects shrunk or bound by real conditions, and legal precedents — on the precautionary principle, on glaciers, on collective standing — that armed the next community. Winning is a spectrum. A binding condition, a monitoring right, a two-year delay, or a precedent can each be a genuine victory. The Mendoza assemblies did not merely defeat a single mine — they built a provincial law and then defended it twice against repeal, changing the political reality of extraction in the province for a generation. That is what durable organising compounds into: not one permit denied, but a standing capacity to say no.
+# FINAL ASSESSMENT
 
-## Decision Point: Continue, Modify, or Reassess
+Argentina gives communities a genuinely powerful — and, in places, distinctive — set of tools, and the honest measure of this guide is how squarely it faces both their strength and their limits.
 
-- **Continue** if the decision is still open, your base is intact, and legal or political openings remain.
-- **Modify** if one track has stalled — shift weight to the courts, to media, or to the political arena.
-- **Reassess** honestly if every avenue is exhausted — and even then, consolidate what you won (conditions, precedent, an organised community) and prepare for the next fight, because there usually is one.
+The strengths are real and distinctive. A community can organise into a **lasting assembly** linked to a national movement — the engine that beat Esquel's mine. It can win or defend a **provincial ban** that stops a whole class of projects. It can freeze a project fast with an **amparo** and a **precautionary measure**, and lean on a **precautionary principle** written into national law and used by the Supreme Court. It stands on **closed ground** — the glaciers barred by national law, the protected areas, the Indigenous territories. It can take the question **directly to the people** through a plebiscite, as Esquel did. And it can summon **a combative press and international attention** on Patagonia, the glaciers, and Indigenous rights, reaching the financiers and buyers a company depends on.
 
-## The Bottom Line
+The limits are just as real. Federalism lets pro-extraction provinces and the national government push hard; provincial bans are fragile and attacked again and again; public hearings are often non-binding; enforcement lags; Indigenous consultation is too often a formality; and protest has met repression in some mining towns. No guide should pretend otherwise. The twenty-year fight to defend Law 5001, and the repression at Andalgalá and Famatina, are the condition of this fight, not its exception.
 
-Argentina hands communities a rare toolkit: a constitutional right to a healthy environment, a duty on polluters to *restore*, a fast **amparo** almost anyone can file, a precautionary principle that lets courts pause projects under uncertainty, and a deep tradition of the neighbourhood assembly. The system also leans toward approval, and under current policy that lean has grown steeper. The communities that win are not the angriest or the best funded — they are the ones that organise for the long haul, document relentlessly, use the legal doors precisely, and never surrender their credibility. That combination has stopped mines above towns and forced the State to clean a poisoned river. It can work for you.
+So the realistic promise is this: **organise the assembly early, document every defect and harm, use the amparo and the precautionary principle, hold the closed ground, win and defend the provincial line, take the question to the people, and reach the world — and run all of it together, protecting your people above all.** Do that, and even against a province-backed project you can force delay, exposure, conditions, a line held, and a proponent worn down — and sometimes an outright stop. Do it as Esquel did, over years and across a whole province, with the assembly at the centre and public-interest lawyers, independent experts, and the national network at your side, and you can win a victory that protects not only your own town's water but the next community's too.
+
+A last word on endurance. These fights are won in years, not weeks, and the proponent is counting on your exhaustion. Its advantage is money and patience; yours is legitimacy, numbers, the assembly, and the fact that you are defending your home while it is merely pursuing a return. Play to that. Keep the file, keep the assembly, keep the record and the coverage alive, protect your people, and treat every delay, every disclosure, every referral, and every headline as a brick in a wall that grows too high and too costly for the project to climb.
+
+The tools are here, and Argentina's history proves they work: a small Patagonian town beat a multinational and wrote its refusal into law, and a whole province rose to defend that law and won. What decides the outcome is method, endurance, and courage — and those you supply. Begin today, begin cheaply, and build from there. Communities before you have stopped what looked unstoppable — a town at the ballot box, a whole province in the streets. The path is known, the tools are proven, and the only thing that has ever been missing in the fights that were lost was not the law but the organisation and the endurance to use it. So can yours.

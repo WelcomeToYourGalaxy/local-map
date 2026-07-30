@@ -1,1027 +1,464 @@
-
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN COLOMBIA
 
-**Complete Community Opposition How-To**
-
-A practical guide for communities facing destructive development projects in Colombia, grounded in the constitutional, participation, and environmental-licensing system and documented campaigns
-
-*This guide uses the Colombian legal terms you will actually encounter (acción de tutela, acción popular, consulta previa, licencia ambiental, and so on), each explained in plain language where it first comes up. It describes the national framework; departments and municipalities, and the regional environmental authorities, have their own rules — check locally.*
-
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
->
-> **A note on safety.** Colombia is, by international monitoring, the most dangerous country in the world for people who defend land and the environment. This is not an abstract risk. Please read the safety guidance in Section 9 **before** you organise or act.
-
----
-
-## TABLE OF CONTENTS
-
-1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
-2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
-3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
-5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
-7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
-8. **STEP 4: LEGAL CHALLENGES** — Participation, the tutela and acción popular, and the Council of State
-9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
-10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
-11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
-13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
-14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
-15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
-
----
+*Complete Community Opposition How-To*
 
 # INTRODUCTION & FRAMEWORK
 
-## Why This Matters
+Community action decides project outcomes in Colombia. Projects with the full backing of the national government and one of the world's largest mining companies still fall when the people who live where they are proposed organise, document the harm, and press every lever the law offers. On **26 March 2017**, the small farming municipality of **Cajamarca, in Tolima**, held a **popular consultation** — a *consulta popular* — on whether mining should be allowed in its territory. The answer was overwhelming: **97.92% voted No — 6,165 votes against, 76 in favour**. With that ballot, a rural community of coffee and arracacha farmers stopped **La Colosa**, the proposed open-pit gold mine of the South African multinational **AngloGold Ashanti** — a deposit of some 28 million ounces that would have been one of the largest gold mines on earth. Within weeks the company suspended all activity on grounds of force majeure. Years later, in November 2023, a court reaffirmed the legality of the consultation. It was a David-and-Goliath victory, and the community organised it themselves.
 
-Community action directly determines project outcomes in Colombia. Projects that clear every political and commercial hurdle still fall when opposition is organised, documented, and legally sharp. In 2017, the farming community of **Cajamarca**, in Tolima, faced one of the world's largest proposed gold mines — and used a **popular consultation (consulta popular)** to vote it down, with about 98% saying no; the company suspended the project. Across the country, communities, ethnic peoples, and campaigners using the **acción de tutela**, the **collective action (acción popular)**, **prior consultation (consulta previa)**, and Colombia's remarkable **rights-of-nature** rulings have forced projects to be refused, suspended, redesigned, or abandoned. These outcomes were not inevitable; communities made them happen.
+That victory did not fall from the sky. It was built over years by the **Environmental and Peasant Committee of Cajamarca and Anaime** (*Comité Ambiental y Campesino de Cajamarca y Anaime*), formed in 2011 — through study, marches, water-quality work, alliances with lawyers, and a patient campaign to win a lawful, binding vote. Communities across Colombia have used the same tools to force projects to be refused, halted, redesigned, or abandoned. In 2016 the Constitutional Court recognised the **Atrato River itself as a subject of rights**, ordering the State to clean and protect it. Colombians have used the *tutela*, the *acción popular*, and the Constitutional Court to defend páramos, rivers, and territories again and again. These outcomes were not inevitable. People made them happen.
 
-But most communities don't know HOW to make opposition effective. They attend one hearing, then give up. They assume "the authority will refuse it" without building public pressure, filing the right legal action, or invoking their right to consultation. They generate coverage without a strategy. They organise people and then lose them to burnout — or to fear — after a few months.
+But most communities do not know HOW to make opposition effective. They attend a single hearing and then go home. They assume the environmental authority "will never approve it," and so they never file a written objection, never request the file, never build the public pressure that changes a decision. They generate a burst of coverage without a plan to sustain it. They gather a crowd and then lose it to exhaustion. The gap between a community that stops a project and one that watches it get built is rarely courage or numbers. It is method.
 
-**This guide shows what actually works — in the Colombian system. It also takes seriously that, in Colombia, this work can be dangerous (Section 9).**
+**This guide shows what actually works — inside the Colombian system.**
 
 ## The Strategic Framework
 
-Successful opposition campaigns follow the same basic pattern:
+Effective opposition campaigns follow the same underlying pattern, whichever project they face:
 
 ```
-STEP 1: TARGET IDENTIFICATION
-↓
-STEP 2: DOCUMENTATION (proof of harm)
-↓
-STEP 3: LOCAL OPPOSITION BUILD (organised community)
-↓
-STEP 4: LEGAL CHALLENGES (tutela / collective action)
-↓
-STEP 5: MEDIA STRATEGY (public visibility)
-
-These operate SIMULTANEOUSLY (not sequentially)
-Each step amplifies the others
-Multi-tactic pressure compounds toward victory
+STEP 1: TARGET IDENTIFICATION  (find the decision and its weak point)
+        |
+STEP 2: DOCUMENTATION          (build proof of harm and of every defect)
+        |
+STEP 3: LOCAL OPPOSITION        (organise a community that lasts)
+        |
+STEP 4: LEGAL CHALLENGES        (tutela, acción popular, consultation, the courts)
+        |
+STEP 5: MEDIA STRATEGY          (make the fight visible, at home and abroad)
 ```
 
-**Why the legal step matters so much here:** Colombia gives communities an unusually rich set of levers. The **acción de tutela** is a fast, accessible constitutional action — anyone can file it, and a judge must decide it quickly — to protect fundamental rights, including the right to a healthy environment; it is the tool that produced Colombia's world-famous **rights-of-nature** rulings, in which courts have recognised the **Atrato River**, the **Amazon**, and other ecosystems as **subjects of rights**. The **collective action (acción popular)** protects collective rights like the environment. **Prior consultation (consulta previa)** must take place before a project affects an **Indigenous or Afro-Colombian** community. And a **licencia ambiental** rests on an environmental study whose defects are a route to court. No Colombian campaign should be planned without understanding these. (One honest caveat: after Cajamarca, the Constitutional Court limited how far a **popular consultation** can block mining on its own — so get current advice; the other levers remain strong.)
+These steps operate **simultaneously, not in sequence**. Documentation feeds the legal case and the media story at once; organising sustains the pressure the courts and the press respond to; a lawsuit is a headline and a headline strengthens a lawsuit. The community that runs all five together, each reinforcing the others, is the one that wins. Cajamarca did exactly this: it studied the project and documented the water risk, organised across the veredas, built alliances with lawyers and national networks, pursued the legal route to a binding vote, and made its fight a national story — all at the same time.
 
-## Critical Caveat: A Tilted System Can Make Opposition Harder (But Doesn't Make It Impossible)
+## The Levers That Are Distinctly Strong Here
 
-**Before you invest time, money, and emotional energy, understand this:**
+Every country's system has its own pressure points. Colombia's 1991 Constitution and its courts give communities a set that is unusually favourable to those who know how to use them:
 
-**First, a definition.** This guide calls it a **system tilted toward approval** (sometimes called *institutional bias*). It does not mean anything illegal. It means the bodies that decide on a project lean toward approving it — because the nation owns the subsoil and depends on mining and oil royalties, because departments and municipalities want investment, or because the developer's own consultants prepare the study.
+- **The right to a healthy environment and to participate.** Article 79 of the Constitution guarantees every person the right to a healthy environment and the right to participate in the decisions that may affect it; Article 8 makes protecting the nation's natural riches a duty of the State and of all people. These are not slogans — the courts enforce them.
+- **The acción de tutela.** Article 86 gives anyone a fast, lawyer-optional action to protect a fundamental right, decided by a judge in days, not years. It is the most-used and most powerful citizen legal tool in Colombia.
+- **The acción popular.** Article 88 and Law 472 of 1998 give any person an action to defend **collective rights** — including the right to a healthy environment, public space, and public health — without having to prove a private injury.
+- **Prior consultation (consulta previa).** For Indigenous and Afro-Colombian communities, ILO Convention 169 (adopted through Law 21 of 1991) requires free, prior and informed consultation — and, where a project threatens their survival, their consent — before it may proceed on their territory. Because Indigenous *resguardos* and Afro-Colombian collective territories cover much of the country's remaining forest, river, and highland — precisely the ground destructive projects covet — this consultation right protects a vast share of what is worth defending, and it belongs to the community by law and by the Constitution, not by the grace of any authority or company.
+- **Popular consultation (consulta popular).** A municipality's voters can be asked a binding question about their territory's future — the tool Cajamarca used. Its reach over mining was later narrowed by the Constitutional Court (a limit this guide treats honestly below), but as an instrument of participation and pressure it remains real.
+- **A Constitutional Court that protects nature.** The Court has closed páramos to mining, recognised rivers as subjects of rights, and repeatedly defended communities and the environment — a body a captured local process cannot reach.
+- **Land-use authority and a free press.** Municipalities govern land use through their Territorial Ordering Plans (*POT*); Colombia has a combative independent press and a place in the global conservation imagination — the Amazon, the páramos, the two oceans — that draws international attention and reaches a listed company's investors.
 
-When these factors are present, opposition becomes harder. It does not become impossible. It becomes slower and more expensive and has a lower chance of stopping a project outright — but it still routinely wins suspensions, conditions, redesigns, and delay. Where there is genuine misconduct — bribery, an undisclosed conflict of interest, the offences the anti-corruption bodies handle — that is a different and more serious problem, covered in Section 11.
+## What This Guide Will Not Pretend
 
-**This is covered in Sections 10 and 11. Read them — and read Section 9 on safety — before committing resources.**
+It would be dishonest to promise that these levers always prevail. Colombia is, year after year, the **deadliest country in the world for land and environmental defenders**, with more killings recorded than anywhere else; social leaders and environmentalists are threatened, displaced, and murdered, a legacy of armed conflict that has not ended. The national economy leans hard on mining and oil, and successive governments have promoted them. Crucially, in 2018 the Constitutional Court's **SU-095 ruling** held that a *consulta popular* cannot by itself decide whether subsoil mining happens in a municipality, because the subsoil belongs to the nation — narrowing the very tool that won Cajamarca. This guide takes those facts seriously, names them plainly, and shows you how to win anyway — and, where an outright, permanent stop is not realistic, how to secure the delay, the exposure, the withheld consent, and the worn-down proponent that, in a hard fight, are what winning actually looks like.
 
----
+# HOW THE SYSTEM WORKS
 
-# HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
+You cannot pull a lever you cannot see. Before you spend a single afternoon, map who actually decides your project's fate, at which level, and where along that path the decision is weakest.
 
-If you've never dealt with how projects get approved, read this section first. It explains, in plain terms, who holds power over a development in Colombia, how a decision gets made, why the money so often points toward "yes," and the handful of words you'll need. Every term is defined here on first use. The rest of the guide assumes you know this map.
+## The Levels of Decision
 
-## The levels of government — and what each one controls
+A Colombian development project runs a gauntlet of approvals, and each is a place to intervene.
 
-Colombia is a unitary republic with three levels of government and a strong system of regional environmental authorities.
+**National.** Most large or damaging projects need an **environmental licence** (*licencia ambiental*) from the **National Environmental Licensing Authority (ANLA)**, under the environmental-sector rules gathered in Decree 1076 of 2015. Mining projects need a title from the **National Mining Agency (ANM)** and are governed by the Mining Code (Law 685 of 2001); oil and gas run through the Agencia Nacional de Hidrocarburos. The **Ministry of Environment** sets policy. Each licence has conditions, obligations, and a paper trail — and each is only as valid as the process that produced it.
 
-- **National government** — the **Ministry of Environment (Ministerio de Ambiente y Desarrollo Sostenible)** sets policy; the **National Environmental Licensing Authority (ANLA)** evaluates and grants the **environmental licence (licencia ambiental)** for large or strategic projects (mining, oil and gas, big infrastructure); the **National Mining Agency (ANM)** grants mining concessions; and the sector agencies handle hydrocarbons and energy.
-- **Regional environmental authorities (CARs — Corporaciones Autónomas Regionales)** — grant environmental licences and permits for many projects and manage regional resources; the departments (gobernaciones) sit alongside them.
-- **Municipalities (municipios)** — control **land-use planning (the POT — Plan de Ordenamiento Territorial)** and local matters.
+**Regional.** The **Regional Autonomous Corporations (CARs)** — Cortolima in Tolima, and its counterparts elsewhere — license and oversee smaller projects, manage watersheds and páramos, and inspect. The **department** and its governor and assembly add another layer.
 
-**So which body decides *your* project?**
-- A mine, oil or gas project, dam, power line, or major road → an **environmental licence** based on an **environmental study (EIA)**, from **ANLA** (national) or the **CAR** (regional) depending on the project; plus a mining concession from the **ANM** for mining.
-- Anything affecting an **Indigenous, Afro-Colombian, Raizal, or Rom community** → their **prior consultation (consulta previa)**, under the Constitution and **ILO Convention 169**.
-- Anything in a **páramo** (high-altitude wetland), a protected area, or a collective territory → the special, stricter rules that apply (mining in páramos is banned).
+**Municipal.** The **mayor (alcalde)** and **municipal council (concejo)** govern land use through the **Territorial Ordering Plan (POT)** — a real power over where activities may occur — issue local permits, and can call a *consulta popular*. Even after SU-095, a municipality's land-use and environmental competence, exercised in coordination with national authorities, remains a genuine front.
 
-## The expert and decision bodies
+**Ethnic territories.** Cutting across all of these: where a project affects an **Indigenous *resguardo*** or an **Afro-Colombian community's collective land**, **prior consultation** is required, and where the project threatens the community's survival, its consent. In much of rural Colombia this is the decisive gate, protected by the Constitutional Court.
 
-- **ANLA and the CARs** — evaluate the environmental study and decide the licence.
-- **The Ministry of Environment** and independent experts — set policy and assess effects.
-- **The courts (including the Constitutional Court and the Council of State), and the oversight bodies** — the accountability bodies (see the overseers, below, and Section 11).
+## The Journey of a Project
 
-## How a decision is actually made — the licence journey
+A typical project moves from title or concession, to an environmental-impact study, to the environmental licence and its conditions, to local land-use and permit questions, and — where ethnic territories are involved — through prior consultation, before construction. **Every one of those stages is a door you can put your foot in.** The earliest doors are the cheapest and the widest: an objection during the licensing study, a demand that it address a risk it ignored, a land-use argument before the council, a prior consultation asserted. The later doors — a *tutela* or *acción popular* against a granted licence, a challenge to an operating mine — are narrower but real, and communities walk through them and win. Find out exactly where your project stands on this path today; that tells you which door is open now. One requirement is worth singling out: an environmental licence granted without the participation the Constitution guarantees, or without a required prior consultation, is legally vulnerable on that ground alone. Two participation windows are worth watching for in particular: the **public hearing (*audiencia pública ambiental*)**, which any community or a set number of citizens can request during licensing, and the **information and objection stages** of the study itself. A project that raced past these, or held them as a formality, has handed you both an argument and an entry point — and the record of who asked to participate, and how they were answered, is among the most useful early documents you can gather.
 
-For a project that may affect the environment, the developer must obtain an **environmental licence (licencia ambiental)** based on an **environmental impact study (EIA)**. The process runs roughly:
+## Follow the Money and the Consent
 
-1. **Study and application** — the developer files the **EIA** with **ANLA** or the **CAR**.
-2. **Participation** — any community, or a group of citizens, can **request a public environmental hearing (audiencia pública ambiental)** to put concerns and evidence on the record; where an ethnic community is affected, a **prior consultation** must take place.
-3. **Evaluation** — the authority evaluates the impacts, alternatives, and mitigation.
-4. **Decision** — the authority **grants, conditions, or denies** the licence.
+Behind the permits stand a proponent, its financiers, its buyers, and the officials who signed off. A mining firm may be a subsidiary of a larger, listed multinational — La Colosa was AngloGold Ashanti's, a company answerable to shareholders, lenders, and gold markets that a reputational blow can reach. Trace who owns the proponent, who funds it, who buys its output, and which officials granted its licences. Two questions unlock most Colombian fights: **Was the community's right to participate — or to prior consultation — respected?** and **Who benefits from pretending it was?**
 
-Where an **ethnic community** is affected, a genuine **prior consultation** is required. A **defective EIA, a skipped or flawed public hearing, a missing prior consultation, or harm to a páramo or protected area** are among the strongest grounds to stop or delay a project — and the route to the courts.
+## The Overseers## The Legal Foundations
 
-## The rulebook — the laws that decide the outcome
+A handful of laws recur in almost every Colombian fight, and knowing which one your project offends tells you which door to use. The **1991 Constitution** anchors everything: Article 79 guarantees a healthy environment and the right to participate in decisions affecting it; Article 80 charges the State with planning the use of natural resources; Article 8 makes protecting the nation's natural riches a duty of all; Article 88 opens the collective *acción popular*; Article 86 gives the *tutela*; Articles 329–330 protect Indigenous territories; and Article 332 vests the subsoil in the State — the provision at the heart of the SU-095 ruling. Beneath the Constitution sit the workhorses. **Law 21 of 1991** brings ILO Convention 169 and prior consultation into force. **Law 99 of 1993** created the environmental system, the Ministry, and the CARs. The **Mining Code** (Law 685 of 2001) governs titles; **Decree 1076 of 2015** gathers the environmental-licensing rules that ANLA and the CARs apply. **Law 472 of 1998** governs the *acción popular*; **Law 1712 of 2014** and the right of petition (Article 23) open the records. **Law 1930 of 2018** protects the páramos. And the **Escazú Agreement** (Law 2273 of 2022) binds the State to protect defenders and guarantee access to information, participation, and justice. You do not need to master them all; you need to find the one your project breaches, and build on it.
 
-- **The 1991 Constitution** — often called the **"Ecological Constitution"**: the right to a **healthy environment** and to participate in decisions affecting it (Article 79); the state's duty to plan the use of natural resources (Article 80); the **acción de tutela** (Article 86); the **collective actions (acciones populares)** (Article 88); the **right to petition (derecho de petición)** (Article 23); and the rights of **ethnic communities**, including consultation.
-- **Law 99 of 1993** — the framework environmental law (the environmental licence and the national environmental system, SINA).
-- **ILO Convention 169** (Law 21 of 1991) — **prior consultation**.
-- **The páramo protection** (mining banned in páramos) and the **precautionary principle**.
-- **The Escazú Agreement** — access to information, participation, justice, and protection of defenders — which Colombia has ratified.
-- **The Transparency and Access to Information Law (Law 1712 of 2014)** — the right to information.
 
-## Follow the money — why the system often leans toward "yes"
 
-- **The nation owns the subsoil**, and mining and oil **royalties (regalías)** fund the national and regional budgets — so there is strong central pressure to license extraction.
-- **Departments and municipalities** compete for investment and jobs.
-- **Developers** are often large companies, and — importantly — the **environmental study is prepared by the developer's own consultants**, so it tends to read in the project's favour.
-- Refusals are relatively rare; most projects that reach a decision are licensed, with conditions.
+Finally, know the bodies that watch the deciders, because they are levers too. The **Procuraduría General**, through its environmental and agrarian delegate, disciplines erring officials and can intervene in defence of collective rights. The **Defensoría del Pueblo** defends human rights and accompanies threatened communities and defenders. The **Contraloría** audits public money. The **courts** — from local judges hearing *tutelas* up through the Consejo de Estado and the Constitutional Court — decide the actions and set the precedents. And the **Escazú Agreement**, which Colombia ratified in 2022, binds the State to protect environmental defenders and guarantee access to information, participation, and justice. Each overseer is a separate front, reachable with the same evidence, and a project rarely survives pressure on several at once.
 
-None of this makes a decision inevitable. It explains why a decision rarely tips your way on its own — it takes organised, evidenced pressure.
+# QUICK REFERENCE: SUCCESS RATES
 
-## The overseers — who watches the decision-makers
-
-- **The Constitutional Court** — reviews **tutelas** (and produced the **rights-of-nature** rulings); the **Council of State (Consejo de Estado)** — the top administrative court, which hears **collective actions** and challenges to licences.
-- **The oversight bodies** — the **Procuraduría** (disciplinary control of officials), the **Contraloría** (fiscal control), and the **Fiscalía** (criminal prosecution) (see Section 11).
-- **The Ombudsman (Defensoría del Pueblo)** — human rights and defender protection.
-- **ANLA** — which can also review and revoke licences.
-
----
-
-# QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
-
-These ranges describe the general effectiveness of each tactic drawn from documented opposition campaigns. They are patterns, not guarantees. In Colombia, the variable most likely to push a campaign above these ranges is a well-founded challenge on a real defect — a defective **EIA**, a missing **prior consultation**, or harm to a **páramo** or a water source — carried through the **acción de tutela** or the **collective action** (Step 4).
+Before you commit months of effort, calibrate honestly. These figures are **directional, not guarantees** — patterns drawn from how Colombian and comparable campaigns tend to go, not a controlled study. The decisive variables are whether the project needs prior consultation on an ethnic territory, whether it sits in or overlaps a páramo or a protected area, whether its environmental licence has a real defect, how firmly the national government backs it, and whether the world is watching. Where consultation is required and the place is treasured, Colombia's levers are real; where the government champions the project and the courts prove unwilling, discount the figures and think in terms of participation, delay, exposure, and outside pressure.
 
 ## Individual Step Success Rates
 
-| Step | Success Rate | Timeline | Cost (COP) | What "Success" Means |
-|------|--------------|----------|------|---------------------|
-| **Documentation Only** | 5-10% | 3-4 months | COP$150 million | Project slowed, public awareness only |
-| **Opposition Only** | 15-20% | 6-12 months | COP$400 million | Public pressure, minor modifications |
-| **Legal Only** | 20-30% | 12-24 months | COP$0-250 million | Slow; strong if the defect is real |
-| **Media Only** | 10-15% | 3-6 months | COP$150 million | Public knows, but no action |
-| **Docs + Opposition** | 25-35% | 12 months | COP$500 million | Slowed, some modifications |
-| **Docs + Legal** | 30-40% | 12-18 months | COP$600 million | Stronger legal arguments |
-| **Opposition + Legal** | 35-45% | 12-18 months | COP$750 million | Political pressure strengthens the case |
-| **Opposition + Media** | 30-40% | 9-12 months | COP$500 million | Visibility creates political pressure |
-| **All 5 Steps Combined** | 60-75% | 12-24 months | COP$900 million | Licence suspended/refused/modified or project shelved |
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Participation in the licensing / public hearing** | 15–35% | during review | low | On record; conditions or a redo |
+| **Prior consultation (ethnic territory)** | 35–60% | ongoing | low | No lawful consent; project stalled or void |
+| **Páramo / protected-area exclusion** | 35–55% | 6–30 months | low–moderate | Project excluded from closed ground |
+| **Environmental-licence challenge (tutela / acción popular)** | 25–45% | 6–36 months | low–moderate | Licence suspended or reviewed; delay |
+| **Popular consultation (participation & pressure)** | 20–45% | 6–24 months | low–moderate | Political mandate; project stalled (see SU-095) |
+| **Procuraduría / Defensoría / Contraloría referral** | 15–40% | 6–24 months | low | Findings; discipline; oversight |
+| **International attention / financier & buyer pressure** | 30–55% | 6–36 months | low | Reputational and investor pressure; proponent falters |
+| **Documenting a legal violation (illegal work, licence breach)** | 30–50% | 3–18 months | low | Breach exposed; sanction; leverage |
+| **Land-use (POT) / municipal action** | 20–45% | 6–24 months | low–moderate | Local restriction; project constrained |
+| **All steps combined (consultation required, world watching)** | 45–65% | 12–36 months | low–moderate | Stalled, delayed, voided, or forced to change |
+| **All steps combined (government-backed, courts unwilling)** | 25–45% | 12–48 months | low–moderate | Delayed, exposed, conditioned; sometimes stopped |
 
-**Key insight:** All five steps together = 3-4x more effective than any single step.
+**Key insight:** every step together beats any single one, and Colombia's real strengths are unusual — a genuine **prior-consultation right** on ethnic territories, the fast and powerful **tutela**, the collective **acción popular**, hard **páramo and protected-area closures**, a **Constitutional Court that protects nature**, real **municipal land-use power**, a **combative free press**, and an **international spotlight** on a megadiverse country that reaches a listed company's investors and buyers. Its constraints are a **national government that backs mining and oil**, the **SU-095 limit** on popular consultations over subsoil, slow courts, and grave **danger to defenders**.
 
-*A note on legal cost: the **acción de tutela** and the **right to petition** are free and need no lawyer, and public-interest organisations (such as Tierra Digna, Dejusticia, and CENSAT) and university legal clinics take these cases, often at no charge — so the "Legal" figures are not a hard floor. The main cost is expert evidence.*
-
----
+*A note on cost: participating, documenting, organising, and asserting consultation rights are inexpensive, and public-interest lawyers and networks — the groups that won the Atrato River case among them — have carried community cases. The expenditure that most changes outcomes is committed **legal support** and the reach of the **media campaign** — both of which Cajamarca marshalled.*
 
 ## Effectiveness Visualization
 
 ```
-SUCCESS PROBABILITY (Licence Suspended/Refused/Modified/Project Shelved)
+SUCCESS PROBABILITY (stalled, delayed, voided, forced to change, or stopped)
 
-CLEAN DECISION SCENARIO:
-All 5 Steps Combined:  ████████████████ 65-75%
-Same chance as: a coin coming up heads twice (75%)
+CONSULTATION REQUIRED, WORLD WATCHING -- ethnic territory / páramo, press + intl. reachable:
+All steps combined:          █████████████   45-65%
+Prior consultation:          ████████████    35-60%
+Páramo / protected-area:     ████████████    35-55%
+International pressure:      ████████████    30-55%
+Single step:                 ██              5-45%
 
-4 Steps Combined:      ███████████████ 55-65%
-Same chance as: a forecast of 60% rain being correct
-
-3 Steps Combined:      ██████████ 45-55%
-Same chance as: a single coin flip (50%)
-
-2 Steps Combined:      ████████ 30-40%
-Same chance as: drawing a face card from a deck
-
-Single Step:           ██ 5-20%
-Same chance as: rolling a specific number on one die
-
-WITH MODERATE TILT FACTORS:
-(Strong royalty-driven push, or a developer-funded study)
-
-All 5 Steps Combined:  ██████████ 40-45%
-4 Steps Combined:      ████████ 30-40%
-3 Steps Combined:      ██████ 20-30%
-2 Steps Combined:      ████ 15-25%
-Single Step:           ██ 3-12%
-
-WITH SEVERE TILT FACTORS:
-(A project of "national strategic interest," developer-only studies, heavy backing)
-
-All 5 Steps Combined:  ████ 25-30%
-4 Steps Combined:      ███ 18-24%
-3 Steps Combined:      ██ 12-18%
-2 Steps Combined:      █ 8-15%
-Single Step:           █ 2-8%
+GOVERNMENT-BACKED PROJECT -- state champions it, courts unwilling:
+All steps combined:          █████████       25-45%
+Consultation + intl. + exposure: ███████████ the strongest combination
+Delay / documented breach:   ████████████    more achievable than an outright stop
+Single step:                 ██              5-35%
 ```
 
-**One important point:** a single clear legal defect — most powerfully a missing **prior consultation**, a defective **EIA**, or harm to a **páramo** or a protected water source — can lead a court (through a **tutela** or a **collective action**) to suspend or annul a licence even where the politics favour the project, because it is applying a constitutional standard the authority cannot ignore. (A suspended licence can be re-granted after the defect is addressed — so an early win may need defending, as Cajamarca's community found.)
-
----
+**How to read this honestly.** The levers that most change outcomes in Colombia are **prior consultation and the courts**, reinforced by páramo and protected-area closures, the tutela and acción popular, municipal land-use power, international pressure, and documented violations. Cajamarca shows the ceiling: a rural community studied the project, documented the water risk, organised for years, allied with lawyers, and won a binding vote that stopped a gold giant. The floor is set by a government that backs extraction, the SU-095 limit on popular consultations, and the danger defenders face. Most Colombian fights sit between them, and the honest lesson is that consultation, the courts, and global attention are powerful, genuine levers — but against a government-backed project the realistic win is often participation forced, delay, exposure, and a proponent worn down, as much as an outright, permanent stop.
 
 ## Step Importance Ranking (When All Combined)
 
-```
-1. OPPOSITION BUILDING (Step 3)     ████████████████ 25%
-   Why: creates political pressure, visible to decision-makers, enables other steps
-
-2. DOCUMENTATION (Step 2)           ███████████████ 22%
-   Why: provides ammunition for the courts and media; grounds opposition in facts
-
-3. MEDIA STRATEGY (Step 5)          ████████████ 20%
-   Why: makes opposition/legal/documentation visible, creates political cost
-
-4. LEGAL CHALLENGES (Step 4)        ███████████ 18%
-   Why: the tutela and collective action can suspend a licence — and hold the consultation and rights-of-nature levers
-
-5. TARGET ID (Step 1)               ██████ 15%
-   Why: foundation — if wrong, everything fails
-```
-
-**Real insight:** a large, organised, visible community that has also put well-argued concerns on the record at the **public hearing** and, as an ethnic community, insisted on genuine **prior consultation**, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
-
----
+1. **Prior consultation on ethnic territory** — the consultation, and where survival is at stake the consent, an Indigenous or Afro-Colombian community must give; the country's distinctive and strongest lever, protected by the Constitutional Court.
+2. **The Constitutional Court and the closed ground** — the páramo and protected-area exclusions, and the precedents (rivers as rights-bearers, páramos off-limits) that a captured local process cannot reach.
+3. **The tutela and the acción popular** — the fast fundamental-rights action and the collective environmental action any Colombian can file, the workhorses of community litigation.
+4. **The international spotlight and financier pressure** — the global attention a megadiverse country and a listed company cannot escape, reaching investors and buyers.
+5. **Participation, land use, the overseers, and mobilisation** — the licensing objections, the POT, the Procuraduría and Defensoría referrals, and the sustained public pressure that expose and hold.
 
 ## What Colombian Campaigns Actually Show
 
-A few patterns recur. **Organised opposition and a documented file are the base**, and Colombia's distinctive levers are unusually strong: the **tutela** and the **popular/collective action (*acción popular*)**, through which courts have suspended licences and even recognised rights of nature. **Prior consultation (*consulta previa*)** of Indigenous and Afro-Colombian communities, and **municipal consultations**, add powerful further fronts. **A durable coalition and sustained media** turn these into political cost. **The ceiling depends on the project's backing** — a lawfully-approved, favoured project is usually delayed or conditioned, while a violated consultation or a defective licence can be undone. The through-line: **build the file, use the tutela and collective action, assert consultation, and hold the coalition and coverage together.**
+A few patterns recur. **Participation is real leverage** — a rural municipality voted, and one of the world's largest gold projects stopped. **Consultation binds** — on ethnic territories, a project needs prior consultation and, where survival is threatened, consent, and the Court enforces it. **Closed ground stays closed** — a páramo is off-limits to mining, and an overlap is provable on a map. **Nature itself can hold rights** — the Court recognised the Atrato River as a subject of rights, opening a new front. **Documented violations bite** — illegal work or a breached licence becomes the spine of a case. **The world can be reached** — a listed multinational in a treasured landscape draws coverage its investors cannot ignore. **But the national government backs extraction**, and the SU-095 ruling curtailed the popular consultation over mining. The through-line: **assert your participation and consultation rights; prove every violation and defect; use the courts and the closed ground; reach the world — and expect a long fight measured in participation, delay, exposure, and a company worn down as much as an outright stop.** And remember that Colombian jurisprudence keeps opening new ground: the recognition of rivers as rights-bearers, the closure of páramos, and the steady enforcement of consultation mean that the legal tools available to a community today are broader than they were a decade ago — a trend that rewards the community willing to reach for them.The through-line: **assert your participation and consultation rights; prove every violation and defect; use the courts and the closed ground; reach the world — and expect a long fight measured in participation, delay, exposure, and a company worn down as much as an outright stop.**
 
 # STEP 1: TARGET IDENTIFICATION
 
-**Time to complete:** Weeks 1-4
-**Cost:** COP$0
-**Outcome:** A clear picture of what you're fighting, who decides, and when the decision is final
+Every effective campaign begins by finding the exact decision that governs the project — and its weakest point. Vague opposition to "the mine" goes nowhere; opposition to "the environmental licence granted without the prior consultation the community's territory required, for a project overlapping a delimited páramo closed to mining" is a case. Answer five questions.
 
-## Core Questions You Must Answer
+## The Five Core Questions
 
-Before you organise a single person, answer these precisely.
+**1. What exactly is proposed, and under what permit?** Name the project, the proponent, and the specific approval it needs or holds — the environmental licence and its number and conditions, the mining title, the water concession, the tree-felling permit. A project lives or dies by these instruments, and each has a defect waiting to be found.
 
-### Question 1: What Exactly Will Be Destroyed?
+**2. What stage is it at?** Title granted? Environmental study under way? Licence granted? Under construction? Operating? The stage dictates the door. If the licence is not yet issued, your objection during the study is cheap and powerful. If it is operating, a breached condition or an illegal act may hand you a *tutela* or an *acción popular*.
 
-Not: "Environmental damage"
-But: "The open-pit mine threatens the water basin (cuenca) that supplies [number] families and the farms of [region], and sits above a páramo."
+**3. Does it affect an ethnic territory — and was prior consultation done?** This is pivotal in much of the country. Identify whether the ground is an Indigenous *resguardo*, an Afro-Colombian collective territory, or an area of their ancestral use, and whether a genuine prior consultation was carried out. A missing or defective consultation is often the strongest lever there is, and the Constitutional Court has voided licences for its absence.
 
-Not: "Pollution"
-But: "The project will discharge [X] into the [named] river, over an area of farming and fishing that [community] depends on."
+**4. Is the ground closed or specially protected?** Is it inside a delimited **páramo** (closed to mining), a national park or protected area, a *reserva forestal*, a wetland, or a watershed? Closed ground the project cannot lawfully occupy is a case that can win on the documents alone.
 
-Not: "Community harm"
-But: "The project crosses the collective territory of the [Indigenous/Afro-Colombian] community without the **prior consultation** the Constitution requires."
+**5. Who decides, who benefits, and who is watching?** Which authority and which officials granted the permits (ANLA, the ANM, the CAR); who owns and funds the proponent and buys its output; which municipality's land use and which community's consultation are engaged; and which press, allies, and international bodies can be reached. This maps your levers and your audiences at once. It is worth writing the answers down as a one-page brief: the project and its permit, the stage, the consultation status, the closed-ground status, and the deciders, beneficiaries, and watchers. That page becomes the shared reference for your whole campaign — the thing a new volunteer, a lawyer, or a reporter reads first — and it keeps everyone aimed at the same decision and the same weak point, instead of scattering effort across grievances that do not move the outcome.
 
-**Why this matters:** specific harms are easier to document, litigate, and organise around. Vague opposition dies; specific opposition survives. Harm to an **ethnic community's territory**, a **páramo**, a **water source**, or a protected area also opens a **specific legal front** (prior consultation; the páramo ban; the collective action; the tutela).
+## A Worked Example
 
-### Question 2: Who Decides?
+Suppose a company proposes an open-pit mine on a mountain that feeds a municipality's water, on land partly used by a rural and Afro-Colombian community, and it has applied for an environmental licence.
 
-You cannot pressure an abstraction. Identify the decision-maker precisely — it is usually one of these:
+Working the five questions: the project needs an **environmental licence** (applied for — objections are live), a **mining title** (from the ANM), and, because it affects an ethnic community's territory, **prior consultation**. It is **in the licensing study** — so participation is open. The mountain may feed a **páramo or a protected watershed** the law shields. The **municipality's POT** governs local land use, and the **mayor and council** can act. And the threat to water and to a treasured highland, plus a listed proponent, gives a **media and international** hook.
 
-- **ANLA** (national) — for the **environmental licence** of large/strategic projects.
-- **The regional CAR** — for the licence of many projects.
-- **The ANM** — for the mining concession.
-- **The ethnic community** — whose **prior consultation** is required, and the **municipio** for land use.
-
-Write it down concretely: "ANLA will decide the environmental licence after evaluating the EIA. The project affects an Afro-Colombian community's territory, so a prior consultation is required, and it needs a mining concession from the ANM."
-
-### Question 3: What Specific Action Stops It?
-
-Not: "Stop the project"
-But: "Persuade the authority to deny the licence, or win a suspension through a tutela or collective action" — or, if refusal is unrealistic, "obtain strict conditions, real compensation, and a redesign."
-
-Not: "Protect the environment"
-But: "Show the **EIA** is defective, the **prior consultation** was skipped, or a **páramo** or water source is harmed, and file the right action."
-
-**Why this matters:** you can demand something achievable. Vague demands are easy to ignore; specific ones create measurable pressure and, if the process is unlawful, become the ground for a court to act.
-
-### Question 4: When Is the Decision Final?
-
-Timeline tells you how much time you have. Map every date: when the **EIA** is filed, the window to request a **public hearing**, the prior-consultation process, and the licence decision. Don't wait: request the hearing, file **rights-to-petition** for the documents early, and be ready to move — a **tutela** can be filed at any time a fundamental right is threatened, and is decided fast.
-
-### Question 5: Are There Documented Financial or Policy Pressures?
-
-This is the tilted-system assessment question. Know it BEFORE you organise:
-- Is the project treated as of **national strategic interest**, or a big source of **royalties**, hardening political backing?
-- Is the **EIA** prepared and paid for by the developer's own consultants only?
-- Does the department or municipio depend on the project for jobs and royalties?
-- Is the developer a large multinational with deep resources for studies, lawyers, and appeals?
-- Is there an armed or criminal interest in the area that raises the danger to organisers (see Section 9)?
-
-**Why this matters:** if strong strategic/royalty backing or developer-controlled studies are present, opposition must overcome different barriers (Section 10) — and, in Colombia, you must also weigh the **security** situation (Section 9). It doesn't mean opposition can't work — it means realistic expectations and, often, a focus on the **EIA**, the **consultation**, and the **páramo/water** defects, on conditions, and on the **courts**, rather than a straight political refusal.
-
----
+Within an afternoon you have moved from "we oppose the mine" to a target list: request and scrutinise the licence application and the study; establish whether prior consultation was required and done, and assert it if not; check the páramo, watershed, and protected-area status; file objections while the study is open; engage the council on land use; and prepare the community's water story for the press. That is a campaign, not a complaint.
 
 # STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
 
-**Time to complete:** Months 1-4
-**Cost:** COP$150-250 million (COP)
-**Outcome:** Three polished reports (30+ pages total) showing specific, quantified harms
+Documentation is the foundation everything else stands on. A judge, the Procuraduría, a journalist, and a company's financiers all move on evidence, not indignation. Build your file in three layers.
 
-**Success Rate (Documentation Alone):** 5-10%
-**Success Rate (Documentation + Opposition):** 25-35%
-**Success Rate (Documentation + Opposition + Legal + Media):** 60-75%
+## Layer 1: The Official Record
 
-## The Three Documentation Layers
+Get the documents the decision rests on. Request the **environmental licence and its conditions, modifications, and obligations**; the **environmental-impact study** and its annexes; the **mining title or concession**; the **prior-consultation record** (the *acta*, the protocolisation); the **water and forest permits**; the **CAR's technical concepts**; and the minutes of any public hearing. Under Colombia's transparency law (Law 1712 of 2014) and the right of petition (Article 23 of the Constitution), these are obtainable, and the gap between what they promise and what is happening on the ground is where cases are won. Cajamarca's community studied exactly such papers — the concession, the studies, the water data — for years before the vote. Read them not only for what they say but for what they assume: an impact study that treats a wet páramo as ordinary grassland, that counts only the mine's footprint and ignores the roads, tailings, and water it will need, or that never mentions the community downstream, is a study with a hole in it — and that hole is your opening. The strongest cases are often built not on a dramatic new fact but on the quiet gap between the official paper and the ground it claims to describe.
 
-Documentation turns vague opposition ("This is bad") into undeniable evidence ("This specific harm will occur to these specific people/places at these specific costs"). Success comes from three layers working together.
+## Layer 2: The Ground Truth
 
----
+Document the reality the paper hides. Photograph and date the **actual footprint** — cleared land, drill platforms, silted streams, muddied water sources — and geotag it. Log **incidents**: a spring gone dry, a fish kill, sediment in the river, an access road cut without permission. Capture **before-and-after** with your own photos and with freely available satellite imagery, which can show forest loss and encroachment over time. Record **testimony**: elders on the territory's history and use, farmers on the water and the crops, fishers on the river. In a country where water scarcity already bites, a documented threat to a community's water is among the most powerful facts you can hold.
 
-## LAYER 1: BASELINE CONDITIONS DOCUMENTATION
+## Layer 3: The Defects and the Consultation
 
-**What it is:** documentation of existing conditions BEFORE the project begins — including who lives on and uses the land and waters, and how.
-
-**Why it matters:** developers claim "the land is unproductive" or "already degraded." Baseline documentation proves what — and who — was there, and it cannot be reconstructed later.
-
-**Documented case — the farmers of Cajamarca and the La Colosa gold mine**
-
-A major company proposed one of the world's largest open-pit gold mines at **Cajamarca**, in Tolima — a rich farming region, in a forest reserve, sitting above cloud forests, páramo, and the headwaters of a basin that supplies water to hundreds of thousands of people across several municipalities. Its backers treated it as a world-class gold deposit. The community made that impossible. Organised as the **Environmental and Peasant Committee (Comité Ambiental y Campesino)**, farmers, young people, and researchers documented what was at stake — the water basin, the farmland, the ecosystems — drawing on independent, state, and even company-linked studies showing the harm would outweigh the benefit.
-
-It changed the outcome. In March 2017, Cajamarca held a **popular consultation (consulta popular)** — a binding participation mechanism in the Constitution — and about **98% voted against mining**; the company **suspended the project** on force majeure, and the municipal council enshrined the result. The community's documented case — the water, the farmland, the ecosystems — was what turned public understanding into a decisive vote. (Honesty matters here: the company kept its mining concessions and fought on; the Constitutional Court later **limited** how far a popular consultation can block mining on its own; and organisers faced **death threats**. The win had to be defended for years — and, in Cajamarca, it has largely held.)
-
-**Why it matters for you:** the Cajamarca community's documentation — of the water basin and the farmland the mine would harm — was decisive. Documenting existing conditions, including who lives there and the water systems they depend on, is the foundation of everything that follows.
-
-**Building your own baseline (typical process).** Document existing conditions before the project starts, because a developer will claim the land is unproductive and baseline cannot be reconstructed later. A workable approach: surveys across a season cycle of the project area plus reference sites; a species and habitat inventory with GPS locations, flagging anything protected that the developer's **EIA** omitted; a record of who occupies and uses the land — farming, fishing, gathering, sacred sites — and whether it is a **collective ethnic territory** (the basis of a **consultation** right); the **water systems** the community depends on (basins, páramos, rivers — as at Cajamarca); proximity to any páramo or protected area; and water and air baselines. Typical cost is around COP$150-200 million for a technical consultant/ecologist, GPS, and testing — reducible with knowledgeable community members, university researchers, and naturalists. Dated, same-spot photographs and geo-referenced maps make it credible.
-
----
-
-## LAYER 2: IMPACT ANALYSIS
-
-**What it is:** detailed analysis of what specific harms will occur, based on the project description plus your baseline.
-
-**Why it matters:** it shows not just "something bad" but "specifically THIS BAD in THIS WAY" — and it maps directly onto what the **EIA** must properly assess.
-
-**Use the developer's own words and the legal tests.** Powerful, documentable weak points in Colombian assessments include:
-- **A defective EIA.** The **environmental study** must genuinely assess the project's significant impacts and alternatives. A study that omits or understates impacts — the water basin, as at Cajamarca — is a strong ground.
-- **A missing prior consultation.** For an **ethnic community**, a genuine **prior consultation** is required; its absence is one of the strongest grounds, and the Constitutional Court has suspended projects for it.
-- **Harm to a páramo or protected area.** **Mining is banned in páramos**, and protected areas and water sources carry strict protection; showing the project touches them is powerful.
-
-Convert each of the developer's admissions ("temporary disturbance," "limited effect") into a quantified prediction against your baseline.
-
-**Outcome (illustrative):** an **EIA** found defective, a missing **prior consultation**, or harm to a **páramo** can lead a court to suspend or annul the licence — adding months or years, or stopping the project.
-
----
-
-## LAYER 3: HEALTH & ECONOMIC IMPACT DOCUMENTATION
-
-**What it is:** quantification of the human-health and economic costs to the community.
-
-**Why it matters:** decision-makers and the public respond to human cost. "X hectares affected" matters less than "an estimated 45 additional respiratory cases a year, and COP$X of health cost" — or "the farming and water that sustain [number] families destroyed."
-
-**Method:** use recognised air-quality or water modelling and the public-health literature to translate emissions or land/water loss into health and livelihood outcomes, then attach costs — additional respiratory and gastrointestinal cases, lost farming and fishing income, and total annual and lifetime cost for the affected population.
-
-**Outcome (illustrative):** an independent health-and-livelihood analysis can move a department or municipio, feed the court case, and force conditions the original design lacked.
-
----
-
-## How to Structure Your Documentation
-
-### Phase 1: Baseline Conditions (Months 1-2)
-Engage a technical consultant or ecologist (or use knowledgeable community members, university researchers, and naturalists); document conditions AND human occupation, use, ethnic-territory status, water systems, and sacred sites. **Deliverable:** a 20-30 page baseline report with species/habitat inventory, a record of use and rights, water/air data, dated photographs, and geo-referenced maps.
-
-### Phase 2: Impact Analysis (Months 2-3)
-Obtain the **EIA** and the licence file (use the **right to petition**); identify specific impacts; test the study against the rules (completeness, public hearing, prior consultation, páramo/water). **Deliverable:** a 20-30 page impact analysis with quantified predicted impacts, comparison to baseline, and the developer's own admissions quoted back.
-
-### Phase 3: Health/Economic Analysis (Months 3-4)
-Identify affected populations; estimate health and livelihood impacts and costs. **Deliverable:** a 15-20 page report written for the public and press.
-
----
-
-## Common Documentation Pitfalls (What Fails)
-- **Waiting for perfect data.** Documented data beats perfect data that arrives after the licence.
-- **Only environmental data.** Add health, livelihood, and human-occupation impacts — the arguments that move decision-makers, the courts, and the public.
-- **No independent check.** A report the authority can dismiss as "activist material" is far stronger after an independent expert or a university reviews it.
-- **Ignoring the developer's own admissions.** Their **EIA** is your best source; quote it against itself. Use the **right to petition** to get it and the file.
-
----
-
-## Documentation Budget Breakdown (COP)
-
-| Item | Cost | Notes |
-|------|------|-------|
-| Technical consultant / ecologist (baseline + species ID) | COP$110 million | Protected-species and habitat survey |
-| GPS / survey equipment | COP$10 million | Mapping/documentation |
-| Water/air testing | COP$25 million | Sampling across seasons |
-| Independent / university expert review | COP$20 million | Credibility |
-| Printing / petition requests / translation | COP$8 million | Copies for decision-makers |
-| **TOTAL** | **COP$173 million** | Reducible with university partners and community members |
-
----
+Finally, document the failures of process and consultation that turn harm into an unlawful act. Was the **environmental licence granted without the participation the Constitution guarantees**? Was a required **prior consultation skipped, or conducted without the community's legitimate authorities**? Does the footprint **overlap closed ground** — a delimited páramo, a protected area, a watershed? Was the **water concession or the land-use rule** ignored? Each defect is a separate ground — for an objection, a *tutela*, an *acción popular*, or a referral — and together they make a case that is hard to wave away. This is the layer that most often decides Colombian fights, because here a project that looked licensed is revealed to be proceeding without the participation, the consultation, or the clearance the law demands. As you work, keep a running list of the specific defects, because each is a separate lever: an **environmental licence granted without genuine participation**; a **prior consultation skipped or run with a hand-picked few**; a **footprint overlapping a delimited páramo, a protected area, or a watershed**; a **water concession or land-use rule ignored**; a **licence condition breached in practice**; and a **required permit never obtained**. A project rarely has just one of these, and it is the accumulation — a páramo overlap and a skipped consultation and a denied participation together — that makes a case hard to answer.
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
-Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+This is the practical companion to Step 2: the specific records that decide Colombian cases, and where to obtain them. You will not need every item; you will need the few that expose your project's particular defect.
 
-**Start at the deciding body's register and the municipio's own website.** In Colombia the official documents for a project — the Estudio de Impacto Ambiental (EIA), the participation notices, the licencia ambiental and its conditions — are posted by the body running the review: ANLA (national) or the regional autonomous corporation (CAR) for the licencia ambiental, and the municipio for land use (POT). The official documents for most local projects live on the municipio's own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+## The Permits and Their Paper Trail
 
-**The project file and the Estudio de Impacto Ambiental (EIA).** Get the developer's Estudio de Impacto Ambiental (EIA) as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+- **The environmental licence (*licencia ambiental*)**, with its conditions, modifications, and compliance obligations. Held by **ANLA** (large projects) or the **CAR** (regional projects). The licence's conditions and obligations are frequently where a project is vulnerable — a licence operated in breach of a condition is an enforcement case.
+- **The environmental-impact study (*EIA*)** and its annexes, and the record of any public hearing (*audiencia pública ambiental*). Also with ANLA or the CAR. Read it for what it omits or understates — the water risk, the páramo overlap, the affected community, the cumulative effect.
+- **The mining title or concession**, from the **ANM**, and any environmental concept from the CAR. Check the área and whether it overlaps closed ground.
+- **The prior-consultation record** — the *acta de consulta previa*, the *protocolización*, and the Ministry of the Interior's certification of whether ethnic communities are present. This reveals whether consultation was required, done, and done with the legitimate authorities.the Ministry of the Interior's certification of whether ethnic communities are present. This reveals whether consultation was required, done, and done with the legitimate authorities. Note that this certification is itself frequently contested: proponents have obtained certifications that no ethnic communities are present in areas where they plainly are, precisely to avoid the consultation obligation, and overturning such a certification — with your own evidence of the community's presence and use — can reopen the whole approval.
+- **Local instruments** — the municipal **POT** and any council *acuerdo* or *consulta popular* result. From the *alcaldía* and the *concejo*. A land-use rule or a resolution against the project is powerful.
+- **Water and forest permits**, from the CAR — a *concesión de aguas*, an *aprovechamiento forestal*. Their absence or breach is a live ground.
 
-**Baseline environmental data.** IDEAM and CAR environmental data; protected-area and species records; and the developer's own EIA baseline studies.
+## How to Get Them
 
-**Ownership and money.** Company ownership from the Cámara de Comercio (RUES); land from the Oficina de Registro de Instrumentos Públicos; and officials' asset and interest declarations.
+Most of these are public. Use the **right of petition** (Article 23 of the Constitution) and the **transparency law** (Law 1712 of 2014): a written request naming the documents obliges a timely answer (generally fifteen working days for a petition of information). Request at ANLA, the CAR, the ANM, the *alcaldía*, and the Ministry of the Interior. When an authority stalls, a follow-up citing the right of petition usually moves it; persistent refusal is itself evidence of a problem, and can be forced by a *tutela*, since the right of petition is a fundamental right. Move early: the licensing study and any *audiencia pública* have real windows, and an objection filed while a window is open carries far more weight — and preserves far more of your rights — than the same point raised after a decision is made.
 
-**Case law and precedent.** Constitutional Court and Council of State decisions are published; tutela and popular-action rulings shape environmental practice.
+## The Ground Evidence
 
-**How to force a document open.** A **derecho de petición** and the transparency law compel disclosure of records a public body holds — the derecho de petición is fast and constitutionally backed. Use the request wording in Section 8E.
+- **Dated, geotagged photographs and video** of the footprint, the clearing, the discharge, the drying water source.
+- **Satellite before-and-after** from freely available imagery, to show forest loss, encroachment into closed ground, or the true extent of operations.
+- **Maps** overlaying the project footprint on the *resguardo* or collective territory, the delimited páramo, the protected area, and the watershed — a single map showing a mine inside a páramo is worth pages of argument. Community mapping is within reach: with free imagery and open tools, or a partner university or NGO, you can produce the image a judge, a reporter, and a financier all understand at a glance, and a participatory map made with the community doubles as evidence of its territory and use.
+- **Sworn statements** from elders, farmers, fishers, and community authorities, on use, history, consultation, and harm.
+- **Independent technical readings** — a water sample, a hydrologist's or biologist's note. Community water-monitoring and university partners can supply these cheaply, and in Cajamarca community water science was central. Gather it early and gather it dated, because timing decides its weight: the licensing study and any *audiencia pública* have real windows, and evidence entered while a window is open shapes the decision, while the same evidence produced afterward only supports a challenge to a decision already made.
 
-**Free and low-cost help.** **Dejusticia** and environmental NGOs litigate; the tutela and the acción popular are accessible constitutional tools communities can file themselves.
+## Organise It So It Persuades
 
-**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+Keep a **master timeline** of every permit date, consultation, incident, objection, and deadline — the spine of any action. Keep a **document index** so any fact can be sourced in seconds. And keep an **argument bank** (developed in a later section) that pairs each fact with what it proves, to whom. A well-ordered file is not bureaucracy; it is what lets a volunteer, a lawyer, a reporter, and a judge all see the same clear picture fast. It also guards against the campaign's own worst enemy — a fact half-remembered, a date misstated, a claim that cannot be sourced when the other side challenges it. In a fight this long, the community with the better-kept file is very often the community that prevails, because it is the one whose every assertion holds when tested.
 
-## Researchers for Hire, and Everyday Research Tools
+# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT LAST
 
-If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+Evidence and law do not stop projects on their own. Organised people do — sustained, visible, and credible over the months a fight takes. This is the step communities most often get wrong, and Cajamarca's victory rests on getting it right: vereda by vereda, over six years, with a farmers' committee at the centre.
 
-For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
+## Phase 1: The Core
 
-# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
+Start with a small, committed core — five to fifteen people who will carry the work. Where an ethnic territory is involved, include the **legitimate community authorities** — the *cabildo*, the *consejo comunitario* — from the start, because their consultation and their voice are the campaign's legal and moral spine; a captured or bypassed authority is the proponent's favourite tool, and an authentic one is your strongest asset. Assign roles: documentation, legal liaison, media, community liaison, and coordination. Agree on the goal — refusal, a suspension, a redesign, a binding vote — and on what you will and will not accept.
 
-**Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
-**Cost:** ~COP$400 million (COP) for a full year
-**Outcome:** 50-100 core people, 5-10 organisations, sustained organisation
+## Phase 2: The Coalition
 
-**Success Rate (Opposition Alone):** 15-20%
-**Success Rate (Opposition + Documentation + Legal + Media):** 60-75%
+Widen deliberately. Map who shares the stake — farmers' and fishers' associations, the *juntas de acción comunal*, the parish and church networks, teachers and health workers, students, water-user associations, and the diaspora. Reach the **allies with capacity**: public-interest lawyers and legal-aid groups, national environmental networks, Indigenous and Afro-Colombian organisations, and academics who can supply technical readings. Cajamarca's coalition ran from a local peasant committee to national and international NGOs and lawyers — each bringing something the others could not.
 
-## Critical Insight About Organising
+**A worked coalition example.** Facing a mine that threatens a watershed, a farmers' committee, an Afro-Colombian council, the parish, and a handful of teachers form a core; they bring in a legal-aid lawyer and a hydrologist from a nearby university; the *junta de acción comunal* mobilises the veredas; a national environmental network amplifies the story. No single group could have carried it; together they cover documentation, law, science, faith, local legitimacy, and reach — the full spread a winning campaign needs.
 
-**Most opposition campaigns fail not because they can't build opposition, but because opposition burns out — or is frightened into silence — after 4-8 months.** You need structures that prevent it, and (in Colombia especially) that protect people. Read Section 9 on safety alongside this step.
+## Phase 3: Sustaining It
 
----
+Campaigns die of burnout, not defeat. Meet on a rhythm. Give people concrete, finishable tasks. Mark small wins — an *acuerdo* passed, a document pried loose, a hearing attended in force. Rotate the exhausting roles. And protect people, because Colombia is the world's deadliest country for defenders: keep leadership collective and visible rather than resting the campaign on one exposed individual; document every threat, surveillance, or act of stigmatisation, which protects the person and becomes evidence for the Defensoría, the Procuraduría, or a court; build outside links to national networks, the Church, and international allies; and take threats seriously and report them at once. A campaign that protects its people is a campaign that can last — and lasting is how these fights are won.
 
-## PHASE 1: FOUNDATION (Months 1-2)
+## Phase 4: Showing Strength
 
-**Goal:** a core group of 15-20 motivated people and a clear picture of their concerns.
+Numbers and legitimacy must be seen. Turn people out for hearings and consultations. Gather signatures and *junta* and council resolutions. Hold peaceful, well-documented actions — marches, water forums, the patient signature drive that put Cajamarca's vote on the ballot. The point is not spectacle; it is to demonstrate, to officials and to the press, that the opposition is broad, rooted, and not going away. Throughout, guard the authenticity of your leadership and your consultation, because it is exactly what a proponent will try to fake: insist that ethnic communities speak through their legitimate, customary authorities and their own decision-making, and put that legitimacy on the record. A campaign whose leadership is unmistakably the community's own — its *cabildo*, its *consejo comunitario*, its *junta* — is one that neither a company nor an authority can quietly substitute with a more agreeable stand-in of its choosing; and that authenticity, documented from the start, becomes decisive when the consultation records are later examined.
 
-### Step 1a: One-to-One Conversations
-People don't join movements from pamphlets; they join from relationships. Identify the 15-20 people most affected or interested. **Talk to** each in person for an hour. Ask: "What's your biggest concern about this project?" Listen — don't pitch. Ask what they'd be willing to do. Each person has a different concern (land, water, farming, health, a sacred site, a way of life). Opposition organised around each shared concern is stronger than one generic message.
+# STEP 4: LEGAL CHALLENGES — THE TUTELA, THE ACCIÓN POPULAR, AND CONSULTATION
 
-### Step 1b: Affinity Groups by Concern
-Organise small groups (3-8 people) around a shared concern, not around "opposition":
-- **Land/livelihood group** — farming, fishing, displacement and compensation
-- **Water group** — the basins, páramos, rivers, contamination
-- **Health group** — air quality, water quality, disease
-- **Rights group** — **ethnic territory** and **prior consultation**, sacred sites (led by the community)
-Each group meets regularly and works out how opposition serves *their* interest, coordinating while keeping its own framing.
+Colombian law gives communities an unusually strong legal arsenal, and you do not need to win a final ruling to win with the courts: a filing freezes a project, forces disclosure, and creates leverage and headlines. Engage a lawyer or a legal-aid group early — but understand the tools yourself.
 
-### Step 1c: Use the Community's Own Structures and Register a Vehicle
-Two things matter. First, Colombian communities have strong structures — the **community action board (Junta de Acción Comunal)**, peasant associations, and, for ethnic peoples, the **cabildo / consejo comunitario** (Indigenous councils / Afro-Colombian community councils) whose authorities carry legal weight and hold the **consultation** right; a clear, recorded community position is one of the strongest things you can produce. Second, a **registered non-profit (corporación or fundación)** can speak for the community, receive donations, and support litigation; partner with established organisations (such as Tierra Digna, Dejusticia, or CENSAT) early.
+## Prior Consultation (Consulta Previa)
 
----
+For Indigenous and Afro-Colombian communities, **prior consultation** under ILO Convention 169 (Law 21 of 1991) is often the most powerful lever. No project may lawfully proceed on their territory — or where it directly and specifically affects them — without a genuine, good-faith prior consultation; and where the project threatens the community's physical or cultural survival, the Constitutional Court has required their **consent**, not merely their consultation. A consultation skipped, or run with a hand-picked few instead of the legitimate authorities, is a fatal defect, and the Court has suspended and voided licences on that ground. Assert it early and formally.
 
-## PHASE 2: PUBLIC LAUNCH (Months 2-3)
+## The Acción de Tutela
 
-**Goal:** announce opposition to the public, the media, and decision-makers.
+The **acción de tutela** (Article 86) is the fast, powerful protection of a fundamental right — decided by any judge within days, filed without a lawyer if need be. Where a project violates the right to prior consultation, to participation, to water, to health, or to a healthy environment tied to survival, a *tutela* can order the activity suspended while the right is protected. It is Colombia's most-used citizen legal tool, and its speed is its power: it can stop work now, not years from now. A *tutela* is decided by the first judge who receives it within ten days, and it can be reviewed on appeal and, ultimately, selected for review by the Constitutional Court itself — which is how many of the country's landmark environmental rulings began, as a single citizen's *tutela*. The judge may order the authority or the company to act or to refrain, and may grant an urgent provisional measure to suspend the activity while the case is decided. The *acción popular*, though less immediate, carries its own strengths: the judge may order studies, appoint a committee to verify compliance, and keep the case open to supervise the remedy until the collective right is truly restored.
 
-### Step 2a: Public Meeting (community assembly / cabildo abierto)
-Hold a community assembly — or a **cabildo abierto** (open town meeting, a formal participation mechanism) — where people set out their concerns to themselves, to the mayor and council, and to press. A serious, informational meeting carries weight. Typical shape: welcome → project explanation → community concerns (each person a few minutes) → expert Q&A (an ecologist, a health voice, a lawyer) → next steps.
+## The Acción Popular
 
-### Step 2b: Opposition Materials (Factsheets)
-One page, in plain Spanish (and the community's language where relevant). Decision-makers and neighbours won't read 30 pages; one page gets read. Structure: a headline stating the problem → quick quantified facts → the specific impact → **what you're asking for** → the evidence base → contact/resources. Print widely; distribute at markets, the town hall, churches, health posts; post a digital version. Cost: ~COP$8 million.
+The **acción popular** (Article 88 and Law 472 of 1998) protects **collective rights** — among them the right to a healthy environment, public health, and the rational use of natural resources — and any person may file it, without proving a private injury. It can obtain orders to stop, prevent, or repair environmental harm, and it is the natural vehicle for a project that threatens a watershed, a páramo, or a community's shared environment. The lawyers who won the Atrato River case used exactly this family of tools.
 
-### Step 2c: The Public Hearing, the Prior Consultation, and the Community's Recorded Position (the decisive record)
-Two things matter most here. First, **request a public environmental hearing (audiencia pública ambiental)** and turn people out to speak and file written concerns, each raising real grounds — a defective **EIA**, harm to the water basin or a páramo, ignored displacement. Second, secure the **records that carry weight**: a clear, formally recorded **community position**, and — for an ethnic community — an insistence that any **prior consultation** be genuine, with the community's position recorded. (Where the law allows, communities have also pursued a **popular consultation** or a **cabildo abierto** — get current advice on what is available after the recent limits.) Together these build a record the courts take seriously. Cost: ~COP$5 million.
+## Popular Consultation — and Its Real Limit
 
-### Step 2d: Media Coverage at Launch
-Release data + concerns + the recorded community position = a story. (Full press-release example is in Section 9, 9G.) Contact reporters, then send the study. Expect 1-3 local stories.
+The **popular consultation (consulta popular)** lets a municipality's voters answer a binding question about their territory — the instrument Cajamarca used in 2017 to stop La Colosa. You must understand its limit honestly. In 2018, in ruling **SU-095**, the Constitutional Court held that a *consulta popular* **cannot by itself decide whether subsoil mining or oil activity happens** in a municipality, because the subsoil belongs to the nation and that competence lies principally with the national government; it called on Congress to create mechanisms to coordinate national and local decisions. So a consultation can no longer simply veto a mine on its own. It remains valuable — as an instrument of participation, political mandate, and pressure, and for questions genuinely within municipal competence such as land use — but plan it with counsel, and do not stake the whole fight on a tool the Court has narrowed. Pair it with consultation, the tutela, the acción popular, and the closed-ground arguments, which the SU-095 limit does not touch.
 
----
+## The Courts and the Precedents
 
-## PHASE 3: COALITION EXPANSION (Months 3-6)
+Environmental cases run from local judges (for *tutelas*) up through the **Consejo de Estado** and the **Constitutional Court**, whose precedents are powerful allies: rivers recognised as **subjects of rights** (the Atrato, in ruling T-622 of 2016), **páramos closed to mining** (ruling C-035 of 2016), and prior consultation repeatedly enforced. Get counsel early: legal-aid groups, university legal clinics (*consultorios jurídicos*), and national environmental-law organisations — including those who won the Atrato case — have carried community cases and can advise on standing, the right forum, and the safety risks before you file. A lawyer contacted while objections are still live and evidence is fresh is worth far more than one contacted after the machinery arrives.
 
-**Goal:** grow from 20 core people to 50+ core plus 5-10 organisations.
+## Rights of Nature and the Defender's Shield
 
-### Step 3a: Organisation Outreach
-Approach environmental and rights organisations — **Tierra Digna**, **Dejusticia**, **CENSAT Agua Viva**, regional environmental committees, university law and science clinics, ethnic-peoples' organisations (cabildos and consejos comunitarios), peasant associations, the church (which carries real weight in Colombian communities), and businesses that lose from the project. Research each; contact the right person; explain how opposition serves *their* aims; make a specific, tailored ask.
-
-Tailored asks:
-- **Tierra Digna / Dejusticia / a legal clinic:** "We need help preparing a tutela or a collective action, and the prior-consultation strategy — can you assist?"
-- **A university group:** "Would your researchers assess the water basin or health impacts independently?"
-- **A cabildo / consejo comunitario:** "Help us insist on a genuine prior consultation and record the community's position."
-- **Peasant associations / church leaders:** "This takes the land and water we depend on — will you speak and stand with us?"
-
-### Step 3b: Coalition Agreements (Written)
-A written agreement — who's in, how decisions are made, meeting frequency, the public message, who may speak for the coalition, conflict resolution, money, security protocols, and an exit clause — prevents later conflict. Consensus is stronger but slower; voting is faster but can fracture.
-
-### Step 3c: Coordinated Public Work
-Assign leadership by strength: environmental analysis to the NGO/university; ethnic territory and consultation to the community and its council; livelihood to the peasant associations; media to whoever has the contacts; the legal track to the law group and the registered non-profit. Sequence activities so each builds momentum (coalition launch → data release → recorded community position → public hearing).
-
----
-
-## PHASE 4: SUSTAINED PRESSURE (Months 6-12)
-
-**Goal:** maintain organised opposition across a 12+ month timeline — safely.
-
-### Step 4a: Public Demonstrations (marches / plantones)
-Regular, same time and place, growing attendance — outside the mayor's office, the department, or in the town square. Handle logistics and **safety**: any required notice, marshals, accessibility, a sound system, and a security protocol (Section 9). Momentum matters: "50 gather" becomes "gathering grows to 500."
-
-### Step 4b: Media Campaign (Ongoing)
-Monthly rhythm: week 1 a release tied to an event/data; weeks 2-3 social media 3x/week; week 4 a reporter check-in. Rotate themes (community position recorded → expert finding → coalition growth → march → tutela filed).
-
-### Step 4c: Common Opposition Failure Points (How to Prevent)
-
-**Failure Point 1: Burnout and fear (Months 4-8).** Prevent burnout: regular (not constant) meetings; celebrate milestones; fund one part-time coordinator; schedule breaks; keep a public progress tracker. And take **fear** seriously — threats are real in Colombia; a shared security protocol, collective decision-making, and links to protection bodies (Section 9) keep people safe and in the fight.
-
-**Failure Point 2: Coalition Conflict.** Prevent it with a written agreement and decision process, a clear escalation path (discuss → mediator), an explicit exit clause, and rotating leadership. Respect that ethnic communities decide by their own authorities — and be alert to developers trying to split a community by co-opting some leaders or funding "abstention" campaigns; keep decisions transparent and collective.
-
-**Failure Point 3: Competing Funding.** Grants with conflicting conditions can pull groups off shared work. Coordinate grants up front and agree no group commits coalition resources without a coalition decision.
-
-**Failure Point 4: No Clear Wins.** Name milestones as victories (community position recorded, a public hearing held, a large march, the tutela accepted) and publicise cumulative progress.
-
----
-
-## Opposition Building Budget: Year-Long Campaign (COP)
-
-| Item | Cost |
-|------|------|
-| Factsheet printing | COP$14 million |
-| Website/phone/data (annual) | COP$10 million |
-| Meeting / venue costs | COP$20 million |
-| Outreach travel (often remote, difficult terrain) | COP$70 million |
-| Concern/recording materials | COP$4 million |
-| Demonstration supplies (banners, sound) | COP$28 million |
-| Coalition meeting costs | COP$20 million |
-| Part-time coordinator (12 months) | COP$180 million |
-| Social-media / content (part-time, 3 months) | COP$45 million |
-| Fundraiser/event / security costs | COP$25 million |
-| **TOTAL** | **COP$416 million** |
-
-**Funding the campaign.** Money typically comes from four places: individual donations (local collections and online fundraisers, plus dedicated legal-cost appeals); grants from environmental and rights funders (long lead times — apply early); benefit events; and in-kind support from coalition organisations (expertise, meeting space, volunteer time). A registered non-profit can receive donations and, where eligible, grants. Aim to raise half the budget by month 6 and the rest by month 12. **Reductions:** use a volunteer coordinator, or run a shorter 6-month campaign, to cut ~COP$180 million; and the **tutela** and **right to petition** are free, and organisations like Tierra Digna and Dejusticia often act at no charge.
-
----
-
-## Hiring Help to Run the Campaign
-
-You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
-
-# STEP 4: LEGAL CHALLENGES — THE TUTELA, THE COLLECTIVE ACTION, AND CONSULTATION
-
-**Time to complete:** the tutela is fast (roughly 10 days at first instance); other routes take 3-24 months
-**Cost:** COP$0-250 million (COP; the tutela and the right to petition are free and need no lawyer)
-**Outcome:** a licence suspended or refused, a project halted, conditions, or a project shelved
-
-**Representation impact:**
-- Experienced environmental/constitutional lawyers or a public-interest law group: 35-45% favourable-outcome likelihood
-- General or less specialised representation: 25-35%
-- Self-representation: 5-15%
-- **A key advantage:** the **acción de tutela** and the **right to petition** are **free, need no lawyer, and are decided fast**, and public-interest organisations (Tierra Digna, Dejusticia, CENSAT) and university clinics take these cases, often at no charge.
-
-**Success Rate (Legal Only):** 20-30%
-**Success Rate (Legal + Opposition + Media):** 60-70%
-
-Colombian legal strategy has three tracks, and Colombia's constitutional toolkit is unusually rich and accessible.
-
----
-
-## TRACK 1: PARTICIPATION AND THE PAPER TRAIL (the front door)
-
-Most fights are shaped here, on the record, before the courts.
-
-- **Use the right to petition (derecho de petición).** This constitutional right lets anyone ask a public authority (or a company performing a public function) for information or action, and get a response within a set time. Use it to obtain the **EIA**, the licence file, and the correspondence — a fast, free, powerful tool.
-- **Request the public environmental hearing (audiencia pública ambiental)** and turn people out to put concerns and evidence on the record.
-- **Insist on genuine prior consultation.** For an **ethnic community**, put on the record that the **prior consultation** must take place and be genuine (or record its absence).
-- **Record the community's position.** A clear, formally recorded **community position** carries weight.
-
-**Why this track matters:** using the right to petition and the hearing well — specific, on time, grounded in the law and the evidence — plus the recorded community position, often does more than any amount of noise, and it builds the case you'll need for Tracks 2 and 3.
-
----
-
-## TRACK 2: CONSULTATION, THE EIA, AND RIGHTS OF NATURE (the strongest cards)
-
-Several grounds make this powerful.
-
-**1. A missing or defective prior consultation.** For an **Indigenous, Afro-Colombian, Raizal, or Rom community**, a genuine **prior consultation (consulta previa)** is required under the Constitution and ILO Convention 169; the Constitutional Court has **suspended and annulled projects** for its absence. This is among the strongest grounds in the country.
-
-**2. A defective EIA, or harm to a páramo or water source.** The **environmental study** must genuinely assess impacts and alternatives; **mining is banned in páramos**; and water sources and protected areas carry strong protection. Documenting these defects is powerful.
-
-**3. Rights of nature and biocultural rights.** In a line of world-famous rulings — the **Atrato River (Constitutional Court, 2016)**, the **Amazon (Supreme Court, 2018)**, the Cauca River, and others — Colombian courts have recognised **ecosystems as subjects of rights**, tied to the **biocultural rights** of the ethnic communities who depend on them, and applied the **precautionary principle**. Where a river, forest, or páramo is central to your case, this jurisprudence can be a powerful frame.
-
----
-
-## TRACK 3: THE TUTELA, THE COLLECTIVE ACTION, AND THE ADMINISTRATIVE COURTS
-
-Match the tool to the goal:
-- **The acción de tutela** — a **fast, free** constitutional action, filed before any judge, to protect **fundamental rights** (including the healthy-environment and consultation rights); decided in about ten days, with the **Constitutional Court** selecting cases to review. This is the vehicle that produced the **rights-of-nature** rulings, and the fastest way to protect a right under imminent threat.
-- **The collective action (acción popular)** — under Law 472 of 1998, to protect **collective rights** such as the environment and public health, before the administrative courts.
-- **The action to annul the licence (acción de nulidad)** — challenging the licence's legality before the administrative courts and the **Council of State**.
-- **The action to compel compliance (acción de cumplimiento)** — to force an authority to apply a law or an existing ruling.
-
-**Be realistic about two things.** First, the **popular consultation** route was **limited** by the Constitutional Court after Cajamarca — a municipality cannot, on its own, ban mining, because the subsoil belongs to the nation — so get **current advice** on what a consultation can and cannot do; the **tutela**, **collective action**, and **consultation** levers remain strong. Second, a suspended or annulled licence can be **re-granted** after the defect is addressed, and a company may keep its concessions and fight on — as at **Cajamarca**. So an early win may need defending: keep opposition and media pressure alive alongside the case.
-
----
-
-## Legal Strategy Decision Tree
-
-```
-START: Is an EIA in review, or a licence issued?
-├─ IN REVIEW → Request the public hearing + use the right to petition NOW (Track 1).
-│              Record the community position / insist on prior consultation.
-└─ ISSUED    → A TUTELA can be filed at any time a fundamental right is under imminent
-               threat, and is decided fast. Consider a collective action too.
-
-Q1: What is the defect?
-├─ Missing/defective prior consultation (ethnic community) → TUTELA (strong ground).
-├─ Harm to a healthy environment / a fundamental right at imminent risk → TUTELA.
-├─ Collective environmental right harmed → COLLECTIVE ACTION (acción popular).
-├─ The licence is unlawful → ACTION TO ANNUL before the administrative courts/Council of State.
-├─ A river/forest/páramo central to the case → invoke the RIGHTS-OF-NATURE line + the
-│      precautionary principle.
-└─ No real defect (lawful process, you just disagree) → focus on opposition + media.
-
-Q2: Is a right under imminent threat?
-└─ YES → the TUTELA is fast and free — use it, and ask for interim protection (medida
-        provisional) to halt the act meanwhile.
-
-Q3: Budget?
-├─ COP$0        → Tutela / right to petition yourself; partner with Tierra Digna/Dejusticia.
-├─ COP$0-120M   → Collective action / annulment with a lawyer + expert evidence.
-└─ COP$120-250M → Full case + expert witnesses, combined with opposition + media.
-
-RECOMMENDED PATHS
-Path A — Clear defect: tutela (consultation/environment) or collective action + Track 1
-  record + petition file + media. Highest ceiling.
-Path B — Arguable but not clear-cut: build opposition + media; take advice; litigate if a
-  defect crystallises.
-Path C — No legal defect: don't litigate. Win it politically, on the record, and in the press.
-```
-
----
-
-## Litigation Success Factors
-Litigation succeeds when **combined** with the other steps:
-- Litigation alone: 20-30%
-- Litigation + opposition: 35-45%
-- Litigation + opposition + media: 50-70%
-- A clear defect — a missing **prior consultation**, a defective **EIA**, or harm to a **páramo** — can exceed these, though a cured defect may let the project resume.
-
-A court that sees a genuine legal defect, plus visible organised opposition, plus press coverage, treats the matter as serious.
-
-## What to Avoid: Legal Failures
-- **Litigating instead of organising.** A lone technical point with no visible opposition reads as a niche dispute. Build opposition; litigate with it visible.
-- **Overlooking the tutela.** It is fast, free, and powerful for a fundamental right under imminent threat — don't default to slower routes when the tutela fits.
-- **Relying only on a popular consultation.** After the Court's limits, it cannot ban mining on its own — pair it with the other levers and get current advice.
-- **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The licence was granted without the prior consultation the Constitution requires" is a ground a court can act on.
-
----
+Two further developments strengthen a Colombian community's hand. First, the Constitutional Court's recognition of the **Atrato River as a subject of rights** (ruling T-622 of 2016) opened a genuine new front: courts have since extended similar recognition to other rivers and ecosystems, so a river, a páramo, or a forest at the centre of your fight may itself be argued to hold rights the State must guarantee — a powerful framing for an *acción popular* or a *tutela*. Second, the **Escazú Agreement**, in force for Colombia since 2022, obliges the State to guarantee access to environmental information, meaningful participation, and access to justice, and — uniquely among international treaties — to prevent, investigate, and punish attacks on environmental defenders. Invoke it: in filings, in referrals to the Defensoría, and in international advocacy, Escazú turns the protection of your people and your right to participate from a plea into a binding legal obligation the State has accepted. Beyond the *tutela* and the *acción popular*, two further routes are worth knowing: the challenge to the environmental licence itself before the administrative courts and the **Consejo de Estado**, which can suspend and annul a licence granted in breach of the rules, and the **acción de cumplimiento**, which forces an authority to comply with a law or regulation it is ignoring. Each has its moment; a good legal-aid partner will tell you which fits your facts, and often the mere filing — with a well-built record behind it — is enough to stall the machinery and bring the proponent to the table.
 
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
-Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Colombia — so you file the right fact against the right rule.
+You have a file of evidence. Now you must turn it into arguments — because the same fact persuades a judge, the Procuraduría, a journalist, an international conservation group, an investor, and the community itself in different ways. Learning to translate your evidence for each audience is what lets a community reach every lever at once.
 
-**A tutela → protect fundamental rights fast.** Where the project threatens rights (a healthy environment, health, consultation). Feed it with: the rights violation and your documented harm.
+## One Fact, Many Arguments
 
-**An acción popular → protect collective rights.** Designed exactly for environmental and public-interest harms. Feed it with: the collective-right breach and your evidence.
+Take a single documented fact — say, that a licence was granted for a mine overlapping a delimited páramo, on the territory of an Afro-Colombian community that was never consulted. That one fact becomes:
 
-**A licencia issued without proper EIA or participation → nullity before the Council of State.** Feed it with: the study's or process's gaps.
+- **A legal argument:** the licence breaches the páramo's closure to mining (ruling C-035 of 2016) and the community's right to prior consultation (ILO 169) — grounds for a *tutela*, an *acción popular*, and the suspension of the licence.
+- **A participation argument:** the community's constitutional right to take part in the decisions that affect it was denied.
+- **A rights-and-dignity argument:** a people was bypassed and its water and territory put at risk, in violation of the survival protections the Constitution affords it.
+- **An international argument:** a listed multinational mining a protected highland in a megadiverse country, without consulting the community — a story that reaches global media, conservation groups, and the company's financiers and buyers.
+- **A financier-and-buyer argument:** a company that breaks the host country's laws and mines a páramo is a legal, reputational, and supply-chain risk to those who fund and buy from it.
 
-**Prior consultation (consulta previa) with ethnic communities skipped → strong ground.** Feed it with: the affected community's position and the absence of consultation.
+Same fact, five arguments, five audiences. Go through your strongest facts and, for each, ask what it proves to each audience. That table is your campaign's argument bank — and in Colombia the consultation-and-páramo argument, tied to a treasured highland, is often the one that moves both the courts and the world. Keep the arguments anchored to the same documented facts, so that a claim made to a reporter can be backed in a sworn statement and a claim made to the court can be spoken plainly to the community; consistency across audiences is itself persuasive. When the legal filing, the press statement, the referral, and the community's own account all rest on the identical, verifiable record, the proponent's contrary story starts to look like the invention it is — and a judge, a journalist, and a financier, comparing your account with the company's, will notice which one the documents support.
 
-**Licence conditions breached → enforcement.** Feed it with: the conditions and dated evidence of breach.
+## Match the Argument to the Audience
 
-The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." The acción de tutela and acción popular can be filed by communities directly; an NGO can tell you fast which fits.
+**The courts and the Procuraduría** want the breach framed precisely against the specific rule — C-035 on páramos, ILO 169 on consultation, the licence's conditions — with the documents that prove it and the timeline that dates it.
+
+**Local officials** respond to their own community's clear voice and to legal and political risk — the *acuerdo*, the land-use argument, the liability of backing an unlawful project.
+
+**Journalists** need a specific, verified, human story with a hook — a named community, a threatened water source, a documented violation, an imminent decision.
+
+**International allies, financiers, and buyers** respond to reputational and legal exposure — an illegal operation in a globally significant ecosystem, tied to a named, listed company they are connected to.
+
+**The community itself** needs to see that the fight is winnable and shared — the small wins, the allies gained, the pressure mounting — so it lasts.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
-**Time to complete:** the full 12-month campaign
-**Cost:** ~COP$150 million (COP) for trained spokespeople + ongoing support
-**Outcome:** regular coverage reaching a large audience, political pressure on decision-makers
+Media is not vanity; it is a lever. Coverage raises the political cost of approval, reaches officials and financiers your letters cannot, protects defenders by making them visible, and can turn a local fight into a national or international cause. In Colombia, with its combative press and its globally treasured ecosystems, this lever is unusually strong.
 
-**Success Rate (Media Only):** 10-15%
-**Success Rate (Media + Opposition + Documentation + Legal):** 60-75%
+## Build the Story
 
-Colombia has a strong national press, a vigorous investigative-journalism sector, and heavy social-media use, that cover exactly these fights — and a record of that coverage shifting outcomes. The Cajamarca vote drew national and international attention, which raised the political cost of ignoring it. (A safety note: journalists covering these conflicts are themselves at risk in Colombia — see Section 9.)
+Reporters need specifics: a named place and people, a dated and documented violation, a clear stake, and a live decision or deadline. "A mine threatens our mountain" is not a story; "a listed multinational holds a licence to mine an open pit in a delimited páramo that supplies a town's water, without consulting the community, and a court will rule next month" is. Lead with your strongest verified fact, attach the map and the imagery, and offer a human voice — a farmer, a mother, a community authority — and an expert.
 
-## How Journalists Actually Work
-What reporters care about, in order: (1) **news** (something new happened), (2) **consequence** (someone is affected), (3) **timeliness** (it's happening now), (4) **conflict** (a real dispute), (5) **new information**. What they don't care about: your opinion, how angry you are, vague statements, or meetings with no hook.
+## Reach the Right Outlets
 
-## The Newsworthiness Formula
-**NEWS = DATA + CONSEQUENCE + TIMELINESS + NEW INFORMATION**
-- **Bad:** "Residents oppose the project." (no data, no specific consequence, nothing new) → ignored.
-- **Good:** "Right-to-petition documents show the EIA never assessed the water basin that supplies 300,000 people; the community has filed a tutela; a judge decides within days." → covered.
+Work outward in rings. **Local and regional press** first, where the story is felt and officials read it. Then **national outlets** — the newspapers, broadcasters, and the strong Colombian online investigative press — which carry political weight. Then, for a project touching a globally significant place or a listed or foreign company, **international media and specialist environmental outlets**, which reach financiers and buyers. Feed each ring what it needs, and let coverage in one pull in the next. Pay particular attention to the ring that reaches the **money**: a listed proponent depends on shareholders, lenders, and buyers, and coverage in international and financial outlets — and briefings to responsible-investment bodies — can reach a company where domestic politics cannot, turning its own backers into a source of pressure on it. Coverage does a second job in Colombia that matters as much: it protects people. A community leader whose name and face are known to the national press, whose fight is followed abroad, and whose threats have been reported is harder to disappear quietly than one who works in obscurity. Visibility, deployed carefully, is not only a lever against the project; it is a shield for the people carrying the fight.
 
-The difference is roughly a 4-5x change in the likelihood of coverage.
+## Sustain It, Make It Safe and True
 
-## Know the Outlets That Cover This Beat
-- **Local and community media** and **regional press** — the audience that reaches your municipal and department officials.
-- **National outlets** — *El Espectador*, *El Tiempo*, and *Semana* — for projects with wider significance.
-- **Investigative and environmental outlets** — *La Silla Vacía*, *Cuestión Pública*, *Rutas del Conflicto*, *Vorágine*, and **Mongabay Latam** — for deeper reporting on licences, water, and ethnic rights.
-- **Social media** — powerful in Colombia — plus international outlets for landmark cases (as at Cajamarca).
+A single article changes little; a drumbeat changes decisions. Plan a sequence — the filing, the hearing, the new document, the community action — so there is always a next hook, and build your own record (a simple page, a social feed, a growing album of dated photographs and video) so the story exists in a form journalists can pick up and that survives if posts are removed. Keep messaging disciplined, accurate, and consistent; one exaggeration handed to the other side can cost you credibility you cannot rebuild. And in a country where defenders are killed, weigh how and whom you expose: centre the collective and the documented facts rather than isolated individuals, coordinate with your legal and community leads, and never publish what you cannot stand behind. Verified, specific, human, and relentless — that is the coverage that shifts outcomes.
 
-## Building Reporter Relationships (The Key)
-Reporters don't ring campaigners for comment; campaigners ring reporters with tips. Identify 5-10 local, regional, and specialist reporters (environment, mining, ethnic-rights beats). **Contact** them first: "I saw your piece on [similar story]. We've got a similar situation in [place] and I think your readers should know." Then keep the relationship warm over months — a relevant article, a right-to-petition document, a milestone — so that when the big story lands, they already know you.
+# EMAILS & LETTERS
 
-## Sample Media Timeline
-- Month 1: build relationships (contact five reporters)
-- Month 2: first story (the public hearing / the recorded community position)
-- Month 3: press event releasing the survey/petition findings; expert available
-- Month 4: coalition announcement
-- Month 5: march coverage
-- Month 6: decision-date coverage
+Written communications are how you enter objections, create a record, and reach the bodies that can act. Each does double duty: it asks for something and it documents that you asked. Keep copies of everything, and send important items so that receipt is provable. Below are adaptable templates for the situations you will meet most often. Keep them factual, specific, and grounded in the law and the evidence.
 
-## Real Media Dynamics (Colombian grounding)
-- **Coverage plus mobilisation shifts outcomes:** the Cajamarca fight combined years of community organising, the documentation of the water threat, and the popular consultation with national and international coverage that raised the political cost.
-- **Petition documents make stories:** a disclosure that contradicts the developer's claims — an EIA that ignored the water basin, a missing consultation — is a gift to a reporter and a court.
-- **Independent evidence beats the developer's study:** independent hydrological, ecological, or health analysis that contradicts an optimistic **EIA** lets the press write "experts dispute the developer's figures," and decision-makers take notice.
+## 8A. Objection During the Licensing Process
 
-## Media Measurement
-Track cumulative stories and reach month over month. **Success indicators:** regular (at least monthly) coverage that carries your message and specific data, and visible decision-maker response. **Failure indicators:** no coverage for 2+ months, superficial coverage that drops your argument, or no response from decision-makers.
+**To:** ANLA [or the relevant CAR]
+**Subject:** Objection (*intervención*) — [project], environmental licence [file no.]
 
----
+As a person affected by [project] at [location], I intervene and object during the environmental-licensing process. My grounds, with evidence: (1) the environmental-impact study [omits / understates] [effect — e.g. the risk to the páramo that supplies our water]; (2) the affected community was not genuinely allowed to participate, contrary to Article 79 of the Constitution; (3) [the project overlaps a delimited páramo / a protected area / the territory of a community that was not consulted]. I request that the licence be DENIED, or that [strict conditions and genuine participation] be required, and that this objection be entered on the record. [Attachments.]
 
-## Amplifying at Scale — Media Help for Hire
+## 8B. Right of Petition — Request for Information
 
-Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
+**To:** [ANLA / the CAR / the ANM / the *alcaldía* / the Ministry of the Interior]
+**Subject:** Right of petition (Art. 23) — information on [project]
 
-# SECTION 8: EMAILS & LETTERS YOU CAN COPY
+Under Article 23 of the Constitution and Law 1712 of 2014, I respectfully request copies of: the environmental licence and its conditions, modifications, and obligations; the environmental-impact study and the record of the public hearing; [the mining title]; [the prior-consultation record and the certification of ethnic presence]; [the POT provisions and any *acuerdo*]. As a member of an affected community, I ask that these be provided within the legal term.
 
-These are ready-to-use messages. Adapt the bracketed parts and send them. Keep them short, specific, and grounded in the law and the evidence — that is what gets read and acted on. The **right-to-petition request (8E)** and the press release (8G) are among the highest-leverage messages here.
+## 8C. Statement Asserting the Right to Prior Consultation
 
-## 8A. Email to a reporter (story pitch)
+**To:** the Ministry of the Interior (Directorate of Prior Consultation) [and ANLA / the company]
+**Subject:** [Project] — prior consultation required and not carried out
 
-```
-Subject: Story tip: [specific finding] — [the authority] decides [date]
+[Project] affects the territory and the rights of [Indigenous *resguardo* / Afro-Colombian community], through its legitimate authorities [the *cabildo* / the *consejo comunitario*]. Under ILO Convention 169 (Law 21 of 1991) and the jurisprudence of the Constitutional Court, our free, prior and informed consultation — and, given the threat to our survival, our consent — is required before this project may proceed. No genuine consultation has taken place. We require that all activity cease until a lawful consultation with our legitimate authorities is carried out, and that no licence issue in its absence. [Signed by the legitimate authorities.]
 
-Estimado/a [Reporter],
+## 8D. Acción de Tutela / Acción Popular (via counsel)
 
-I follow your coverage of [beat / recent story]. We have something in [place]
-your readers should know about, and there's a clear news hook.
+**To:** the competent judge, via counsel
+**Subject:** [Tutela / acción popular] — [project]
 
-In one line: [right-to-petition documents / the community's recorded position / an
-independent survey] show [quantified finding — e.g. "the EIA never assessed the water
-basin that supplies 300,000 people"], and [ANLA / the CAR] decides on [date].
+As [affected residents / an ethnic community / any citizen for the collective right], we bring [an *acción de tutela* to protect our fundamental rights to prior consultation, participation, water, and a healthy environment tied to our survival / an *acción popular* to protect the collective right to a healthy environment], against [the authority and the company], on the grounds that [the licence was granted without prior consultation / the project overlaps a páramo closed to mining under ruling C-035 of 2016 / the community's participation was denied]. We seek [the suspension of the activity and of the licence, and measures to prevent and repair the harm]. [Grounds, timeline, and evidence attached.]
 
-Why it's newsworthy: it's new (just obtained), specific (affects [# people /
-hectares / an ethnic community]), and time-sensitive (decision [date]).
+## 8E. Referral to the Procuraduría / Defensoría / Contraloría
 
-I can share the full report and the documents and connect you with [one named
-expert] for an interview. Would a quick call this week work?
+**To:** the Procuraduría [Delegate for Environmental and Agrarian Affairs] [or the Defensoría del Pueblo / the Contraloría]
+**Subject:** Referral — [irregularity / harm / threat], [project], [location]
 
-Saludos,
-[Name] — [Organisation] — [phone] — [email]
-```
+We bring to your attention [the failures and the harm] connected with [project]: [sourced facts — a licence granted over unaddressed objections, a consultation skipped, a páramo overlap, officials who acted or failed to act, threats against community members]. We request that you [investigate and, where warranted, discipline the responsible officials / intervene in defence of the collective right / protect the threatened community / audit the public funds involved], and we attach the documentation.
 
-## 8B. Letter to ANLA, the CAR, or the mayor/governor
+## 8F. Letter to the Mayor or the Council
 
-```
-Subject: [Deny / attach strict conditions to] [project] — environmental licence [ref]
+**To:** [the Mayor (*alcalde*) / the Municipal Council (*concejo*)]
+**Subject:** [Land use / a resolution / a hearing] — [project]
 
-To [ANLA / the Director of the CAR / the Mayor (Alcalde) / the Governor],
+We are residents of [place] writing about [project]. Our concern, briefly: [one or two specific grounds — a threat to our water, an overlap with closed ground, a consultation skipped]. Within your competence over land use and the POT, we ask you to [regulate the land use accordingly / hold a public hearing / pass a resolution of concern and address the national authorities]. [If true:] [#] residents, [#] *juntas* and organisations share this concern, and the matter carries legal risk. We welcome a meeting and can share our full evidence.
 
-I am a resident of [place] writing about the [project], on which a decision (the
-environmental licence based on the EIA) is expected around [date].
+## 8G. Coalition Outreach (to a legal-aid group or national/international ally)
 
-The concern, briefly: [one or two specific grounds — e.g. "the EIA fails to assess
-the water basin the region depends on, the project sits above a páramo, and the
-ethnic community was never consulted"].
+**To:** [a public-interest law group / a national environmental network / an international conservation organisation]
+**Subject:** [Project] — would you support our community's case?
 
-I am asking you to [specific, achievable action — e.g. "deny the licence," or
-"require strict conditions, real compensation, and a redesign"].
+We are a community group [and ethnic community] in [place] facing [project], which [one-line stake — e.g. "would mine a páramo that gives us our water, on our territory, without the consultation the law requires"]. We are getting in touch because [your organisation has carried community environmental cases here / your reach can carry this story to those who fund and buy from the company]. We are not asking you to adopt our whole campaign — only to consider [taking or advising on a case / amplifying our fight]. We have documented evidence and community backing, and can send a brief and arrange a call.
 
-[If true:] The affected community has recorded its opposition; [#] residents spoke at
-the public hearing; [#] organisations share the concern.
+## 8H. Email to a Reporter (National or International)
 
-I would welcome a meeting and can share our full evidence.
+**To:** [journalist]
+**Subject:** Story tip: [specific finding] — [the páramo / the community]
 
-Atentamente,
-[Name], [address], [phone], [email]
-```
-
-## 8C. Concern at the public hearing / recorded community position
-
-```
-PART A — WRITTEN CONCERN (public environmental hearing)
-To: [ANLA / the CAR], re [project]
+I follow your coverage of [beat]. We have something your readers should know, with a clear news hook: [documents] show [quantified finding — e.g. "a listed multinational holds a licence to mine an open pit in a delimited páramo that supplies our town's water, without consulting our community"], and [a decision / hearing] is due [date]. It is specific, verified, and it concerns a place of national and global significance. I can share the full file and connect you with affected community members and [an expert]. Could we talk this week?
 
-Concern regarding the [project]. Hearing held/requested [date].
-1. Who I am: [name], [community], [interest].
-2. Grounds (with evidence):
-   a. [Prior consultation] — the project affects the [people]; the prior consultation
-      the Constitution and ILO 169 require has not taken place. (Attach.)
-   b. [Defective EIA] — the study omits [impact], understates [impact], and ignores
-      the water basin / páramo documented here.
-   c. [Páramo / water] — the project harms a páramo / the water source of [community].
-3. What I ask: that the licence be DENIED; alternatively, [strict conditions and a
-   redesign].
-[Name] — [contact] — Attachments: [baseline / impact / health report]
-
-PART B — RECORDED COMMUNITY POSITION (assembly / ethnic authority)
-"The [community], through its assembly / its cabildo / its consejo comunitario,
-records that it OPPOSES the [project] and does not consent to it, for the following
-reasons: [rights / livelihood / water / sacred sites]. Recorded [date], [who was
-present / how decided]."
-```
+## Using the Templates Well
 
-## 8D. Coalition outreach email (to an organisation)
-
-```
-Subject: [Organisation] + [project] — a specific ask that fits your work
-
-Estimado/a [Name],
-
-I'm [name] with [organisation] in [place]. We're working on [project], which
-[one-line stake]. I'm getting in touch because this connects directly to
-[organisation]'s work on [their aim].
-
-We're not asking you to adopt our whole campaign — just one concrete thing that
-serves your aims: [tailored ask — e.g. "help us prepare a tutela or a collective
-action," or "help us insist on a genuine prior consultation," or "have your
-researchers assess the water-basin impacts independently"].
-
-If helpful, I can send a one-page brief and arrange a short call.
-
-Con gratitud,
-[Name] — [Organisation] — [contact]
-```
-
-## 8E. Right-to-petition request (the transparency tool)
-
-```
-To: [ANLA / the CAR / the authority], Attn: the Petitions Office
-
-RIGHT TO PETITION (Derecho de petición — Article 23 of the Constitution) / request
-under the Transparency and Access to Information Law (Law 1712 of 2014)
-
-Please provide the following concerning [project] (ref [ref]):
-1. The environmental impact study (EIA) and the environmental licence (and conditions).
-2. The record of the public environmental hearing and the concerns received.
-3. For an ethnic community: the prior-consultation record and its certification.
-4. For mining: the concession title from the ANM and any páramo/water-source overlap.
-5. The correspondence between [the authority] and [the developer], [dates].
-
-Under the right to petition you must respond within the legal timeframe. If any
-information is refused, please state the legal basis; I reserve the right to insist
-and to complain.
-
-[Name] — [address] — [date]
-```
-
-## 8F. Legal challenge — tutela / collective action (fast and free; get current advice)
-
-```
-NOTE: The ACCIÓN DE TUTELA is FREE, needs no lawyer, and is decided in about ten days
-— use it when a fundamental right (healthy environment, prior consultation) is under
-imminent threat, and ask for INTERIM PROTECTION (medida provisional) to halt the act
-meanwhile. For a collective environmental right, use the COLLECTIVE ACTION (acción
-popular). NOTE the popular-consultation limits after SU-095/2018 — get current advice.
-
-[TUTELA — heading and form as advised; can be handwritten]
-[Date]
-
-Petitioner(s): [affected persons / community / ethnic authority], [address].
-Against: [ANLA / the CAR / the authority] — for [the act/omission].
-
-1. Fundamental right violated or threatened: [the right to a healthy environment
-   (Art. 79) / to prior consultation / to water], by [the licence [ref] / the failure
-   to consult].
-2. Grounds: [missing prior consultation]; [defective EIA]; [harm to a páramo/water
-   source]; [the rights-of-nature line, where a river/forest is central].
-3. Relief: protection of the right; SUSPENSION of the act; and INTERIM PROTECTION
-   (medida provisional) while the tutela is decided.
-
-[Name] — [contact]
-```
-
-## 8G. Press release (effective)
-
-```
-FOR IMMEDIATE RELEASE
-
-[HEADLINE: make it NEWS, not opinion]
-[Subtitle: consequence + timeliness]
-
-[DATELINE: Place / Date]
-
-[LEAD — answer "why now?"]
-[Local organisation] released [study / right-to-petition documents / the community's
-recorded position] today showing [specific finding] affecting [# of people /
-hectares / an ethnic community].
-
-KEY FINDINGS
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-
-[DIRECT QUOTE — specific, from a credible voice, not a slogan]
-"[What the finding means]," said [Name, Title].
-
-[CONTEXT — why it matters; reference a documented case where relevant]
-
-[DECISION POINT — create urgency]
-[ANLA / the CAR / the court] decides on [date].
-
-[CALL TO ACTION] To support or add your concern: [how].
-For more: [contact].
-
-CONTACT: [Name / Organisation / Phone / Email]
-ATTACHMENTS: full report, right-to-petition documents, the community's recorded position, maps, Q&A
-```
-
-## 8H. Legal strategy decision tree
-See Step 4 for the full decision tree — Tracks 1-3, the tutela, the collective action, prior consultation, the rights-of-nature line, the right to petition, the SU-095 caution, and the budget branches.
-
----
+Send important communications so that receipt is provable, and log every one in your timeline — above all the licence dates, the consultation records, and any court or comment deadlines. Keep them factual, specific, and grounded in the law and the evidence; attach your documentation; and route them, where you can, through or with the legitimate community authorities, your legal-aid partner, and your allies. The reply — or the silence — becomes part of your record, and in Colombia that record feeds the levers that matter most: consultation, the closed ground, the courts, and the spotlight.
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
-Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+Not everyone can run a long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
 
-1. **Use a derecho de petición to demand the file and register your objection before the deadline. Name one or two concrete grounds (water, a páramo, an affected community). It is fast and must be answered.**
-2. **Get the Estudio de Impacto Ambiental (EIA) and quote its worst admission back to the autoridad ambiental.** The developer's own words carry the most weight.
-3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
-4. **File one derecho de petición request** (Section 8E) — even if someone else uses it later.
-5. **Point one NGO or clinic at the fight.** Dejusticia or a legal clinic may take it from there — you hand off, you don't have to lead.
-6. **Consider an acción de tutela or acción popular** — communities can file these directly to protect environmental and collective rights, without a lawyer.
-7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+**1. Establish whether consultation was required and done — today.** If the project affects an Indigenous *resguardo* or an Afro-Colombian territory, find out whether a genuine prior consultation was carried out with the legitimate authorities. If it was not, you may hold the strongest and simplest lever there is.
 
-Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+**2. Assert the right to consultation, formally and in writing.** One clear statement from the legitimate authorities (8C) that consultation is required and was not done puts the project's legality in doubt and creates a powerful record — and can compel its suspension.
 
-# SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
+**3. Check whether the ground is closed.** Establish whether the footprint sits in a delimited páramo, a protected area, or a watershed. A project on closed ground is defective on the documents, and a single overlay map can prove it.
 
-**What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because the nation owns the subsoil and depends on mining and oil royalties, because departments and municipalities want investment, or because the developer's own consultants prepare the study. It rarely means anyone broke the law. Here is how the tilt works — and how communities win anyway. **In Colombia, this section also carries the most important warning in the guide: the physical danger to defenders.**
+**4. Request the licence and the file.** One right-of-petition letter (8B) forces out the environmental licence, the study, and the conditions — often revealing the breached condition, the missing participation, or the páramo overlap that becomes your case.
 
-## Important Caveat
-This section describes patterns from documented Colombian dynamics and public policy — royalty-driven pressure, "national strategic interest" designations, developer-funded studies, rarely-refused licences, and the limits placed on popular consultations. It is not a statistical claim about "X% of all decisions." Read it as: "where these patterns appear, here is what happens and what it means for opposition."
+**5. File a tutela if a fundamental right is being violated.** The *acción de tutela* (8D) is fast and needs no lawyer in a pinch; where consultation, participation, water, or a healthy environment tied to survival is at stake, it can suspend the activity within days.
 
-## What This Tilt DOES (and DOESN'T DO)
-**DOES:** create financial and political incentive to approve (royalties, jobs, investment, "strategic interest"); bias information (the **EIA** is commissioned by the developer, and reads optimistically); advantage well-resourced developers; and — after the Constitutional Court's limits — **narrow** the power of a **popular consultation** to block mining.
-**DOESN'T:** guarantee approval; make opposition impossible; remove the right to **prior consultation**; remove the **tutela**, the **collective action**, or the **rights-of-nature** jurisprudence; or prevent suspensions, conditions, and delay.
+**6. Tell the world.** A threat to a páramo, a river, or an ethnic territory reaches the national and international press; a single accurate tip (8H) can turn a local fight into a cause and reach the company's financiers and buyers.
 
-**The popular-consultation limit, specifically.** After Cajamarca, the Constitutional Court held that a municipality cannot, by popular consultation alone, ban mining, because the subsoil belongs to the nation — requiring instead mechanisms of "coordination and concurrence" between national and local authorities. The practical lesson: the consultation is no longer a stand-alone off-switch for mining, so lead with the **EIA**, **prior consultation**, **páramo/water**, and **rights-of-nature** grounds, and get current advice.
+**7. Refer it to the Procuraduría or the Defensoría.** A referral (8E) brings oversight — and, if defenders are threatened, protection — without the cost of a full case.
 
-**Analogy:** a tilted system is like playing on a pitch sloped against you. It makes winning harder, not impossible — so your strategy has to be sharper and more visible, your legal grounds cleaner, and your information paper trail solid.
+Do only the first three and you will have cast doubt on the project's legality, asserted your consultation right, and shown the ground is closed — the exact combination that has most tested Colombian projects. Then come back and read the rest.
 
-## Assessment Framework — Determine Your Situation
-**GREEN FLAG (low tilt):** an ordinary licence with genuine scrutiny; no "strategic interest" label; a clear legal defect; ethnic territory, a páramo, or a documented water source engaged. → 65-75% with all 5 steps. Proceed with standard opposition — mindful of safety.
+# WHEN THE SYSTEM IS TILTED
 
-**YELLOW FLAG (moderate tilt):** a royalty-driven push and a developer-funded **EIA**, but independent evidence is possible and a legal ground (EIA, consultation, páramo) is arguable. → 40-45% with all 5 steps; often win conditions and delay even if not a refusal. Proceed; prioritise the consultation and páramo/water defects.
+Colombia's system is tilted in specific ways you must understand, so you neither waste effort nor miss the levers that still work.
 
-**RED FLAG (high tilt):** a project of "national strategic interest," developer-only studies, heavy political backing — and, often, an armed or criminal interest in the territory. → 25-30% to stop; 50-60% to modify/delay. Weigh whether delay/conditions justify the investment **and the risk**; lead with the cleanest ground; build power and a record for the next round.
+## Where the Tilt Shows
 
-## Direct Action and Defender Safety: The Most Important Warning in This Guide
-When licence and legal routes are exhausted, some Colombian communities have used non-violent direct action — marches, blockades, and occupations. This is descriptive of what has occurred, not guidance — and in Colombia it comes with the gravest safety warning in this guide.
+The tilt runs toward mining and oil, on which the national economy and the public budget lean, and which successive governments have promoted. The **environmental authorities** have granted and defended licences over community objections. The **SU-095 ruling of 2018** narrowed the *consulta popular*, holding that a municipality cannot by itself vote to ban subsoil mining — removing, for now, a tool communities had used to great effect, and leaving the coordination of national and local decisions to a Congress that has been slow to act. **Prior consultation is sometimes captured** — run with a hand-picked few, or reduced to a formality. Courts move slowly, and orders can be appealed. And most gravely, **defenders are in extreme danger**: Colombia records more killings of land and environmental defenders than any other country, a legacy of an armed conflict that persists in many rural areas where these projects are proposed. Where this tilt bites, the formal process gives less than it should — but real levers still reach past it.
 
-**Colombia is the most dangerous country in the world for people who defend land and the environment.** Independent monitoring recorded it as the **deadliest country on earth for defenders**, with the highest annual death toll ever documented for a single country — **around 79 killings in a single recent year, and over 300 in a decade** — and **Indigenous and Afro-Colombian peoples are killed in numbers far out of proportion to their share of the population**. Even the peaceful, celebrated organisers of the Cajamarca consultation **received death threats**. Armed groups and criminal organisations control many rural areas, and those who resist extractive and land interests face threats, forced displacement, criminalisation, and murder. Journalists covering these conflicts are also at risk.
+## What Still Works — And Some Is Distinctive
 
-This danger must shape everything. Anyone considering organising or direct action — especially over mining, oil, or land in a contested rural area — should treat their safety as the first priority: **never act alone; move and decide collectively; agree a security protocol from the start** (who knows where you are, what to do about threats, how to reduce exposure); keep everything non-violent and well-documented; **connect immediately to protection bodies** — the **Ombudsman (Defensoría del Pueblo)**, the **National Protection Unit (Unidad Nacional de Protección, UNP)**, and defender organisations such as **Somos Defensores** — and to the press, because visibility can be protective; and use the protections of the **Escazú Agreement**, which Colombia has ratified and which specifically obliges the state to prevent and investigate attacks on defenders. **If you are threatened, treat it as an emergency: report it to the Defensoría, the UNP, and the Fiscalía, document it, tell your networks, and seek protection.** No project is worth a life; organise in ways that keep people alive and together.
+The decisive point is that even where the system tilts, real and distinctive levers reach past it.
 
-## Honest Assessment
-Where the system is tilted, opposition using licence and legal methods has lower odds of an outright stop — but still reliably wins suspensions or conditions, forces delay (often long), imposes political cost, builds durable community power, and creates a record for the courts. And Colombia offers genuine equalisers: the fast, free **tutela**; the **collective action**; the right to **prior consultation**; the world-leading **rights-of-nature** jurisprudence; and the **right to petition**. Neither scenario makes opposition futile — but in Colombia, do it safely.
+**Prior consultation is a genuine, court-enforced right.** On ethnic territories, a project needs consultation and, where survival is threatened, consent — a right the Constitutional Court has upheld against the government and companies alike. This is your firmest and most distinctive ground, and SU-095 did not touch it.
 
----
+**Closed ground stays closed.** A delimited páramo is off-limits to mining (ruling C-035 of 2016), and a protected area or a river recognised as a subject of rights (the Atrato, T-622 of 2016) walls out destructive use regardless of the proponent's connections — and an overlap is provable on a map.
+
+**The tutela and the acción popular reach any judge.** The fast fundamental-rights action and the collective environmental action put a community before a court quickly, and the tutela can suspend work now. And a filing does not have to end in a final victory to work: even where a court ultimately hesitates, the *tutela*, the provisional measure, and the disclosure they force buy time, expose the record, and shift the political and reputational calculus — which is often what turns a determined proponent, or a wavering financier, away.
+
+**Municipal land-use power survives SU-095.** A municipality still governs where activities may occur through its POT, exercised in coordination with national authorities — a real front the ruling narrowed but did not erase.
+
+**The press, the overseers, and the world cannot be switched off.** A combative domestic media, the Procuraduría and Defensoría, and intense international interest in Colombia's ecosystems reach past domestic politics to the company's financiers and buyers.
+
+## The Honest Frame
+
+So the honest frame for Colombia is real but demanding. Prior consultation, closed ground, the tutela and acción popular, a nature-protecting Constitutional Court, municipal land-use power, a free press, and the international spotlight give a community genuine power, as Cajamarca proved by studying, organising, allying, and winning a binding vote that stopped a gold giant. But the national government backs extraction, SU-095 curtailed the popular consultation, consultation can be captured, courts are slow, and defenders face the world's gravest danger. So diagnose the tilt honestly: lean on your consultation rights, the closed ground, and the courts, not on a favourable authority or the popular consultation alone; document every violation; protect your people above all and report threats at once; and think in terms of participation forced, delay, exposure, and a proponent worn down as much as an outright, permanent stop. In a government-backed fight, that is often what winning looks like — and it is real.
 
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
+Sometimes a project advances not despite the evidence but because someone is being paid, pressured, or protected. Corruption changes your strategy: you stop trying to persuade a captured decision-maker and start exposing and going around them.
 
-**Municipio officials and councillors.** The most common pressure point: a municipio dependent on the project (e.g. royalties), or an official with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the disciplinary and conflict-of-interest regime (Procuraduría) — misconduct can void acts and sanction officials.
+## How to Tell
 
-**ANLA and the regional CAR.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: a tutela, an acción popular, or nullity before the Council of State.
+Look for the signatures of capture. A **prior consultation that produces agreement against the community's evident will** — run with outsiders, signed by a handful, dissenters excluded, sudden payments — is a classic red flag. A **licence granted or an obligation waived in the teeth of the evidence**, over strong documented objections and without addressing them, suggests more than error. **Officials with undisclosed interests** in the proponent, **permits issued at unusual speed**, **technical concepts that contradict the visible ground**, and **enforcement that never comes** despite obvious violations all point the same way. And in Colombia, **threats and stigmatisation aimed at the very leaders who are asking questions** are themselves a signature of something rotten. One anomaly may be incompetence; a pattern is capture. A useful test is to lay your timeline beside the official one: when approvals cluster suspiciously close to a change of official, when an inspection that should have followed a complaint never happened, when a study's damning early draft is softened in its final version, or when the same names recur on both sides of a decision, the pattern tells you more than any single document. Gather these threads quietly before you act, because a captured actor who senses exposure will move to bury the record.
 
-**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the Cámara de Comercio, the property registry, and asset declarations surface the timeline a journalist needs.
+## Who Can Be Captured — and Who Is Harder
 
-**The courts.** Colombia's tutela and acción popular make rights litigation unusually accessible, and the courts have halted major projects and protected ecosystems (páramos, rivers). The constraints are delay and enforcement; seek precautionary measures where work could start before judgment.
+Be clear-eyed about where capture reaches. A **local office, a hand-picked consultation, or a single official** can be bought or pressured. But the Colombian system has bodies that are harder to capture and that a corrupt local arrangement cannot easily reach: the **Procuraduría**, which disciplines officials; the **Contraloría**, which follows the public money; the **Defensoría**, which defends rights and defenders; the **courts**, up to a Constitutional Court that has closed páramos and recognised rivers as rights-bearers; and the **free press**. Corruption thrives on darkness and on staying local; your task is to lift the matter out of the captured node and into the light and the higher, cleaner fora.
 
-**National and regional politicians and priority projects.** Where a project is a stated national or regional priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
+## What to Do
 
-**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Procuraduría, the Contraloría for public money, and the Fiscalía for crimes — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
+Do not confront and tip off the captured official. Instead, **document the anomaly precisely** — the dates, the signatures, the payments, the missing inspections — and refer it, with evidence, to the bodies above (8E): the Procuraduría for the officials, the Contraloría for the money, the Defensoría for the rights and the threatened, and the press for the daylight. Pair the referral with the environmental case, so the corruption and the harm are exposed together. Remember that exposure has its own momentum: a Procuraduría investigation or a Contraloría finding creates a record other bodies must reckon with, a disciplined official cannot keep pushing the project, and a consultation shown to be captured collapses the legal ground the approval stood on. You are not asking a captured node to change its mind; you are removing the pieces the project depends on, one clean forum at a time, and letting the daylight do the rest. In Colombia, where the Procuraduría, the Contraloría, and the courts have real independence, a well-documented referral can move faster and reach higher than a captured local office ever expects. And protect yourself above all — in Colombia, exposing corruption can be dangerous, so coordinate with your legal and community leads, involve the Defensoría, keep the work collective and documented, and never carry it alone.
 
-# INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
+# INTEGRATION & TIMELINE
 
-## Realistic 12-Month Campaign Timeline
+The five steps win when they run together. Here is how they fit across the life of a fight.
 
-**Months 1-2 — Foundation + Documentation:** identify the target and decision-maker (Step 1); begin baseline surveys, map ethnic territory, water systems, and use (Step 2); convene the community and form or partner with a registered non-profit — and **set up a security protocol** (Step 3, Section 9); file first **right-to-petition** requests, request the public hearing, and make first reporter contacts (Steps 4-5). *Outcome:* structure forming, the record and paper trail beginning.
+## Early (Weeks 0–8): Identify, Document, and Assert
 
-**Months 2-3 — Public Launch:** baseline complete; community assembly / cabildo abierto + concerns at the public hearing + **recorded community position** (Steps 3-4); media event (Step 5). *Outcome:* opposition visible, concerns and position on the record, 3-5 stories.
+Pin down the project, the permit, and the stage (Step 1). Begin the file — request the licence, the study, the consultation record, the zoning (Step 2 and What to Gather). Form the core and bring in the legitimate community authorities (Step 3). And move fast on the things that will not wait: **assert the right to prior consultation** in writing, and **file objections while the licensing study is open**. Reach a legal-aid group now, before deadlines close. This early phase is cheap, and it sets up everything else.
 
-**Months 3-4 — Coalition + Impact Analysis:** complete impact analysis testing the **EIA** (Step 2); expand the coalition and bring in a law group and (on ethnic land) the community's authorities (Step 3); prepare the **tutela / collective action** grounds (Step 4); data-release press event (Step 5). *Outcome:* broad coalition, legal grounds identified, coverage expanding.
+## Middle (Months 2–12): Escalate on Every Front
 
-**Months 4-6 — Expansion + Health Data:** health/livelihood report (Step 2); sustained marches (Step 3, safely); the licence decision (Step 4); expert press events (Step 5). *Outcome:* possible refusal or strict conditions, quantified impacts, regional media.
+Widen the coalition and show strength (Step 3). Turn your evidence into arguments for each audience (Turning Evidence). Escalate legally as the facts warrant — a *tutela* to suspend the activity, an *acción popular* for the collective right, a demand for lawful consultation (Step 4). Refer the officials and the money to the Procuraduría and the Contraloría, and any threats to the Defensoría (8E). Build the media drumbeat from local to national to international (Step 5). Each front feeds the others: a filing is a headline, a headline is pressure, pressure moves an official, an official's document strengthens the filing. The sequence is not rigid, but do the cheap, time-sensitive things first, because a missed comment period or a lost deadline cannot be recovered. A campaign that front-loads the irreversible steps and runs the rest in parallel gets far more from the same effort than one that takes them one at a time; and it keeps the media and the coalition growing throughout, so that when a legal or official decision comes, there is a watching public to give it weight.
 
-**Months 6-9 — Escalation + Litigation:** marches escalating, safety maintained (Step 3); file the **tutela** (fast) or the **collective action** (Step 4); ongoing monthly media (Step 5). *Outcome:* sustained pressure, case live, act possibly suspended.
+## Later (Months 6–36+): Sustain, and Redefine the Win
 
-**Months 9-12 — Peak Pressure + Positioning:** maintain opposition (Step 3); hearing / positioning, and watch for a **re-granted licence** after any suspension (Step 4); media momentum (Step 5). *Outcome:* licence + opposition + media + law compound; suspension, conditions, or the project shelved.
+Sustain the coalition against burnout; protect your people; keep the record and the coverage alive. And judge success honestly. Sometimes it is an outright, permanent stop — a denied licence, a project abandoned, a binding vote upheld, as at Cajamarca. More often, in a government-backed fight, it is a project **stalled for years, shrunk, re-sited, saddled with conditions, or so delayed and exposed that the proponent walks away** — and a consultation right vindicated and a precedent that protects the next community. That is not a lesser victory. It is what winning usually looks like, and it is worth every effort it takes.
 
-## Key Principles (What Separates Winning Campaigns from Losing Ones)
-1. **Specificity** — "the EIA never assessed the water basin that supplies 300,000 people," not "we oppose the project."
-2. **Multi-tactic pressure** — public hearing + recorded position + consultation + opposition + media + tutela, together.
-3. **Long-term organising — safely** — sustain 12+ months; prevent burnout and fear; keep people alive and together (Section 9).
-4. **Documentation first** — build the evidence (including who lives there and the water systems), then use the hearing and litigate on it.
-5. **Coalition building** — 5-10 diverse groups; respect ethnic communities' own authorities and guard against co-option.
-6. **Use the tutela, prior consultation, and rights of nature** — the fast constitutional action, the consultation right, and the rights-of-nature jurisprudence are distinctively strong Colombian levers.
-7. **Act fast with the tutela** — it is free and decided in days when a right is under imminent threat.
-8. **Realistic expectations** — expect conditions/modifications/delay; a refusal or suspension is the bonus; expect royalty-driven backing and possible re-granting.
-9. **Persistence and safety** — plan for 12-24 months, keep momentum, and protect organisers and whistleblowers — the danger here is the highest in the world.
+## The Shape of a Campaign
 
-## Warning Signs — Act Early
-Watch for these and respond fast: attendance declining around months 4-5 (burnout or fear); coalition members leaving or being co-opted; no media coverage for 2-3 months; the case stalling or a licence re-granted after a suspension; fundraising below half your target by month 6; a core organiser leaving without a successor; **threats, stigmatisation, or intimidation** against organisers (treat as a life-safety emergency — see Section 9); or someone new pushing unlawful or reckless tactics. Each has a fix earlier in this guide — catch it early and the campaign holds.
+```
+WEEKS 0-8      Identify | Document | Assert consultation | Object | Get counsel
+MONTHS 2-12    Coalition | Arguments | Tutela / acción popular | Referrals | Media
+MONTHS 6-36+   Sustain | Protect people | Escalate | Redefine and secure the win
+```
 
----
+# FINAL ASSESSMENT
 
-# FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
+Colombia gives communities a genuinely powerful set of tools, and the honest measure of this guide is how squarely it faces both their strength and their limits.
 
-## Real Outcomes: What Winning Looks Like
-- **Licence refused / project shelved** (rarer): usually needs overwhelming opposition + a strong consultation or EIA case + heavy media + lower tilt. Cajamarca (the mine suspended after the vote) shows it happens — and also shows a win can be re-fought.
-- **Licence modified** (most common victory): strict conditions, genuine compensation and relocation, buffers, independent monitoring, redesign — often via the authority or a court.
-- **Delay / attrition:** suspended for years while the litigation runs; costs mount and financiers lose confidence; the developer sometimes walks away.
-- **Defeat:** the project proceeds (sometimes after a re-granted licence or a cured defect). Focus then shifts to enforcing conditions and remediation, monitoring compliance, and the next opening.
+The strengths are real and, in places, distinctive. A community holds a **court-enforced right to prior consultation** on its ethnic territory — and, where its survival is threatened, to consent. It stands on **closed ground** — páramos shut to mining, protected areas, a river recognised as a subject of rights. It can reach **any judge fast** through the **tutela**, and defend the shared environment through the **acción popular**, with a **Constitutional Court** that has repeatedly protected nature on its side. It retains **municipal land-use power** even after SU-095. And it can summon **a combative press and an international spotlight** on a megadiverse country, reaching the financiers and buyers a company depends on. Cajamarca used these — study, organisation, alliance, and a lawful vote — and stopped one of the world's largest gold projects.
 
-## Decision Point: Continue, Modify, or Reassess
-**Continue** if the legal grounds are live, the consultation and information record is strong, opposition is holding or growing, media is at least monthly, the coalition is stable, and organisers are safe.
-**Modify** if attendance is falling, coverage has dropped for 2+ months, coalition members are leaving, the legal position has weakened, the security risk has risen, or you discover the system is more tilted than assessed.
-**Reassess** if, after ~12 months (and perhaps a tutela and a collective action) licence and legal options are exhausted, the decision looks settled despite real effort, the community is exhausted, resources are gone — or if the danger to organisers has become unacceptable. Ask: has opposition already won partial victory (conditions, compensation, delay)? Would more effort win more, or just prolong the fight? Should energy shift to enforcing conditions, to the next project, or to changing the policy? **And always: is it safe to continue?**
+The limits are just as real. The national government backs mining and oil, the environmental authorities favour proponents, the SU-095 ruling narrowed the popular consultation, consultation can be captured, courts are slow — and, most soberingly, Colombia is the deadliest country in the world in which to defend land and the environment. No guide should pretend otherwise. The threats that shadowed Cajamarca's leaders were not incidental; they are the condition of this fight.
 
----
+So the realistic promise is this: **organise early, assert your consultation rights, prove every defect, use the tutela and the closed ground, reach the courts and the world — and run all of it together, protecting your people above all.** Do that, and even against a government-backed project you can force delay, exposure, conditions, a consultation vindicated, and a proponent worn down — and sometimes an outright stop. Do it as Cajamarca did, over years and across veredas, with a farmers' committee at the centre and public-interest lawyers at your side, and you can win a landmark that protects not only your own water and mountain but the next community's too.
 
-## The Bottom Line
+A last word on endurance. These fights are won in years, not weeks, and the proponent is counting on your exhaustion. Its advantage is money and patience; yours is legitimacy, numbers, and the fact that you are defending your home while it is merely pursuing a return. Play to that. Keep the file, keep the coalition, keep the record and the coverage alive, protect your people, and treat every delay, every disclosure, every referral, and every headline as a brick in a wall that grows too high and too costly for the project to climb. The community that will not go away, and that keeps the fight lawful, documented, and visible, is the one that most often prevails.
 
-Opposition work can stop or significantly modify destructive projects in Colombia — even where royalties, investment, and "strategic interest" politics point toward approval. Opposition creates multiple, compounding forms of pressure: on the record, politically, in the press, and in the courts. Where the system is tilted, an outright stop is less likely, but opposition still delivers suspensions, conditions, compensation, delay, and durable power.
-
-And Colombia offers genuine equalisers found in few places: the fast, free **acción de tutela**, which protects a right under imminent threat in days; the **collective action** for the environment; the right of ethnic peoples to **prior consultation**; the world-leading **rights-of-nature** jurisprudence — the **Atrato**, the **Amazon**, and more — and the **biocultural rights** that tie a people's survival to their river or forest; and the free **right to petition** that prises the file open. When a project truly cannot lawfully proceed, a court can suspend or annul it — remembering that such a win must then be defended.
-
-Know your situation. Assess how tilted the system is, honestly, and get current advice as the rules change. Watch for genuine corruption and refer it to the oversight bodies. **Above all, keep people safe — Colombia is the most dangerous country in the world for this work, and no project is worth a life.** Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers, and together.
-
----
+The tools are here. The Constitution and the courts are on your side more than you may think. Above all, remember what the Constitution says plainly and the courts have made real: participation in the decisions that affect your environment is not a favour the State grants but a **right it owes you**, and consultation on your territory is not a courtesy but an obligation. A project that denied you those is already on weak ground, whatever its permits say. What decides the outcome is method, endurance, and courage — and those you supply.What decides the outcome is method, endurance, and courage — and those you supply. Begin today, begin cheaply, and build from there. Communities before you have stopped what looked unstoppable. So can yours.

@@ -1,34 +1,8 @@
-
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN SOUTH AFRICA
 
-**Complete Community Opposition How-To**
+*Complete Community Opposition How-To*
 
-A practical guide for communities facing destructive development projects in South Africa, grounded in the constitutional and environmental-authorisation system and documented campaigns
-
-*This guide uses the South African legal terms you will actually encounter (Environmental Authorisation, NEMA, PAJA, IPILRA, and so on), each explained in plain language where it first comes up. It describes the national framework; provinces and municipalities have their own rules and authorities, so check locally.*
-
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
-
----
-
-## TABLE OF CONTENTS
-
-1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
-2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
-3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
-5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
-7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
-8. **STEP 4: LEGAL CHALLENGES** — Participation, the NEMA appeal, and judicial review (PAJA)
-9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
-10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
-11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
-13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
-14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
-15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
+This is a practical manual for rural and customary communities, township and civic groups, farmers, fishers, and citizens' organisations who wake up to find that land, a coast, a river, or an airshed they depend on has been opened to something destructive — a mine, a coal or gas power plant, a quarry, a landfill, a large industrial or property scheme. It explains how South Africa's approval system for large projects actually works, where the real openings are, what to document, how to organise, and how to use the levers South African law and South Africa's own history of community resistance provide. It does not promise that any project can be stopped. It offers a clear-eyed method that gives you the best possible chance.
 
 ---
 
@@ -36,1004 +10,444 @@ A practical guide for communities facing destructive development projects in Sou
 
 ## Why This Matters
 
-Community action directly determines project outcomes in South Africa. Projects that clear every political and commercial hurdle still fall when opposition is organised, documented, and legally sharp. In 2018, the **Amadiba** community of **Xolobeni**, on the Wild Coast, won a High Court ruling that a mining right could not be granted over their land without their **full and informed consent** — not just consultation. Communities have used the courts to force the government to clean up the air of the **Highveld**, and to require that a coal plant's **climate** impacts be assessed before it is approved. Across the country, communities and public-interest groups have forced projects to be refused, set aside, redesigned, or abandoned. These outcomes were not inevitable; communities made them happen.
+Across South Africa, communities discover that a place they live from — customary land their families have held for generations, a coastline and its fisheries, a river, a grazing commonage, the air of a township hemmed by industry — has been licensed to a company or a state project, often through decisions taken in a provincial or national office and without the people on the land being genuinely consulted, let alone asked for their consent. The first sign is often the survey pegs, a notice of a public meeting few could reach, the drilling rigs and earthmovers, or the quiet news that an environmental authorisation or a mining right has been granted to a company most in the affected community had never heard of.
 
-But most communities don't know HOW to make opposition effective. They attend one public meeting, then give up. They assume "the department will refuse it" without building public pressure, lodging an **appeal**, or going to court. They generate coverage without a strategy. They organise people and then lose them to burnout after four months.
+South Africa's situation is, in one crucial respect, hopeful. This is a country of intense extractive and industrial pressure — coal, gold, platinum, heavy-mineral sands, gas, and the vast power and water infrastructure that serves them — but it is also a country with one of the strongest environmental and rights-based legal frameworks in the world, and a documented history of communities using it to win. The single most important fact for any South African community to hold onto is this: **a small rural community on the Wild Coast took on a mining company and its government backers and won a court ruling that they cannot be mined without their consent — not merely their consultation, but their free, prior, and informed consent.** That is not a slogan. It is the record of Xolobeni, and it is the ground this guide stands on.
 
-**This guide shows what actually works — in the South African system.**
+The struggle that teaches both truths a community must hold at once is the fight of the Amadiba community at Xolobeni, in the Eastern Cape. When an Australian mining company sought a right to mine titanium and other heavy minerals from the dunes of their ancestral land, the community — organised as the Amadiba Crisis Committee — resisted for years. And in November 2018, in *Baleni and Others v Minister of Mineral Resources*, the High Court in Pretoria ruled in their favour: it held that the community holds informal rights to their land under the Interim Protection of Informal Land Rights Act, that granting a mining right would "deprive" them of those rights, and that under that Act such a deprivation requires the community's consent — so the Minister could not lawfully grant the mining right without it. A community of a few hundred subsistence households had established, in South African law, that a community with customary land rights can say no to a mine. That is real power, and it is South African. The detail is worth holding onto. The Umgungundlovu community — some seventy to seventy-five households, around six hundred people under the Amadiba traditional authority — had lived on that Wild Coast land since the early 1800s. The company, Transworld Energy and Mineral Resources, a subsidiary of an Australian-listed miner, wanted its titanium-rich dunes. The government argued that because the state is the custodian of all minerals, and because the mining law requires only that communities be "consulted," the community had no right to refuse. Judge Basson rejected that: reading the mining law and the informal-land-rights law together against the history of dispossession, she held that a mining right is a deprivation of the community's land rights, and that the informal-land-rights law requires their consent. The Constitutional Court, in a parallel case decided around the same time, affirmed the same consent principle — so the lever is anchored at the highest level.
+
+The second truth is sobering. **The victory was hard-won and remains under threat, and the struggle has cost lives.** The Xolobeni community was divided by the company's inducements, with some leaders co-opted; the fight took years; a later law on traditional leadership has raised fears that traditional authorities might purport to consent on a community's behalf; and, most gravely, the chairperson of the Amadiba Crisis Committee, Sikhosiphi "Bazooka" Rhadebe, was murdered in 2016. South Africa shows both what a determined community and South Africa's remarkable law can achieve — a mine held off by a community's right to consent, a coal plant's authorisation set aside for ignoring the climate — and how dangerous and drawn-out the fight can be when powerful mining and industrial interests, and sometimes the state, back the project.
+
+Underneath both truths is the framework this guide will help you use: **South Africa's Constitution guarantees everyone the right to an environment not harmful to their health or well-being, and to have it protected for present and future generations; its framework environmental law requires environmental authorisation with genuine public participation and lets any person litigate in the public interest to protect the environment; its law on informal land rights requires the consent of communities before they are deprived of customary land; it has a strong access-to-information law, independent courts up to a Constitutional Court, and a vigorous environmental-justice movement and free press.** Protest, petition, and litigation are lawful. That combination is what this guide is about.
 
 ## The Strategic Framework
 
-Successful opposition campaigns follow the same basic pattern:
+The core idea is simple: **a destructive project is not a single event but a chain of decisions and dependencies, and a chain can be broken at its weakest link.** A large project in South Africa needs an environmental authorisation under the framework environmental law, granted only after genuine public participation; a mine needs a mining right and, where customary land is involved, the community's consent; it depends on water-use and other licences; it must respect the constitutional environmental right that any person can enforce; it must survive the courts, up to the Constitutional Court; and it must avoid the scrutiny of a free press and a watchful public. Each is a potential point of leverage.
 
-```
-STEP 1: TARGET IDENTIFICATION
-↓
-STEP 2: DOCUMENTATION (proof of harm)
-↓
-STEP 3: LOCAL OPPOSITION BUILD (organised community)
-↓
-STEP 4: LEGAL CHALLENGES (appeal / judicial review)
-↓
-STEP 5: MEDIA STRATEGY (public visibility)
+Your task is to find the link you can reach. Sometimes it is the environmental authorisation and a defect in it — an impact never assessed, a public participation that was a formality, exactly the flaws that have undone authorisations before. Sometimes it is the consent your community must give under the informal-land-rights law, the very lever that won Xolobeni. Sometimes it is the water licence, or the constitutional right itself, which any person can enforce in court. And often it is the press and public attention, and the pressure on a company's investors, that a project cannot escape.
 
-These operate SIMULTANEOUSLY (not sequentially)
-Each step amplifies the others
-Multi-tactic pressure compounds toward victory
-```
+## Critical Caveat: Which Situation Are You In?
 
-**Why the legal step matters so much here:** South Africa gives communities an unusually strong set of levers. The Constitution guarantees everyone a **right to an environment** that is not harmful to their health or well-being (**section 24**) — a right courts enforce. Any decision to grant an **Environmental Authorisation** can be taken on **internal appeal to the Minister or MEC**, and then reviewed by a court under the **Promotion of Administrative Justice Act (PAJA)** if it was unlawful, unreasonable, or procedurally unfair. Standing is broad: under **section 32 of NEMA**, a person may act not only in their own interest but in the **public interest** and in the **interest of protecting the environment**. Where **customary land** is involved, the community's **consent** is required (the lever that stopped the Xolobeni mine). And a costs rule — the **Biowatch principle** — means a community that litigates in good faith on a genuine environmental or constitutional issue against the state usually will not be ordered to pay the state's legal costs if it loses. No South African campaign should be planned without understanding these.
+Throughout this guide you will find honest assessments, because a guide that promised any project can be stopped by the right petition would be lying to you.
 
-## Critical Caveat: A Tilted System Can Make Opposition Harder (But Doesn't Make It Impossible)
+**Where a project needs the consent of a community with informal land rights, or its environmental authorisation has a real defect, and you can organise and reach the courts and the press, South Africa's levers are genuine.** Xolobeni is the proof that a community's consent can stop a mine; the courts have set aside authorisations that ignored key impacts.
 
-**Before you invest time, money, and emotional energy, understand this:**
+**Where powerful interests and sometimes the state back the project, where the authorisation is sound, and where the fight is long and can turn dangerous, the outright stop is hard, and resistance can carry grave personal risk.** The years-long Xolobeni battle, the co-option of leaders, and the murder of an activist are the warning. There the levers still matter, but you must weigh the odds honestly and think in terms of consent asserted, a set-aside or conditioned authorisation, delay, safeguards, and exposure as much as an easy stop.
 
-**First, a definition.** This guide calls it a **system tilted toward approval** (sometimes called *institutional bias*). It does not mean anything illegal. It means the bodies that decide on a project lean toward approving it — because the government is pushing investment and jobs, because the developer's own study drives the assessment, or because refusals are rare. (In South Africa the phrase *state capture* is used for something quite different and far more serious — the grand corruption of state institutions — which belongs in Section 11, not here.)
+Much of this guide is designed to help you judge which situation you are in.
 
-When these factors are present, opposition becomes harder. It does not become impossible. It becomes slower and more expensive and has a lower chance of stopping a project outright — but it still routinely wins appeals, set-asides, conditions, redesigns, and delay. Where there is genuine misconduct — bribery, an undeclared interest, offences under the anti-corruption law — that is a different and more serious problem, covered in Section 11.
+## How to use this guide
 
-**This is covered in Sections 10 and 11. Read them before committing resources.**
+Read the whole thing once before acting. Read the legal, organising, and tilted-system sections with particular care, because in South Africa the environmental authorisation and its public participation, the consent of communities with informal land rights, the constitutional environmental right, and the courts are the sharpest levers, and the backing of powerful interests shapes everything. Two principles run throughout. First, **use the consent and participation rights the law gives you**: the mandatory public participation, the constitutional right any person can enforce, and — for communities on customary land — the consent the informal-land-rights law requires. Second, **combine the strands**: documentation, the authorisation challenge, the consent right, the courts, the press, and public attention work far better together than any one alone — exactly as the Xolobeni campaign combined them.
 
 ---
 
-# HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
+# HOW THE SYSTEM WORKS
 
-If you've never dealt with how projects get approved, read this section first. It explains, in plain terms, who holds power over a development in South Africa, how a decision gets made, why the money so often points toward "yes," and the handful of words you'll need. Every term is defined here on first use. The rest of the guide assumes you know this map.
+To break the chain you must understand it. This section explains the levels of decision, the journey a project takes from authorisation to construction, how to follow the money behind it, and who is supposed to be watching.
 
-## The levels of government — and what each one controls
+## The Levels of Decision
 
-South Africa has three spheres of government, and the environment is a shared national-and-provincial function.
+Decisions about large projects in South Africa are made at several levels, and the level determines where you push.
 
-- **National government** — the Minister of Forestry, Fisheries and the Environment (and the department, the **DFFE**) sets the environmental framework and is the **competent authority** for some large or national projects; the Minister of Mineral and Petroleum Resources grants **mining rights** (under the **MPRDA**) and, since the "one environmental system," the **Environmental Authorisation** for mining.
-- **Provincial government** — the **MEC** and the provincial environmental department are the **competent authority** for most **Environmental Authorisations**, and hear appeals for provincial decisions.
-- **Local government (municipalities)** — control land-use planning and zoning (under **SPLUMA**) and some by-laws.
+**National level.** The national environment department administers the framework environmental law and, for many large projects, is the competent authority that grants or refuses the environmental authorisation. Mining rights are granted nationally by the mineral-resources department, which treats the state as custodian of the country's minerals. National laws — the framework environmental management act, the mineral-resources act, the informal-land-rights act, the water act — set the framework the whole system follows.
 
-**So which body decides *your* project?**
-- A factory, housing development, landfill, or infrastructure project → an **Environmental Authorisation** from the **provincial department** (or national DFFE for large/national ones), plus municipal planning approval, and often a **water-use licence**, **waste licence**, or **air-emission licence**.
-- A mine or prospecting operation → a **mining/prospecting right** from the Department of Mineral and Petroleum Resources, **and** an **Environmental Authorisation** under NEMA — and, on **customary land**, the **community's consent** under **IPILRA**.
-- Anything affecting a protected area, the coast (Integrated Coastal Management Act), or a water resource → the relevant specific licence and clearance.
+**Provincial level.** Provincial environment departments are the competent authority for many other projects, and provincial authorities administer much planning and land use. Appeals against many environmental authorisations go to the relevant provincial MEC or the national Minister. The province is often where a decisive administrative decision or appeal is taken.
 
-## The expert and oversight bodies
+**Local (municipal) and community level.** Municipalities control land-use planning, zoning, and many local approvals, and a project must usually fit the municipal spatial framework. For communities holding land under customary or informal tenure, the **community itself** — deciding by its own custom — is the body whose consent the informal-land-rights law requires before it can be deprived of that land. This is both where the harm lands and where your organising begins.
 
-- **The competent authority** (the provincial department or the DFFE) — takes the Environmental Authorisation decision, advised by its officials and the developer's specialists.
-- **The Environmental Assessment Practitioner (EAP)** — the (developer-appointed) specialist who compiles the **EIA**.
-- **The Green Scorpions** (Environmental Management Inspectors) — enforce environmental law.
-- **The courts, the Public Protector, the SIU, and the Auditor-General** — the accountability bodies (see the overseers, below, and Section 11).
+**The point:** match your effort to the level that holds the decision you are trying to affect. The environmental authorisation and the mining right are national or provincial; planning and zoning are municipal; and the consent of a community with informal land rights is exercised by the community itself.
 
-## How a decision is actually made — the authorisation journey
+## A Project's Journey — and Where It Can Be Stopped
 
-For a listed activity, a developer must obtain an **Environmental Authorisation** under **NEMA** before starting. The process (under the **EIA Regulations**) runs roughly:
+A large project typically moves through recognisable stages. Each is a potential intervention point.
 
-1. **Application and screening** — is a **Basic Assessment** or a full **Scoping and EIA** required?
-2. **Public participation** — this is central. The developer's EAP must **register interested and affected parties (I&APs)**, make the reports available, and hold a comment process and often a public meeting. **Your objections must go in here, in writing, on the record.**
-3. **Assessment** — the EAP compiles the **EIA report** (impacts, alternatives, mitigation, specialist studies).
-4. **Decision** — the **competent authority** grants or refuses the Environmental Authorisation, with conditions.
-5. **Internal appeal** — any I&AP can lodge an **appeal to the Minister or MEC** (usually **within 20 days** of being notified of the decision). The appeal can suspend the authorisation.
-6. **Judicial review** — an unlawful decision can be taken on **review to the High Court under PAJA**.
+**1. Application and scoping.** The proponent applies for environmental authorisation and, for a mine, a mining right, and the scope of the required assessment is set. *Intervention point:* whether the assessment's scope covers the impacts that matter, and whether the project should have been assessed at the most rigorous level.
 
-A **weak or misleading EIA, a defective public-participation process, or (on customary land) a missing community consent** are among the strongest grounds to stop or delay a project.
+**2. The environmental impact assessment and public participation.** The proponent's consultants prepare the assessment, which by law must include genuine public participation — notice, access to the reports, and a real opportunity for affected people to comment. *Intervention point:* the quality of the assessment — its treatment of water, health, livelihoods, biodiversity, and climate — and, crucially, whether the public participation genuinely happened; a hollow participation is a defect that can undo an authorisation.
 
-## The rulebook — the laws that decide the outcome
+**3. The environmental authorisation and the mining right.** The competent authority grants or refuses the authorisation, with conditions, and the mineral-resources department decides the mining right. *Intervention point:* whether the authorisation was lawfully granted on a sound assessment and genuine participation, and — for a mine on customary land — whether the community's consent was obtained; both can be challenged.
 
-- **The Constitution** — **section 24** (the right to an environment not harmful to health or well-being, protected for present and future generations); **section 33** (the right to lawful, reasonable, and procedurally fair administrative action); **section 32** (the right of access to information).
-- **NEMA (National Environmental Management Act 107 of 1998)** — the framework: the Environmental Authorisation, the EIA, the principles, and (in **section 32**) broad standing to litigate.
-- **The Specific Environmental Management Acts** — the Air Quality Act, the Waste Act, the Biodiversity Act, the Protected Areas Act, the Integrated Coastal Management Act.
-- **The MPRDA (Mineral and Petroleum Resources Development Act)** and **IPILRA (Interim Protection of Informal Land Rights Act 1996)** — mining rights, and the **consent** of customary communities.
-- **PAJA (Promotion of Administrative Justice Act 3 of 2000)** and **PAIA (Promotion of Access to Information Act 2 of 2000)** — judicial review, and access to information.
+**4. Water use, land, and other licences.** A water-use licence, land access or acquisition, and other permits follow. *Intervention point:* the water licence in a water-scarce country, and the consent or acquisition of land, are often decisive.
 
-## Follow the money — why the system often leans toward "yes"
+**5. Construction and operation.** The project is built and run. *Intervention point:* whether it complies with its authorisation conditions and the law — a documented violation is leverage, and the constitutional right lets any person go to court to stop ongoing harm.
 
-- **Provinces and municipalities** compete hard for investment and the jobs and rates a project brings, so there is often intense official pressure to approve.
-- **National government** promotes mining, energy, and infrastructure and frames projects as growth priorities.
-- **Developers** are often well-resourced companies whose own specialists compile the EIA and who can fund the lawyers who defend the decision.
-- Refusals of Environmental Authorisation are relatively rare; most reach the decision stage with conditions.
+A word on how the assessment itself is structured, because its weak points are your openings. Depending on the scale of the project, the framework law requires either a shorter "basic assessment" or, for larger projects, a full scoping and environmental impact assessment, culminating in an environmental-management programme that is meant to bind the project once it operates. Both are prepared by an environmental assessment practitioner paid by the proponent — a structural tension worth keeping in mind — and both must, by law, be built on genuine public participation. The framework law also lays down a set of national environmental-management principles that decisions must serve: that public participation must be promoted, that a risk-averse and cautious approach be applied where impacts are uncertain, and that the polluter must pay. Each principle is a standard against which a defective decision can be measured.
 
-None of this makes a decision inevitable. It explains why a decision rarely tips your way on its own — it takes organised, evidenced pressure.
+The chain has many links. Your job is to find the one nearest to hand.
 
-## The overseers — who watches the decision-makers
+## Follow the Money and the Permissions
 
-- **The courts** — the **High Court**, the **Supreme Court of Appeal (SCA)**, and the **Constitutional Court** — enforce the section 24 right and review decisions under PAJA, with broad standing under NEMA section 32 and the **Biowatch** costs protection.
-- **The Public Protector** — a Chapter 9 institution that investigates maladministration and improper conduct in government and state-owned enterprises.
-- **The Special Investigating Unit (SIU)** — investigates corruption and maladministration and recovers state losses through the **Special Tribunal**.
-- **The Auditor-General (AGSA)** — audits government and refers material irregularities.
-- **The South African Human Rights Commission (SAHRC)** — for rights-based complaints, including the environmental right.
+Behind every project is a structure of ownership, finance, and permission you can map — and mapping it tells you where the pressure points are.
+
+**Who is the proponent, and who owns it?** The project's own documents, company records, and stock-exchange disclosures reveal who is behind it and who controls it. Many South African projects involve listed mining houses, foreign multinationals, or state entities; ownership determines reputational exposure and which levers apply — the Xolobeni miner was a foreign-listed company sensitive to its investors.
+
+**What permissions does it need, and which does it lack?** Map the environmental authorisation, the mining right, the water-use licence, the land, and the municipal approvals. The permission the project still needs — an authorisation under challenge, community consent not obtained, a water licence pending — is where it is most vulnerable.
+
+**Who is financing it?** Trace the lenders and investors. Large South African projects depend on banks, listed investors, and sometimes development financiers, each with environmental and social standards and reputational concerns. A coal project in particular runs against a global tide of lenders withdrawing from coal. Following the money reveals further points of leverage — and financiers have walked away from projects that became too controversial. This is worth pursuing deliberately. Large South African projects depend on the big commercial banks, on listed investors, and sometimes on development-finance institutions, several of which have public environmental, social, and climate commitments and their own complaints channels. A coal or gas project in particular now runs against a global withdrawal of lenders and insurers from fossil fuels, so a well-documented campaign may find the project's weakest link is not a South African permit at all but a financier unwilling to bear the reputational and climate risk. Mapping the money is therefore a search for one of the most decisive levers you have.
+
+## Who Is Supposed to Be Watching
+
+Several institutions exist to check power, and each is a potential ally or venue.
+
+**The national and provincial environment departments** administer the authorisation system and are meant to monitor compliance — and can be pressed, formally and publicly, to do so, including through the internal appeal to the Minister or MEC.
+
+**The courts — the High Court, the Supreme Court of Appeal, and the Constitutional Court** — enforce the constitutional environmental right and review unlawful authorisations, and South African environmental jurisprudence is strong.
+
+**The Human Rights Commission and the Public Protector** can take up rights violations and administrative failures. These bodies offer routes that are cheaper and less adversarial than court, and useful for creating an official record: the Human Rights Commission can investigate the violation of environmental and other rights and the treatment of defenders, while the Public Protector can investigate maladministration and improper conduct by the state. Their findings, even where not binding, can add real weight to a later court case and shift the political ground beneath a project.
+
+**The environmental-justice organisations, public-interest law centres, and the free press** are experienced, well-connected, and often your fastest route to expertise and national attention — the Xolobeni community's allies are the standing example.
+
+No single one of these is a guarantee. Together they are the architecture of accountability this guide teaches you to use.
 
 ---
 
-# QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
+# QUICK REFERENCE: SUCCESS RATES
 
-These ranges describe the general effectiveness of each tactic drawn from documented opposition campaigns. They are patterns, not guarantees. In South Africa, the variable most likely to push a campaign above these ranges is a well-founded challenge on a real defect — a missing **community consent** on customary land, a defective **public-participation** process, or a misleading **EIA** — carried through the **appeal** and, if needed, a **PAJA review** (Step 4).
+Before you commit months of effort, calibrate honestly. These figures are **directional, not guarantees** — patterns from how South African and comparable campaigns tend to go, not a controlled study. The decisive variables are whether the project needs the consent of a community with informal land rights, whether the environmental authorisation has a real defect, whether you can reach the courts and the press, and how firmly powerful interests and the state back the project. Where consent is required or the authorisation is defective and the world is watching, South Africa's levers are real; where the process was sound and powerful interests are determined, discount the figures and think in terms of consent, a set-aside or conditioned authorisation, delay, safeguards, and exposure.
 
 ## Individual Step Success Rates
 
-| Step | Success Rate | Timeline | Cost (ZAR) | What "Success" Means |
-|------|--------------|----------|------|---------------------|
-| **Documentation Only** | 5-10% | 3-4 months | R80,000 | Project slowed, public awareness only |
-| **Opposition Only** | 15-20% | 6-12 months | R250,000 | Public pressure, minor modifications |
-| **Legal Only** | 20-30% | 12-24 months | R0-500,000 | Slow; strong if the defect is real (Biowatch limits costs risk) |
-| **Media Only** | 10-15% | 3-6 months | R100,000 | Public knows, but no action |
-| **Docs + Opposition** | 25-35% | 12 months | R320,000 | Slowed, some modifications |
-| **Docs + Legal** | 30-40% | 12-18 months | R450,000 | Stronger legal arguments, slower |
-| **Opposition + Legal** | 35-45% | 12-18 months | R600,000 | Political pressure strengthens the case |
-| **Opposition + Media** | 30-40% | 9-12 months | R320,000 | Visibility creates political pressure |
-| **All 5 Steps Combined** | 60-75% | 12-24 months | R650,000 | Authorisation set aside/refused/modified or project delayed |
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Public participation in the EIA** | 15–35% | during review | low | On record; conditions or a redo |
+| **Asserting community consent (informal land rights)** | 35–60% | 12–48 months | low–moderate | Consent required; mining right blocked |
+| **Environmental-authorisation appeal / review** | 25–50% | 6–36 months | moderate | Authorisation set aside, remitted, or conditioned; delay |
+| **Constitutional / public-interest litigation** | 25–45% | 12–48 months | moderate | Right enforced; project halted or reviewed; delay |
+| **Water-use licence challenge** | 20–45% | 6–30 months | low–moderate | Water safeguards forced; project constrained |
+| **Documenting a legal violation (authorisation-condition breach)** | 25–45% | 3–18 months | low | Breach exposed; leverage; possible sanction |
+| **Mass, connected public mobilisation** | 25–45% | 6–36 months | low | Political cost; a project reconsidered |
+| **All steps combined (consent required or defective authorisation, world watching)** | 45–65% | 12–36 months | low–moderate | Blocked, set aside, delayed, or forced to change |
+| **All steps combined (powerful-backed, process sound)** | 20–40% | 12–48 months | low–moderate | Delayed, conditioned, exposed; rarely a clean stop |
 
-**Key insight:** All five steps together = 3-4x more effective than any single step.
+**Key insight:** all steps together beat any single one, and South Africa's real strengths are unusual — a **justiciable constitutional right** to an environment not harmful to health or well-being; **public participation** as a legal requirement whose breach can undo an authorisation; a **framework environmental law that lets any person litigate in the public interest**; an **informal-land-rights law requiring community consent** before deprivation of customary land, South Africa's most distinctive lever; a **strong access-to-information law**; and **independent courts up to a Constitutional Court**, with a **vigorous environmental-justice movement and free press**. Its constraints are **powerful mining and industrial interests**, a **state that backs strategic projects**, **participation sometimes reduced to a formality**, **internal divisions that companies exploit**, and real, sometimes lethal, **danger to those who resist**.
 
-*A note on legal cost: the **appeal to the Minister/MEC** is free to lodge, and the **Biowatch principle** means a good-faith public-interest litigant usually will not pay the state's costs if it loses — so the "Legal" figures are not a hard floor. Public-interest law centres (such as the **Centre for Environmental Rights** and the **Legal Resources Centre**) act for communities, often at no charge.*
-
----
+*A note on cost: participating, documenting, and organising are inexpensive, and public-interest law centres and environmental-justice organisations have carried community cases to the highest courts without charge — the Xolobeni community was supported by exactly such allies. The expenditure that most changes outcomes is committed **legal support** and the reach of a **sustained public campaign** — both of which the Amadiba community marshalled over many years.*
 
 ## Effectiveness Visualization
 
 ```
-SUCCESS PROBABILITY (Authorisation Set Aside/Refused/Modified/Project Shelved)
+SUCCESS PROBABILITY (blocked, set aside, delayed, forced to change, or stopped)
 
-CLEAN DECISION SCENARIO:
-All 5 Steps Combined:  ████████████████ 65-75%
-Same chance as: a coin coming up heads twice (75%)
+CONSENT REQUIRED OR DEFECTIVE AUTHORISATION, WORLD WATCHING:
+All steps combined:          █████████████   45-65%
+Community consent (IPILRA):   █████████████   35-60%
+Authorisation review:         ██████████      25-50%
+Public-interest litigation:   ██████████      25-45%
+Single step:                 ██              5-45%
 
-4 Steps Combined:      ███████████████ 55-65%
-Same chance as: a forecast of 60% rain being correct
-
-3 Steps Combined:      ██████████ 45-55%
-Same chance as: a single coin flip (50%)
-
-2 Steps Combined:      ████████ 30-40%
-Same chance as: drawing a face card from a deck
-
-Single Step:           ██ 5-20%
-Same chance as: rolling a specific number on one die
-
-WITH MODERATE TILT FACTORS:
-(Strong pro-investment push, or a developer-appointed EAP's EIA)
-
-All 5 Steps Combined:  ██████████ 40-45%
-4 Steps Combined:      ████████ 30-40%
-3 Steps Combined:      ██████ 20-30%
-2 Steps Combined:      ████ 15-25%
-Single Step:           ██ 3-12%
-
-WITH SEVERE TILT FACTORS:
-(A national "strategic" project, developer-only studies, heavy political backing)
-
-All 5 Steps Combined:  ████ 25-30%
-4 Steps Combined:      ███ 18-24%
-3 Steps Combined:      ██ 12-18%
-2 Steps Combined:      █ 8-15%
-Single Step:           █ 2-8%
+POWERFUL-BACKED PROJECT -- interests determined, process sound:
+All steps combined:          █████████       20-40%
+Consent + litigation + exposure:███████████   the strongest combination
+Delay / conditioned authorisation:████████████ more achievable than a clean stop
+Single step:                 ██              5-30%
 ```
 
-**One important point:** a single clear legal defect — most powerfully a missing **community consent** on customary land, a **public-participation** process that was skipped or stage-managed, or a misleading **EIA** — can lead the Minister on appeal, or a court on **PAJA** review, to set aside an authorisation even where the politics favour the project, because it is applying a legal standard the authority cannot ignore. (An authorisation set aside for a *curable* defect can be re-granted after it is fixed, so an early win may need defending.)
-
----
+**How to read this honestly.** The levers that most change outcomes in South Africa are **community consent and the courts**, reinforced by public-participation defects, the constitutional right, and public attention. Xolobeni shows the ceiling: a community's right to consent, established in court, holding off a mine. It also shows the floor: a fight that took years, split the community, and cost a leader his life. Most South African fights sit between them, and the honest lesson is that South Africa's rights and courts are real and have delivered outright wins — but against a powerful, state-backed project the realistic win is often consent asserted, an authorisation set aside or conditioned, delay, safeguards, and exposure as much as a clean, permanent stop.
 
 ## Step Importance Ranking (When All Combined)
 
-```
-1. OPPOSITION BUILDING (Step 3)     ████████████████ 25%
-   Why: creates political pressure, visible to decision-makers, enables other steps
-
-2. DOCUMENTATION (Step 2)           ███████████████ 22%
-   Why: provides ammunition for the appeal, courts, and media; grounds opposition in facts
-
-3. MEDIA STRATEGY (Step 5)          ████████████ 20%
-   Why: makes opposition/legal/documentation visible, creates political cost
-
-4. LEGAL CHALLENGES (Step 4)        ███████████ 18%
-   Why: the appeal and courts can set aside an authorisation — and hold the consent and EIA levers
-
-5. TARGET ID (Step 1)               ██████ 15%
-   Why: foundation — if wrong, everything fails
-```
-
-**Real insight:** a large, organised, visible community that has also put well-argued objections on the record in the **public-participation** process and, on customary land, insisted on its right to **consent**, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
-
----
+1. **Community consent under the informal-land-rights law** — where the project needs land held under customary or informal tenure, the community's consent is South Africa's strongest and most distinctive lever, as Xolobeni proved.
+2. **The courts and the constitutional right** — the justiciable right to a healthy environment and the public-interest standing that let any person or organisation bring an environmental case.
+3. **Documentation of the authorisation's defects and any violations** — the record, much of it obtainable through the access-to-information law, that grounds every other step.
+4. **Public participation in the EIA** — the formal, legally required right that puts your case on the record and whose breach can undo an authorisation.
+5. **Public mobilisation and the press** — the further fronts that raise the political cost, reach investors, and protect the campaign.
 
 ## What South African Campaigns Actually Show
 
-A few patterns recur. **Organised opposition and a documented file are the base**, and South Africa's distinctive levers are the **NEMA appeal** and the **courts**, which can set aside an environmental authorisation, backed by a **constitutional right to an environment not harmful to health or well-being**. **The environmental-authorisation process and its public participation** supply the procedural footholds, and **a durable coalition and sustained media** the political weight. **The ceiling depends on the project's backing** — a favoured project is usually delayed or conditioned, while a defective authorisation or a flawed public participation is genuinely vulnerable. The through-line: **build the file, use the NEMA appeal and the courts on the constitutional right, and hold the coalition and coverage together.**
+A few patterns recur. **Community consent over customary land is real, decisive power** — at Xolobeni, the High Court held in 2018 that a community with informal land rights must give its free, prior, and informed consent before a mining right can be granted over their land, not merely be consulted. **The courts enforce the environmental right and the assessment rules** — they have set aside an authorisation for a coal power plant because its climate-change impact was never properly assessed, showing that a defective assessment does not survive scrutiny. **Any person can litigate for the environment** — the framework law's broad standing lets communities and organisations bring public-interest cases without the barriers that defeat such suits elsewhere. **But powerful interests and the state back big projects** — the Xolobeni mine's backers were determined, the community was divided by inducements, and the fight ran for years. **And resistance can be lethal** — the murder of the Amadiba Crisis Committee's chairperson is a grave reminder of the danger. The through-line: **assert your community's consent over customary land, use the public participation and the constitutional right, challenge a defective authorisation in the courts, extract the record and document every defect, mobilise the press and the public — and expect a fight measured in consent asserted, authorisations set aside or conditioned, delay, safeguards, and exposure as much as a clean stop, while knowing that in South Africa a community once won the right to say no to a mine.**
+
+---
 
 # STEP 1: TARGET IDENTIFICATION
 
-**Time to complete:** Weeks 1-4
-**Cost:** R0
-**Outcome:** A clear picture of what you're fighting, who decides, and when the decision is final
+Before you can fight a project, you must understand it precisely. Vague opposition to "the project" is weak; a specific challenge to a specific decision is strong. This step turns alarm into a target.
 
-## Core Questions You Must Answer
+## The Five Core Questions
 
-Before you organise a single person, answer these precisely.
+Answer these five questions, in writing, as fully as you can. They convert a threat into a plan.
 
-### Question 1: What Exactly Will Be Destroyed?
+**1. What exactly is the project, and who is behind it?** Name the project, the proponent company, its owners and parent, and — if you can find it — the financiers. Is it a mine, a coal or gas plant, a quarry, a landfill, an industrial or property scheme? A listed mining house, a foreign multinational, a state entity? The precise identity determines which levers apply — a foreign-listed company opens investor and reputational pressure; a mine on customary land opens the consent lever.
 
-Not: "Environmental damage"
-But: "The mine takes 900 hectares of grazing and cropping land the community holds under **customary tenure**, and destroys a wetland feeding the [river]."
+**2. Where exactly is it, and what protected features and rights does it touch?** Get the boundaries and overlay them on what you know: Is it on land held under customary or informal tenure? On or near a protected area, a water source, a wetland, a coast and its fisheries, prime farmland? In an already-polluted airshed? This overlay is the single most important thing you can produce, because South Africa's strongest levers — community consent over informal land, the protection of water and sensitive areas — are triggered by exactly these features.
 
-Not: "Pollution"
-But: "The plant will emit an estimated [X] of fine particles over the nearest homes of 1,500 people, in an area already exceeding the national air-quality standard."
+**3. What stage is it at, and what decision is imminent?** Has the proponent applied for environmental authorisation and a mining right? Is the assessment's public participation scheduled or past? Has the authorisation been granted, and is the internal-appeal window open? Is a water-use licence pending? Identify the next decision and its date, because the openings — the public participation, the strict appeal windows — are time-bound.
 
-Not: "Community harm"
-But: "The project cuts [number] households' access to grazing, water, and ancestral graves."
+**4. What does it need next that it does not yet have?** Every project depends on permissions it has not all secured — an environmental authorisation under challenge, community consent not obtained, a water licence pending, land not yet acquired. The permission it still needs is where it is most vulnerable. A project awaiting its authorisation, its consent, or its water licence is far more contestable than one already built and running.
 
-**Why this matters:** specific harms are easier to document, litigate, and organise around. Vague opposition dies; specific opposition survives. Harm to **customary land**, a **wetland** or water resource, a protected area, or the **coast** also opens a **specific legal front** (community consent; the water, biodiversity, or coastal-management laws).
+**5. Who else is affected, and who already opposes it?** List the affected households and communities, the farmers and fishers, the neighbouring settlements, and any traditional structures, civics, or public-interest lawyers already concerned. You are almost never alone, and South Africa has a dense network of environmental-justice and public-interest organisations. Knowing who shares the stake tells you who your coalition can be — and helps you guard against the division that companies exploit.
 
-### Question 2: Who Decides?
+## A Worked Example
 
-You cannot pressure an abstraction. Identify the decision-maker precisely — it is usually one of these:
+Consider a rural community holding land under customary tenure who learn that a company has applied to mine heavy-mineral sands from the dunes and grazing land their families have held for generations.
 
-- **The provincial environmental department** (or the national **DFFE**) — the **competent authority** for the **Environmental Authorisation**.
-- **The Department of Mineral and Petroleum Resources** — for the **mining/prospecting right** (and the mining Environmental Authorisation).
-- **The municipality** — for land-use/planning approval.
-- **The affected community** — whose **consent** is required, on **customary land**, under **IPILRA**.
+Applying the five questions: **What and who** — a named company, perhaps foreign-listed, seeks a mining right; the community traces its ownership and investors. **Where** — the mine would sit on land the community holds under informal tenure, beside a coast and fisheries the community depends on; the overlay shows a direct threat to their land, water, and livelihoods. **Stage** — the mining right and environmental authorisation are being sought, and the public participation has been thin; no community consent has been obtained. **What it needs next** — the community's consent under the informal-land-rights law, and a lawful authorisation on a sound assessment; neither is secure. **Who else** — a few hundred households, the traditional structures, neighbouring communities, and public-interest lawyers and environmental-justice groups who know the Xolobeni precedent.
 
-Write it down concretely: "The provincial department will decide the Environmental Authorisation after the public-participation process closing on [date]. It is a mining project on customary land, so the community's **consent** is required, and the mining right sits with the national mineral-resources department."
-
-### Question 3: What Specific Action Stops It?
-
-Not: "Stop the project"
-But: "Persuade the competent authority to refuse the Environmental Authorisation, or the community to withhold consent" — or, if refusal is unrealistic, "obtain strict conditions, real rehabilitation, and a redesign."
-
-Not: "Protect the environment"
-But: "Show the **public-participation** process was defective, the **EIA** misleading, or the **community consent** never obtained, and take it on **appeal to the MEC/Minister** and then on **PAJA review**."
-
-**Why this matters:** you can demand something achievable. Vague demands are easy to ignore; specific ones create measurable pressure and, if the process is unlawful, become the ground for the appeal and the court.
-
-### Question 4: When Is the Decision Final?
-
-Timeline tells you how much time you have. Map every date: when the **draft EIA/scoping report** is out for comment, the public meeting, the decision on the Environmental Authorisation (and the mining right), and the **windows to challenge** — an **appeal to the Minister/MEC must usually be lodged within 20 days** of notification of the decision. Don't wait: register as an **I&AP** and comment during the process, and be ready to appeal fast.
-
-### Question 5: Are There Documented Financial or Policy Pressures?
-
-This is the tilted-system assessment question. Know it BEFORE you organise:
-- Is the project a declared **strategic** investment or a big provincial priority, hardening political backing?
-- Is the **EIA** compiled by the developer's own **EAP** only?
-- Does the province or municipality depend on the project for jobs, rates, or mining **royalties**?
-- Is the developer a large company with deep resources for specialists, lawyers, and appeals?
-- Has the project already started work and is seeking to regularise it after the fact?
-
-**Why this matters:** if strong "strategic project" backing or developer-controlled studies are present, opposition must overcome different barriers (Section 10). It doesn't mean opposition can't work — it means realistic expectations and, often, a focus on the **consent**, the **public-participation**, and the **EIA** defects, on conditions, and on the **appeal and review**, rather than a straight political refusal.
+From those answers a strategy writes itself: **the project's decisive weakness is that it needs land the community holds under customary tenure, which cannot be taken without their consent** — exactly the Xolobeni lever — reinforced by any defect in the assessment and the threat to their coast and water. The community's first moves are to establish and record their informal land rights and their collective decision to withhold consent, to obtain the assessment and authorisation documents, to document the thin participation, and to bring in the public-interest lawyers and environmental-justice groups who won Xolobeni. That is a far stronger position than generalized objection — and it is the position from which the Amadiba community won.
 
 ---
 
-# STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
+# STEP 2: DOCUMENTATION
 
-**Time to complete:** Months 1-4
-**Cost:** R80,000-120,000 (ZAR)
-**Outcome:** Three polished reports (30+ pages total) showing specific, quantified harms
+Documentation is the foundation of everything that follows. A community that can prove what is happening — with dates, records, photographs, and official documents — is a community that can act. One that only has fears and rumours cannot. This step builds your evidentiary base in three layers.
 
-**Success Rate (Documentation Alone):** 5-10%
-**Success Rate (Documentation + Opposition):** 25-35%
-**Success Rate (Documentation + Opposition + Legal + Media):** 60-75%
+## Layer 1: The Official Record
 
-## The Three Documentation Layers
+The first layer is the paper the project itself generates and the state holds. This is what makes a challenge credible, because it is the government's and the company's own record used against the decision.
 
-Documentation turns vague opposition ("This is bad") into undeniable evidence ("This specific harm will occur to these specific people/places at these specific costs"). Success comes from three layers working together.
+Assemble, as far as you can obtain them: the **environmental impact assessment** reports and the environmental-management programme; the record of the **public participation** the law requires — the notices, the registered interested parties, the comments and the responses; the **environmental authorisation** and its conditions; the **mining-right** application and grant, and any record of the community-consent process; the **water-use licence**; and the **municipal planning** approvals. Much of this you can obtain through the **access-to-information law**, which gives everyone a right to records held by the state and, in defined circumstances, by private bodies. The public-participation record deserves special attention: if the affected community was not genuinely reached and heard, or if the assessment ignored a central impact, those are defects at the heart of the authorisation.
 
----
+## Layer 2: The Physical and Environmental Reality
 
-## LAYER 1: BASELINE CONDITIONS DOCUMENTATION
+The second layer is the ground truth — what is actually happening and what is actually at stake, recorded in a way that will stand up.
 
-**What it is:** documentation of existing conditions BEFORE the project begins — including who lives on and uses the land, and how.
+Photograph and film the site and the activity, recording the date and location of every image: the survey pegs, the cleared land, the drilling, the dunes and grazing land, the coast, the affected homes. Map the project against what it threatens — the customary land, the water source, the wetland, the coast and fisheries, the protected area, the settlements. Record the environmental baseline while you still can: the state of the water, the dunes, the grazing, the fisheries, so that later damage can be shown against a documented starting point. Where you can, gather simple, dated measurements and repeat photographs from fixed points over time. This is the evidence that turns "we are worried" into "here is what is being destroyed, and here is where the law and our rights forbid it." Water repays particular attention in a country as dry as South Africa: record which springs, boreholes, rivers, and wetlands the community depends on, how they change with the seasons, and how many households and hectares each sustains, because a threat to scarce water is both a powerful argument and, through the separate water-use licence, a separate line of legal attack. Where the project is a mine or a coal plant, the impacts on air quality, on dust and health, and on the climate are now squarely part of what a lawful assessment must confront, and evidence on each strengthens the case.
 
-**Why it matters:** developers claim "the land is unused" or "already degraded." Baseline documentation proves what — and who — was there, and it cannot be reconstructed later.
+## Layer 3: The Human Impact
 
-**Documented case — the Amadiba community and the Xolobeni mine**
+The third layer is the community's own record, and in South Africa — where customary land, subsistence farming, and fishing are inseparable from people's lives and dignity — it is powerful.
 
-An Australian company sought a right to mine titanium-bearing sands across roughly 2,859 hectares of the **Wild Coast** — land the **Amadiba** community of Umgungundlovu, at **Xolobeni**, has occupied and used for generations under **customary tenure**. Its supporters treated the dunes as an ore body. The community made that impossible. Organised as the Amadiba Crisis Committee and led by figures including Duduzile Baleni, they documented and asserted their living relationship with the land — grazing, cropping, ancestral graves, and the tourism and subsistence economy of an intact coast — and their **informal land rights** protected under the **Interim Protection of Informal Land Rights Act (IPILRA)**.
+Collect statements from the affected households: who they are, what land, water, grazing, or fishery they depend on, what they stand to lose, and how they will be displaced or impoverished. Record the community's customary tenure, its history on the land, and its collective decision-making, because these carry real legal weight under the informal-land-rights law. Document the conduct of the public participation and of any consent process — whether people were genuinely informed and heard, or presented with a decision already made, or divided by inducements. Record the losses: lost land, lost grazing, lost fisheries, damaged health, damaged heritage. These human records do two things: they are evidence of harm and of the consent question for the courts, and they are the material of a media and mobilisation campaign that can reach the provincial capital, the national government, and the world — as the Xolobeni community's story did.
 
-It changed the law. In *Baleni and Others v Minister of Mineral Resources* (High Court, 22 November 2018), the court held that IPILRA requires the community's **full and informed consent** — not merely the "consultation" the mining law demands — before a mining right can be granted over land they hold under customary tenure, and that the Minister lacked authority to grant it otherwise. The community's documented account of its rights and its relationship to the land was the foundation of that ruling. (The struggle has been long and dangerous — a community leader was murdered in 2016 — and the win has had to be defended, a reminder that a victory is rarely the end.)
-
-**Why it matters for you:** the Amadiba community's documentation — who lived there, how they used the land, and what rights they held — was decisive. Documenting existing conditions, including human occupation, use, and tenure, is the foundation of everything that follows.
-
-**Building your own baseline (typical process).** Document existing conditions before the project starts, because a developer will claim the land is "unused" and baseline cannot be reconstructed later. A workable approach: surveys across a season cycle of the project area plus reference sites; a species and habitat inventory with GPS locations, flagging anything protected under the Biodiversity Act that the developer's **EIA** omitted; a record of how the land is occupied and used — grazing, cropping, water, graves, sacred sites, and any **customary tenure** or **informal land rights** (the basis of a consent claim); proximity to any protected area, wetland, or the coast; and water and air baselines (quality and seasonal variation). Typical cost is around R80,000-100,000 for a specialist/EAP-independent consultant, GPS, and testing — reducible with knowledgeable community members, university researchers, and naturalists. Dated, same-spot photographs and geo-referenced maps make it credible.
-
----
-
-## LAYER 2: IMPACT ANALYSIS
-
-**What it is:** detailed analysis of what specific harms will occur, based on the project description plus your baseline.
-
-**Why it matters:** it shows not just "something bad" but "specifically THIS BAD in THIS WAY" — and it maps directly onto what the **EIA** must properly assess.
-
-**Use the developer's own words and the assessment rules.** Powerful, documentable weak points in South African assessments include:
-- **A misleading or incomplete EIA.** The **EIA report** must genuinely assess the project's significant impacts, alternatives, and mitigation. Courts have set aside authorisations where the assessment ignored a relevant factor — for example, in the **Thabametsi** case, where a coal plant's authorisation was reviewed because its **climate-change** impacts had not been assessed. An EIA that omits or understates impacts is a strong ground.
-- **A defective public-participation process.** The developer's **EAP** must properly register and inform **I&APs**, make reports available, and record objections. A rushed, inaccessible, or stage-managed process is a strong, specific defect.
-- **Missing community consent.** On **customary land**, the community's **consent** under IPILRA is required — its absence is what stopped the Xolobeni mine.
-
-Convert each of the developer's admissions ("temporary disturbance," "limited loss") into a quantified prediction against your baseline.
-
-**Outcome (illustrative):** an **EIA** or **public-participation** process found defective, or a **community consent** shown to be missing, can lead the Minister on appeal or a court on review to set aside the authorisation — adding months or years, or stopping the project.
-
----
-
-## LAYER 3: HEALTH & ECONOMIC IMPACT DOCUMENTATION
-
-**What it is:** quantification of human-health and economic costs to the community.
-
-**Why it matters:** decision-makers and the public respond to human cost. "X hectares affected" matters less than "an estimated 45 additional respiratory cases a year, and RX of health-system cost" — or "the grazing, cropping, and tourism that sustain 200 households destroyed."
-
-**Method:** use recognised air-quality or water modelling and the public-health literature to translate emissions or land loss into health and livelihood outcomes, then attach costs — additional respiratory and cardiovascular cases, lost grazing, cropping, fishing, and tourism income, and total annual and lifetime cost for the affected population.
-
-**Outcome (illustrative):** an independent health-and-livelihood analysis can move a municipality or province, feed the appeal and the court case, and force conditions the original design lacked.
-
----
-
-## How to Structure Your Documentation
-
-### Phase 1: Baseline Conditions (Months 1-2)
-Engage an independent specialist or ecologist (or use knowledgeable community members, university researchers, and naturalists); document conditions AND human occupation, use, tenure, and graves/sacred sites. **Deliverable:** a 20-30 page baseline report with species/habitat inventory, a record of land use and tenure, water/air data, dated photographs, and geo-referenced maps.
-
-### Phase 2: Impact Analysis (Months 2-3)
-Obtain the **EIA report** and the authorisation file (use **PAIA** if needed); identify specific impacts; test the study against the rules (completeness, public participation, community consent, water/biodiversity/coastal). **Deliverable:** a 20-30 page impact analysis with quantified predicted impacts, comparison to baseline, and the developer's own admissions quoted back.
-
-### Phase 3: Health/Economic Analysis (Months 3-4)
-Identify affected populations; estimate health and livelihood impacts and costs. **Deliverable:** a 15-20 page report written for the public and press.
-
----
-
-## Common Documentation Pitfalls (What Fails)
-- **Waiting for perfect data.** Documented data beats perfect data that arrives after the authorisation.
-- **Only environmental data.** Add health, livelihood, and human-occupation impacts — the arguments that move decision-makers, the appeal, and the public.
-- **No independent check.** A report the authority can dismiss as "activist material" is far stronger after an independent expert or a university reviews it.
-- **Ignoring the developer's own admissions.** Their **EIA report** is your best source; quote it against itself. Use **PAIA** to get it and the file.
-
----
-
-## Documentation Budget Breakdown (ZAR)
-
-| Item | Cost | Notes |
-|------|------|-------|
-| Independent specialist / ecologist (baseline + species ID) | R60,000 | Biodiversity and habitat survey |
-| GPS / survey equipment | R8,000 | Mapping/documentation |
-| Water/air testing | R15,000 | Sampling across seasons |
-| Independent / university expert review | R12,000 | Credibility |
-| Printing/PAIA/translation | R5,000 | Local-language copies for decision-makers |
-| **TOTAL** | **R100,000** | Reducible with university partners and community members |
+Keep everything organised, backed up, and dated. A shared, secured archive — copies in more than one place — protects your work and lets your allies and lawyers use it.
 
 ---
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
-Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+This section is a practical checklist: the specific records that matter, and where in the South African system to look for them. Not all will be available for every project, but knowing what to ask for — and being seen to ask precisely — is itself a source of strength.
 
-**Start at the deciding body's register and the municipality's own website.** In South Africa the official documents for a project — the environmental-authorisation application, the EIA/basic-assessment report, the public-participation notices, the environmental authorisation and its conditions — are posted by the body running the review: the provincial environment department or the national department (DFFE) as competent authority under NEMA, and the municipality for land-use/planning approval. The official documents for most local projects live on the municipality's own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+**The environmental impact assessment and management programme.** From the competent authority and the proponent's environmental consultants: the assessment reports and the environmental-management programme. Read them for what they study and what they omit — water, health, biodiversity, livelihoods, and climate.
 
-**The project file and the EIA / basic-assessment report.** Get the developer's EIA / basic-assessment report as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+**The public-participation record.** From the assessment file: the notices, the register of interested and affected parties, the comments submitted, and the responses. Compare it against reality — were the affected people genuinely reached and heard, or was it a formality? A hollow participation is a defect in the authorisation.
 
-**Baseline environmental data.** Departmental and SANBI biodiversity data; water-use and DWS records; and the developer's own EIA baseline studies.
+**The environmental authorisation and its conditions.** From the competent authority: the authorisation and every condition attached. The conditions matter twice — as evidence of the risks the authority itself recognised, and because their breach is a violation you can act on.
 
-**Ownership and money.** Company ownership from the CIPC registry; land from the Deeds Office; and officials' interest disclosures.
+**The mining right and the consent record.** From the mineral-resources department: the mining-right or prospecting-right application and grant, and any record of consultation or consent. Whether a community holding informal land rights genuinely consented is often the decisive question, as it was at Xolobeni.
 
-**Case law and precedent.** **SAFLII** (*saflii.org*) gives free access to South African judgments.
+**The water-use licence.** From the water department: the water-use licence, the volumes, the sources, and the conditions. In a water-scarce country this is frequently a central vulnerability. A project that cannot secure a lawful, sustainable water supply cannot operate, so the water-use licence is worth scrutinising as closely as the environmental authorisation itself.
 
-**How to force a document open.** A request under the **Promotion of Access to Information Act (PAIA)** compels disclosure of records held by public (and some private) bodies. Use the request wording in Section 8E.
+**The municipal approvals.** From the municipality: the land-use, zoning, and planning approvals, and whether the project conforms to the municipal spatial framework and any protected-area designations.
 
-**Free and low-cost help.** The **Centre for Environmental Rights (CER)** and the **Legal Resources Centre (LRC)** litigate environmental and community cases, often free; Lawyers for Human Rights assists too.
+**Ownership, finance, and violations.** From company records, stock-exchange disclosures, financing announcements, and any compliance or inspection reports: who owns and finances the project, and any documented non-compliance. The financiers are often a decisive pressure point.
 
-**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+**Using the access-to-information law.** The access-to-information law gives everyone a right to records held by public bodies, and to records held by private bodies where they are needed to protect a right — which environmental records affecting your Section 24 right often are. Frame precise requests for the assessment, the participation record, the authorisation and its conditions, the mining right, and the water licence. The request itself both gathers evidence and puts officials on notice that the community is organised and watching; a refusal can be challenged.
 
-## Researchers for Hire, and Everyday Research Tools
-
-If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
-
-For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
-
-# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
-
-**Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
-**Cost:** ~R250,000 (ZAR) for a full year
-**Outcome:** 50-100 core people, 5-10 organisations, sustained organisation
-
-**Success Rate (Opposition Alone):** 15-20%
-**Success Rate (Opposition + Documentation + Legal + Media):** 60-75%
-
-## Critical Insight About Organising
-
-**Most opposition campaigns fail not because they can't build opposition, but because opposition burns out after 4-8 months.** You need structures that prevent it.
+The act of assembling this record changes how you are treated. A community that arrives with the assessment, the participation record, the authorisation conditions, and proof of its land rights is a community that authorities, courts, and the press take seriously.
 
 ---
 
-## PHASE 1: FOUNDATION (Months 1-2)
+# STEP 3: BUILDING LOCAL OPPOSITION
 
-**Goal:** a core group of 15-20 motivated people and a clear picture of their concerns.
+Documentation gives you a case; organising gives you power. In South Africa, where community coalitions have taken on mining houses and won, a well-built coalition is your engine — and, given how companies exploit division, its unity is itself a weapon. This step builds it in four phases.
 
-### Step 1a: One-to-One Conversations
-People don't join movements from pamphlets; they join from relationships. Identify the 15-20 people most affected or interested. **Talk to** each in person for an hour. Ask: "What's your biggest concern about this project?" Listen — don't pitch. Ask what they'd be willing to do. Each person has a different concern (land, water, health, grazing, graves, a way of life). Opposition organised around each shared concern is stronger than one generic message.
+## Phase 1: The Core Group
 
-### Step 1b: Affinity Groups by Concern
-Organise small groups (3-8 people) around a shared concern, not around "opposition":
-- **Land/livelihood group** — grazing, cropping, tourism, displacement and relocation
-- **Water group** — the river, wetlands, groundwater, contamination
-- **Health group** — air quality, dust, water-borne disease
-- **Rights group** — **customary tenure**, **community consent**, graves and sacred sites
-Each group meets regularly and works out how opposition serves *their* interest, coordinating while keeping its own framing.
+Start with a small, committed core — the households most directly affected, the people who know the land and water, and a few trusted, energetic organisers. This group does the early work: the documentation, the information requests, the mapping of allies. Keep it tight enough to move quickly and decide clearly, and make sure it includes people with standing — respected elders, customary leaders who stand with the community, civic figures — whose word carries weight locally. In South Africa the credibility of the affected community itself, especially a community defending its customary land, is your greatest asset; the core group exists to organise around it, not to substitute for it.
 
-### Step 1c: Organise Through Structures That Carry Weight
-Two vehicles matter. First, where **customary land** is involved, the community's own decision-making structures — and its right to **consent** — carry legal weight; a properly recorded community decision to withhold consent is one of the strongest things you can produce. Second, a **registered non-profit (NPC) or voluntary association** can speak for the community, receive donations, and take a matter to court; partner with established community organisations, and approach a public-interest law centre early.
+## Phase 2: Broadening the Base
 
----
+From the core, widen to the full circle of the affected: the surrounding households and communities, the farmers and fishers, the neighbouring settlements, and the local civics. Hold meetings where people can see the evidence and understand the stake — the map of the project over the land and water, the assessment, the authorisation conditions — and, for a community with informal land rights, hold the gatherings at which the community records its collective decision. Give people a clear, honest account of what is proposed, what it threatens, and what the community can lawfully do. The aim is a broad, informed, and united base — because companies routinely try to split a community with jobs, money, and co-opted leaders, and a visibly united community that has recorded its refusal is far harder to divide or dismiss.
 
-## PHASE 2: PUBLIC LAUNCH (Months 2-3)
+## Phase 3: Allies and Expertise
 
-**Goal:** announce opposition to the public, the media, and decision-makers.
+South Africa's decisive advantage for organised communities is its dense network of environmental-justice organisations, public-interest law centres, and community-rights groups. Reach out to them early. Public-interest law centres have taken environmental authorisations and mining rights to the High Court and the Constitutional Court, and won the Xolobeni consent ruling. Environmental-justice organisations bring national reach, technical expertise, and solidarity. Community-land and customary-rights organisations can help a community establish and assert its informal land rights and its consent. Scientists, hydrologists, and health and climate experts can supply the technical critique of an assessment that turns objection into evidence. Bring them in as partners, share your documentation, and let their experience shape your strategy — the Amadiba community's blend of local resolve, public-interest lawyers, and national allies is the model. It helps to understand the ecosystem you are joining. South Africa has public-interest environmental-law centres that litigate authorisations and mining rights up to the Constitutional Court, environmental-justice organisations rooted in the coalfields and industrial townships, land-rights and customary-tenure organisations that help communities register and defend informal rights, and human-rights bodies that take up the safety of defenders. Around them sit scientists, air-quality and water experts, and investigative journalists. A community's fight, plugged into this ecosystem early, gains lawyers, experts, national reach, and solidarity far beyond the affected households — the combination that carried Xolobeni from a coastal grievance to a landmark of South African law.
 
-### Step 2a: Public Meeting (*imbizo* / community meeting)
-Hold a community meeting where people set out their concerns to themselves, to the councillors and traditional leadership, and to press. A serious, informational meeting carries weight. Typical shape: welcome → project explanation → community concerns (each person a few minutes) → expert Q&A (an ecologist, a health voice, a lawyer) → next steps.
+## Phase 4: Structure and Sustainability
 
-### Step 2b: Opposition Materials (Factsheets)
-One page, in the **local language**. Decision-makers and neighbours won't read 30 pages; one page gets read. Structure: a headline stating the problem → quick quantified facts → the specific impact → **what you're asking for** → the evidence base → contact/resources. Print widely; distribute at taxi ranks, clinics, schools, the municipal office, places of worship; post a digital version. Cost: ~R6,000.
+A fight against a large project is long — the Xolobeni battle ran for many years — and in South Africa it can be dangerous. Build a structure that can last: clear roles, a shared and secure archive, a way to make decisions, a means to keep the wider community informed and united, and a plan for the emotional, financial, and physical toll. Take safety seriously: environmental defenders in South Africa have been threatened and killed, and a community should go in with its eyes open, its solidarity firm, protective measures in place, and legal support on hand. Sustainability and unity are themselves forms of power: a project's backers count on communities tiring and splitting, and a coalition that endures and holds together is one that can see a case through the courts and outlast the pressure.
 
-### Step 2c: Register as I&APs, Comment, and Record the Community's Position (the decisive record)
-Two things matter most here. First, **register as interested and affected parties (I&APs)** and put **written objections on the record** in the public-participation process (and demand a proper, accessible process, in the local language, if it is rushed or held far away), each raising real grounds — a misleading **EIA**, harm to water or biodiversity, ignored graves and land use. Second — on **customary land** — **formally record the community's decision** (through its recognised structures) objecting and, where applicable, **withholding consent**. Together these build a record the Minister on appeal and the courts take seriously. Cost: ~R2,000.
+## A Worked Coalition Example
 
-### Step 2d: Media Coverage at Launch
-Release data + objections + the community's recorded position = a story. (Full press-release example is in Section 9, 9G.) Contact reporters, then send the study. Expect 1-3 local stories.
+Return to the coastal customary community. Their core group — a handful of affected households and respected community figures — gathers the assessment, the mining-right application, and a map of the mine over their land and coast, much of it obtained through information requests. They broaden the base by holding community gatherings where every household sees that the mine needs their land and that the law gives them the right to refuse consent; the community records its collective decision to withhold consent, and guards against the company's inducements. They bring in public-interest lawyers and an environmental-justice organisation who recognise a Xolobeni-type case at once, supply expert critiques of the assessment, and prepare both the consent argument and a review of the authorisation. They build a durable, united structure — a documentation lead, a spokesperson, a legal liaison, a secure archive, and clear safety measures. Within months the community has moved from scattered worried households to a united coalition with expert allies, a legal theory, and a clear demand: no mining right without our consent, and we do not consent. That is the position from which the Amadiba community won.
 
 ---
 
-## PHASE 3: COALITION EXPANSION (Months 3-6)
+# STEP 4: LEGAL CHALLENGES
 
-**Goal:** grow from 20 core people to 50+ core plus 5-10 organisations.
+Law is one of South Africa's real levers — arguably its sharpest — because the Constitution gives the environment justiciable protection, the framework law opens the courthouse door wide, and the informal-land-rights law gives communities a genuine right of consent. This section explains the routes, honestly, including their limits.
 
-### Step 3a: Organisation Outreach
-Approach environmental and rights organisations — public-interest law centres (such as the **Centre for Environmental Rights** and the **Legal Resources Centre**), NGOs and networks, university research groups, land-rights and traditional-community organisations, farmers' and fishers' associations, and faith bodies — plus tourism operators and businesses that lose from the project. Research each; contact the right person; explain how opposition serves *their* aims; make a specific, tailored ask.
+## Community Consent and Informal Land Rights
 
-Tailored asks:
-- **A public-interest law centre:** "We need help with the **appeal** and a possible **PAJA review** — will you assist?"
-- **A university group:** "Would your researchers assess the health, water, or biodiversity impacts independently?"
-- **A land-rights / traditional-community organisation:** "Help us record and defend the community's **consent** decision and land rights."
-- **Farmers / fishers / tourism operators:** "This takes the land and coast we depend on — will you object and speak up?"
+South Africa's most distinctive legal lever is the **Interim Protection of Informal Land Rights Act (IPILRA)**. It provides that a person or community holding an "informal right to land" — including customary and communal tenure — may not be **deprived** of that right without their **consent**, given by the community in accordance with its custom. In the Xolobeni case, the High Court held in 2018 that granting a mining right over such land amounts to a deprivation, and therefore requires the community's free, prior, and informed consent — not merely the "consultation" that the mineral-resources law demands. The court read the two laws together in light of the history of dispossession, and sided with the community. The lesson is precise: **where a project needs land held under customary or informal tenure, the community's consent is a legal precondition, and a community that establishes its rights and withholds consent holds a decisive lever.** This principle was reinforced, in the same period as Xolobeni, by the Constitutional Court in a separate mining-and-community dispute, which likewise held that the informal-land-rights law's consent requirement must be honoured — so a community stands not on a single High Court ruling but on a line of authority reaching the country's highest court. Be aware, though, of the counter-current: a later law on traditional and Khoi-San leadership has raised the concern that a traditional council might purport to conclude agreements over community land, which is precisely why recording the whole community's genuine decision, in accordance with custom, matters so much — it forecloses any claim that a leader consented in the community's name. Establishing and recording your informal land rights and your collective decision is therefore among the most important legal steps you can take. It is worth doing early, formally, and transparently — through a properly convened community gathering, minuted and attended by as much of the community as possible — so that the record of your decision is unimpeachable long before a company can try to manufacture a rival "consent."
 
-### Step 3b: Coalition Agreements (Written)
-A written agreement — who's in, how decisions are made, meeting frequency, the public message, who may speak for the coalition, conflict resolution, money, and an exit clause — prevents later conflict. Consensus is stronger but slower; voting is faster but can fracture.
+## The Constitutional Right and Public-Interest Standing
 
-### Step 3c: Coordinated Public Work
-Assign leadership by strength: environmental analysis to the NGO/university; land and consent to the community's own structures and a land-rights organisation; livelihood to the farmers'/fishers'/tourism groups; media to whoever has the contacts; the legal track to the law centre and the registered NPC. Sequence activities so each builds momentum (coalition launch → data release → recorded community position → public-participation deadline).
+Kenya-style relaxed standing has a powerful South African cousin. **Section 24 of the Constitution guarantees everyone the right to an environment that is not harmful to their health or well-being, and to have the environment protected, for present and future generations**, through reasonable measures. And the framework environmental law opens standing very widely: any person may seek relief to protect the environment not only in their own interest, but in the interest of another who cannot act, in the interest of a group or class, or **in the public interest**. This means a community, or an organisation acting for it or for the environment itself, can bring a case without the barriers that defeat such suits elsewhere. These cases are heard by the ordinary courts, up to the Constitutional Court, whose environmental jurisprudence is strong — the courts have, for instance, set aside the authorisation of a coal-fired power plant because the climate-change impact had not been assessed, treating a defective assessment as fatal. That coal-plant decision — South Africa's first major climate-change judgment — established that a lawful assessment must grapple with a project's contribution to climate change, not ignore it, and it stands as a template for challenging any high-emitting project whose assessment looks past its climate impact. It also illustrates a wider truth about South African environmental law: the courts have been willing to hold the state and companies to the assessment the law actually requires, rather than the box-ticking they too often deliver.
 
----
+## Reviewing the Authorisation
 
-## PHASE 4: SUSTAINED PRESSURE (Months 6-12)
+Most project fights turn on the **environmental authorisation**. The framework law and its assessment regulations require genuine public participation and a proper assessment of impacts; where these were not met, the authorisation is vulnerable. There is usually first an **internal appeal** to the Minister or the relevant provincial MEC — a route that must be used within a strict time limit — and then a **judicial review** in the High Court on the grounds that the decision was unlawful, procedurally unfair, or unreasonable. A defective public participation, an unassessed central impact, or ignored conditions are all grounds. The water-use licence and other permits can be challenged on similar lines. The review runs under the administrative-justice law, which entitles a person to challenge administrative action that was procedurally unfair, unlawful, or unreasonable — a broad and well-developed set of grounds. And the standing to bring it is unusually generous: the framework law expressly allows a person to act not only in their own interest but in the interest of a group, or in the public interest, or on behalf of those who cannot act for themselves, so that a community organisation or a public-interest law centre can carry the case. This combination — strong grounds of review, wide standing, and a justiciable constitutional right behind them — is what makes South African environmental litigation among the most powerful in the world.
 
-**Goal:** maintain organised opposition across a 12+ month timeline.
+## The Honest Limits
 
-### Step 4a: Public Demonstrations (pickets / marches)
-Regular, same time and place, growing attendance — outside the municipal or provincial offices, the department, or at the site. Handle logistics: the **notice required under the Regulation of Gatherings Act**, marshals, accessibility, and a sound system for large gatherings. Momentum matters: "50 gather" becomes "gathering grows to 500."
-
-### Step 4b: Media Campaign (Ongoing)
-Monthly rhythm: week 1 a release tied to an event/data; weeks 2-3 social media 3x/week; week 4 a reporter check-in. Rotate themes (recorded community position → expert finding → coalition growth → march → appeal lodged).
-
-### Step 4c: Common Opposition Failure Points (How to Prevent)
-
-**Failure Point 1: Burnout (Months 4-8).** Prevent it: regular (not constant) meetings; celebrate milestones; fund one part-time coordinator so volunteers don't carry logistics; schedule breaks; keep a public progress tracker. Campaigns that bring in a part-time coordinator when founders tire tend to last for years; those that don't often collapse around month six.
-
-**Failure Point 2: Coalition Conflict.** Prevent it with a written agreement and decision process, a clear escalation path (discuss → mediator), an explicit exit clause, and rotating leadership. Respect that the community and its traditional structures decide by their own processes — and be alert to developers trying to split a community by co-opting some leaders; keep decisions transparent and collective.
-
-**Failure Point 3: Competing Funding.** Grants with conflicting conditions can pull groups off shared work. Coordinate grants up front and agree no group commits coalition resources without a coalition decision.
-
-**Failure Point 4: No Clear Wins.** Name milestones as victories (community position recorded, 500 objections lodged, a large march, the appeal admitted) and publicise cumulative progress.
-
----
-
-## Opposition Building Budget: Year-Long Campaign (ZAR)
-
-| Item | Cost |
-|------|------|
-| Factsheet printing (local language) | R7,000 |
-| Website/phone/data (annual) | R6,000 |
-| Meeting / venue costs | R12,000 |
-| Outreach travel (often rural, long distances) | R30,000 |
-| Objection/recording materials | R2,000 |
-| Demonstration supplies (banners, sound) | R15,000 |
-| Coalition meeting costs | R12,000 |
-| Part-time coordinator stipend (12 months) | R120,000 |
-| Social-media / content (part-time, 3 months) | R30,000 |
-| Fundraiser/event costs | R12,000 |
-| **TOTAL** | **R246,000** |
-
-**Funding the campaign.** Money typically comes from four places: individual donations (local collections and online fundraisers such as BackaBuddy, plus dedicated legal-cost appeals); grants from environmental and rights funders (long lead times — apply early); benefit events; and in-kind support from coalition organisations (expertise, meeting space, volunteer time). A registered NPC can receive donations and, where eligible, grants. Aim to raise half the budget by month 6 and the rest by month 12. **Reductions:** use a volunteer coordinator, or run a shorter 6-month campaign, to cut ~R120,000; and public-interest law centres often act at no charge.
-
----
-
-## Hiring Help to Run the Campaign
-
-You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
-
-# STEP 4: LEGAL CHALLENGES — THE APPEAL, JUDICIAL REVIEW, AND THE RIGHT TO CONSENT
-
-**Time to complete:** 3-24 months (depends on track)
-**Cost:** R0-500,000 (ZAR; the appeal is free, and the Biowatch principle limits the costs risk)
-**Outcome:** an authorisation set aside or refused, conditions, or a project shelved
-
-**Representation impact:**
-- Experienced environmental lawyers or a public-interest law centre: 35-45% favourable-outcome likelihood
-- General or less specialised representation: 25-35%
-- Self-representation: 5-15%
-- **Two key advantages:** the **Biowatch principle** means a good-faith public-interest litigant usually will not pay the state's costs if it loses; and law centres such as the **Centre for Environmental Rights** and the **Legal Resources Centre** act for communities, often at no charge.
-
-**Success Rate (Legal Only):** 20-30%
-**Success Rate (Legal + Opposition + Media):** 60-70%
-
-South African legal strategy has three tracks, and the internal appeal comes first.
-
----
-
-## TRACK 1: PARTICIPATION AND THE INTERNAL APPEAL (the front door)
-
-Most fights are shaped here, on the record, before any court is involved.
-
-- **Register as an I&AP and object in the public-participation process.** Put written objections on the record raising real **legal grounds** — a misleading **EIA**, harm to a **water resource** or biodiversity, ignored land use and graves, a process not run in the local language. Demand a proper, accessible process if it is rushed or held far away.
-- **Use PAIA.** File **Promotion of Access to Information Act** requests to obtain the **EIA report**, the specialist studies, the public-participation record, and the correspondence. PAIA turns a closed process into a documented one.
-- **Lodge the internal appeal.** Any I&AP can appeal the Environmental Authorisation to the **Minister or MEC** — usually **within 20 days** of being notified of the decision. The appeal is free, it can **suspend** the authorisation, and it is your first and often best chance to get the decision reversed or sent back. (Set out your grounds fully: the appeal record matters if you later go to court.)
-
-**Why this track matters:** filing well — specific, on time, grounded in the law and the evidence — plus the **PAIA** paper trail and (on customary land) the recorded community position, often does more than any amount of noise, and it builds the case you'll need for Tracks 2 and 3.
-
----
-
-## TRACK 2: CONSENT, THE CONSTITUTION, AND THE IMPACT-STUDY LEVERS (the strongest cards)
-
-Several grounds make this the most powerful legal tool available to South African communities.
-
-**1. Community consent on customary land (IPILRA).** Where the project needs land held under **customary tenure**, the community's **full and informed consent** is required — not merely consultation — before a mining right can be granted. The absence of genuine consent is what stopped the **Xolobeni** mine. This is a strong, specific, and distinctively South African ground.
-
-**2. The section 24 environmental right.** The Constitution guarantees everyone an environment not harmful to their health or well-being. Courts enforce it — as in the **Deadly Air** case, where the poor air quality of the Highveld was held to breach the section 24 right and the Minister was ordered to act. The right underpins every challenge.
-
-**3. A misleading EIA or a failure to consider a relevant factor.** The **EIA** must honestly assess significant impacts and alternatives, and the decision-maker must consider all relevant factors. Where they do not — as in **Thabametsi**, where a coal plant's **climate** impacts had not been assessed — a court can set the authorisation aside on **PAJA** review. A skipped or stage-managed **public-participation** process is a related strong ground.
-
-**Standing and cost — why you can get heard.** **Section 32 of NEMA** gives very broad standing: a person may act in their own interest, in the **public interest**, and in the **interest of protecting the environment**. The **Biowatch principle** protects a good-faith public-interest litigant from an adverse costs order against the state. And public-interest law centres take these cases. This means a community with a genuine legal point can get it before a court — often at little or no cost.
-
----
-
-## TRACK 3: JUDICIAL REVIEW UNDER PAJA (and the constitutional courts)
-
-When an authorisation is unlawful, and the internal appeal has not fixed it, you take it on **review to the High Court under the Promotion of Administrative Justice Act (PAJA)**. The grounds (in **section 6(2)** of PAJA) include that the decision was unlawful, procedurally unfair, irrational, unreasonable, or ignored a relevant consideration (such as climate impacts, or a community's consent). The route runs **High Court → Supreme Court of Appeal → Constitutional Court**; the section 24 right and section 32 standing carry through, and **Biowatch** limits the costs risk.
-
-**Be realistic about two things.** First, litigation **takes time** — a review can run for a year or more; if works are imminent, seek an **interim interdict** to halt them. Second, an authorisation set aside for a **curable** defect (a bad process, a gap in the EIA) can be **re-granted** after the defect is fixed, and projects sometimes proceed while an appeal or review is pending. So an early win may need defending: keep opposition and media pressure alive alongside the case.
-
----
-
-## Legal Strategy Decision Tree
-
-```
-START: Is a public-participation process or an Environmental Authorisation in process or issued?
-├─ IN PROCESS → Register as I&AP + object NOW (Track 1). Use PAIA. Record the community's position.
-└─ ISSUED     → Lodge the INTERNAL APPEAL to the Minister/MEC (usually within 20 days).
-
-Q1: Is there a legal defect the appeal or a court could act on?
-├─ NO (lawful process, you just disagree) → focus on opposition + media.
-├─ UNCLEAR → Take the file to a public-interest law centre / environmental lawyer.
-└─ YES (missing community consent on customary land; misleading EIA / ignored relevant factor
-        such as climate; defective public participation; breach of the s24 right) → Continue.
-
-Q2: Budget?
-├─ R0        → Internal appeal (free) + a public-interest law centre; Biowatch limits costs risk.
-├─ R0-150K   → Appeal + a PAJA review with a law centre / environmental lawyer.
-└─ R150-500K → Full PAJA review + expert evidence, combined with opposition + media.
-
-Q3: Are works imminent?
-├─ YES → Seek an INTERIM INTERDICT to halt works (and note the appeal may already suspend
-        the authorisation) — and plan for a possible re-grant after a curable defect is fixed.
-└─ NO  → The case proceeds on the normal timetable.
-
-RECOMMENDED PATHS
-Path A — Clear defect: lodge the internal appeal + PAIA file + recorded community position +
-  media, then PAJA review if needed. Highest ceiling, lowest cost (Biowatch).
-Path B — Arguable but not clear-cut: build opposition + media; take advice; litigate if a
-  defect crystallises.
-Path C — No legal defect: don't litigate. Win it politically, on the record, and in the press.
-```
-
----
-
-## Litigation Success Factors
-Litigation succeeds when **combined** with the other steps:
-- Litigation alone: 20-30%
-- Litigation + opposition: 35-45%
-- Litigation + opposition + media: 50-70%
-- A clear defect — a missing **community consent**, a misleading **EIA** or ignored relevant factor, or a defective **public-participation** process — can exceed these (as at Xolobeni and Thabametsi), though a curable defect may be fixed and the authorisation re-granted.
-
-A decision-maker on appeal, or a court on review, that sees a genuine legal defect, plus visible organised opposition, plus press coverage, treats the matter as serious.
-
-## What to Avoid: Legal Failures
-- **Litigating instead of organising.** A lone technical point with no visible opposition reads as a niche dispute. Build opposition; litigate with it visible.
-- **Skipping the internal appeal.** It is free, can suspend the authorisation, and builds the record — don't jump straight to court.
-- **Missing the 20-day appeal window.** It is short and strict.
-- **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The community never gave the consent IPILRA requires" is a ground the Minister and a court can act on.
+Be clear-eyed. The consent right and the courts are real and powerful levers, and South Africa's have delivered outright wins — but litigation is uncertain and slow, and a determined proponent will appeal, sometimes to the Constitutional Court. The Xolobeni consent principle, though established, remains contested: a later law on traditional leadership has raised fears that traditional authorities might purport to consent for a community, and companies work hard to divide communities and manufacture "consent." The internal-appeal and review time limits are strict and easily missed. And the fight can turn dangerous. So use the legal routes — they are among the strongest in the world — but pair them with unity, the press, and mobilisation, guard your consent against manipulation, and measure success in consent asserted, authorisations set aside or conditioned, delay, and safeguards as well as a clean stop.
 
 ---
 
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
-Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in South Africa — so you file the right fact against the right rule.
+Evidence does not speak for itself. To move an official, a court, or the public, you must turn what you have gathered into clear, specific arguments aimed at the right decision. This section shows how.
 
-**A NEMA internal appeal → suspends and reviews the authorisation.** Lodge the internal appeal to the MEC/Minister first. Feed it with: the authorisation's flaws, on the record.
+**From a document to a legal defect.** Do not simply hand over the assessment; identify what is wrong with it. If the public participation did not genuinely reach and hear the affected community, the argument is: *the participation the law requires did not happen, and the authorisation built on it is invalid.* If the assessment ignored the water, the health impact, or the climate, the argument is: *the assessment omitted a central impact and cannot lawfully support the authorisation* — the very ground on which a coal plant's authorisation was set aside. Tie every defect to the specific requirement it breaches.
 
-**A defective public-participation process → review.** Where affected people were not properly consulted. Feed it with: the participation record and its gaps.
+**From your rights to a precondition.** The record of your informal land rights becomes: *this is land we hold under customary tenure, and under the informal-land-rights law we cannot be deprived of it without our consent — and we do not consent.* This is often the most powerful argument you can make, because it makes the community the decider, as Xolobeni did.
 
-**Judicial review under PAJA → set aside an unlawful decision.** For a decision that was procedurally unfair, unreasonable, or unlawful. Feed it with: the decision and the specific breach.
+**From photographs to a documented violation.** Dated, located images of clearing, drilling, or pollution in breach of the authorisation conditions become: *here is proof that the project is operating in violation, at this place, on this date — and here is the action the law requires.*
 
-**An inadequate EIA → review.** Ignored effects, no real alternatives, or weak biodiversity assessment. Feed it with: the EIA gaps and your expert critique.
+**From testimony to harm.** The households' statements become: *this project takes the land, water, and livelihoods these named families depend on, and violates their right to an environment not harmful to their health or well-being.*
 
-**Authorisation conditions breached → enforcement.** Feed it with: the conditions and dated evidence of breach, to the environmental management inspectorate (the Green Scorpions).
+**From finance to leverage.** The ownership and financing record becomes: *this project is run by a company answerable to its investors and to the public, whose reputation this fight touches — and whose financiers have walked away from projects like it before.*
 
-The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." The Centre for Environmental Rights can tell you fast which ground is live and may take the case.
-
-# STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
-
-**Time to complete:** the full 12-month campaign
-**Cost:** ~R100,000 (ZAR) for trained spokespeople + ongoing support
-**Outcome:** regular coverage reaching a large audience, political pressure on decision-makers
-
-**Success Rate (Media Only):** 10-15%
-**Success Rate (Media + Opposition + Documentation + Legal):** 60-75%
-
-South Africa has a strong national press, a vigorous investigative-journalism sector, and community radio, that cover exactly these fights — and a record of that coverage shifting outcomes. The Xolobeni struggle and the Highveld air-pollution case drew sustained national coverage, which raised the political cost of pushing the projects through.
-
-## How Journalists Actually Work
-What reporters care about, in order: (1) **news** (something new happened), (2) **consequence** (someone is affected), (3) **timeliness** (it's happening now), (4) **conflict** (a real dispute), (5) **new information**. What they don't care about: your opinion, how angry you are, vague statements, or meetings with no hook.
-
-## The Newsworthiness Formula
-**NEWS = DATA + CONSEQUENCE + TIMELINESS + NEW INFORMATION**
-- **Bad:** "Residents oppose the project." (no data, no specific consequence, nothing new) → ignored.
-- **Good:** "The community has recorded its refusal of consent; PAIA documents show the EIA omitted the wetland 300 households rely on; the department decides on [date]." → covered.
-
-The difference is roughly a 4-5x change in the likelihood of coverage.
-
-## Know the Outlets That Cover This Beat
-- **Community radio** and **regional press** — the audience that reaches your councillors and the provincial department.
-- **National outlets** — *Daily Maverick*, *News24*, the *Mail & Guardian*, the SABC — for projects with wider significance.
-- **Investigative and public-interest outlets** — **amaBhungane**, **GroundUp**, **Oxpeckers** (environmental investigative), and **Corruption Watch** — for deeper reporting on clearances, land, and misconduct.
-- International outlets for landmark cases (they amplified Xolobeni).
-
-## Building Reporter Relationships (The Key)
-Reporters don't ring campaigners for comment; campaigners ring reporters with tips. Identify 5-10 local, regional, and specialist reporters (environment, land, local-government rounds). **Contact** them first: "I saw your piece on [similar story]. We've got a similar situation in [place] and I think your readers should know." Then keep the relationship warm over months — a relevant article, a PAIA document, a milestone — so that when the big story lands, they already know you.
-
-## Sample Media Timeline
-- Month 1: build relationships (contact five reporters)
-- Month 2: first story (public-participation objections / recorded community position)
-- Month 3: press event releasing the survey/PAIA findings; expert available
-- Month 4: coalition announcement
-- Month 5: march coverage
-- Month 6: decision-date coverage
-
-## Real Media Dynamics (South African grounding)
-- **Coverage plus mobilisation can change the law:** the Xolobeni struggle combined the Amadiba community's on-the-ground organising and recorded refusal with sustained national and international coverage — raising the political cost and helping secure the landmark consent ruling.
-- **PAIA documents make stories:** an access-to-information disclosure that contradicts the developer's claims — a missing wetland, a copied study, a stage-managed meeting — is a gift to a reporter and a court.
-- **Independent evidence beats the developer's study:** independent ecological, hydrological, or health analysis that contradicts an optimistic **EIA** lets the press write "experts dispute the developer's figures," and decision-makers take notice.
-
-## Media Measurement
-Track cumulative stories and reach month over month. **Success indicators:** regular (at least monthly) coverage that carries your message and specific data, and visible decision-maker response. **Failure indicators:** no coverage for 2+ months, superficial coverage that drops your argument, or no response from decision-makers.
+Match the argument to the venue. To the competent authority and on internal appeal, argue the assessment's defects and the failed participation. To the High Court, argue the unlawfulness of the authorisation and the community's consent right. To the Constitutional Court, argue the violation of the Section 24 right. To the press and the public, argue the human story — the land taken, the coast poisoned, the community divided and endangered. The same evidence, aimed differently, does different work.
 
 ---
 
-## Amplifying at Scale — Media Help for Hire
+# STEP 5: MEDIA STRATEGY
 
-Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
+In South Africa, publicity is power. The country has a large, free, and combative press, an intensely engaged public, and a history in which national and international attention has changed the fate of projects. For a listed or foreign-owned project, coverage reaches investors and parent companies. This step turns your evidence and your story into pressure.
 
-# SECTION 8: EMAILS & LETTERS YOU CAN COPY
+## Why Media Matters Here
 
-These are ready-to-use messages. Adapt the bracketed parts and send them. Keep them short, specific, and grounded in the law and the evidence — that is what gets read and acted on. The **PAIA request (8E)** and the internal appeal (8F) are among the highest-leverage messages here.
+Xolobeni became a national and international cause — a small coastal community defending its ancestral land against a mining company, with a leader murdered for the fight — and that attention reached the company's investors and the country's conscience, and made the struggle impossible to ignore. Publicity does three things: it raises the political cost of a harmful decision, it reaches the investors and financiers who care about reputation, and it protects the campaigners themselves, because a watched community is harder to intimidate — a protection that matters gravely where activists have been killed.
 
-## 8A. Email to a reporter (story pitch)
+## Building the Story
 
-```
-Subject: Story tip: [specific finding] — [the department] decides [date]
+Lead with the human and the concrete, not the technical. The story is not "the environmental authorisation was procedurally deficient"; it is "the land our families have held for two hundred years, the coast we fish, is to be dug up for a mine, and we were never asked for our consent." Use your strongest material: the dated photographs of the land and coast, the map of the mine over your tenure, the testimony of named community members, the fact — where it applies — that the law requires your consent and you have refused it. Keep the facts scrupulously accurate; your credibility is your armour.
 
-Dear [Reporter],
+## Reaching the Audiences
 
-I follow your coverage of [beat / recent story]. We have something in [place]
-your readers should know about, and there's a clear news hook.
+Work several audiences at once. **Local and national press** carry the story to the provincial capital and the national government, where political pressure builds. **Environmental-justice and human-rights networks** amplify and lend authority. **International media and networks** matter especially for listed or foreign-owned projects, because they reach investors, the parent company, and the global public. **Social and independent digital media** let the community speak in its own voice and document in real time. Provide ready material — clear photographs with captions, short accurate summaries, a map, and a few compelling testimonies — so that journalists and allies can carry your story faithfully. For a listed or foreign-owned project the investor route deserves deliberate attention: a company whose shares trade on a stock exchange answers to institutional investors and lenders increasingly sensitive to human-rights and climate risk, and an accurately told story of a community's consent being trampled, or a defender being threatened, can reach annual meetings, analyst notes, and ethical-investment screens in a way a purely local protest cannot. The reputational exposure of the Xolobeni miner, a foreign-listed company, was part of what kept that fight alive on a global stage.
 
-In one line: [the community's recorded position / PAIA documents / an independent
-survey] show [quantified finding — e.g. "the EIA omitted the wetland 300
-households depend on"], and [the department] decides on [date].
+## Discipline and Care
 
-Why it's newsworthy: it's new (just obtained), specific (affects [# people /
-hectares / a community holding customary land]), and time-sensitive (decision
-[date]).
+Two cautions. First, accuracy above all: one exaggeration handed to the other side can be used to discredit everything. Second, and gravely, care for people's safety: environmental defenders in South Africa have been threatened and killed, so weigh what you publish, protect vulnerable individuals, publicise threats so that defenders are visibly watched over, and let the community decide together what it is willing to say publicly. Used with discipline, the press is among the most powerful and protective levers a South African community has.
 
-I can share the full report and PAIA documents and connect you with [one named
-expert] for an interview. Would a quick call this week work?
+---
 
-Regards,
-[Name] — [Organisation] — [phone] — [email]
-```
+# EMAILS & LETTERS
 
-## 8B. Letter to the Minister/MEC or the municipality
+Below are eight templates for the written communications a campaign most often needs. Adapt them to your facts; keep them precise, calm, and specific; and keep copies of everything you send.
 
-```
-Subject: [Refuse / attach strict conditions to] [project] — Environmental
-Authorisation ref [ref]
+**8A — Access-to-information request for the assessment and participation record (to the competent authority).**
+*Subject: Request under the access-to-information law — environmental assessment and public-participation record for [project].*
+"Under the access-to-information law, we, residents of [place], request copies of the environmental impact assessment reports, the environmental-management programme, the record of public participation, and the environmental authorisation and its conditions for [project], [location]. As affected persons, and to protect our environmental right, we are entitled to this information. Please provide it within the period the law allows, or state the legal ground for any exemption. [Contact.]"
 
-To [the MEC / Minister / the Municipal Manager],
+**8B — Access-to-information request for the mining right and water licence (to the mineral-resources and water departments).**
+*Subject: Request for the mining right and water-use licence — [project].*
+"Under the access-to-information law, we request the prospecting/mining-right application and grant for [project], any record of the community consultation or consent relied on, and the water-use licence and its conditions at [location]. [Contact.]"
 
-I am a resident of [place] and a registered interested and affected party
-writing about the [project], on which a decision is expected around [date].
+**8C — Comment during the public participation (to the environmental assessment practitioner and authority).**
+*Subject: Registration and objection — public participation for [project].*
+"We, residents of [place], register as interested and affected parties and object to the authorisation of [project] on the following grounds: [the assessment fails to assess the impact on our land / water / health]; [this participation has not genuinely reached or heard the affected community]; [the project requires land we hold under customary tenure, without our consent]. We ask that these be recorded and addressed and that authorisation be refused or the assessment redone. [Attach evidence.]"
 
-The concern, briefly: [one or two specific grounds — e.g. "a mining right over
-land the community holds under customary tenure, without the full and informed
-consent IPILRA requires, and an EIA that omits the wetland the community
-depends on"].
+**8D — Assertion of community consent under the informal-land-rights law (to the mineral-resources department and the proponent).**
+*Subject: Informal land rights and consent — [project] at [location].*
+"The land affected by [project] is held by our community under customary/informal tenure protected by the informal-land-rights law. Under that law we may not be deprived of our rights without our free, prior, and informed consent, given by our community in accordance with our custom. Our community has considered [project] and **withholds its consent**. We call on you not to grant or act on any right over our land. [Attach the record of our decision.]"
 
-I am asking you to [specific, achievable action — e.g. "refuse the Environmental
-Authorisation," or "require genuine community consent, strict conditions, and a
-redesign"].
+**8E — Internal appeal against the environmental authorisation (to the Minister / MEC).**
+*Subject: Appeal against the environmental authorisation for [project].*
+"We appeal the environmental authorisation granted to [project] on [date], within the period the law allows, on the grounds that [the public participation was deficient / the assessment ignored key impacts / our consent was required and not obtained]. We ask that the authorisation be set aside or remitted. [Attach the authorisation, the assessment, the participation record, and our evidence.]"
 
-[If true:] The community has formally recorded its objection [and withholding of
-consent]; [#] residents have lodged objections; [#] organisations share the
-concern.
+**8F — Instruction to public-interest counsel for review / litigation.**
+*Subject: Review of the authorisation and mining right for [project].*
+"We instruct you to review, and if necessary take to the High Court, the environmental authorisation and mining right for [project], on the grounds that [the authorisation is unlawful] and that [our consent was required under the informal-land-rights law and was not obtained], relying on Section 24 of the Constitution and the framework law's public-interest standing. [Attach evidence.]"
 
-I would welcome a meeting and can share our full evidence.
+**8G — Letter to the press (national or international).**
+*Subject: [Community] moves to protect ancestral land and coast from [project].*
+"For generations, our community at [place] has held [land/coast] under customary tenure and lived from [farming/fishing]. Now [project], by [company] and [financed by ...], threatens to [mine our land / poison our coast] — without the consent the law says is ours to give. We can provide photographs, documents, a map, and interviews. [Contact.]"
 
-Respectfully,
-[Name], [address], [phone], [email]
-```
-
-## 8C. Register as an I&AP / object / record the community's position
-
-```
-PART A — WRITTEN OBJECTION (public-participation process)
-To: [the Environmental Assessment Practitioner / the competent authority], re [project]
-
-Please register me as an interested and affected party (I&AP) and record this
-objection to the [project].
-1. Who I am: [name], [place], [interest].
-2. Grounds (with evidence):
-   a. [Customary land / consent] — the project affects land the community holds
-      under customary tenure; the full and informed consent required by IPILRA
-      has not been obtained. (Attach.)
-   b. [Misleading EIA] — the EIA omits [impact], understates [impact], and
-      [ignores / contradicts] the ground reality documented here.
-   c. [Defective process] — the reports were not made available in [language] /
-      the meeting was held far from the affected community / objections were not
-      recorded.
-3. What I ask: that the Environmental Authorisation be REFUSED; alternatively,
-   [strict conditions and a redesign].
-[Name] — [contact] — Attachments: [baseline / impact / health report]
-
-PART B — RECORD OF THE COMMUNITY'S POSITION (customary land)
-"The [community], through its recognised structures, having considered the
-proposed [project], records that it OBJECTS to the project and does NOT consent
-to mining/development on its land, for the following reasons: [rights / livelihood
-/ graves / environment]. Recorded on [date], [who was present / how decided]."
-```
-
-## 8D. Coalition outreach email (to an organisation)
-
-```
-Subject: [Organisation] + [project] — a specific ask that fits your work
-
-Dear [Name],
-
-I'm [name] with [organisation] in [place]. We're working on [project], which
-[one-line stake]. I'm getting in touch because this connects directly to
-[organisation]'s work on [their aim].
-
-We're not asking you to adopt our whole campaign — just one concrete thing that
-serves your aims: [tailored ask — e.g. "help with the internal appeal and a
-possible PAJA review," or "help us record and defend the community's consent
-decision," or "have your researchers assess the water impacts independently"].
-
-If helpful, I can send a one-page brief and arrange a short call.
-
-Thanks for considering it,
-[Name] — [Organisation] — [contact]
-```
-
-## 8E. PAIA request (the access-to-information tool)
-
-```
-To: The Information Officer, [the competent authority / the department / the
-municipality], [office]
-
-Request for access to a record in terms of the Promotion of Access to
-Information Act, 2000 (PAIA)
-
-Please provide the following records concerning [project] (ref [ref]):
-1. The full EIA report / scoping report and all specialist studies.
-2. The public-participation record: the I&AP register, comments received, and
-   the responses to comments.
-3. The Environmental Authorisation and the reasons for the decision.
-4. For mining: the mining-right application and any record of community consent.
-5. All correspondence between [the authority] and [the developer], [dates].
-
-[Complete the prescribed PAIA request form and pay any prescribed fee.] If access
-is refused, please provide adequate reasons and inform me of my right to lodge an
-internal appeal / approach the Information Regulator or a court.
-
-[Name] — [address] — [date]
-```
-
-## 8F. Internal appeal / PAJA review (route it correctly)
-
-```
-NOTE: FIRST lodge the INTERNAL APPEAL to the Minister/MEC — usually WITHIN 20 DAYS
-of being notified of the decision. It is free and can suspend the authorisation.
-If the appeal fails, take the decision on JUDICIAL REVIEW to the High Court under
-PAJA. Contact a public-interest law centre or environmental lawyer IMMEDIATELY —
-the 20-day window is short, and the Biowatch principle limits your costs risk.
-
-[INTERNAL APPEAL — Minister/MEC]
-[Date]
-
-Appellant: [name / registered NPC], [address], registered I&AP.
-The decision appealed: Environmental Authorisation for [project], ref [ref],
-dated [date].
-Grounds of appeal:
-1. [Missing community consent under IPILRA (customary land).]
-2. [Misleading EIA / failure to consider a relevant factor, e.g. climate,
-   water, biodiversity.]
-3. [Defective public participation.]
-4. [Breach of the section 24 environmental right.]
-Relief sought: that the Environmental Authorisation be SET ASIDE / the appeal be
-upheld and the authorisation refused; and that it be SUSPENDED pending this appeal.
-
-[Name] — [contact]
-```
-
-## 8G. Press release (effective)
-
-```
-FOR IMMEDIATE RELEASE
-
-[HEADLINE: make it NEWS, not opinion]
-[Subtitle: consequence + timeliness]
-
-[DATELINE: Place / Date]
-
-[LEAD — answer "why now?"]
-[Local organisation] released [study / PAIA documents / the community's recorded
-position] today showing [specific finding] affecting [# of people / hectares / a
-community holding customary land].
-
-KEY FINDINGS
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-
-[DIRECT QUOTE — specific, from a credible voice, not a slogan]
-"[What the finding means]," said [Name, Title].
-
-[CONTEXT — why it matters; reference a documented case where relevant]
-
-[DECISION POINT — create urgency]
-[The department] decides on [date]. The internal-appeal window is 20 days.
-
-[CALL TO ACTION] To support or lodge an objection: [how].
-For more: [contact].
-
-CONTACT: [Name / Organisation / Phone / Email]
-ATTACHMENTS: full report, PAIA documents, the community's recorded position, maps, Q&A
-```
-
-## 8H. Legal strategy decision tree
-See Step 4 for the full decision tree — Tracks 1-3, the internal appeal and the PAJA review, the consent, EIA, and section 24 levers, the Biowatch costs protection, and the budget branches.
+**8H — Letter to a public-interest law centre or environmental-justice group seeking partnership.**
+*Subject: Request for support — [project] at [location].*
+"Our community faces [project] on [our customary land / coast]. We have gathered [the assessment, the authorisation, the mining-right application, photographs, testimonies, the record of our decision] and believe the consent right under the informal-land-rights law and a review of the authorisation apply. We ask for your legal and technical support and help raising the case, and we are ready to work as partners. [Contact and summary of evidence.]"
 
 ---
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
-Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+Not every community has months and a lawyer at the outset. If you must act fast and lean, do these things, in this order, and you will have done the most important work.
 
-1. **Register as an interested and affected party and submit comments before the deadline. One page naming one or two concrete grounds (water, biodiversity, an affected community). It preserves your right to appeal.**
-2. **Get the EIA / basic-assessment report and quote its worst admission back to the competent authority.** The developer's own words carry the most weight.
-3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
-4. **File one PAIA request** (Section 8E) — even if someone else uses it later.
-5. **Point one public-interest law centre at the fight.** The CER or the LRC may take it from there — you hand off, you don't have to lead.
-6. **Lodge the NEMA internal appeal within the time limit** — it can suspend the authorisation while the appeal is decided.
-7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+**1. Pin down the project and its footprint.** Get the proponent, the type, and the boundaries. Overlay it, even roughly, on your customary land, the water source, the coast, the protected area. If it needs land you hold under customary tenure, you may already have your strongest lever.
 
-Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+**2. Register and request the record.** Register as interested and affected parties, and send access-to-information requests for the assessment, the participation record, the authorisation and conditions, the mining right, and the water licence (8A/8B). This preserves your standing and gathers your evidence.
 
-# SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
+**3. Photograph and record everything, with dates and locations.** The site, the pegs, the clearing, the land and coast, the affected homes. Dated evidence costs nothing and matters most.
 
-**What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because the government is pushing investment and jobs, because the developer's own specialist writes the impact study, or because refusals are rare. It rarely means anyone broke the law. (It is *not* what South Africans call **state capture** — the grand corruption of state institutions — which is a Section 11 matter.) Here is how the tilt works — and how communities win anyway.
+**4. Hold the community together and record your decision.** If the project needs your customary land, gather the community and record its collective decision to withhold consent (8D), and guard against the jobs, money, and co-opted leaders that companies use to split you. A united, recorded refusal is a formal legal act, not mere protest.
 
-## Important Caveat
-This section describes patterns from documented South African dynamics and public policy — "strategic project" backing, developer-appointed **EAPs** who compile the EIA, rare refusals, and the practice of regularising works started without authorisation. It is not a statistical claim about "X% of all decisions." Read it as: "where these patterns appear, here is what happens and what it means for opposition."
+**5. Watch the appeal clock and get a lawyer.** An environmental authorisation can be appealed internally and then reviewed in court, but only within strict windows. Contact a public-interest law centre or environmental-justice group (8H, 8E, 8F) at once — these windows are easily lost, and they can move faster than you can alone.
 
-## What This Tilt DOES (and DOESN'T DO)
-**DOES:** create financial and political incentive to approve (jobs, rates, mining **royalties**, "strategic project" status); bias information (the **EIA** is compiled by the developer's own **EAP**, and reads optimistically); advantage well-resourced developers (better specialists, lawyers, appeals); and let projects that started work without authorisation apply to **regularise** them after the fact (a "rectification" process, which critics say can reward non-compliance).
-**DOESN'T:** guarantee approval; make opposition impossible; remove the community's **consent** power on customary land; remove the **section 24** right or the **appeal** and **PAJA review**; or prevent set-asides, conditions, and delay.
+**6. Raise the alarm and find your movement — and protect your people.** Alert the press (8G) and reach out to an environmental-justice or human-rights organisation, and publicise any threats so defenders are visibly watched over. South Africa's movements have fought mines and coal plants and know the way.
 
-**Analogy:** a tilted system is like playing on a pitch sloped against you. It makes winning harder, not impossible — so your strategy has to be sharper and more visible, your legal grounds cleaner, and your **PAIA** paper trail solid.
+Even with little time, these six steps create a record, exercise your rights, protect the appeal window, keep the community united, and build a coalition — the things every later step is built on.
 
-## Documented South African Dynamics
+A final word on the rapid-fire path: in South Africa the two things most worth doing first are protecting the appeal window and protecting the community's unity and its people. A missed appeal deadline can forfeit your sharpest legal weapon; a divided community can be made to "consent" to its own dispossession; and an unprotected defender is in real danger. Speed, unity, and safety, secured early, keep every later option open.
 
-**Consent and documentation can change the law (Xolobeni).** Despite strong backing for the mine, it was stopped — and the law reshaped — after the Amadiba community documented their rights, recorded their refusal, and won the ruling that their **consent** was required. **Lesson:** even a well-backed project can fall when documentation, the community's consent, and the courts line up.
+---
 
-**A misleading study can be caught (Thabametsi).** A coal plant's authorisation was reviewed and sent back because its **climate** impacts had not been assessed. **Lesson:** the developer's optimistic **EIA** is a target — independent evidence and a careful reading of what the study omits are among the most valuable things a campaign can produce.
+# WHEN THE SYSTEM IS TILTED
 
-**The impact study is the developer's.** Because the **EAP** is appointed and paid by the developer, the EIA tends to read in the project's favour. **PAIA** disclosures and independent survey work that contradict it are powerful.
+Much of this guide assumes the ordinary machinery works: assessments are honest, participation is real, consent is sought, courts decide. Often in South Africa they do not. This section is about acting when the system is tilted against you.
 
-## Assessment Framework — Determine Your Situation
-**GREEN FLAG (low tilt):** an ordinary authorisation with genuine scrutiny; no "strategic project" label; a clear legal defect; customary land engaged (giving the community a consent right). → 65-75% with all 5 steps. Proceed with standard opposition.
+## The Characteristic South African Problem: Division and Manufactured Consent
 
-**YELLOW FLAG (moderate tilt):** strong pro-investment push and a developer-appointed **EAP**, but independent evidence is possible and a legal ground (consent, EIA, participation, section 24) is arguable. → 40-45% with all 5 steps; often win conditions and delay even if not a refusal. Proceed; prioritise the consent and the EIA/participation defects.
+South Africa's defining difficulty, alongside powerful backers, is the manufacture of division and false consent. Companies routinely offer jobs, money, and directorships, co-opt or install traditional leaders, and then claim the community has "agreed" — as happened at Xolobeni, where a leader who had opposed the mine came to support it after accepting benefits. The lesson is not that consent is worthless — it is your strongest lever — but that **you must protect the integrity of your community's decision: record it transparently, in accordance with your custom, with broad participation, so that no co-opted individual can purport to give a consent the community never gave.** A community that documents its own genuine, collective refusal is a community whose consent cannot be manufactured away.
 
-**RED FLAG (high tilt):** a national "strategic" project, developer-only studies, heavy political backing, and a possible after-the-fact **regularisation**. → 25-30% to stop; 50-60% to modify/delay. Decide whether delay/conditions justify the investment; lead with the cleanest ground (consent on customary land, or the section 24 right); build power and a record for the next round.
+## When Participation Is a Formality
 
-## Direct Action and Defender Safety: Factual Information (Descriptive, Not Prescriptive)
-When authorisation and legal routes are exhausted, some South African communities have used non-violent direct action — pickets, marches, and blockades. This is descriptive of what has occurred, not guidance, and in South Africa it comes with a serious safety warning.
+A second, common form of tilt is public participation reduced to a formality — a notice few see, a meeting held far away, a record that ignores the objections raised. This is not a reason to disengage; it is a defect to document. South African courts treat genuine public participation as a legal requirement, and a participation that did not truly reach and hear the affected community is a flaw that can undo an authorisation. So take part fully, in writing and on the record, and where the participation is hollow, document exactly how.
 
-**South Africa is dangerous for environmental and land defenders and for whistleblowers.** This is not abstract. **Sikhosiphi "Bazooka" Rhadebe**, chairperson of the Amadiba Crisis Committee leading the Xolobeni anti-mining struggle, was **assassinated in March 2016**, shot by men posing as police. **Babita Deokaran**, who exposed roughly R850 million in suspicious hospital-tender payments, was **assassinated in August 2021**. Organisers in high-conflict areas — especially over mining on communal land — have faced intimidation, violence, and attempts to split communities.
+## When Officials Will Not Act
 
-Anyone considering direct action — or even visible organising in a high-conflict area — should take the physical and legal risk with the utmost seriousness: don't act alone; keep actions non-violent, lawful (give the notice the **Regulation of Gatherings Act** requires), and well-documented; line up **legal support** in advance; keep decisions transparent and collective so a developer cannot co-opt individual leaders; and stay connected to human-rights bodies (the **SAHRC**, Amnesty International, and organisations that support defenders), to public-interest law centres, and to the press — visibility is a measure of protection. If there are threats, treat them as a safety emergency: report them, tell your networks, and seek protection. Direct action has produced delay and disproportionate attention in documented cases, but on its own rarely stops a project permanently; combined with documentation, the community's consent, the appeal and courts, and media, it is more consequential — and safer.
+Where an authority grants a defective authorisation or a mining right without consent, escalate methodically. Put every objection and request in writing, so that the failure is documented — the access-to-information law is invaluable here. Use the **internal appeal** to the Minister or MEC within the window, then **review** the decision in the High Court, relying on the Section 24 right and the framework law's broad standing. Take a violation of rights to the **Human Rights Commission**, and administrative failure or corruption to the **Public Protector**. And make the failure public: an authority that ignores a quiet letter may act when the defect is national news and the movements are watching.
 
-## Honest Assessment
-Where the system is tilted, opposition using authorisation and legal methods has lower odds of an outright stop — but still reliably wins set-asides or conditions, forces delay (often long), imposes political cost, builds durable community power, and creates a record for the appeal and the courts. And South Africa offers genuine equalisers: a justiciable **section 24** environmental right, a free **internal appeal**, **PAJA** review, broad **section 32** standing, the community's **consent** power on customary land, the **PAIA** access-to-information tool, and the **Biowatch** costs protection. Neither scenario makes opposition futile.
+## When to Reassess
+
+Be honest with your community about the odds. Against a powerful, state-backed project with a sound process, a clean permanent stop may not be achievable, and it is not a failure to say so. In that situation the realistic and still-valuable wins are consent asserted and a mining right blocked or delayed, an authorisation set aside or conditioned, delay that shakes the financing, safeguards and compensation, and exposure that raises the price of the harm. Choose the fight you can win, protect your people — the danger here is real and sometimes lethal — and keep the record, because officials, governments, and courts change, and a well-documented campaign is ready when they do. And do not underrate delay and cost as outcomes in their own right: a mine or a plant held up for years by a united community and its lawyers is a project whose economics can sour, whose investors can lose patience, and whose backers can move on, so that even short of a clean, final stop, endurance itself can become the lever that defeats the project.
 
 ---
 
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
+Sometimes the tilt is not mere inertia but corruption — an authorisation that should never have issued, an assessment written to order, an official with an interest in the outcome, benefits steered to co-opted leaders. Mining and large infrastructure are chronically exposed to it. This section is about recognising and confronting capture, carefully.
 
-**Municipal councillors and officials.** The most common pressure point: a municipality dependent on the project, or an official with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: conflict-of-interest and municipal-finance rules — misconduct can void acts and trigger accountability processes.
+## Recognising the Signs
 
-**The provincial/national environment department.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: the NEMA appeal or a PAJA review.
+Corruption rarely announces itself, but there are patterns. An authorisation granted despite a plainly inadequate assessment; a "consent" produced by a co-opted or installed leader; a public participation engineered to exclude the affected; a consultant's report that reads as if written for the proponent; an official who moves between the regulator and the industry; benefits, directorships, or a company vehicle flowing to those who switch sides; the sudden reversal of a sympathetic leader's position — each is a warning sign.
 
-**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the CIPC registry, the Deeds Office, and disclosure records surface the timeline a journalist needs.
+## Who Is Supposed to Guard Against It
 
-**The courts.** South Africa has independent courts and a strong constitutional-rights framework (including the section 24 environmental right) — genuine levers. The constraints are cost and delay; the CER/LRC can help with costs, and seek an interdict where work could start before judgment.
+South Africa has machinery against corruption and for transparency. The **anti-corruption bodies and the Public Protector** investigate graft and maladministration, to which licensing, mining rights, and state contracts are notoriously exposed. The **auditor-general** scrutinises the use of public money. The **access-to-information law** lets you extract the record and expose the defect. The **courts** can set aside authorisations and rights tainted by illegality. And the **free press and investigative journalists** have repeatedly exposed captured deals and manufactured consent. These are the venues to which evidence of corruption should be directed.
 
-**Ministers, MECs, and politicians and priority projects.** Where a project is a stated provincial or national priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
+## How to Confront It — Safely
 
-**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Public Protector, the Special Investigating Unit, the Auditor-General for public money, and the Hawks/police for crimes — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
-
-# INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
-
-## Realistic 12-Month Campaign Timeline
-
-**Months 1-2 — Foundation + Documentation:** identify the target and decision-maker (Step 1); begin baseline surveys and map land use and tenure (Step 2); convene the community and form or partner with a registered NPC (Step 3); register as **I&APs**, file first **PAIA** requests, and make first reporter contacts (Steps 4-5). *Outcome:* structure forming, the record and paper trail beginning.
-
-**Months 2-3 — Public Launch:** baseline complete; community meeting + objections in the public-participation process + **recorded community position** (Steps 3-4); media event (Step 5). *Outcome:* opposition visible, objections and position on the record, 3-5 stories.
-
-**Months 3-4 — Coalition + Impact Analysis:** complete impact analysis testing the **EIA** (Step 2); expand the coalition and bring in a law centre and a land-rights organisation (Step 3); prepare the **internal appeal** grounds (Step 4); data-release press event (Step 5). *Outcome:* broad coalition, legal grounds identified, coverage expanding.
-
-**Months 4-6 — Expansion + Health Data:** health/livelihood report (Step 2); sustained marches (Step 3); the authorisation decision (Step 4); expert press events (Step 5). *Outcome:* possible refusal or strict conditions, quantified impacts, regional media.
-
-**Months 6-9 — Escalation + Appeal:** marches escalating (Step 3); if authorised, lodge the **internal appeal** (within 20 days) and prepare a **PAJA review**, with an interim-interdict application if works are imminent (Step 4); ongoing monthly media (Step 5). *Outcome:* sustained pressure, case live.
-
-**Months 9-12 — Peak Pressure + Positioning:** maintain opposition (Step 3); appeal/review positioning (Step 4); media momentum (Step 5). *Outcome:* authorisation + opposition + media + law compound; set-aside, conditions, or the project shelved.
-
-## Key Principles (What Separates Winning Campaigns from Losing Ones)
-1. **Specificity** — "the community never gave consent," not "we oppose the project."
-2. **Multi-tactic pressure** — objections + recorded consent position + opposition + media + legal, together.
-3. **Long-term organising** — sustain 12+ months; prevent burnout; keep people safe.
-4. **Documentation first** — build the evidence (including land use, tenure, and who lives there), then object and litigate on it.
-5. **Coalition building** — 5-10 diverse groups; respect the community's own decision-making and guard against co-option.
-6. **Use consent, section 24, and PAIA** — the customary-consent power, the constitutional right, and the paper trail are distinctively strong South African levers.
-7. **Appeal first, then review** — lodge the free internal appeal (within 20 days), then PAJA review; Biowatch limits the costs risk.
-8. **Realistic expectations** — expect conditions/modifications/delay; a refusal or shelving is the bonus; expect possible after-the-fact regularisation and re-grants.
-9. **Persistence and safety** — plan for 12-24 months (and possibly several forums), keep momentum, and protect organisers and whistleblowers.
-
-## Warning Signs — Act Early
-Watch for these and respond fast: attendance declining around months 4-5 (burnout); coalition members leaving or being co-opted; no media coverage for 2-3 months; the case stalling or an after-the-fact **regularisation**; fundraising below half your target by month 6; a core organiser leaving without a successor; **threats or intimidation** against organisers (treat as a safety emergency — see Section 9); or someone new pushing illegal or reckless tactics. Each has a fix earlier in this guide — catch it early and the campaign holds.
+Confronting corruption demands even more care than ordinary campaigning, and in South Africa it can be dangerous. **Document rigorously and factually** — dates, decisions, documents, connections, benefits received — and distinguish always between what you can prove and what you suspect. **Do not make public accusations you cannot substantiate**, both because they can be used to discredit you and because they can expose you to legal and physical risk. **Route serious evidence to the proper bodies** — the anti-corruption bodies, the Public Protector, the courts, and established investigative journalists — rather than confronting powerful interests alone. **Protect the people involved**, especially insiders and witnesses, and take threats seriously. And **lean on your allies**: public-interest law centres, environmental-justice organisations, and journalists know how to handle such material and can shield individuals. Corruption is real in South African project approvals, and it can be confronted — the transparency and judicial tools exist — but it must be confronted with evidence, through institutions, and with the utmost attention to the safety of everyone involved.
 
 ---
 
-# FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
+# INTEGRATION & TIMELINE
 
-## Real Outcomes: What Winning Looks Like
-- **Authorisation refused / project shelved** (rarer): usually needs overwhelming opposition + a strong consent or EIA/participation case + heavy media + lower tilt. Xolobeni (mine stopped, and the law changed) shows it happens.
-- **Authorisation modified** (most common victory): strict conditions, genuine rehabilitation and relocation terms, buffers, independent monitoring, redesign — often via the appeal or a court.
-- **Delay / attrition:** stalled for years while authorisation, appeal, and review run; costs mount and financiers lose confidence; the developer sometimes walks away.
-- **Defeat:** the project proceeds (sometimes via after-the-fact **regularisation** or a re-grant after a curable defect). Focus then shifts to enforcing conditions and rehabilitation, monitoring compliance (report breaches to the **Green Scorpions**), and the next opening.
+The steps in this guide are not a menu from which to pick one; they are strands to be woven together. This section shows how they fit, and over what kind of time.
 
-## Decision Point: Continue, Modify, or Reassess
-**Continue** if the legal grounds are live, the consent and PAIA record is strong, opposition is holding or growing, media is at least monthly, the coalition is stable, and organisers are safe.
-**Modify** if attendance is falling, coverage has dropped for 2+ months, coalition members are leaving, the legal position has weakened, or you discover the system is more tilted than assessed.
-**Reassess** if, after ~12 months (and perhaps the appeal and a review) authorisation and legal options are exhausted, the decision looks settled despite real effort, the community is exhausted, or resources are gone — or if the personal or legal risk to organisers has become unacceptable. Ask: has opposition already won partial victory (conditions, rehabilitation, delay)? Would more effort win more, or just prolong the fight? Should energy shift to enforcing conditions, to the next project, or to changing the policy?
+## How the Strands Reinforce One Another
 
----
+Documentation feeds everything: it is the basis of the objection, the internal appeal, the review, the consent argument, and the press story. Organising — and above all a united community — gives the documentation weight and guards the consent against manipulation. The legal routes — the consent right, the review of the authorisation, the constitutional right — turn the record into binding decisions. The press turns it into political and reputational cost that reaches investors, and it helps protect endangered defenders. Each strand is stronger for the others: a review amplified by the press and backed by a united community that has recorded its refusal is a different thing from a lonely lawsuit, and a consent claim reinforced by national attention is far harder to override — which is precisely the combination that won Xolobeni. And the converse holds: a lawsuit with no united community behind it can be undermined by a manufactured "consent," and a protest with no legal case behind it can be dispersed without lasting effect. It is the weaving together — a united community, a recorded refusal, strong documentation, the right legal routes, and sustained publicity — that gives a community the weight to prevail, and that is the real lesson of how Xolobeni was fought and won.
 
-## The Bottom Line
+## A Realistic Timeline
 
-Opposition work can stop or significantly modify destructive projects in South Africa — even where investment, **royalties**, and "strategic project" politics point toward approval. Opposition creates multiple, compounding forms of pressure: on the record, politically, in the press, on **internal appeal**, and in the courts. Where the system is tilted, an outright stop is less likely, but opposition still delivers set-asides, conditions, rehabilitation, delay, and durable power.
+Expect a long campaign, and be ready for appeals. In the **first weeks**, pin down the project, register as affected parties, send the information requests, gather the initial documentation, take part in any public participation, and reach out to allies. In the **first few months**, build and unite the coalition, record the community's decision on consent, obtain and analyse the assessment and the mining-right application, and — if an authorisation is granted — lodge the internal appeal within its window. Over the **following one to several years**, pursue the review and, where the constitutional right or the consent question is engaged, the higher courts; sustain the press and public campaign; and be ready to defend a win on appeal. The Xolobeni fight ran for many years, and the consent principle it won is still defended. Build for endurance and unity, mark and celebrate the interim wins — a set-aside authorisation, a blocked mining right, a recorded refusal upheld, a financier that walks away — and understand that in South Africa the decisive struggle is often to assert consent, hold the community together, and see the case through.
 
-And South Africa offers genuine equalisers: a justiciable **section 24** right to a healthy environment; a free **internal appeal** that can suspend an authorisation; **PAJA** review of unlawful decisions; broad **section 32** standing to act in the public and the environment's interest; the community's **consent** power over customary land; the **PAIA** access-to-information tool; the **Biowatch** costs protection that lets communities litigate without fear of a ruinous costs order; and, when a project truly cannot lawfully proceed, the possibility of outright refusal — as at Xolobeni, which not only stopped a mine but changed the law.
+## Holding Two Truths
 
-Know your situation. Assess how tilted the system is, honestly. Watch for genuine corruption and refer it to the anti-corruption bodies. Keep organisers and whistleblowers safe. Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers.
+Throughout, hold the two truths this guide began with. South Africa gives organised communities genuine, powerful levers — a justiciable environmental right, public participation whose breach undoes an authorisation, a framework law that lets anyone litigate for the environment, a consent right over customary land, a strong access-to-information law, independent courts up to a Constitutional Court, and deep environmental-justice allies. And South Africa's central weakness is powerful backers, manufactured division and false consent, and real, sometimes lethal, danger to those who resist. A community that understands both will neither despair nor overpromise. It will use every lever, assert and protect its consent, win where it can, hold together, protect its people, and keep the record — knowing that in South Africa a small community once won the right to say no to a mine.
 
 ---
+
+# FINAL ASSESSMENT
+
+The honest bottom line for a South African community facing a destructive project is this. **You are not powerless, and you are not without precedent — South Africa is a place where a small coastal community won a court ruling that they cannot be mined without their free, prior, and informed consent.** The tools are real: a justiciable constitutional right to an environment not harmful to health or well-being, public participation whose breach can undo an authorisation, a framework law that lets any person litigate in the public interest, an informal-land-rights law that requires community consent before deprivation of customary land, a strong access-to-information law, and independent courts up to a Constitutional Court, with deep environmental-justice allies.
+
+**But the tools demand unity and courage to make them work.** South Africa's characteristic problem is not the absence of rights but powerful backers, the manufacture of division and false consent, participation reduced to a formality, and real, sometimes lethal, danger to those who resist. So temper hope with realism. Where the project needs your consent over customary land, or the authorisation is genuinely defective, and you can hold together and reach the courts and the press, your chances of stopping, stalling, or reshaping a project are real — Xolobeni is the proof. Where powerful interests and the state back the project and the process was sound, an outright stop is hard, and the realistic wins are consent asserted and a mining right blocked or delayed, an authorisation set aside or conditioned, delay, safeguards, and exposure.
+
+Whatever your situation, the method is the same: identify the project and its weakest link precisely — most often the consent you can withhold over customary land, or a defect in the authorisation; document relentlessly, using the access-to-information law to extract the record; assert the rights the law gives you — the public participation, the Section 24 right, and above all your community's consent; organise a broad, united, and enduring coalition, and guard it against division and manufactured consent; bring in the public-interest lawyers and the environmental-justice movement; appeal and review a defective authorisation within its windows and, where your consent or your constitutional right is at stake, take it to the higher courts; take the story to the press; and protect your people. Combine the strands, hold together, keep the record, and endure. The Amadiba community of Xolobeni, a few hundred households on the Wild Coast, showed South Africa and the world that a united community with the law on its side can win the right to say no. Their fight was long, dangerous, and it cost a leader his life; the consent principle they won is still defended against those who would explain it away. And yet it was won, and it now stands as a landmark of South African law that reaches every community holding land under customary tenure. That a few hundred households on the Wild Coast could establish, against a mining company and its government backers, that they cannot be mined without their consent is the clearest proof that in South Africa a united community with the law on its side can prevail. Their fight is your reason to begin, and your reason to endure.

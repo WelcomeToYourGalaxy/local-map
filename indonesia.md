@@ -1,34 +1,8 @@
-
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN INDONESIA
 
-**Complete Community Opposition How-To**
+*Complete Community Opposition How-To*
 
-A practical guide for communities facing destructive development projects in Indonesia, grounded in the environmental-permit and constitutional system and documented campaigns
-
-*This guide uses the Indonesian legal terms you will actually encounter (AMDAL, persetujuan lingkungan, gugatan warga negara, hutan adat, and so on), each explained in plain language where it first comes up. It describes the national framework; provinces and regencies have their own rules and authorities, so check locally.*
-
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
-
----
-
-## TABLE OF CONTENTS
-
-1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
-2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
-3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
-5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
-7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
-8. **STEP 4: LEGAL CHALLENGES** — Consultation, the administrative court (PTUN), and citizen/organisation standing
-9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
-10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
-11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
-13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
-14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
-15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
+This is a practical manual for farmers, adat (customary) communities, fishers, and citizens' networks who wake up to find that a karst mountain, a forest, a rice-growing plain, a coast, or a river they depend on has been opened to something destructive — a cement plant and limestone quarry, a mine, a coal or nickel operation, a palm-oil plantation, a dam, a coastal reclamation. It explains how Indonesia's approval system for large projects actually works, where the real openings are, what to document, how to organise, and how to use the levers Indonesian law and Indonesia's own history of community resistance provide. It does not promise that any project can be stopped. It offers a clear-eyed method that gives you the best possible chance.
 
 ---
 
@@ -36,996 +10,450 @@ A practical guide for communities facing destructive development projects in Ind
 
 ## Why This Matters
 
-Community action directly determines project outcomes in Indonesia. Projects that clear every political and commercial hurdle still fall when opposition is organised, documented, and legally sharp. In 2016, after years of resistance, the farmers of the **Kendeng** mountains — with the environmental organisation **WALHI** — won a Supreme Court ruling cancelling the environmental permit for a cement plant, because they documented that the karst hills were the water source their farms depended on. The women who led that fight, who set their feet in wet cement outside the Presidential Palace, became known across the country. Across Indonesia, communities, environmental organisations, and ordinary citizens using the **citizen lawsuit** have forced projects to be refused, cancelled, redesigned, or delayed. These outcomes were not inevitable; communities made them happen.
+Across Indonesia, communities discover that a place they live from — a karst range that stores their water, a customary forest their ancestors managed, a plain of rice paddies, a bay their fishers work — has been licensed to a company, often through decisions taken in the provincial or national capital and without the people on the land being genuinely consulted. The first sign is often the survey teams and stakes in the fields, the announcement of an environmental assessment few can read, the heavy machinery arriving, or the quiet news that an environmental approval and a business licence have been granted to a company most in the affected village had never heard of.
 
-But most communities don't know HOW to make opposition effective. They attend one public consultation, then give up. They assume "the office will refuse it" without building public pressure, filing objections, or going to court. They generate coverage without a strategy. They organise people and then lose them to burnout after four months.
+Indonesia's situation is, in one crucial respect, hopeful. This is a country of intense extractive and industrial pressure — nickel, coal, bauxite, gold, cement, palm oil, dams, reclamation — but it is also a country whose farmers and adat communities have, more than once, forced the state and the courts to listen. The single most important fact for any Indonesian community to hold onto is this: **in Indonesia, a group of farmers took a state-owned cement company all the way to the Supreme Court and won — the court found the environmental assessment unlawful and ordered the permit revoked.** That is not a slogan. It is the record of Kendeng, and it is the ground this guide stands on.
 
-**This guide shows what actually works — in the Indonesian system.**
+The struggle that teaches both truths a community must hold at once is the fight of the Kendeng farmers in Central Java. When the state-owned cement producer PT Semen Indonesia planned an 850-hectare plant and limestone quarrying in the Kendeng karst mountains — the range that feeds the springs and rice fields of Rembang, Pati, and the surrounding districts — the farmers, many of them from the Samin community with its long tradition of peaceful resistance, organised as the People's Network for the Kendeng Mountains (JMPPK). With the environmental group WALHI and the Semarang Legal Aid Institute, they sued in the administrative court over the environmental permit. When the courts first went against them, the women of Kendeng travelled to Jakarta and, in an image that became iconic across Indonesia, set their feet in blocks of hardening cement in front of the presidential palace — the "Kartinis of Kendeng." And in October 2016, the Supreme Court, on judicial review, ruled in their favour: it held that the environmental impact assessment approved by the governor was flawed — it failed to show how the mining would protect the water basin, and it had not properly taken the community's views into account — and it ordered the environmental permit revoked. President Joko Widodo ordered a strategic environmental study of the Kendeng mountains. Farmers had beaten a state company in the highest court. That is real power, and it is Indonesian. The detail is worth holding onto. The farmers had organised as the People's Network for the Kendeng Mountains as far back as 2006, drawing in villagers from Rembang, Pati, Grobogan, and beyond, because they understood that a karst range is not a barren wasteland but a living sponge that stores the water their rice depends on. Their lawsuit turned on that hydrology — the claim that quarrying the karst would wreck the water basin, a point the assessment had glossed over. When the ruling was won and then circumvented, hundreds of farmers walked some 135 kilometres from Kendeng to the governor's office in Semarang to demand it be honoured. The struggle cost them dearly, including the life of a farmer, Patmi, who died during the protests in Jakarta — a reminder that these fights are waged by ordinary people at real risk.
+
+The second truth is sobering. **Winning in court did not, by itself, save the mountain.** After the Supreme Court ruling, the provincial governor revoked the old permit but then issued a new environmental permit for the same project, an act the community saw as circumventing the court. The struggle continued through blockades and long protest marches; one Kendeng farmer, Patmi, died during the protests in Jakarta. Indonesia shows both what a determined community and Indonesia's courts can achieve — an unlawful assessment struck down, a state company stopped in its tracks, a president forced to act — and how hard it is to convert a court victory into protection on the ground when officials re-issue permits and the project's backers push on.
+
+Underneath both truths is the framework this guide will help you use: **Indonesia is a democracy whose Constitution guarantees the right to a good and healthy environment; it has an environmental law with an impact-assessment and approval system and real openings for public participation; administrative courts that can annul a government permit, a Supreme Court that can review them, and a Constitutional Court that has recognised the forest rights of adat communities; an environmental movement and legal-aid network with deep experience; a public-information law; and a free press.** Protest, litigation, and petition are lawful. That combination is what this guide is about.
 
 ## The Strategic Framework
 
-Successful opposition campaigns follow the same basic pattern:
+The core idea is simple: **a destructive project is not a single event but a chain of decisions and dependencies, and a chain can be broken at its weakest link.** A large project in Indonesia needs an environmental impact assessment (AMDAL) and an environmental approval; it needs the business and sectoral licences that flow from that approval; on forest land it may run into the rights of adat communities recognised by the Constitutional Court; on farmland and in water-catchment areas it collides with laws protecting food land and water; it must survive the administrative courts and, above them, the Supreme Court; and it must avoid the scrutiny of a free press and a watchful public. Each is a potential point of leverage.
 
-```
-STEP 1: TARGET IDENTIFICATION
-↓
-STEP 2: DOCUMENTATION (proof of harm)
-↓
-STEP 3: LOCAL OPPOSITION BUILD (organised community)
-↓
-STEP 4: LEGAL CHALLENGES (citizen lawsuit / administrative court)
-↓
-STEP 5: MEDIA STRATEGY (public visibility)
+Two constitutional anchors underlie everything that follows. The Constitution guarantees, in Article 28H, that every person has the right to a good and healthy environment, placing environmental protection within the framework of human rights; and it provides, in Article 33, that the earth, the water, and the natural riches they contain are controlled by the state and are to be used for the greatest welfare of the people. That second clause cuts both ways — it has been invoked to justify state control of resources, but it also grounds the argument that resources must serve the people who live from them, not merely the companies that would extract them.
 
-These operate SIMULTANEOUSLY (not sequentially)
-Each step amplifies the others
-Multi-tactic pressure compounds toward victory
-```
+Your task is to find the link you can reach. Sometimes it is the AMDAL and a defect in it — a water study that was never done, a community that was never genuinely consulted, exactly the flaws that sank the permit at Kendeng. Sometimes it is the customary-forest rights the Constitutional Court has affirmed. Sometimes it is the protection of a karst water-catchment or of productive farmland. Sometimes it is the administrative court, which can annul the permit outright. And often it is the press and public attention, and the pressure on a company's investors, that a project cannot escape.
 
-**Why the legal step matters so much here:** Indonesia gives communities a distinctive set of levers. An **environmental permit** (the **persetujuan lingkungan**, formerly the **izin lingkungan**) and the **AMDAL** (the environmental impact assessment) behind it can be challenged in the **administrative court (PTUN)** — the route that cancelled the Kendeng cement permit. A **citizen lawsuit (gugatan warga negara)** lets ordinary people sue the government to enforce the law, and environmental **organisations have their own standing** to sue. For serious pollution, the law imposes **strict liability** — the polluter is liable without the community having to prove fault. Uniquely, the environmental law says that a person **fighting for the right to a good and healthy environment cannot be criminally charged or sued** for it (an **anti-SLAPP** protection). And where a project touches a **customary forest (hutan adat)**, the Constitutional Court has recognised that it belongs to the **customary community**, not the state. No Indonesian campaign should be planned without understanding these.
+## Critical Caveat: Which Situation Are You In?
 
-## Critical Caveat: A Tilted System Can Make Opposition Harder (But Doesn't Make It Impossible)
+Throughout this guide you will find honest assessments, because a guide that promised any project can be stopped by the right petition would be lying to you.
 
-**Before you invest time, money, and emotional energy, understand this:**
+**Where a project's environmental assessment has a real defect, or it sits on adat forest or a protected water-catchment, and you can organise and reach the courts and the press, Indonesia's levers are genuine.** Kendeng is the proof that a flawed AMDAL can be struck down and a state company stopped; the Constitutional Court's customary-forest ruling is the proof that adat rights can be affirmed against the state.
 
-**First, a definition.** This guide calls it a **system tilted toward approval** (sometimes called *institutional bias*). It does not mean anything illegal. It means the bodies that decide on a project lean toward approving it — because the government is pushing investment and infrastructure, because the developer's own study drives the assessment, or because permits are rarely refused. In Indonesia this tilt was sharpened by a 2020 law (the **Omnibus Law**) that reduced environmental requirements — a point this guide returns to.
+**Where the government and powerful investors back the project, where officials will re-issue a permit to defeat a court order, and where activists face criminalisation, the outright stop is hard, and resistance can carry real personal risk.** The re-issued Kendeng permit, the weakening of the assessment rules, and the dangers protesters have faced are the warning. There the levers still matter, but you must weigh the odds honestly and think in terms of an annulled permit, delay, a project bogged down, safeguards, and exposure as much as an outright stop.
 
-When these factors are present, opposition becomes harder. It does not become impossible. It becomes slower and more expensive and has a lower chance of stopping a project outright — but it still routinely wins cancellations, conditions, redesigns, and delay. Where there is genuine misconduct — bribery, a bought permit, the offences under the anti-corruption law — that is a different and more serious problem, covered in Section 11.
+Much of this guide is designed to help you judge which situation you are in.
 
-**This is covered in Sections 10 and 11. Read them before committing resources.**
+## How to use this guide
+
+Read the whole thing once before acting. Read the legal, organising, and tilted-system sections with particular care, because in Indonesia the environmental assessment and its public participation, the customary-forest rights, the administrative courts, and the press are the sharpest levers, and the government's stance shapes everything. Two principles run throughout. First, **use the participation and the rights the law gives you**: the AMDAL's public-involvement requirement, the adat community's recognised forest rights, the protection of water and farmland — these are real, and much of your work is insisting they be honoured. Second, **combine the strands**: documentation, the assessment challenge, the courts, the press, and public attention work far better together than any one alone — exactly as the Kendeng movement combined them.
 
 ---
 
-# HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
+# HOW THE SYSTEM WORKS
 
-If you've never dealt with how projects get approved, read this section first. It explains, in plain terms, who holds power over a development in Indonesia, how a decision gets made, why the money so often points toward "yes," and the handful of words you'll need. Every term is defined here on first use. The rest of the guide assumes you know this map.
+To break the chain you must understand it. This section explains the levels of decision, the journey a project takes from assessment to construction, how to follow the money behind it, and who is supposed to be watching.
 
-## The levels of government — and what each one controls
+## The Levels of Decision
 
-Indonesia is a unitary state with substantial regional autonomy.
+Decisions about large projects in Indonesia are made at several levels, and the level determines where you push.
 
-- **National government** — the **Ministry of Environment and Forestry (KLHK)** sets the framework, assesses the **AMDAL** and issues the **environmental approval (persetujuan lingkungan)** for large or strategic projects, and controls forestry and (largely) mining permits. Business licences run through a central **Online Single Submission (OSS)** system.
-- **Provincial government** — the **governor (gubernur)** and the provincial environment agency (**DLH**) assess the AMDAL and issue the environmental approval for many projects, and handle some permits.
-- **Regency / city government** — the **regent (bupati)** or **mayor (walikota)** and the local DLH handle smaller projects, and control **spatial planning (RTRW)** and local permits.
+**National level.** The central government — above all the Ministry of Environment and Forestry — sets the framework and, for the largest or cross-boundary projects, issues the environmental approval; it also controls forest-area designation and grants many resource concessions. National laws — the Law on Environmental Protection and Management, the Forestry Law, and the sweeping Job Creation (Omnibus) Law that amended them — set the rules the whole system follows.
 
-**So which body decides *your* project?**
-- A cement plant, mine, power plant, dam, plantation, reclamation, or major road → an **environmental approval** based on an **AMDAL**, from the KLHK or the province/regency depending on scale, integrated into the business licence; plus (for mining) a mining permit and (for forest land) forestry approval.
-- Anything on a **customary forest (hutan adat)** or the land of a **customary community (masyarakat adat)** → their rights, recognised by the Constitutional Court, are engaged.
-- Anything in a **protected forest, conservation area, or coastal zone** → the relevant additional clearance.
+**Provincial level.** The provincial governor and administration have long held key powers over environmental permits and approvals for projects within the province, over spatial planning, and over the practical conduct of assessment and enforcement. In the Kendeng case it was the governor's environmental permit that the Supreme Court ordered revoked — and the governor who then re-issued one. The province is often where the decisive administrative act is taken. This has a practical consequence for strategy: because the environmental approval and much of the spatial planning are decided at the provincial level, the governor and the provincial administration are frequently both the target of your legal challenge and the audience for your public pressure — the official whose signature you are contesting and the politician who must weigh the cost of ignoring an organised region.
 
-## The expert and assessment bodies
+**Regency/municipal and village level.** The regent or mayor and the local administration handle much local licensing, spatial planning, and land matters, and the **village** and the **adat community** are where the harm lands and where recognition of customary rights begins. For an adat community, the recognition of its customary forest — affirmed in principle by the Constitutional Court but delivered through local regulations and ministerial determination — is the foundation of its strongest legal claim. That two-step reality matters in practice: the Constitutional Court established the principle that adat forest is not state forest, but a particular community turns that principle into an enforceable right only when the regency or province formally recognises the community and the responsible ministry determines the customary forest. The gap between the principle and its delivery has been wide and slow, which is an honest limit; but it also means that beginning the recognition process early, before a concession is granted, can be one of the most consequential steps an adat community takes.
 
-- **The AMDAL assessment team** (formerly the AMDAL Assessment Commission, *Komisi Penilai AMDAL*; now an **environmental-feasibility test team**) — evaluates the impact assessment and recommends the environmental approval.
-- **The KLHK and the provincial/regency DLH** — the environmental authorities.
-- **The courts, the Ombudsman, the audit board, and the anti-corruption commission** — the accountability bodies (see the overseers, below, and Section 11).
+**The point:** match your effort to the level that holds the decision you are trying to affect. The environmental approval is often provincial or national; spatial planning and local licences are regency-level; and the adat community's rights are recognised through local and national processes together.
 
-## How a decision is actually made — the permit journey
+## A Project's Journey — and Where It Can Be Stopped
 
-For a project that may significantly affect the environment, the developer must obtain an **environmental approval (persetujuan lingkungan)** based on an **AMDAL** under the environmental law. The process runs roughly:
+A large project typically moves through recognisable stages. Each is a potential intervention point.
 
-1. **Screening** — does the project need a full **AMDAL**, a lighter **UKL-UPL** (environmental management/monitoring effort), or neither?
-2. **Public involvement** — affected people are announced and consulted, and there is a **public consultation (konsultasi publik)** where the community can raise objections. **Your objections should go in here, in writing, on the record.**
-3. **Assessment** — the developer's consultant prepares the **AMDAL** (impacts, alternatives, mitigation), which the assessment team evaluates.
-4. **Decision** — the environmental authority issues the **environmental approval**, integrated into the business licence.
+**1. Spatial planning and location.** Whether an area is zoned for industry, mining, or plantation — and whether that zoning respects protected karst, water-catchment, farmland, or adat territory — is set in regional spatial plans. *Intervention point:* a project that does not fit the spatial plan, or that sits in a protected water-catchment or on protected farmland, is vulnerable from the start.
 
-A **weak or misleading AMDAL, a defective public consultation, or (on customary land) a violation of customary rights** are among the strongest grounds to stop or delay a project. The environmental approval — and the AMDAL behind it — can be challenged in the **administrative court (PTUN)**, as at Kendeng.
+**2. The environmental impact assessment (AMDAL).** For a significant project the proponent must prepare an AMDAL — the assessment, the environmental-management and monitoring plans — which is evaluated and forms the basis of the environmental approval. *Intervention point:* the AMDAL's quality and honesty, and the reality of the public involvement it must include — the very ground on which the Kendeng permit fell.
 
-## The rulebook — the laws that decide the outcome
+**2a. What the AMDAL actually contains.** An AMDAL is not a single document but a set: the terms of reference that scope the study, the main analysis of environmental impacts, and the environmental-management and monitoring plans that are supposed to bind the project once it operates. Each part is a place a defect can hide — a scope that leaves out the water basin, an analysis that understates the harm, management plans that promise what the project will not deliver.
 
-- **The 1945 Constitution** — the right to a **good and healthy environment** (Article 28H) and the principle that natural resources are controlled by the state for the people's welfare (Article 33).
-- **The Environmental Protection and Management Law (UU 32/2009)** — the framework: the AMDAL and environmental approval; **strict liability (Article 88)**; the **anti-SLAPP** protection (Article 66); and standing for citizens and organisations to sue.
-- **The Omnibus Law (the Job Creation / Cipta Kerja Law, and its replacement, Law 6/2023)** — which reorganised and reduced parts of this system (see Section 10).
-- **The Forestry Law and the Constitutional Court's customary-forest ruling (MK 35/2012)** — forest land, and the rights of customary communities to their **hutan adat**.
-- **The Public Information Openness Law (UU 14/2008)** — the right to obtain government information.
+**3. The environmental approval and business licence.** Under the current system the assessment leads to an **environmental approval** that is folded into the project's business licensing. *Intervention point:* whether the approval was lawfully granted on a sound assessment — an approval resting on a defective AMDAL can be annulled by the administrative court. It is worth knowing how this stage was reshaped by the 2020 Job Creation (Omnibus) Law. That law abolished the standalone environmental permit that used to be required before a business could operate, folding it into an integrated environmental approval within a risk-based licensing system; and it replaced the independent assessment commission that had reviewed AMDALs with a government-appointed environmental-feasibility team. The stated aim was to speed investment; the effect that most concerns communities is a system with fewer independent checks and, as set out below, narrower public participation. Knowing this tells you where the new weak points and the new openings lie.
 
-## Follow the money — why the system often leans toward "yes"
+**4. Sectoral permits and land.** Mining, forestry, plantation, and water-use permits, and the acquisition or release of land, follow. *Intervention point:* forest-area release over adat forest, water permits in a fragile catchment, and land acquisition without genuine consent are all contestable.
 
-- **Provinces and regencies** compete hard for investment and the jobs and revenue a project brings, so there is often intense official pressure to approve.
-- **National government** promotes mining, energy, plantations, and infrastructure, some designated **National Strategic Projects (PSN)** with strong backing.
-- **Developers** are often large companies, and — importantly — the **AMDAL is prepared by the developer's own consultant**, so it tends to read in the project's favour.
-- Refusals are relatively rare; most projects that reach a decision are approved, with conditions.
+**5. Construction and operation.** The plant is built, the quarry opened, the water drawn. *Intervention point:* whether the project complies with its approval and management plan — a documented violation is leverage, and non-compliance can trigger administrative sanctions.
 
-None of this makes a decision inevitable. It explains why a decision rarely tips your way on its own — it takes organised, evidenced pressure.
+The chain has many links. Your job is to find the one nearest to hand.
 
-## The overseers — who watches the decision-makers
+## Follow the Money and the Permissions
 
-- **The administrative court (PTUN)** and the general courts, up to the **Supreme Court** — review environmental approvals, hear **citizen lawsuits** and **strict-liability** claims, and can cancel a permit.
-- **The Constitutional Court (Mahkamah Konstitusi)** — reviews laws, and recognised customary-forest rights.
-- **The Corruption Eradication Commission (KPK)**, the **Ombudsman RI**, and the **Audit Board (BPK)** — the integrity bodies (see Section 11).
-- **The Information Commission (Komisi Informasi)** — enforces the right to information.
+Behind every project is a structure of ownership, finance, and permission you can map — and mapping it tells you where the pressure points are.
+
+**Who is the proponent, and who owns it?** Some of Indonesia's largest projects are run by state-owned enterprises — the Kendeng cement plant belonged to a state company — while others are subsidiaries of domestic conglomerates or foreign multinationals. Company records, the project's own AMDAL, and stock-exchange disclosures reveal who is behind it. A state company answers to the government and to public opinion; a listed or foreign-owned company answers to investors.
+
+**What permissions does it need, and which does it lack?** Map the environmental approval, the sectoral permits, the forest-area release, the spatial-plan conformity, and the land. The permission the project still needs — an approval not yet granted, a forest release pending, land not yet secured — is where it is most vulnerable.
+
+**Who is financing it?** Trace the banks and investors. A project financed by public banks, by international lenders, or by listed investors is exposed to their standards and their reputational concerns, and international development financiers carry their own accountability mechanisms. Following the money reveals further points of leverage.
+
+## Who Is Supposed to Be Watching
+
+Several institutions exist to check power, and each is a potential ally or venue.
+
+**The Ministry of Environment and Forestry and the provincial environment agencies** evaluate assessments, issue approvals, and are meant to monitor compliance — and can be pressed, formally and publicly, to do so.
+
+**The administrative courts (PTUN)** exist to test whether a government decision — an environmental permit, a licence — was lawful, and can annul it; above them the Supreme Court reviews, as it did at Kendeng.
+
+**The Constitutional Court** guards the Constitution and has recognised the customary-forest rights of adat communities.
+
+**The environmental movement and legal-aid institutes** — national organisations with decades of litigation and campaigning experience — are often your fastest route to expertise and national attention.
+
+**The free press** has repeatedly carried community struggles from a remote village to the national and international stage.
+
+**The anti-corruption commission, the state audit body, and the information commission** each guard a different flank — graft in permitting and concessions, the handling of public money and resources, and the right to information — and each is a venue to which a well-documented community case can be taken.
+
+No single one of these is a guarantee. Together they are the architecture of accountability this guide teaches you to use.
 
 ---
 
-# QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
+# QUICK REFERENCE: SUCCESS RATES
 
-These ranges describe the general effectiveness of each tactic drawn from documented opposition campaigns. They are patterns, not guarantees. In Indonesia, the variable most likely to push a campaign above these ranges is a well-founded challenge on a real defect — a misleading **AMDAL**, a defective **public consultation**, a violation of **customary rights**, or serious pollution triggering **strict liability** — carried through the **administrative court** or a **citizen lawsuit** (Step 4).
+Before you commit months of effort, calibrate honestly. These figures are **directional, not guarantees** — patterns from how Indonesian and comparable campaigns tend to go, not a controlled study. The decisive variables are whether the environmental assessment has a real defect, whether the project sits on adat forest or a protected water-catchment or farmland, whether you can reach the courts and the press, and how firmly the government and its investors back the project. Where the assessment is defective or protected land is involved and the world is watching, Indonesia's levers are real; where the government champions the project and officials will re-issue permits to defeat a court, discount the figures and think in terms of an annulled permit, delay, safeguards, and exposure.
 
 ## Individual Step Success Rates
 
-| Step | Success Rate | Timeline | Cost (IDR) | What "Success" Means |
-|------|--------------|----------|------|---------------------|
-| **Documentation Only** | 5-10% | 3-4 months | Rp150 juta | Project slowed, public awareness only |
-| **Opposition Only** | 15-20% | 6-12 months | Rp400 juta | Public pressure, minor modifications |
-| **Legal Only** | 20-30% | 12-24 months | Rp0-600 juta | Slow; strong if the defect is real |
-| **Media Only** | 10-15% | 3-6 months | Rp150 juta | Public knows, but no action |
-| **Docs + Opposition** | 25-35% | 12 months | Rp500 juta | Slowed, some modifications |
-| **Docs + Legal** | 30-40% | 12-18 months | Rp650 juta | Stronger legal arguments |
-| **Opposition + Legal** | 35-45% | 12-18 months | Rp850 juta | Political pressure strengthens the case |
-| **Opposition + Media** | 30-40% | 9-12 months | Rp500 juta | Visibility creates political pressure |
-| **All 5 Steps Combined** | 60-75% | 12-24 months | Rp900 juta | Permit cancelled/refused/modified or project delayed |
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Public participation in the AMDAL** | 15–35% | during review | low | On record; conditions or a redo |
+| **Asserting adat / customary-forest rights** | 25–50% | 12–48 months | low–moderate | Concession blocked; project stalled |
+| **Administrative court (PTUN) challenge** | 25–45% | 12–36 months | moderate | Permit annulled or reviewed; delay |
+| **Protecting a water-catchment / farmland / karst** | 20–45% | 6–30 months | low–moderate | Zoning or protection enforced; project barred |
+| **Public-information requests exposing defects** | 15–35% | 1–12 months | low | Record obtained; defect proven; leverage |
+| **Documenting a legal violation (permit-condition breach)** | 25–45% | 3–18 months | low | Breach exposed; sanctions; leverage |
+| **Mass, connected public mobilisation** | 25–45% | 6–36 months | low | Political cost; a project reconsidered |
+| **All steps combined (defective AMDAL or protected land, world watching)** | 40–60% | 12–36 months | low–moderate | Annulled, stalled, delayed, or forced to change |
+| **All steps combined (government-backed, permits re-issued)** | 20–40% | 12–48 months | low–moderate | Delayed, annulled then re-fought, conditioned; rarely a clean stop |
 
-**Key insight:** All five steps together = 3-4x more effective than any single step.
+**Key insight:** all steps together beat any single one, and Indonesia's real strengths are unusual — an **environmental-assessment system** with a public-participation requirement whose breach can void a permit; a body of **adat / customary-forest rights** affirmed by the Constitutional Court; **administrative courts** that can annul a government permit and a **Supreme Court** that reviews them; protections for **water-catchments, karst, and productive farmland**; a **public-information law**; and an **experienced environmental and legal-aid movement** with a **free press**. Its constraints are a **state and economy geared to extraction**, a **2020 Omnibus Law that narrowed participation and simplified permitting**, officials who will **re-issue a permit to defeat a court order**, slow delivery of **adat-forest recognition**, and real **risk to those who resist**.
 
-*A note on legal cost: a **citizen lawsuit** and an **administrative-court** challenge can be brought at modest cost, and legal-aid institutes (**LBH**) and organisations such as **WALHI** and **ICEL** act for communities, often at no charge — so the "Legal" figures are not a hard floor.*
-
----
+*A note on cost: participating, documenting, and organising are inexpensive, and national environmental groups and legal-aid institutes have carried community cases to the highest courts — WALHI and the Semarang Legal Aid Institute litigated Kendeng alongside the farmers. The expenditure that most changes outcomes is committed **legal support** and the reach of a **sustained public campaign** — both of which the Kendeng movement marshalled.*
 
 ## Effectiveness Visualization
 
 ```
-SUCCESS PROBABILITY (Permit Cancelled/Refused/Modified/Project Shelved)
+SUCCESS PROBABILITY (annulled, stalled, delayed, forced to change, or stopped)
 
-CLEAN DECISION SCENARIO:
-All 5 Steps Combined:  ████████████████ 65-75%
-Same chance as: a coin coming up heads twice (75%)
+DEFECTIVE AMDAL OR PROTECTED LAND, WORLD WATCHING:
+All steps combined:          █████████████   40-60%
+Administrative-court win:     ██████████      25-45%
+Adat / catchment protection:  ██████████      20-50%
+Public participation defect:  █████████       15-45%
+Single step:                 ██              5-45%
 
-4 Steps Combined:      ███████████████ 55-65%
-Same chance as: a forecast of 60% rain being correct
-
-3 Steps Combined:      ██████████ 45-55%
-Same chance as: a single coin flip (50%)
-
-2 Steps Combined:      ████████ 30-40%
-Same chance as: drawing a face card from a deck
-
-Single Step:           ██ 5-20%
-Same chance as: rolling a specific number on one die
-
-WITH MODERATE TILT FACTORS:
-(Strong pro-investment push, or a developer-funded AMDAL)
-
-All 5 Steps Combined:  ██████████ 40-45%
-4 Steps Combined:      ████████ 30-40%
-3 Steps Combined:      ██████ 20-30%
-2 Steps Combined:      ████ 15-25%
-Single Step:           ██ 3-12%
-
-WITH SEVERE TILT FACTORS:
-(A National Strategic Project, developer-only studies, heavy political backing)
-
-All 5 Steps Combined:  ████ 25-30%
-4 Steps Combined:      ███ 18-24%
-3 Steps Combined:      ██ 12-18%
-2 Steps Combined:      █ 8-15%
-Single Step:           █ 2-8%
+GOVERNMENT-BACKED PROJECT -- permits re-issued, machinery skewed:
+All steps combined:          █████████       20-40%
+Court + adat + exposure:      ███████████     the strongest combination
+Delay / annulled permit:      ████████████    more achievable than a clean stop
+Single step:                 ██              5-30%
 ```
 
-**One important point:** a single clear legal defect — most powerfully a misleading **AMDAL**, a defective **public consultation**, or a violation of **customary rights** — can lead the **administrative court** to cancel an environmental approval even where the politics favour the project, because it is applying a legal standard the authority cannot ignore. (A cancelled permit can be re-issued after the defect is "cured," as happened at Kendeng — so an early win may need defending.)
-
----
+**How to read this honestly.** The levers that most change outcomes in Indonesia are **the administrative courts and the assessment's defects**, reinforced by adat rights, water-and-farmland protection, and public attention. Kendeng shows the ceiling: a flawed AMDAL struck down by the Supreme Court, a state company halted, a president forced to act. It also shows the floor: a governor who re-issued a permit to circumvent the ruling, and a struggle that had to continue. Most Indonesian fights sit between them, and the honest lesson is that Indonesia's courts and rights are real and have delivered wins — but against a government-backed project the realistic win is often a permit annulled and re-fought, delay, safeguards, and exposure as much as a clean, permanent stop.
 
 ## Step Importance Ranking (When All Combined)
 
-```
-1. OPPOSITION BUILDING (Step 3)     ████████████████ 25%
-   Why: creates political pressure, visible to decision-makers, enables other steps
-
-2. DOCUMENTATION (Step 2)           ███████████████ 22%
-   Why: provides ammunition for the courts and media; grounds opposition in facts
-
-3. MEDIA STRATEGY (Step 5)          ████████████ 20%
-   Why: makes opposition/legal/documentation visible, creates political cost
-
-4. LEGAL CHALLENGES (Step 4)        ███████████ 18%
-   Why: the administrative court and citizen lawsuit can cancel a permit — and hold the AMDAL and customary-rights levers
-
-5. TARGET ID (Step 1)               ██████ 15%
-   Why: foundation — if wrong, everything fails
-```
-
-**Real insight:** a large, organised, visible community that has also put well-argued objections on the record at the **public consultation** and, on customary land, asserted its recognised **rights**, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
-
----
+1. **The administrative-court challenge to a defective permit** — where the AMDAL is flawed or the public participation was hollow, the PTUN can annul the permit, and the Supreme Court can uphold that on review, as at Kendeng. This is Indonesia's sharpest legal lever.
+2. **Adat and land-based rights** — customary-forest rights affirmed by the Constitutional Court, and the protection of water-catchments, karst, and productive farmland, which can put land off-limits.
+3. **Documentation of the assessment's defects and any violations** — the record, much of it obtainable through public-information requests, that grounds every other step.
+4. **Public participation in the AMDAL** — the formal involvement right that puts your case on the legal record and whose breach is itself a defect.
+5. **Public mobilisation and the press** — the further fronts that raise the political cost, reach investors, and protect the campaign.
 
 ## What Indonesian Campaigns Actually Show
 
-A few patterns recur. **Organised opposition and a documented file are the base**, and Indonesia's distinctive levers are the **administrative court** and the **citizen lawsuit (*gugatan warga negara*)**, through which permits and environmental approvals have been cancelled. **The environmental-impact process (*AMDAL*) and its public participation** supply the procedural footholds, and where Indigenous (*masyarakat adat*) lands are affected, **customary-rights claims** add a further front. **A durable coalition and sustained media** turn these into political cost. **The ceiling turns on the project's backing** — a favoured project is usually delayed or conditioned, while a defective AMDAL or an unlawful permit is genuinely vulnerable. The through-line: **build the file, use the administrative court and citizen suit, and hold the coalition and coverage.**
+A few patterns recur. **A defective assessment can be struck down** — at Kendeng, the Supreme Court in 2016 found the environmental impact assessment flawed for failing to protect the water basin and to consider the community, and ordered the permit revoked, halting a state company's cement plant. **Adat rights are real and constitutional** — the Constitutional Court's 2012 ruling that customary forests are not state forests gave indigenous communities a powerful claim against concessions over their land. **Peaceful mass action reaches the nation** — the women of Kendeng setting their feet in cement at the palace became an image that moved the country and forced the president to act. **But a court win is not the end** — the governor re-issued a permit to circumvent the ruling, and the struggle went on. **And the ground has shifted** — the 2020 Omnibus Law narrowed public participation in the AMDAL and simplified permitting, and activists have faced criminalisation and real danger. The through-line: **challenge a defective assessment in the administrative courts, assert adat and land-based rights, extract the record and document every defect, mobilise the press and the public — and expect a fight measured in annulled and re-fought permits, delay, safeguards, and exposure as much as a clean stop, while knowing that in Indonesia farmers have beaten a state company in the highest court.**
+
+---
 
 # STEP 1: TARGET IDENTIFICATION
 
-**Time to complete:** Weeks 1-4
-**Cost:** Rp0
-**Outcome:** A clear picture of what you're fighting, who decides, and when the decision is final
+Before you can fight a project, you must understand it precisely. Vague opposition to "the project" is weak; a specific challenge to a specific decision is strong. This step turns alarm into a target.
 
-## Core Questions You Must Answer
+## The Five Core Questions
 
-Before you organise a single person, answer these precisely.
+Answer these five questions, in writing, as fully as you can. They convert a threat into a plan.
 
-### Question 1: What Exactly Will Be Destroyed?
+**1. What exactly is the project, and who is behind it?** Name the project, the proponent company, its owners and parent, and — if you can find it — the financiers. Is it a cement plant and quarry, a mine, a plantation, a dam, a reclamation? A state-owned enterprise, a domestic conglomerate, a foreign multinational? The precise identity determines which levers apply — a state company is exposed to national politics; a listed or foreign one to investors; a project on adat land opens customary rights.
 
-Not: "Environmental damage"
-But: "The quarry takes 200 hectares of karst hills that feed the springs and underground rivers [number] farming families depend on."
+**2. Where exactly is it, and what protected features and rights does it touch?** Get the boundaries and overlay them on what you know: Is it on or above a karst water-catchment that feeds springs and rice fields, as at Kendeng? On customary (adat) forest? On protected or productive farmland? In a coastal or conservation zone? Does it conform to the regional spatial plan? This overlay is the single most important thing you can produce, because Indonesia's strongest levers — the water-catchment and farmland protections, the adat-forest rights, the spatial plan — are triggered by exactly these features.
 
-Not: "Pollution"
-But: "The plant will emit an estimated [X] of fine particles over the nearest homes of 1,500 people, in an area already exceeding the air-quality standard."
+**3. What stage is it at, and what decision is imminent?** Has the AMDAL been prepared, announced, or evaluated? Has the environmental approval been granted? Are the sectoral permits and the forest release pending? Is construction beginning? Identify the next decision and its date, because the openings — the AMDAL's public involvement, the window to challenge a permit — are time-bound.
 
-Not: "Community harm"
-But: "The plantation clears the **customary forest** of [community] and cuts [number] families' access to the forest they live from."
+**4. What does it need next that it does not yet have?** Every project depends on permissions it has not all secured — an environmental approval not yet granted, a forest release pending, land not yet acquired, a permit vulnerable to challenge. The permission it still needs is where it is most vulnerable. A project awaiting its approval or its land is far more contestable than one already built and running.
 
-**Why this matters:** specific harms are easier to document, litigate, and organise around. Vague opposition dies; specific opposition survives. Harm to a **customary forest**, a **karst** water system, a protected forest, or the coast also opens a **specific legal front** (customary rights; the forestry, water, or coastal laws; strict liability for serious pollution).
+**5. Who else is affected, and who already opposes it?** List the affected villages, the farmers and fishers, the adat community, the downstream water users, and any local leaders, organisations, or legal-aid groups already concerned. You are almost never alone, and Indonesia has a dense network of environmental and legal-aid organisations. Knowing who shares the stake tells you who your coalition can be.
 
-### Question 2: Who Decides?
+## A Worked Example
 
-You cannot pressure an abstraction. Identify the decision-maker precisely — it is usually one of these:
+Consider a community of rice farmers who learn that a cement plant and a limestone quarry have been proposed on the karst range above their fields — the range whose springs water their paddies.
 
-- **The KLHK** (national) — for the **AMDAL** and **environmental approval** of large/strategic projects, and forestry.
-- **The provincial or regency DLH** — for the environmental approval of many projects.
-- **The governor / regent** — who sign approvals and control spatial planning.
-- **The customary community** — whose recognised **rights** are engaged on **hutan adat**.
+Applying the five questions: **What and who** — a named cement company, perhaps state-owned, holds the plan; the community traces its ownership and any financing. **Where** — the quarry sits on a karst water-catchment that feeds the springs and the rice fields, and may overlap adat territory; the overlay shows a direct threat to the water the whole community farms with. **Stage** — the AMDAL has been evaluated and the environmental permit granted, but the community was never genuinely consulted, and the assessment barely addressed the water basin. **What it needs next** — a lawful permit resting on a sound assessment, which this is not. **Who else** — dozens of farming households, neighbouring villages, an environmental group, and a legal-aid institute that has fought karst-and-water cases before.
 
-Write it down concretely: "The provincial DLH will decide the environmental approval after the public consultation on [date]. The project is on customary forest, so the community's recognised rights are engaged, and forestry approval from the KLHK is required."
-
-### Question 3: What Specific Action Stops It?
-
-Not: "Stop the project"
-But: "Persuade the authority to refuse the environmental approval, or defend the community's customary land" — or, if refusal is unrealistic, "obtain strict conditions, real compensation, and a redesign."
-
-Not: "Protect the environment"
-But: "Show the **public consultation** was defective, the **AMDAL** misleading, or the **customary rights** violated, and challenge the permit in the **administrative court** or file a **citizen lawsuit**."
-
-**Why this matters:** you can demand something achievable. Vague demands are easy to ignore; specific ones create measurable pressure and, if the process is unlawful, become the ground for a court to act.
-
-### Question 4: When Is the Decision Final?
-
-Timeline tells you how much time you have. Map every date: when the **AMDAL** documents are out, the **public consultation**, the assessment, and the issue of the **environmental approval** and the business licence. Don't wait: object during the public consultation, and be ready to move to the **administrative court** quickly (a challenge to an administrative decision has a **short deadline once you know of it**).
-
-### Question 5: Are There Documented Financial or Policy Pressures?
-
-This is the tilted-system assessment question. Know it BEFORE you organise:
-- Is the project a **National Strategic Project (PSN)** or a big regional priority, hardening political backing?
-- Is the **AMDAL** prepared and paid for by the developer's own consultant only?
-- Does the province or regency depend on the project for jobs, revenue, or mining/plantation income?
-- Is the developer a large company with deep resources for studies, lawyers, and appeals?
-- Has the project begun works before the approval — presenting a *fait accompli*?
-
-**Why this matters:** if strong "strategic project" backing or developer-controlled studies are present, opposition must overcome different barriers (Section 10). It doesn't mean opposition can't work — it means realistic expectations and, often, a focus on the **AMDAL**, the **public consultation**, and the **customary-rights** defects, on conditions, and on the **courts**, rather than a straight political refusal.
+From those answers a strategy writes itself: **the project's decisive weakness is a defective assessment over a water-catchment the community depends on** — exactly the Kendeng pattern — reinforced by any adat claim and the failure to consult. The community's first moves are to obtain the AMDAL and the permit, to document the assessment's silence on the water basin and the hollow consultation, to establish any customary and water-catchment protections, and to bring in the environmental group and the legal-aid institute to prepare an administrative-court challenge. That is a far stronger position than generalized objection — and it is the position from which the Kendeng farmers won.
 
 ---
 
-# STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
+# STEP 2: DOCUMENTATION
 
-**Time to complete:** Months 1-4
-**Cost:** Rp150-250 juta (IDR)
-**Outcome:** Three polished reports (30+ pages total) showing specific, quantified harms
+Documentation is the foundation of everything that follows. A community that can prove what is happening — with dates, records, photographs, and official documents — is a community that can act. One that only has fears and rumours cannot. This step builds your evidentiary base in three layers.
 
-**Success Rate (Documentation Alone):** 5-10%
-**Success Rate (Documentation + Opposition):** 25-35%
-**Success Rate (Documentation + Opposition + Legal + Media):** 60-75%
+## Layer 1: The Official Record
 
-## The Three Documentation Layers
+The first layer is the paper the project itself generates and the state holds. This is what makes a challenge credible, because it is the government's and the company's own record used against the decision.
 
-Documentation turns vague opposition ("This is bad") into undeniable evidence ("This specific harm will occur to these specific people/places at these specific costs"). Success comes from three layers working together.
+Assemble, as far as you can obtain them: the **AMDAL** — the impact assessment, the environmental-management and monitoring plans; the record of the **public involvement** the assessment must include; the **environmental approval** (and, for older projects, the environmental permit) and its conditions; the **sectoral permits** — mining, plantation, forestry, water — and any **forest-area release**; the **spatial-planning** documents that show what the area is zoned for; and any **land-acquisition** record. Get these in their most official form, dated and complete, and note who issued each and when, because the identity of the issuing authority and the date fix both where a challenge must be aimed and the clock within which it must be brought. Much of this you can seek under the **Public Information Openness Law**, which gives citizens a right to information held by public bodies. The AMDAL and the public-involvement record deserve special attention: if the assessment failed to study the water basin, or if the consultation did not genuinely reach the affected community, those are defects at the heart of the approval — precisely the defects the Supreme Court found at Kendeng.
 
----
+## Layer 2: The Physical and Environmental Reality
 
-## LAYER 1: BASELINE CONDITIONS DOCUMENTATION
+The second layer is the ground truth — what is actually happening and what is actually at stake, recorded in a way that will stand up.
 
-**What it is:** documentation of existing conditions BEFORE the project begins — including who lives on and uses the land, and how.
+Photograph and film the site and the activity, recording the date and location of every image: the survey stakes, the cleared land, the quarry face, the machinery, the springs and streams, the affected fields. Map the project against what it threatens — the karst catchment, the springs, the rice fields, the forest, the adat territory, the coast. Record the environmental baseline while you still can: the flow of the springs, the state of the water, the standing crops, so that later damage can be shown against a documented starting point. In karst country especially, the link between the range above and the water below is the heart of the matter, and simple, dated evidence of the springs and their flow is powerful. Because the decisive legal question in a karst case is so often whether the project will damage the water basin, evidence about the water is worth gathering with special care: which springs feed which fields, how the flow changes with the seasons, how many households and hectares depend on each source, and what the community already knows about where the water comes from underground. A karst specialist or hydrologist can turn that local knowledge into the technical case that an assessment ignoring the water basin is fatally incomplete — the argument that won Kendeng. This is the evidence that turns "we are worried" into "here is what is being destroyed, and here is where the law forbids it."
 
-**Why it matters:** developers claim "the land is idle" or "already degraded." Baseline documentation proves what — and who — was there, and it cannot be reconstructed later.
+## Layer 3: The Human Impact
 
-**Documented case — the Kendeng farmers and the Rembang cement plant**
+The third layer is the community's own record, and in Indonesia — where farming and fishing livelihoods are inseparable from land and water — it is powerful.
 
-A cement company planned an 850-hectare plant and quarry in the **Kendeng** karst mountains of Central Java. Its supporters treated the hills as a limestone deposit and a source of jobs. The farmers made that impossible. Organised over years, and joined by the environmental organisation **WALHI** and a legal-aid institute, they documented what the karst actually was: a **water catchment** — the springs and underground rivers that fed their fields and their villages — and they argued the company's **AMDAL** had failed to reckon with it.
+Collect statements from the affected households: who they are, what land, water, forest, and fisheries they depend on, what they stand to lose, and how they will be displaced or impoverished. Record the community's relationship to the land and to any adat institutions and sacred sites, because customary rights and the community's own decision-making carry weight. Document the conduct of the AMDAL's public involvement and of any consultation — whether people were genuinely informed and heard, or presented with a decision already made. Record the losses: lost water, lost harvests, lost commons, damaged health. These human records do two things: they are evidence of harm for the courts and the assessment process, and they are the material of a media and mobilisation campaign that can reach the provincial capital, Jakarta, and the world — as the Kendeng farmers' story did.
 
-It changed the outcome. In October 2016, the **Supreme Court**, on a case review of a **citizen lawsuit** brought by the Rembang community and WALHI, **cancelled the environmental permit**, finding the company had not shown its plant would not harm the local water supply. The community's own documentation of the karst hydrology — of where the water came from, and who depended on it — was the thing the Court acted on. (Honesty matters here: after the ruling, the governor issued a **new** environmental permit, and the struggle continued — a reminder that a legal victory often has to be defended.)
-
-**Why it matters for you:** the Kendeng farmers' documentation — of the karst as a living water system, and of the study's failure to assess it — was decisive. Documenting existing conditions, including human occupation, use, and the systems people depend on, is the foundation of everything that follows.
-
-**Building your own baseline (typical process).** Document existing conditions before the project starts, because a developer will claim the land is "idle" and baseline cannot be reconstructed later. A workable approach: surveys across a season cycle of the project area plus reference sites; a species and habitat inventory with GPS locations, flagging anything protected that the developer's **AMDAL** omitted; a record of who occupies and uses the land — farming, fishing, gathering, sacred sites — and whether it is **customary forest (hutan adat)** or customary land (the basis of a rights claim); the **water systems** the community depends on (springs, rivers, karst — as at Kendeng); proximity to any protected forest or coast; and water and air baselines (quality and seasonal variation). Typical cost is around Rp150-200 juta for a technical consultant/ecologist, GPS, and testing — reducible with knowledgeable community members, university researchers, and naturalists. Dated, same-spot photographs and geo-referenced maps make it credible.
-
----
-
-## LAYER 2: IMPACT ANALYSIS
-
-**What it is:** detailed analysis of what specific harms will occur, based on the project description plus your baseline.
-
-**Why it matters:** it shows not just "something bad" but "specifically THIS BAD in THIS WAY" — and it maps directly onto what the **AMDAL** must properly assess.
-
-**Use the developer's own words and the assessment rules.** Powerful, documentable weak points in Indonesian assessments include:
-- **A misleading or incomplete AMDAL.** The **AMDAL** must genuinely assess the project's significant impacts and alternatives. A study that omits or understates impacts — the water system, as at Kendeng — is a strong ground to cancel the permit.
-- **A defective public consultation.** The **public consultation** must genuinely involve affected people, with information available and objections recorded. A skipped or stage-managed process is a strong, specific defect.
-- **A violation of customary rights.** On **hutan adat** or customary land, the recognised rights of the **customary community** are engaged; ignoring them is a strong ground.
-
-Convert each of the developer's admissions ("temporary disturbance," "limited clearing") into a quantified prediction against your baseline.
-
-**Outcome (illustrative):** an **AMDAL** or **public consultation** found defective, or **customary rights** violated, can lead the **administrative court** to cancel the environmental approval — adding months or years, or stopping the project.
-
----
-
-## LAYER 3: HEALTH & ECONOMIC IMPACT DOCUMENTATION
-
-**What it is:** quantification of human-health and economic costs to the community.
-
-**Why it matters:** decision-makers and the public respond to human cost. "X hectares affected" matters less than "an estimated 45 additional respiratory cases a year, and RpX of health-system cost" — or "the farming and water that sustain 200 families destroyed."
-
-**Method:** use recognised air-quality or water modelling and the public-health literature to translate emissions or land/water loss into health and livelihood outcomes, then attach costs — additional respiratory and cardiovascular cases, lost farming, fishing, and forest income, and total annual and lifetime cost for the affected population.
-
-**Outcome (illustrative):** an independent health-and-livelihood analysis can move a regency or province, feed the court case, and force conditions the original design lacked.
-
----
-
-## How to Structure Your Documentation
-
-### Phase 1: Baseline Conditions (Months 1-2)
-Engage a technical consultant or ecologist (or use knowledgeable community members, university researchers, and naturalists); document conditions AND human occupation, use, customary status, water systems, and sacred sites. **Deliverable:** a 20-30 page baseline report with species/habitat inventory, a record of use and rights, water/air data, dated photographs, and geo-referenced maps.
-
-### Phase 2: Impact Analysis (Months 2-3)
-Obtain the **AMDAL** and the permit file (request them; the **information law** can help); identify specific impacts; test the study against the rules (completeness, public consultation, customary rights, water, forest). **Deliverable:** a 20-30 page impact analysis with quantified predicted impacts, comparison to baseline, and the developer's own admissions quoted back.
-
-### Phase 3: Health/Economic Analysis (Months 3-4)
-Identify affected populations; estimate health and livelihood impacts and costs. **Deliverable:** a 15-20 page report written for the public and press.
-
----
-
-## Common Documentation Pitfalls (What Fails)
-- **Waiting for perfect data.** Documented data beats perfect data that arrives after the permit.
-- **Only environmental data.** Add health, livelihood, and human-occupation impacts — the arguments that move decision-makers, the courts, and the public.
-- **No independent check.** A report the authority can dismiss as "activist material" is far stronger after an independent expert or a university reviews it.
-- **Ignoring the developer's own admissions.** Their **AMDAL** is your best source; quote it against itself. Use the **information law** to get it and the file.
-
----
-
-## Documentation Budget Breakdown (IDR)
-
-| Item | Cost | Notes |
-|------|------|-------|
-| Technical consultant / ecologist (baseline + species ID) | Rp120 juta | Protected-species and habitat survey |
-| GPS / survey equipment | Rp12 juta | Mapping/documentation |
-| Water/air testing | Rp25 juta | Sampling across seasons |
-| Independent / university expert review | Rp20 juta | Credibility |
-| Printing/information-request/translation | Rp8 juta | Local-language copies for decision-makers |
-| **TOTAL** | **Rp185 juta** | Reducible with university partners and community members |
+Keep everything organised, backed up, and dated. A shared, secured archive — copies in more than one place — protects your work and lets your allies and lawyers use it.
 
 ---
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
-Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+This section is a practical checklist: the specific records that matter, and where in the Indonesian system to look for them. Not all will be available for every project, but knowing what to ask for — and being seen to ask precisely — is itself a source of strength.
 
-**Start at the deciding body's register and the regional government (pemerintah daerah)'s own website.** In Indonesia the official documents for a project — the AMDAL (environmental impact analysis) documents, the public-consultation notices, the environmental approval (persetujuan lingkungan) and its conditions — are posted by the body running the review: the Ministry of Environment and Forestry (KLHK) or the regional environment agency for the AMDAL and approval, and the regional government for spatial planning and permits. The official documents for most local projects live on the regional government (pemerintah daerah)'s own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+**The AMDAL and its management plans.** From the environment ministry or the provincial environment agency and the company: the impact assessment and the environmental-management and monitoring plans. Read them for what they study and what they omit — above all water, karst hydrology, cumulative impacts, and the affected community.
 
-**The project file and the AMDAL.** Get the developer's AMDAL as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+**The public-involvement record.** From the assessment file: the record of how the community was announced to and involved. Compare it against reality — was the affected community genuinely reached and heard, or was the involvement a formality? A hollow public involvement is a defect in the approval, as Kendeng showed.
 
-**Baseline environmental data.** Ministry and agency environmental data; protected-forest and species records; and the developer's own AMDAL baseline studies.
+**The environmental approval and its conditions.** From the environment ministry or province: the approval (or permit) and every condition attached. The conditions matter twice — as evidence of the risks the authority itself recognised, and because their breach is a violation you can act on.
 
-**Ownership and money.** Company ownership from the AHU/company registry; land from the BPN land agency; and officials' wealth reports (LHKPN).
+**The sectoral permits and forest release.** From the mining, plantation, forestry, and water authorities: the permits the project relies on, and any release of forest area. Whether a forest-area release runs over adat forest is a central question after the Constitutional Court's ruling.
 
-**Case law and precedent.** Supreme Court and administrative-court (PTUN) decisions are published; citizen and organisation standing has grown in environmental cases.
+**The spatial plan.** From the regional planning authority: what the area is zoned for, and whether the project conforms — or whether it sits in a protected karst, water-catchment, or farmland zone where it does not belong.
 
-**How to force a document open.** A request under the **public-information openness law (KIP, UU 14/2008)** compels disclosure of records a public body holds. Use the request wording in Section 8E.
+**The land record.** From the land agency and local administration: how land was acquired or released and on what terms, and whether consent was genuine.
 
-**Free and low-cost help.** **WALHI** (Friends of the Earth Indonesia), ICEL, and LBH legal-aid offices litigate and advise; organisation standing (legal standing) lets NGOs sue.
+**Ownership, finance, and violations.** From company records, stock-exchange disclosures, and any inspection or monitoring reports: who owns and finances the project, and any documented non-compliance.
 
-**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+**Using the Public Information Openness Law.** The public-information law gives any citizen the right to seek information held by public bodies, subject to defined exceptions, with a duty to respond within a set period. Frame precise requests to the environment ministry, the province, and the planning and land authorities for the AMDAL, the public-involvement record, the approval and its conditions, the sectoral permits, and the spatial plan. The request itself both gathers evidence and puts officials on notice that the community is organised and watching; a refusal can be challenged through the information commission.
 
-## Researchers for Hire, and Everyday Research Tools
-
-If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
-
-For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
-
-# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
-
-**Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
-**Cost:** ~Rp400 juta (IDR) for a full year
-**Outcome:** 50-100 core people, 5-10 organisations, sustained organisation
-
-**Success Rate (Opposition Alone):** 15-20%
-**Success Rate (Opposition + Documentation + Legal + Media):** 60-75%
-
-## Critical Insight About Organising
-
-**Most opposition campaigns fail not because they can't build opposition, but because opposition burns out after 4-8 months.** You need structures that prevent it.
+The act of assembling this record changes how you are treated. A community that arrives with the AMDAL, the public-involvement record, the approval conditions, the spatial plan, and a map of its water and rights is a community that officials, courts, and the press take seriously.
 
 ---
 
-## PHASE 1: FOUNDATION (Months 1-2)
+# STEP 3: BUILDING LOCAL OPPOSITION
 
-**Goal:** a core group of 15-20 motivated people and a clear picture of their concerns.
+Documentation gives you a case; organising gives you power. In Indonesia, where farmer and adat movements have repeatedly changed the fate of projects, a well-built coalition is your engine. This step builds it in four phases.
 
-### Step 1a: One-to-One Conversations
-People don't join movements from pamphlets; they join from relationships. Identify the 15-20 people most affected or interested. **Talk to** each in person for an hour. Ask: "What's your biggest concern about this project?" Listen — don't pitch. Ask what they'd be willing to do. Each person has a different concern (land, water, farming, health, a sacred site, a way of life). Opposition organised around each shared concern is stronger than one generic message.
+## Phase 1: The Core Group
 
-### Step 1b: Affinity Groups by Concern
-Organise small groups (3-8 people) around a shared concern, not around "opposition":
-- **Land/livelihood group** — farming, fishing, forest income, displacement and compensation
-- **Water group** — the springs, rivers, karst, groundwater, contamination
-- **Health group** — air quality, dust, water-borne disease
-- **Rights group** — **customary forest** and **customary rights**, sacred sites
-Each group meets regularly and works out how opposition serves *their* interest, coordinating while keeping its own framing.
+Start with a small, committed core — the households most directly affected, the farmers and elders who know the land and water, and a few trusted, energetic organisers. This group does the early work: the documentation, the information requests, the mapping of allies. Keep it tight enough to move quickly and decide clearly, and make sure it includes people with standing — respected farmers, adat leaders, village figures — whose word carries weight locally. In Indonesia the credibility of the affected community itself, especially a farming or adat community defending its water and land, is your greatest asset; the core group exists to organise around it, not to substitute for it.
 
-### Step 1c: Use Village and Customary Structures and Register an Organisation
-Two vehicles matter. First, in villages and on customary land, the community's own structures — the **village (desa)** institutions and, on **hutan adat**, the **customary community's** own decision-making and recognised rights — carry weight; a clear, recorded community position against the project is one of the strongest things you can produce. Second, a **registered organisation (a *yayasan* or *perkumpulan*)** can speak for the community, receive donations, and — with environmental **organisations' standing** — file a lawsuit; partner with established organisations (such as **WALHI** and legal-aid institutes) early.
+## Phase 2: Broadening the Base
 
----
+From the core, widen to the full circle of the affected: the surrounding villages, the downstream water users, the neighbouring farming and fishing communities, and the local associations. Hold meetings where people can see the evidence and understand the stake — the map of the project over the water-catchment and the fields, the AMDAL, the approval conditions. Give people a clear, honest account of what is proposed, what it threatens, and what the community can lawfully do. The aim is a broad, informed base that can speak with one voice in the assessment process, in the courts, in the press, and to the authorities. Breadth matters: a fight that visibly involves many villages and a whole farming region is far harder to dismiss than one attributed to a few — the Kendeng movement drew farmers from several districts.
 
-## PHASE 2: PUBLIC LAUNCH (Months 2-3)
+## Phase 3: Allies and Expertise
 
-**Goal:** announce opposition to the public, the media, and decision-makers.
+Indonesia's decisive advantage for organised communities is its dense network of environmental organisations, legal-aid institutes, and adat and farmer movements. Reach out to them early. National environmental groups have fought cement, mining, and plantation cases and know the AMDAL system, the courts, and the press. Legal-aid institutes can carry a case to the administrative court and the Supreme Court, as they did at Kendeng. Adat-rights organisations can help a community establish and defend its customary-forest rights after the Constitutional Court's ruling. Hydrologists, karst specialists, and other experts can supply the technical critique of an AMDAL that turns objection into evidence. National and international networks can amplify the case and reach a company's investors. Bring them in as partners, share your documentation, and let their experience shape your strategy. It helps to understand the ecosystem you are joining. Indonesia has a national environmental-advocacy organisation with branches across the archipelago, a national alliance of indigenous peoples that has carried adat rights to the Constitutional Court, mining-advocacy and forest networks that track concessions and their impacts, and legal-aid institutes in the major cities that litigate for communities without charge. Around them sit university researchers, karst and hydrology specialists, and investigative journalists. A small community's fight, plugged into this ecosystem early, gains lawyers, scientists, national reach, and the solidarity of movements far beyond the affected villages — much as the Kendeng farmers gained when a national environmental group and a legal-aid institute took up their case.
 
-### Step 2a: Public Meeting (community gathering / *musyawarah*)
-Hold a community gathering where people set out their concerns to themselves, to the village and regency officials, and to press. A serious, informational meeting carries weight. Typical shape: welcome → project explanation → community concerns (each person a few minutes) → expert Q&A (an ecologist, a health voice, a lawyer) → next steps.
+## Phase 4: Structure and Sustainability
 
-### Step 2b: Opposition Materials (Factsheets)
-One page, in the **local language**. Decision-makers and neighbours won't read 30 pages; one page gets read. Structure: a headline stating the problem → quick quantified facts → the specific impact → **what you're asking for** → the evidence base → contact/resources. Print widely; distribute at markets, the village office, mosques and churches, health posts; post a digital version. Cost: ~Rp8 juta.
+A fight against a large project is long — often measured in years, and rarely over even after a court win. Build a structure that can last: clear roles, a shared and secure archive, a way to make decisions, a means to keep the wider community informed, and a plan for the emotional, financial, and legal toll. Decide early how you will handle pressure and risk — because activists in Indonesia have faced criminalisation and real danger, and the Kendeng struggle itself saw a farmer die during the protests; a community should go in with its eyes open, its solidarity firm, and legal support on hand. Sustainability is itself a form of power: officials may re-issue a permit to outlast a court order, and a coalition that endures is one that can keep fighting through the re-issued permit, the appeal, and the attempts to divide it.
 
-### Step 2c: The Public Consultation and the Community's Recorded Position (the decisive record)
-Two things matter most here. First, turn people out to **speak and file written objections at the public consultation** (and demand a proper one, in the local language, if it is skipped or held far away), each raising real grounds — a misleading **AMDAL**, harm to the water system or forest, ignored displacement. Second, secure the **records that carry weight**: a clear, formally recorded **community position** against the project, and — on **hutan adat** — a properly documented assertion of the community's recognised **customary rights**. Together these build a record the courts take seriously. Cost: ~Rp3 juta.
+## A Worked Coalition Example
 
-### Step 2d: Media Coverage at Launch
-Release data + objections + the recorded community position = a story. (Full press-release example is in Section 9, 9G.) Contact reporters, then send the study. Expect 1-3 local stories.
+Return to the rice-farming community below the karst. Their core group — a handful of affected households and respected farmers — gathers the AMDAL, the approval, and a map of the quarry over the water-catchment, much of it obtained through information requests. They broaden the base by holding village meetings across the affected districts, where every household sees that the project threatens the springs that water their fields; neighbouring villages join. They bring in an environmental group and a legal-aid institute that recognise a Kendeng-type case at once, supply a hydrologist's critique of the assessment, and prepare an administrative-court challenge. They build a durable structure — a documentation lead, a spokesperson, a legal liaison, a secure archive — designed to outlast a re-issued permit. Within months the community has moved from scattered worried villages to an organised coalition with expert allies, a legal theory, and a clear demand: annul a permit built on a false assessment, and protect the water. That is the position from which the Kendeng farmers won.
 
 ---
 
-## PHASE 3: COALITION EXPANSION (Months 3-6)
+# STEP 4: LEGAL CHALLENGES
 
-**Goal:** grow from 20 core people to 50+ core plus 5-10 organisations.
+Law is one of Indonesia's real levers, because its administrative courts can annul an unlawful government permit and its Constitutional Court has affirmed the rights of adat communities. This section explains the routes, honestly, including their limits.
 
-### Step 3a: Organisation Outreach
-Approach environmental and rights organisations — **WALHI**, the **Indonesian Center for Environmental Law (ICEL)**, **legal-aid institutes (LBH)**, mining- and forest-watch networks (such as **JATAM**), and — on customary land — Indigenous-peoples' organisations (such as **AMAN**) — plus universities, religious bodies (which carry real weight in Indonesian communities), farmers' and fishers' groups, and businesses that lose from the project. Research each; contact the right person; explain how opposition serves *their* aims; make a specific, tailored ask.
+## The Administrative Courts
 
-Tailored asks:
-- **WALHI / ICEL / an LBH:** "We need help challenging the AMDAL and permit in the administrative court, or filing a citizen lawsuit — can you assist?"
-- **A university group:** "Would your researchers assess the karst hydrology or health impacts independently?"
-- **AMAN / an Indigenous organisation:** "Help us document and defend the community's customary rights over its hutan adat."
-- **Farmers / fishers / religious leaders:** "This takes the land and water we depend on — will you object and speak at the consultation?"
+The most important legal fact for an Indonesian community fighting a project is that a government decision — an environmental permit or approval, a licence — can be challenged in the **administrative court (Pengadilan Tata Usaha Negara, or PTUN)**, which can annul it if it was issued unlawfully. From the administrative court a case can go on appeal to the high administrative court and, ultimately, to the **Supreme Court (Mahkamah Agung)** on cassation and judicial review. This is exactly the route the Kendeng farmers took: they challenged the governor's environmental permit in the administrative court, and on judicial review in 2016 the Supreme Court held the underlying assessment unlawful — it had failed to show how the mining would protect the water basin and had not taken the community's views into account — and ordered the permit revoked. The lesson is precise: **where an environmental permit rests on a defective assessment or a hollow public involvement, the administrative courts can strike it down, and that is often a community's sharpest legal weapon.** Note that challenges to administrative decisions run to strict time limits, so early documentation and legal contact are essential.
 
-### Step 3b: Coalition Agreements (Written)
-A written agreement — who's in, how decisions are made, meeting frequency, the public message, who may speak for the coalition, conflict resolution, money, and an exit clause — prevents later conflict. Consensus is stronger but slower; voting is faster but can fracture.
+## Adat and Customary-Forest Rights
 
-### Step 3c: Coordinated Public Work
-Assign leadership by strength: environmental analysis to the NGO/university; customary land and rights to the customary community and an Indigenous organisation; livelihood to the farmers'/fishers' groups; media to whoever has the contacts; the legal track to the law group and the registered organisation. Sequence activities so each builds momentum (coalition launch → data release → recorded community position → public consultation).
+Indonesia's most distinctive rights-based lever grows from the Constitutional Court's landmark **2012 ruling on customary forests**. The Court held that customary forests (hutan adat) lie within the territory of customary-law communities and are **not state forests** — cutting away the legal basis on which the state had granted concessions over land that adat communities had managed for generations. For an adat community, this means that establishing recognition of its customary forest — a process that runs through local regulations recognising the community and a ministerial determination of the forest — converts a moral claim into a legal one that a concession must overcome. The recognition process is slow and incomplete in practice, and that is an honest limit; but where a community can establish its adat-forest rights, it holds a powerful, constitutionally grounded claim against a project on its land.
 
----
+## The Constitutional Backdrop and the Wider Environmental Law
 
-## PHASE 4: SUSTAINED PRESSURE (Months 6-12)
+Behind the specific routes stands the Constitution, which guarantees the right to a good and healthy environment as part of the rights of every person, and treats the nation's land, water, and natural riches as controlled by the state for the people's greatest welfare. The Law on Environmental Protection and Management builds on this with tools a community and its allies can use: strict liability for environmental damage, administrative sanctions for violations, and — importantly — **legal standing for environmental organisations** and mechanisms for citizen and class-action suits, which is why national environmental groups can litigate on a community's behalf. These are the doctrines an advocate invokes to argue that a project approved without a genuine assessment, or operating in violation, breaches both the law and a constitutional right. The environmental law also carries a strict-liability standard for certain environmental damage — meaning a polluter can be liable without proof of fault — and it opens the courthouse door beyond the immediately affected: recognised environmental organisations may sue in the environmental interest, and citizens may bring class or representative actions. For a community, this means you need not fight alone or only in your own name; a national organisation with standing can carry the environmental claim alongside your local one, widening both the legal footing and the public reach of the case. Two further points are worth knowing. First, the adat-forest ruling did concrete legal work: the Constitutional Court struck the words "state forest" from the Forestry Law's definition of customary forest, so that adat forest is now treated as rights-forest belonging to the community rather than land the state may freely concession — a change won by the national indigenous-peoples' alliance that brought the case. Second, the Job Creation Law itself did not go unchallenged: in 2021 the Constitutional Court found it flawed in its making and ordered it revised, after which the government re-enacted it. The lesson for a community is that even sweeping national laws are contestable, and that the environmental movement's constitutional challenges are part of the same fight as your local one.
 
-**Goal:** maintain organised opposition across a 12+ month timeline.
+## The Honest Limits
 
-### Step 4a: Public Demonstrations (*aksi* / rallies)
-Regular, same time and place, growing attendance — outside the regency or provincial office, the environment agency, or at the site. Handle logistics: the **notification the demonstration law requires**, marshals, accessibility, and a sound system for large gatherings. Momentum matters: "50 gather" becomes "gathering grows to 500."
-
-### Step 4b: Media Campaign (Ongoing)
-Monthly rhythm: week 1 a release tied to an event/data; weeks 2-3 social media 3x/week; week 4 a reporter check-in. Rotate themes (community position recorded → expert finding → coalition growth → rally → lawsuit filed).
-
-### Step 4c: Common Opposition Failure Points (How to Prevent)
-
-**Failure Point 1: Burnout (Months 4-8).** Prevent it: regular (not constant) meetings; celebrate milestones; fund one part-time coordinator so volunteers don't carry logistics; schedule breaks; keep a public progress tracker. Campaigns that bring in a part-time coordinator when founders tire tend to last for years; those that don't often collapse around month six.
-
-**Failure Point 2: Coalition Conflict.** Prevent it with a written agreement and decision process, a clear escalation path (discuss → mediator), an explicit exit clause, and rotating leadership. Respect that customary communities decide by their own processes — and be alert to developers trying to split a community by co-opting some leaders or staging a "consent"; keep decisions transparent and collective.
-
-**Failure Point 3: Competing Funding.** Grants with conflicting conditions can pull groups off shared work. Coordinate grants up front and agree no group commits coalition resources without a coalition decision.
-
-**Failure Point 4: No Clear Wins.** Name milestones as victories (community position recorded, 500 objections filed, a large rally, the lawsuit accepted) and publicise cumulative progress.
-
----
-
-## Opposition Building Budget: Year-Long Campaign (IDR)
-
-| Item | Cost |
-|------|------|
-| Factsheet printing (local language) | Rp15 juta |
-| Website/phone/data (annual) | Rp10 juta |
-| Meeting / venue costs | Rp20 juta |
-| Outreach travel (often remote islands/uplands) | Rp70 juta |
-| Objection/recording materials | Rp3 juta |
-| Demonstration supplies (banners, sound) | Rp30 juta |
-| Coalition meeting costs | Rp20 juta |
-| Part-time coordinator honorarium (12 months) | Rp180 juta |
-| Social-media / content (part-time, 3 months) | Rp45 juta |
-| Fundraiser/event costs | Rp20 juta |
-| **TOTAL** | **Rp413 juta** |
-
-**Funding the campaign.** Money typically comes from four places: individual donations (local collections and online fundraisers, plus dedicated legal-cost appeals); grants from environmental and rights funders (long lead times — apply early); benefit events; and in-kind support from coalition organisations (expertise, meeting space, volunteer time). A registered organisation can receive donations and, where eligible, grants. Aim to raise half the budget by month 6 and the rest by month 12. **Reductions:** use a volunteer coordinator, or run a shorter 6-month campaign, to cut ~Rp180 juta; and legal-aid institutes and organisations such as WALHI often act at no charge.
-
----
-
-## Hiring Help to Run the Campaign
-
-You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
-
-# STEP 4: LEGAL CHALLENGES — THE CITIZEN LAWSUIT, STRICT LIABILITY, AND CONSENT
-
-**Time to complete:** 3-24 months (depends on track)
-**Cost:** Rp0-600 juta (IDR; a citizen lawsuit and an administrative challenge can be brought at modest cost)
-**Outcome:** a permit cancelled or refused, conditions, or a project shelved
-
-**Representation impact:**
-- Experienced environmental lawyers or a public-interest law group: 35-45% favourable-outcome likelihood
-- General or less specialised representation: 25-35%
-- Self-representation: 5-15%
-- **A key advantage:** legal-aid institutes (**LBH**) and organisations such as **WALHI** and **ICEL** take these cases, often at no charge; and environmental **organisations have their own standing** to sue, so a community need not stand alone.
-
-**Success Rate (Legal Only):** 20-30%
-**Success Rate (Legal + Opposition + Media):** 60-70%
-
-Indonesian legal strategy has three tracks. One important caution up front: the **Omnibus Law** (2020, later Law 6/2023) reorganised the licensing system and **narrowed the direct route** that once let communities challenge an environmental permit — so the exact procedure has shifted, and you should get **current advice** from an environmental lawyer on the right forum today. The tools below remain available; the packaging has changed.
-
----
-
-## TRACK 1: PARTICIPATION AND THE PAPER TRAIL (the front door)
-
-Most fights are shaped here, on the record, before any court is involved.
-
-- **Object at the public consultation.** Speak, and file written objections raising real **legal grounds** — a misleading **AMDAL**, harm to the water system or forest, ignored displacement, a consultation not held in the local language.
-- **Record the community's position and customary rights.** A clear, formally recorded **community position** against the project — and, on **hutan adat**, a documented assertion of the community's recognised **customary rights** — carries weight.
-- **Use the information law.** File requests under the **Public Information Openness Law (UU 14/2008)** to obtain the **AMDAL**, the permit file, and the correspondence; escalate to the **Information Commission** if refused. This turns a closed process into a documented one.
-- **Lodge administrative objections.** Put your documented objections to the environmental authority and, where available, use the administrative objection/appeal channels before going to court.
-
-**Why this track matters:** filing well — specific, on time, grounded in the law and the evidence — plus the information paper trail and the recorded community position, often does more than any amount of noise, and it builds the case you'll need for Tracks 2 and 3.
-
----
-
-## TRACK 2: THE AMDAL, CUSTOMARY RIGHTS, AND STRICT-LIABILITY LEVERS (the strongest cards)
-
-Several grounds make this powerful.
-
-**1. A misleading AMDAL or a defective public consultation.** The **AMDAL** must genuinely assess the project's significant impacts and alternatives, and the **public consultation** must genuinely involve affected people. Where they do not — as at **Kendeng**, where the study failed to reckon with the karst water system — the environmental approval is vulnerable in the **administrative court**.
-
-**2. Customary rights over hutan adat.** The Constitutional Court has recognised that a **customary forest (hutan adat)** belongs to the **customary community**, not the state. Where a project takes such land, that recognised right is a strong ground — though, in practice, the community usually needs to be formally recognised (often through a regional regulation), so document and pursue that recognition.
-
-**3. Strict liability for serious pollution.** For activities involving hazardous or toxic materials or posing a serious environmental threat, the law imposes **strict liability (tanggung jawab mutlak)** — the polluter is liable for the loss **without the community having to prove fault**; you show the activity, the harm, and the causal link. This is a powerful civil lever once harm has occurred.
-
-**The anti-SLAPP protection.** The environmental law says a person **fighting for the right to a good and healthy environment cannot be criminally charged or civilly sued** for doing so. In practice this protection is unevenly applied — defenders are still sometimes prosecuted — so invoke it, document any retaliation, and get legal support early.
-
----
-
-## TRACK 3: THE ADMINISTRATIVE COURT, THE CITIZEN LAWSUIT, AND THE CIVIL COURTS
-
-Indonesia offers several forums, and matching the tool to the goal matters:
-- **The administrative court (PTUN)** — to challenge and **cancel the environmental approval / licensing decision** as unlawful (the Kendeng route; confirm the current procedure with counsel after the Omnibus Law changes).
-- **The citizen lawsuit (gugatan warga negara)** — lets ordinary citizens sue the government to compel it to perform its legal duties to protect the environment.
-- **Organisational standing and class actions** — environmental **organisations** can sue in their own name to protect the environment, and affected people can bring a **class action** for damages.
-- **The civil courts and strict liability** — for compensation and restoration once harm has occurred, up to the **Supreme Court**.
-
-**Be realistic about two things.** First, litigation **takes time**, and after the Omnibus Law the **procedural route has shifted** — get current advice. Second, and importantly, a **cancelled permit can be re-issued** after the defect is "cured": at **Kendeng**, the governor issued a fresh permit after the Supreme Court cancelled the first. So an early win may need defending: keep opposition and media pressure alive alongside the case.
-
----
-
-## Legal Strategy Decision Tree
-
-```
-START: Is a public consultation or an environmental approval in process or issued?
-├─ IN PROCESS → Object + record the community position / customary rights NOW (Track 1).
-│               Use the information law.
-└─ ISSUED     → Note the SHORT deadline to challenge an administrative decision once known.
-                Get current advice on the forum (the Omnibus Law changed the route).
-
-Q1: What is the defect / harm?
-├─ Misleading AMDAL / defective consultation / unlawful licensing decision
-│      → ADMINISTRATIVE COURT (PTUN) to cancel the approval.
-├─ Government failing its legal duty to protect the environment
-│      → CITIZEN LAWSUIT (gugatan warga negara).
-├─ Customary forest / customary rights → assert recognised rights (pursue formal
-│      recognition); litigate via the appropriate forum.
-├─ Serious pollution has occurred → CIVIL CLAIM using STRICT LIABILITY (no need to
-│      prove fault) — often led by an organisation with standing.
-└─ No real defect (lawful process, you just disagree) → focus on opposition + media.
-
-Q2: Are you being SUED or prosecuted to silence you?
-└─ Invoke the ANTI-SLAPP protection (a defender of the environment cannot be charged
-   or sued for it); document the retaliation; get legal support immediately.
-
-Q3: Budget?
-├─ Rp0        → Citizen lawsuit / organisational suit with an LBH, WALHI, or ICEL.
-├─ Rp0-300jt  → Administrative or civil case with an environmental lawyer + expert evidence.
-└─ Rp300-600jt→ Full case + expert witnesses, combined with opposition + media.
-
-RECOMMENDED PATHS
-Path A — Clear defect: administrative-court challenge (or the right current forum) +
-  Track 1 record + information file + media. Highest ceiling.
-Path B — Arguable but not clear-cut: build opposition + media; take advice; litigate if a
-  defect crystallises.
-Path C — No legal defect: don't litigate. Win it politically, on the record, and in the press.
-```
-
----
-
-## Litigation Success Factors
-Litigation succeeds when **combined** with the other steps:
-- Litigation alone: 20-30%
-- Litigation + opposition: 35-45%
-- Litigation + opposition + media: 50-70%
-- A clear defect — a misleading **AMDAL**, a defective **public consultation**, or a violation of **customary rights** — can exceed these (as at Kendeng), though a cured defect may let the permit be re-issued.
-
-A court that sees a genuine legal defect, plus visible organised opposition, plus press coverage, treats the matter as serious.
-
-## What to Avoid: Legal Failures
-- **Litigating instead of organising.** A lone technical point with no visible opposition reads as a niche dispute. Build opposition; litigate with it visible.
-- **Filing in the wrong forum after the law changed.** The Omnibus Law shifted the route — get current advice so you don't lose on procedure.
-- **Missing the deadline.** A challenge to an administrative decision has a short window once you know of it.
-- **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The AMDAL failed to assess the karst water system the villages depend on" is a ground a court can act on.
+Be clear-eyed. The courts are real levers, but litigation is uncertain and slow, and a court victory can be undercut. The Kendeng story is the essential caution: the farmers won in the Supreme Court, and yet the governor revoked the old permit only to issue a new one, forcing the struggle to continue. Adat-forest recognition, though constitutionally affirmed, has been delivered slowly and partially. And the wider legal ground shifted with the 2020 Omnibus Law, which narrowed public participation in the AMDAL and folded the environmental permit into a simplified, risk-based licensing system — changes that, whatever their intent, reduced some of the openings communities had relied on. So use the legal routes — they are among your sharpest levers, and Indonesia's have produced real wins — but pair them with adat and land-based rights, the press, and mobilisation, and be ready to keep fighting after a win, measuring success in permits annulled and re-fought, delay, safeguards, and exposure as well as a clean stop.
 
 ---
 
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
-Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Indonesia — so you file the right fact against the right rule.
+Evidence does not speak for itself. To move an official, a court, or the public, you must turn what you have gathered into clear, specific arguments aimed at the right decision. This section shows how.
 
-**A defective AMDAL or consultation → PTUN challenge.** Where the AMDAL or public consultation was skipped or deficient. Feed it with: the process gaps and your expert critique.
+**From a document to a legal defect.** Do not simply hand over the AMDAL; identify what is wrong with it. If the assessment failed to study how the project would affect the water basin, the argument is: *the assessment omitted a central impact and cannot lawfully support the approval* — the very finding that revoked the Kendeng permit. If the public involvement did not genuinely reach the community, the argument is: *the participation the law requires was not real, and the approval built on it is defective.* Tie every defect to the specific requirement it breaches.
 
-**Organisation or citizen standing → an environmental lawsuit.** NGOs can sue on the environment's behalf, and citizens can bring citizen suits. Feed it with: the environmental-law breach and your evidence.
+**From your rights to a precondition.** The record of your customary forest becomes: *this is adat forest, not state forest, under the Constitutional Court's ruling, and it cannot be handed to a concession over our community's rights.* The overlay on a water-catchment or protected farmland becomes: *this project sits where the spatial plan and the water and food-land protections forbid it.* Each of these arguments has the same shape: it converts something the community knows — this is our forest, this is our water, this is our rice land — into a specific legal claim tied to a rule the project breaks, so that the decision-maker faces not a plea but a defect they are bound to answer.
 
-**An approval issued unlawfully → PTUN annulment.** Feed it with: the specific legal breach in the persetujuan lingkungan.
+**From photographs to a documented violation.** Dated, located images of quarrying, clearing, or pollution in breach of the approval's conditions become: *here is proof that the project is operating in violation, at this place, on this date — and here is the sanction the law requires.*
 
-**Customary (adat) rights and community consent skipped → strong ground.** Feed it with: the affected adat community's position and the absence of consent.
+**From testimony to harm.** The households' statements become: *this project takes the water and land these named families farm and live from, in violation of their right to a good and healthy environment.*
 
-**Approval conditions breached → enforcement/sanction.** Feed it with: the conditions and dated evidence of breach.
+**From finance to leverage.** The ownership and financing record becomes: *this project is run by a company answerable to the government or to its investors, whose reputation this fight touches.*
 
-The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." WALHI and ICEL litigate these cases; organisation standing lets an NGO sue on the environment's behalf.
-
-# STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
-
-**Time to complete:** the full 12-month campaign
-**Cost:** ~Rp150 juta (IDR) for trained spokespeople + ongoing support
-**Outcome:** regular coverage reaching a large audience, political pressure on decision-makers
-
-**Success Rate (Media Only):** 10-15%
-**Success Rate (Media + Opposition + Documentation + Legal):** 60-75%
-
-Indonesia has a strong national press, a vigorous environmental-journalism sector, and very heavy social-media use, that cover exactly these fights — and a record of that coverage shifting outcomes. The Kendeng struggle became one of the country's most high-profile land disputes on the back of a sustained social-media and mass-action campaign, which raised the political cost of pushing the plant through.
-
-## How Journalists Actually Work
-What reporters care about, in order: (1) **news** (something new happened), (2) **consequence** (someone is affected), (3) **timeliness** (it's happening now), (4) **conflict** (a real dispute), (5) **new information**. What they don't care about: your opinion, how angry you are, vague statements, or meetings with no hook.
-
-## The Newsworthiness Formula
-**NEWS = DATA + CONSEQUENCE + TIMELINESS + NEW INFORMATION**
-- **Bad:** "Residents oppose the project." (no data, no specific consequence, nothing new) → ignored.
-- **Good:** "Information-law documents show the AMDAL never assessed the springs 300 families drink from; the community has filed a citizen lawsuit; the approval is with the governor now." → covered.
-
-The difference is roughly a 4-5x change in the likelihood of coverage.
-
-## Know the Outlets That Cover This Beat
-- **Local and community media** and **regional press** — the audience that reaches your regency and provincial officials.
-- **National outlets** — *Tempo*, *Kompas*, *The Jakarta Post* — for projects with wider significance.
-- **Environment and investigative outlets** — **Mongabay-Indonesia**, *Tirto*, and *Project Multatuli* — for deeper reporting on permits, mining, forests, and rights.
-- **Social media** — powerful in Indonesia, and central to the Kendeng campaign — plus international outlets for landmark cases.
-
-## Building Reporter Relationships (The Key)
-Reporters don't ring campaigners for comment; campaigners ring reporters with tips. Identify 5-10 local, regional, and specialist reporters (environment, mining, land beats). **Contact** them first: "I saw your piece on [similar story]. We've got a similar situation in [place] and I think your readers should know." Then keep the relationship warm over months — a relevant article, an information-law document, a milestone — so that when the big story lands, they already know you.
-
-## Sample Media Timeline
-- Month 1: build relationships (contact five reporters)
-- Month 2: first story (public-consultation objections / recorded community position)
-- Month 3: press event releasing the survey/information findings; expert available
-- Month 4: coalition announcement
-- Month 5: rally coverage
-- Month 6: decision-date coverage
-
-## Real Media Dynamics (Indonesian grounding)
-- **Coverage plus mobilisation shifts outcomes:** the Kendeng fight combined community organising, the karst documentation, and the citizen lawsuit with a sustained social-media and mass-action campaign that carried national weight.
-- **Information-law documents make stories:** a disclosure that contradicts the developer's claims — an AMDAL that ignored the water system, a stage-managed consultation — is a gift to a reporter and a court.
-- **Independent evidence beats the developer's study:** independent ecological, hydrological, or health analysis that contradicts an optimistic **AMDAL** lets the press write "experts dispute the developer's figures," and decision-makers take notice.
-
-## Media Measurement
-Track cumulative stories and reach month over month. **Success indicators:** regular (at least monthly) coverage that carries your message and specific data, and visible decision-maker response. **Failure indicators:** no coverage for 2+ months, superficial coverage that drops your argument, or no response from decision-makers.
+Match the argument to the venue. To the environment authority, argue the assessment's defects and demand the approval be refused or the assessment redone. To the administrative court, argue the permit's unlawfulness within the time limit. To the press and the public, argue the human story — the springs that will die, the fields that will go dry, the farmers who were never truly asked. The same evidence, aimed differently, does different work.
 
 ---
 
-## Amplifying at Scale — Media Help for Hire
+# STEP 5: MEDIA STRATEGY
 
-Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
+In Indonesia, publicity is power. The country has a large, free, and combative press, an intensely engaged public, and a history in which national and international attention has changed the fate of projects. For a state-owned, listed, or foreign-owned project, coverage reaches the government, investors, and parent companies. This step turns your evidence and your story into pressure.
 
-# SECTION 8: EMAILS & LETTERS YOU CAN COPY
+## Why Media Matters Here
 
-These are ready-to-use messages. Adapt the bracketed parts and send them. Keep them short, specific, and grounded in the law and the evidence — that is what gets read and acted on. The **information request (8E)** and the press release (8G) are among the highest-leverage messages here.
+Kendeng became a national cause — the karst mountains, the farmers, and above all the women who set their feet in cement at the palace — and that attention forced the president to order a study and made the fight impossible to ignore. Publicity does three things: it raises the political cost of a harmful decision, it reaches the investors and officials who care about reputation, and it protects the campaigners themselves, because a watched community is harder to intimidate.
 
-## 8A. Email to a reporter (story pitch)
+## Building the Story
 
-```
-Subject: Story tip: [specific finding] — [the office] decides [date]
+Lead with the human and the concrete, not the technical. The story is not "the environmental permit rested on a deficient AMDAL"; it is "the mountain that gives us our water, the springs that feed our rice, are to be quarried away for cement, and we were never truly asked." Use your strongest material: the dated photographs of the springs and the quarry, the map of the project over the water-catchment, the testimony of named farmers, the fact — where it applies — that a court has already found the assessment unlawful or that the land is adat forest. Keep the facts scrupulously accurate; your credibility is your armour.
 
-Dear [Reporter],
+## Reaching the Audiences
 
-I follow your coverage of [beat / recent story]. We have something in [place]
-your readers should know about, and there's a clear news hook.
+Work several audiences at once. **Local and national press** in Indonesian carry the story to the provincial capital and Jakarta, where political pressure builds. **Environmental and adat networks** amplify and lend authority. **International media and networks** matter especially for listed or foreign-owned projects, because they reach investors and the global public. **Social and independent digital media** let the community speak in its own voice and document in real time. Provide ready material — clear photographs with captions, short accurate summaries, a map, and a few compelling testimonies — so that journalists and allies can carry your story faithfully. For a project backed by a state enterprise, the audience that matters most may be the national government and the public whose company it is; for a listed or foreign-owned project, it is the investors, lenders, and international buyers who are sensitive to reputational and environmental risk. An accurately told story of a water source destroyed and a community ignored can travel from a village in Central Java to a shareholders' meeting or an ethical-investment screen abroad — a reach a purely local protest cannot achieve, and one that has repeatedly changed how a company behaves.
 
-In one line: [information-law documents / the community's recorded position / an
-independent survey] show [quantified finding — e.g. "the AMDAL never assessed the
-springs 300 families drink from"], and [the DLH / the governor] decides on [date].
+## Discipline and Care
 
-Why it's newsworthy: it's new (just obtained), specific (affects [# people /
-hectares / a customary community]), and time-sensitive (decision [date]).
+Two cautions. First, accuracy above all: one exaggeration handed to the other side can be used to discredit everything. Second, care for people's safety: activists in Indonesia have faced criminalisation and real danger, so weigh what you publish, protect vulnerable individuals, and let the community decide together what it is willing to say publicly. Used with discipline, the press is among the most powerful and protective levers an Indonesian community has. And it compounds over time: each accurate story builds a record and a reputation that make the next story easier to place and harder to dismiss, so that a community which has told its story truthfully and consistently becomes a source journalists return to, rather than a one-day headline.
 
-I can share the full report and the documents and connect you with [one named
-expert] for an interview. Would a quick call this week work?
+---
 
-Regards,
-[Name] — [Organisation] — [phone] — [email]
-```
+# EMAILS & LETTERS
 
-## 8B. Letter to the KLHK, the DLH, or the governor/regent
+Below are eight templates for the written communications a campaign most often needs. Adapt them to your facts; keep them precise, calm, and specific; and keep copies of everything you send.
 
-```
-Subject: [Refuse / attach strict conditions to] [project] — environmental approval [ref]
+**8A — Public-information request for the AMDAL and public-involvement record (to the environment ministry / provincial environment agency).**
+*Subject: Request under the Public Information Openness Law — AMDAL and public-involvement record for [project].*
+"Under the Public Information Openness Law, we, residents of [village], request copies of the AMDAL, the environmental-management and monitoring plans, the record of the public involvement, and the environmental approval and its conditions for [project], [location]. As affected residents we are entitled to this information. Please provide it within the period the law allows, or state the legal ground for any exemption. [Contact.]"
 
-To [the KLHK / the Head of the Provincial or Regency DLH / the Governor / the Regent],
+**8B — Public-information request for the permits and spatial plan (to the province / planning authority).**
+*Subject: Request for permits and spatial-plan documents — [project].*
+"Under the Public Information Openness Law, we request the sectoral permits and any forest-area release relied on by [project], and the regional spatial-plan documents showing the zoning of [location], including any water-catchment, karst, or farmland protection. [Contact.]"
 
-I am a resident of [place] writing about the [project], on which a decision (the
-environmental approval based on the AMDAL) is expected around [date].
+**8C — Objection during the AMDAL public involvement (to the assessment authority).**
+*Subject: Objection to the environmental assessment for [project].*
+"We, residents of [village], object to the approval of the AMDAL for [project] on the following grounds: [the assessment fails to show how the project will protect the water basin / springs]; [the public involvement did not genuinely reach the affected community]; [the project sits on adat forest / a protected water-catchment / farmland]. We ask that approval be refused or a proper assessment with genuine involvement be required. [Attach evidence.]"
 
-The concern, briefly: [one or two specific grounds — e.g. "the AMDAL fails to
-assess the karst springs the villages depend on, and the project takes the
-customary forest of [community]"].
+**8D — Demand to protect a water-catchment / adat forest (to the province and environment ministry).**
+*Subject: Protection of [karst catchment / adat forest] threatened by [project].*
+"The area of [project] lies on [the water-catchment that feeds our springs and rice fields / our customary forest]. We call on you to honour the protection the spatial plan and the water and forest laws provide, and — where our customary forest is concerned — the Constitutional Court's ruling that adat forest is not state forest, and to refuse or revoke the approval accordingly. [Attach map and evidence.]"
 
-I am asking you to [specific, achievable action — e.g. "refuse the environmental
-approval," or "require strict conditions, real compensation, and a redesign"].
+**8E — Notice of intent to challenge in the administrative court (to the issuing authority).**
+*Subject: Objection to and intended challenge of the environmental permit for [project].*
+"We consider the environmental permit/approval granted to [project] on [date] unlawful, because [it rests on an assessment that failed to protect the water basin / the public involvement was not genuine / it disregards protected land or adat rights]. We ask that it be reviewed and revoked. Failing that, we intend to bring the matter before the administrative court within the time the law allows. [Attach evidence.]"
 
-[If true:] The affected community has formally recorded its objection; [#]
-residents filed objections at the public consultation; [#] organisations share
-the concern.
+**8F — Letter to an environmental group or legal-aid institute seeking partnership.**
+*Subject: Request for support — [project] at [location].*
+"Our community faces [project] on [our water-catchment / adat forest / farmland]. We have gathered [the AMDAL, the approval, the spatial plan, photographs, testimonies] and believe an administrative-court challenge and [adat / water-catchment protection] apply. We ask for your legal and technical support and help raising the case, and we are ready to work as partners. [Contact and summary of evidence.]"
 
-I would welcome a meeting and can share our full evidence.
+**8G — Letter to the press (national or international).**
+*Subject: [Community] moves to protect [mountain / springs / forest] from [project].*
+"For generations, the farmers of [village] have watered their rice from the springs of [karst range] and lived from [forest/land]. Now [project], by [company], threatens to [quarry the mountain / dry the springs / clear the forest] — and our community was never truly asked. We can provide photographs, documents, a map, and interviews. [Contact.]"
 
-Respectfully,
-[Name], [address], [phone], [email]
-```
-
-## 8C. Objection at the public consultation / recorded community position
-
-```
-PART A — WRITTEN OBJECTION (public consultation)
-To: [the AMDAL consultant / the environmental authority], re [project]
-
-Objection to the [project]. Consultation held [date].
-1. Who I am: [name], [village], [interest].
-2. Grounds (with evidence):
-   a. [Customary land / rights] — the project takes the customary forest of
-      [community]; their recognised rights are engaged. (Attach.)
-   b. [Misleading AMDAL] — the study omits [impact], understates [impact], and
-      [ignores] the water system / forest documented here.
-   c. [Defective process] — the consultation was not held in [language] / affected
-      people were not properly involved / objections were not recorded.
-3. What I ask: that the environmental approval be REFUSED; alternatively, [strict
-   conditions and a redesign].
-[Name] — [contact] — Attachments: [baseline / impact / health report]
-
-PART B — RECORDED COMMUNITY POSITION (customary land)
-"The [community], through its own decision-making, records that it OBJECTS to the
-[project] and does not consent to it on its customary land, for the following
-reasons: [rights / livelihood / water / sacred sites]. Recorded [date], [who was
-present / how decided]."
-```
-
-## 8D. Coalition outreach email (to an organisation)
-
-```
-Subject: [Organisation] + [project] — a specific ask that fits your work
-
-Dear [Name],
-
-I'm [name] with [organisation] in [place]. We're working on [project], which
-[one-line stake]. I'm getting in touch because this connects directly to
-[organisation]'s work on [their aim].
-
-We're not asking you to adopt our whole campaign — just one concrete thing that
-serves your aims: [tailored ask — e.g. "help us challenge the AMDAL and permit,
-or file a citizen lawsuit," or "help document and defend the community's customary
-rights," or "have your researchers assess the water impacts independently"].
-
-If helpful, I can send a one-page brief and arrange a short call.
-
-Thanks for considering it,
-[Name] — [Organisation] — [contact]
-```
-
-## 8E. Public-information request (the transparency tool)
-
-```
-To: The Information Management Officer (PPID), [KLHK / the DLH / the LGU], [office]
-
-Request under the Public Information Openness Law (UU No. 14/2008)
-
-Please provide the following information concerning [project] (ref [ref]):
-1. The AMDAL documents (and the UKL-UPL, if any) and the environmental approval.
-2. The record of the public consultation and the objections received.
-3. The business/licensing documents connected to the environmental approval.
-4. For forest/mining: the forestry or mining permit and any customary-rights
-   assessment.
-5. The correspondence between [the authority] and [the developer], [dates].
-
-If any information is refused, please give the legal basis; I reserve the right to
-bring a dispute before the Information Commission.
-
-[Name] — [address] — [date]
-```
-
-## 8F. Legal challenge — administrative court / citizen lawsuit (get current advice)
-
-```
-NOTE: The Omnibus Law changed the licensing route, so CONFIRM THE CURRENT FORUM
-with an environmental lawyer or an LBH/WALHI/ICEL FIRST. Broadly: to cancel an
-unlawful environmental approval → the ADMINISTRATIVE COURT (PTUN), with a SHORT
-deadline once you know of the decision; to compel the government to do its duty →
-a CITIZEN LAWSUIT (gugatan warga negara); for damages after serious pollution →
-a CIVIL CLAIM using STRICT LIABILITY.
-
-[CLAIM / PETITION — heading as advised by counsel]
-[Date]
-
-Plaintiff(s): [names / registered organisation with standing], [address].
-Defendant(s): [the authority / the developer].
-
-1. The decision or conduct challenged: [environmental approval [ref], dated
-   [date] / the government's failure to protect the environment].
-2. Grounds:
-   Ground 1 — [misleading AMDAL / defective public consultation].
-   Ground 2 — [violation of customary rights over hutan adat].
-   Ground 3 — [strict liability for the pollution caused].
-3. Relief sought: [cancellation of the approval / an order to act / compensation
-   and restoration]; and an interim measure to halt works if imminent.
-
-[Name / counsel] — [contact]
-```
-
-## 8G. Press release (effective)
-
-```
-FOR IMMEDIATE RELEASE
-
-[HEADLINE: make it NEWS, not opinion]
-[Subtitle: consequence + timeliness]
-
-[DATELINE: Place / Date]
-
-[LEAD — answer "why now?"]
-[Local organisation] released [study / information-law documents / the community's
-recorded position] today showing [specific finding] affecting [# of people /
-hectares / a customary community].
-
-KEY FINDINGS
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-
-[DIRECT QUOTE — specific, from a credible voice, not a slogan]
-"[What the finding means]," said [Name, Title].
-
-[CONTEXT — why it matters; reference a documented case where relevant]
-
-[DECISION POINT — create urgency]
-[The DLH / the governor] decides on [date].
-
-[CALL TO ACTION] To support or file an objection: [how].
-For more: [contact].
-
-CONTACT: [Name / Organisation / Phone / Email]
-ATTACHMENTS: full report, information-law documents, the community's recorded position, maps, Q&A
-```
-
-## 8H. Legal strategy decision tree
-See Step 4 for the full decision tree — Tracks 1-3, the administrative court, the citizen lawsuit, strict liability, the anti-SLAPP shield, the current-forum caution after the Omnibus Law, and the budget branches.
+**8H — Community/adat statement recording the decision.**
+*Subject: Statement of the community of [village] on [project], [date].*
+"We, the community of [village], having considered [project] affecting our water, land, and — where applicable — our customary forest, declare our opposition to it and our demand that any permit resting on a false assessment be revoked and our water and rights protected. This statement is made freely and together. [Attendance / signatures.]"
 
 ---
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
-Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+Not every community has months and a lawyer at the outset. If you must act fast and lean, do these things, in this order, and you will have done the most important work.
 
-1. **Take part in the AMDAL consultation and submit written objections before the deadline. Name one or two concrete grounds (forest, water, an adat community). It enters the record.**
-2. **Get the AMDAL and quote its worst admission back to the environment ministry/agency.** The developer's own words carry the most weight.
-3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
-4. **File one KIP request** (Section 8E) — even if someone else uses it later.
-5. **Point one NGO or legal-aid office at the fight.** WALHI, ICEL, or an LBH legal-aid office may take it from there — you hand off, you don't have to lead.
-6. **Bring in an NGO with legal standing (e.g. WALHI)** — organisation standing lets them sue on the environment's behalf, a strong lever.
-7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+**1. Pin down the project and its footprint.** Get the proponent, the type, and the boundaries. Overlay it, even roughly, on the water-catchment, the springs, the fields, the forest, the adat territory. If it threatens your water or sits on adat forest, you may already have your strongest lever.
 
-Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+**2. Request the record.** Send public-information requests for the AMDAL, the public-involvement record, the environmental approval and conditions, and the spatial plan (8A/8B). The requests gather your evidence and put officials on notice.
 
-# SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
+**3. Photograph and record everything, with dates and locations.** The site, the clearing, the quarry, the springs, the affected fields. Dated evidence costs nothing and matters most — and baseline images of the springs before damage are especially powerful.
 
-**What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because the government is pushing investment and jobs, because the developer's own consultant writes the impact study, or because permits are rarely refused. It rarely means anyone broke the law. In Indonesia this tilt was deepened by law: the **Omnibus Law** (2020) reduced environmental requirements and narrowed the community's right to be heard. Here is how the tilt works — and how communities win anyway.
+**4. Use the public involvement, and object formally.** If the AMDAL's public involvement is open, take part and object in writing (8C); if the community has a customary or collective decision to make, record it (8H). These are formal acts, not mere protest.
 
-## Important Caveat
-This section describes patterns from documented Indonesian dynamics and public policy — "National Strategic Project" backing, developer-funded **AMDAL** studies, rarely-refused permits, projects that begin before approval, and the Omnibus Law's rollback. It is not a statistical claim about "X% of all decisions." Read it as: "where these patterns appear, here is what happens and what it means for opposition."
+**5. Watch the challenge clock and get a lawyer.** A permit can be challenged in the administrative court, but only within a time limit. Contact an environmental group or legal-aid institute (8F, 8E) at once — the window is easily lost, and they can move faster than you can alone.
 
-## What This Tilt DOES (and DOESN'T DO)
-**DOES:** create financial and political incentive to approve (jobs, revenue, mining and plantation income, **National Strategic Project** status); bias information (the **AMDAL** is commissioned by the developer, and reads optimistically); advantage well-resourced developers; and — through the **Omnibus Law** — reduce environmental permitting steps and narrow public participation and the community's ability to challenge a permit.
-**DOESN'T:** guarantee approval; make opposition impossible; remove the recognised rights over **hutan adat**; remove **strict liability**, the **citizen lawsuit**, or the **anti-SLAPP** protection; or prevent cancellations, conditions, and delay.
+**6. Raise the alarm and find your movement.** Alert the press (8G) and reach out to an environmental or adat organisation. Indonesia's movements have fought cement, mining, and plantation fights and know the way.
 
-**The Omnibus Law, specifically.** The 2020 Job Creation (Cipta Kerja) Law amended dozens of statutes, including the environmental law: it folded the separate environmental permit into the integrated business licence, narrowed the steps and the public role, and reduced the direct route to challenge a permit in court. The **Constitutional Court** later found the law **conditionally unconstitutional** for how it was passed and ordered it revised; a replacement (**Law 6/2023**) followed. The practical lesson: the framework is more tilted than it was in the Kendeng era, so lead with the **AMDAL** substance, **customary rights**, **strict liability**, and the **citizen lawsuit**, and get current advice on the forum.
+Even with little time, these six steps create a record, exercise your formal rights, protect the challenge window, and build a coalition — the things every later step is built on.
 
-**Analogy:** a tilted system is like playing on a pitch sloped against you. It makes winning harder, not impossible — so your strategy has to be sharper and more visible, your legal grounds cleaner, and your information paper trail solid.
+A final word on the rapid-fire path: in Indonesia, where a win can be undone, the most valuable early move of all is building a coalition that will still be standing after the first court ruling. A single well-documented water map, a single public-information request, a single call to a legal-aid institute, and a united community are worth more than an elaborate plan drafted after the permit is granted and the challenge window has closed. Speed and solidarity protect your options.
 
-## Assessment Framework — Determine Your Situation
-**GREEN FLAG (low tilt):** an ordinary permit with genuine scrutiny; no "strategic project" label; a clear legal defect; customary land or a documented water system engaged. → 65-75% with all 5 steps. Proceed with standard opposition.
+---
 
-**YELLOW FLAG (moderate tilt):** strong pro-investment push and a developer-funded **AMDAL**, but independent evidence is possible and a legal ground (AMDAL, consultation, customary rights) is arguable. → 40-45% with all 5 steps; often win conditions and delay even if not a refusal. Proceed; prioritise the AMDAL and customary-rights defects.
+# WHEN THE SYSTEM IS TILTED
 
-**RED FLAG (high tilt):** a **National Strategic Project**, developer-only studies, heavy political backing, and works already begun. → 25-30% to stop; 50-60% to modify/delay. Decide whether delay/conditions justify the investment; lead with the cleanest ground; build power and a record for the next round.
+Much of this guide assumes the ordinary machinery works: assessments are honest, participation is real, courts decide, and their decisions are obeyed. Often in Indonesia they are not. This section is about acting when the system is tilted against you.
 
-## Direct Action and Defender Safety: Factual Information (Descriptive, Not Prescriptive)
-When permit and legal routes are exhausted, some Indonesian communities have used non-violent direct action — rallies, road and site blockades, and occupations. This is descriptive of what has occurred, not guidance, and in Indonesia it comes with a serious safety warning.
+## The Characteristic Indonesian Problem: Wins That Are Undone
 
-**Indonesia is dangerous for environmental defenders.** Independent monitoring recorded **at least 13 environmental defenders killed between 2014 and 2023**, alongside many more instances of criminalisation, intimidation, and lawsuits. The killing of **Salim Kancil** — a farmer beaten and tortured to death in 2015 for organising against illegal sand mining in Lumajang, East Java — is a documented and infamous example. Defenders are also frequently **criminalised**, including under the **Electronic Information and Transactions (ITE) Law**, which has been used to prosecute activists for their statements. The environmental law's **anti-SLAPP** protection (a person fighting for a good and healthy environment cannot be charged or sued) exists and has been upheld by the courts in some cases — but it is applied unevenly, and defenders are still prosecuted.
+Indonesia's defining difficulty is captured by Kendeng itself: the farmers won in the Supreme Court, and yet the governor issued a fresh permit to keep the project alive. The lesson is not that the courts are worthless — they are real, and they win — but that **a court victory is a beginning, not an end, and you must be ready to enforce it and to fight the re-issued permit.** Plan for it. Keep the coalition intact after a win; be ready to challenge a new permit as unlawful in its turn; document the circumvention; and make the defiance of the court public. A community that expects the fight to continue past the first victory is a community that cannot be worn down by an official's signature on a new piece of paper.
 
-Anyone considering direct action — or even visible organising in a high-conflict area, especially over mining, sand, or plantations — should take the physical and legal risk with the utmost seriousness: don't act alone; keep actions non-violent, lawful (give the notification the demonstration law requires), and well-documented; line up **legal support** in advance and invoke the **anti-SLAPP** protection if you are sued or charged; keep decisions transparent and collective so a developer cannot co-opt or split the community; and stay connected to legal-aid institutes, human-rights bodies (such as **Komnas HAM** and **Kontras**), and the press — visibility is a measure of protection. If you are threatened or criminalised, treat it as an emergency: report it, document it, tell your networks, and seek protection. Direct action has produced delay and attention in documented cases, but on its own rarely stops a project permanently; combined with documentation, customary rights, the courts, and media, it is more consequential — and safer.
+## When the Rules Themselves Are Weakened
 
-## Honest Assessment
-Where the system is tilted, opposition using permit and legal methods has lower odds of an outright stop — but still reliably wins cancellations or conditions, forces delay (often long), imposes political cost, builds durable community power, and creates a record for the courts. And Indonesia offers genuine equalisers: the recognised rights over **hutan adat**, **strict liability** that shifts the burden to the polluter, the **citizen lawsuit** and **organisational standing**, the **administrative-court** route to cancel a permit, the **anti-SLAPP** protection, and the **information law**. Neither scenario makes opposition futile.
+A second form of tilt is the weakening of the protections. The 2020 Omnibus Law narrowed the public participation required in the AMDAL — limiting it toward those "directly affected" and dropping the explicit role of environmental advocates — and folded the environmental permit into a simplified, risk-based licensing system. When the rules are weakened, the fight shifts partly to the national and public arena: work with the environmental movement that has challenged these changes, raise the alarm in the press, and use whatever participation and challenge rights remain to their fullest. The narrowing of a right is itself a reason to exercise it loudly and on the record. What remains of the AMDAL's public involvement is still a formal stage at which objections become part of the legal record; using it fully, in writing and with the whole affected community, both preserves the point for a later court challenge and makes plain that the participation, however narrowed, was demanded and given.
+
+## When Officials Will Not Act
+
+Where officials grant a defective permit or ignore a legitimate objection, escalate methodically. Put every objection and request in writing, so that the failure is documented — the public-information law is invaluable here. Take a defective permit to the **administrative court** within the time limit, and, where a law or a right is at stake, support the environmental movement's challenges before the **Constitutional Court**. Where adat forest is disregarded, pursue the recognition the Constitutional Court's ruling makes possible and make any denial public. And make the failure visible: an official who ignores a quiet letter may act when the defiance is national news and the movements are watching.
+
+## When to Reassess
+
+Be honest with your community about the odds. Against a government-backed project whose backers will re-issue permits and outlast a court, a clean permanent stop may not be achievable, and it is not a failure to say so. In that situation the realistic and still-valuable wins are a permit annulled and the project delayed and made costlier, protections for the water and the land secured, safeguards and compensation won, and exposure that raises the price of the harm. Choose the fight you can win, protect your people — especially given the real risks — and keep the record, because officials, governments, and courts change, and a well-documented campaign is ready when they do. A project delayed for years by a determined community is a project whose economics can sour, whose investors can lose patience, and whose backers can move on — so that even where the law does not deliver a clean stop, endurance itself can become the decisive lever.
 
 ---
 
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
+Sometimes the tilt is not mere inertia but corruption — a permit that should never have issued, an assessment written to order, an official with an interest in the outcome, a concession steered to a favoured company. Mining, plantations, and large infrastructure are chronically exposed to it. This section is about recognising and confronting capture, carefully.
 
-**Regional-government officials and councillors.** The most common pressure point: a region dependent on the project (e.g. mining/plantation revenue), or an official with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the anti-corruption law and the LHKPN wealth-report regime — undisclosed interests and misconduct can void acts and trigger KPK action.
+## Recognising the Signs
 
-**The environment ministry and regional agencies.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: a PTUN challenge or an organisation lawsuit.
+Corruption rarely announces itself, but there are patterns. A permit granted despite a plainly inadequate assessment; a public involvement engineered to exclude the affected; an AMDAL that reads as if written for the proponent; a permit re-issued the moment a court strikes it down; an official who moves between the regulator and the industry; a concession or land release that benefits a connected party — each is a warning sign. So is the sudden reversal of a sympathetic official's position.
 
-**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the company registry, the BPN land agency, and LHKPN wealth reports surface the timeline a journalist needs.
+## Who Is Supposed to Guard Against It
 
-**The courts.** Indonesia's administrative courts and its recognition of organisation standing are real levers, and courts have annulled permits. The constraints are enforcement, appeals, and pressure on litigants; seek interim suspension where work could start, and prioritise safety.
+Indonesia has machinery against corruption and for transparency. The **anti-corruption commission** investigates graft, to which permitting and concessions are notoriously exposed. The **public-information law** lets you extract the record and expose the defect. The **administrative courts and the Supreme Court** can annul permits tainted by illegality. The **state audit body** can scrutinise the handling of public resources. And the **free press and investigative journalists** have repeatedly exposed fraudulent assessments and captured permits. These are the venues to which evidence of corruption should be directed.
 
-**National and regional politicians and priority projects.** Where a project is a stated national or regional priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
+## How to Confront It — Safely
 
-**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Corruption Eradication Commission (KPK), the audit board (BPK) for public money, and the police/prosecutors for crimes — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
-
-# INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
-
-## Realistic 12-Month Campaign Timeline
-
-**Months 1-2 — Foundation + Documentation:** identify the target and decision-maker (Step 1); begin baseline surveys, map customary land, water systems, and use (Step 2); convene the community and form or partner with a registered organisation (Step 3); file first **information-law** requests, prepare for the **public consultation**, and make first reporter contacts (Steps 4-5). *Outcome:* structure forming, the record and paper trail beginning.
-
-**Months 2-3 — Public Launch:** baseline complete; community gathering + objections at the public consultation + **recorded community position** (Steps 3-4); media event (Step 5). *Outcome:* opposition visible, objections and position on the record, 3-5 stories.
-
-**Months 3-4 — Coalition + Impact Analysis:** complete impact analysis testing the **AMDAL** (Step 2); expand the coalition and bring in a law group and (on customary land) an Indigenous organisation (Step 3); prepare the **administrative-court / citizen-lawsuit** grounds — with current-forum advice (Step 4); data-release press event (Step 5). *Outcome:* broad coalition, legal grounds identified, coverage expanding.
-
-**Months 4-6 — Expansion + Health Data:** health/livelihood report (Step 2); sustained rallies (Step 3); the approval decision (Step 4); expert press events (Step 5). *Outcome:* possible refusal or strict conditions, quantified impacts, regional media.
-
-**Months 6-9 — Escalation + Challenge:** rallies escalating (Step 3); file the **administrative-court challenge** or the **citizen lawsuit** (Step 4); ongoing monthly media (Step 5). *Outcome:* sustained pressure, case live.
-
-**Months 9-12 — Peak Pressure + Positioning:** maintain opposition (Step 3); hearing / positioning, and watch for a **re-issued permit** after any cancellation (Step 4); media momentum (Step 5). *Outcome:* permit + opposition + media + law compound; cancellation, conditions, or the project shelved.
-
-## Key Principles (What Separates Winning Campaigns from Losing Ones)
-1. **Specificity** — "the AMDAL never assessed the karst springs the villages depend on," not "we oppose the project."
-2. **Multi-tactic pressure** — objections + recorded position + customary rights + opposition + media + legal, together.
-3. **Long-term organising** — sustain 12+ months; prevent burnout; keep people safe.
-4. **Documentation first** — build the evidence (including who lives there and the water systems), then object and litigate on it.
-5. **Coalition building** — 5-10 diverse groups; respect customary communities' own processes and guard against co-option.
-6. **Use customary rights, strict liability, and the information law** — the recognised rights, the burden-shifting liability, and the paper trail are distinctively strong Indonesian levers.
-7. **Get current-forum advice** — the Omnibus Law changed the route; don't lose on procedure.
-8. **Realistic expectations** — expect conditions/modifications/delay; a refusal or cancellation is the bonus; expect works-ahead-of-permits and possible re-issue.
-9. **Persistence and safety** — plan for 12-24 months (and possibly several forums), keep momentum, and protect organisers and whistleblowers.
-
-## Warning Signs — Act Early
-Watch for these and respond fast: attendance declining around months 4-5 (burnout); coalition members leaving or being co-opted; no media coverage for 2-3 months; the case stalling or a permit re-issued after a cancellation; fundraising below half your target by month 6; a core organiser leaving without a successor; **threats, criminalisation, or intimidation** against organisers (treat as a safety emergency — see Section 9); or someone new pushing illegal or reckless tactics. Each has a fix earlier in this guide — catch it early and the campaign holds.
+Confronting corruption demands even more care than ordinary campaigning. **Document rigorously and factually** — dates, decisions, documents, connections — and distinguish always between what you can prove and what you suspect. **Do not make public accusations you cannot substantiate**, both because they can be used to discredit you and because defamation and criminal cases have been used against Indonesian campaigners. **Route serious evidence to the proper bodies** — the anti-corruption commission, the courts, the audit body, and established investigative journalists — rather than confronting powerful interests alone. **Protect the people involved**, especially insiders and witnesses. And **lean on your allies**: environmental groups, legal-aid institutes, and journalists know how to handle such material and can shield individuals. Corruption is real in Indonesian permitting, and it can be confronted — the anti-corruption and transparency tools exist — but it must be confronted with evidence, through institutions, and with sober attention to the safety of everyone involved.
 
 ---
 
-# FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
+# INTEGRATION & TIMELINE
 
-## Real Outcomes: What Winning Looks Like
-- **Permit refused / project shelved** (rarer): usually needs overwhelming opposition + a strong AMDAL or customary-rights case + heavy media + lower tilt. Kendeng (permit cancelled by the Supreme Court) shows it happens — though it also shows a win can be re-fought.
-- **Permit modified** (most common victory): strict conditions, genuine compensation and relocation, buffers, independent monitoring, redesign — often via the authority or a court.
-- **Delay / attrition:** stalled for years while the permit and litigation run; costs mount and financiers lose confidence; the developer sometimes walks away.
-- **Defeat:** the project proceeds (sometimes after a re-issued permit or a cured defect). Focus then shifts to enforcing conditions and rehabilitation, monitoring compliance, and the next opening.
+The steps in this guide are not a menu from which to pick one; they are strands to be woven together. This section shows how they fit, and over what kind of time.
 
-## Decision Point: Continue, Modify, or Reassess
-**Continue** if the legal grounds are live, the customary-rights and information record is strong, opposition is holding or growing, media is at least monthly, the coalition is stable, and organisers are safe.
-**Modify** if attendance is falling, coverage has dropped for 2+ months, coalition members are leaving, the legal position has weakened, or you discover the system is more tilted than assessed.
-**Reassess** if, after ~12 months (and perhaps an administrative case and a citizen lawsuit) permit and legal options are exhausted, the decision looks settled despite real effort, the community is exhausted, or resources are gone — or if the personal or legal risk to organisers has become unacceptable. Ask: has opposition already won partial victory (conditions, compensation, delay)? Would more effort win more, or just prolong the fight? Should energy shift to enforcing conditions, to the next project, or to changing the policy?
+## How the Strands Reinforce One Another
 
----
+Documentation feeds everything: it is the basis of the objection, the administrative-court challenge, the adat claim, the press story, and the demand for enforcement. Organising gives the documentation weight and the campaign the endurance to outlast a re-issued permit. The legal routes — the administrative court, the Supreme Court, the Constitutional Court's adat ruling — turn the record into binding decisions. The press turns it into political and reputational cost that reaches officials and investors. And the follow-through turns a court win into real protection rather than a paper one. Each strand is stronger for the others: a court challenge amplified by the press and backed by an organised farming region is a different thing from a lonely lawsuit, and an adat claim reinforced by litigation and national attention is far harder to override — which is close to the combination that carried Kendeng. The reverse is also true: a lawsuit with no organising behind it can be won on paper and lost on the ground, as a re-issued permit shows, and a protest with no legal case behind it can be dispersed without consequence. It is the weaving together — evidence, organisation, law, and publicity — that gives a community weight the other side cannot easily ignore.
 
-## The Bottom Line
+## A Realistic Timeline
 
-Opposition work can stop or significantly modify destructive projects in Indonesia — even where investment, resource revenue, and "strategic project" politics point toward approval, and even after the Omnibus Law tilted the framework further. Opposition creates multiple, compounding forms of pressure: on the record, politically, in the press, and in the courts. Where the system is tilted, an outright stop is less likely, but opposition still delivers cancellations, conditions, compensation, delay, and durable power.
+Expect a long campaign, and one that may not end at the first victory. In the **first weeks**, pin down the project, send the information requests, gather the initial documentation, take part in any AMDAL involvement and object, and reach out to allies. In the **first few months**, build the coalition, obtain and analyse the AMDAL and the approval, produce the map overlay, and — if a permit is granted — prepare the administrative-court challenge within the time limit. Over the **following one to three years, and sometimes longer**, pursue the courts, advance any adat-forest recognition, sustain the press and public campaign, and — crucially — be ready to fight a re-issued permit and to enforce any win. The Kendeng struggle has run for many years and continued past a Supreme Court victory. Build for endurance, mark and celebrate the interim wins — an annulled permit, a protected catchment, a recognised adat forest, a documented violation acted on — and understand that in Indonesia the decisive struggle is often to make a win stick.
 
-And Indonesia offers genuine equalisers: the recognised rights of **customary communities** over their **hutan adat**; **strict liability** that makes the polluter answer without the community proving fault; the **citizen lawsuit** and **organisational standing** that let people and NGOs sue; the **administrative-court** route that cancelled the Kendeng permit; the **anti-SLAPP** protection for those who defend the environment; and the **information law** that prises the file open. When a project truly cannot lawfully proceed, a court can cancel it — as at Kendeng, remembering that such a win must then be defended.
+## Holding Two Truths
 
-Know your situation. Assess how tilted the system is, honestly. Watch for genuine corruption and refer it to the anti-corruption bodies. Keep organisers and whistleblowers safe — the danger here is real. Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers.
+Throughout, hold the two truths this guide began with. Indonesia gives organised communities genuine levers — an assessment system whose defects can void a permit, administrative courts that can annul it, a Constitutional Court that has affirmed adat forest, protections for water and farmland, a public-information law, a fierce press, and deep environmental and adat movements. And Indonesia's central weakness is that wins can be undone — permits re-issued, rules weakened, recognition delayed — and that resistance can carry real risk. A community that understands both will neither despair nor overpromise. It will use every lever, win where it can, be ready to fight on after a victory, protect its people, and keep the record — knowing that in Indonesia farmers once took a state company to the highest court and won.
 
 ---
+
+# FINAL ASSESSMENT
+
+The honest bottom line for an Indonesian community facing a destructive project is this. **You are not powerless, and you are not without precedent — Indonesia is a place where farmers took a state-owned company to the Supreme Court and had its permit struck down.** The tools are real: an environmental-assessment system whose defects and hollow participation can void a permit, administrative courts that can annul an unlawful decision, a Constitutional Court that has recognised customary forest as belonging to adat communities, protections for water-catchments and farmland, a public-information law, and a free press and a deep environmental and adat movement.
+
+**But the tools work only when you can make them stick.** Indonesia's characteristic problem is not the absence of law but the undoing of wins — permits re-issued to defeat a court, participation rights narrowed by the 2020 Omnibus Law, adat recognition delivered slowly, campaigners pressured. So temper hope with realism. Where the assessment is genuinely defective, or the land is adat forest or a protected catchment, and you can reach the courts and the press, your chances of stopping, stalling, or reshaping a project are real — Kendeng is the proof. Where the government and its investors back the project and officials will re-issue permits, an outright stop is hard, and the realistic wins are an annulled and re-fought permit, delay, protected water and land, safeguards, and exposure.
+
+Whatever your situation, the method is the same: identify the project and its weakest link precisely — most often a defective assessment over water you depend on; document relentlessly, using the public-information law to extract the record; assert the participation and the rights the law gives you — the AMDAL involvement, the adat-forest rights, the water and farmland protections; organise a broad and enduring coalition built to outlast a re-issued permit; bring in the environmental groups and the legal-aid institutes; take a defective permit to the administrative court within the time limit; take the story to the press; and follow through to make the win stick. Combine the strands, protect your people, keep the record, and endure. The farmers of Kendeng, with cement on their feet and a hydrologist's report in their hands, showed Indonesia that a determined community with the law on its side can bring a state company down in the highest court. Their fight — years long, costly, and unfinished even after victory — is proof that in Indonesia a community that refuses to be worn down can force the state, the courts, and the companies to reckon with it. That is your reason to begin, and your reason to endure.

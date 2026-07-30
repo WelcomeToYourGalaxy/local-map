@@ -1,1042 +1,457 @@
-
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN BRAZIL
 
-**Complete Community Opposition How-To**
-
-A practical guide for communities facing destructive development projects in Brazil, grounded in the environmental-licensing and constitutional system and documented campaigns
-
-*This guide is written in English but uses the Brazilian legal terms you will actually encounter (licenciamento ambiental, EIA/RIMA, ação civil pública, and so on), each explained in plain language where it first comes up. It describes the federal framework and uses examples from across Brazil; states and municipalities have their own rules, so check locally.*
-
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
-
-> **A note on timing.** Brazil's general environmental-licensing rules changed in 2025 (Law 15.190/2025) and parts of that law are being challenged in the Supreme Court (**STF**). This guide explains the durable constitutional framework and the licensing stages, and flags where the 2025 changes matter — but check the current state of the rules before you rely on any detail.
-
----
-
-## TABLE OF CONTENTS
-
-1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
-2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
-3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
-5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
-7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
-8. **STEP 4: LEGAL CHALLENGES** — Participation, the Ministério Público, and the ação civil pública
-9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
-10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
-11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
-13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
-14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
-15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
-
----
+*Complete Community Opposition How-To*
 
 # INTRODUCTION & FRAMEWORK
 
-## Why This Matters
+Community action decides project outcomes in Brazil. The clearest recent proof came from a bend in the Tapajós River, deep in the Amazon. The government planned **São Luiz do Tapajós**, an eight-thousand-megawatt mega-dam — what would have been the country's second-largest, the first of a cascade of dozens planned for the basin — and it would have flooded **Sawré Muybu**, the traditional land of the **Munduruku** people. For years the government insisted the land was not officially Indigenous, and stalled its recognition. So the Munduruku did something extraordinary: frustrated by the delays, they **marked out the boundaries of their own territory themselves** — an act of self-demarcation — and kept up the pressure alongside allies. In April 2016, Brazil's Indigenous agency **FUNAI** published a report recognising Sawré Muybu as Munduruku land; within a day, the environmental agency **IBAMA suspended the dam's licensing**, and by August it had **denied the licence outright**, citing reports from FUNAI, the federal attorney's office, and its own technicians. A mega-dam that had seemed inevitable was stopped, because a people asserted a constitutional right to their land and a chain of institutions was made to honour it. The scale is worth grasping: São Luiz do Tapajós would have generated some eight thousand megawatts, and it was only the first of a planned cascade of dozens of dams across the Tapajós basin. FUNAI's report recommended demarcating roughly 178,000 hectares of Munduruku land; IBAMA suspended the licensing within a day of it and formally denied the licence that August, weighing the opinions of FUNAI, the federal attorney's office, and its own technical staff — all of which advised against it. The Constitution forbids flooding Indigenous land save in the most exceptional circumstances and only with the authorisation of Congress, and once the land was recognised, that barrier could not be wished away.
 
-Community action directly determines project outcomes in Brazil. Projects that clear every political and commercial hurdle still fall when opposition is organised, documented, and legally sharp. In August 2016, after years of resistance led by the **Munduruku** people, the federal environmental agency **IBAMA** shelved the licensing of **São Luiz do Tapajós** — the largest hydroelectric dam then planned for the Amazon — because it would have flooded Indigenous land the Constitution protects. Across the country, communities, the **Ministério Público** (the independent Public Prosecutor's Office), and their allies have forced projects to be refused, suspended, redesigned, or abandoned. These outcomes were not inevitable; communities made them happen.
+Tapajós teaches two things about winning in Brazil. The first is the pattern: not a single silver bullet, but the combination of every lever — the environmental licensing and its public hearings, the constitutional shield around Indigenous land, prior consultation, the courts, mobilisation, and national and international attention — pressed until a project became legally and politically impossible. The second is distinctly Brazilian. Brazil has an institution most countries lack: an **independent Ministério Público** — public prosecutors with a constitutional duty to defend the environment and traditional peoples, who can investigate a project and take it to court on a community's behalf through a powerful collective lawsuit, the **ação civil pública**. A community here does not always have to sue; sometimes it persuades a prosecutor to sue for it — an independent, publicly funded litigator that a proponent cannot outspend or outlast, and that answers not to the government but to the law and the public interest.
 
-But most communities don't know HOW to make opposition effective. They speak once at the **audiência pública** (public hearing), then give up. They assume "the agency will refuse it" without building public pressure or triggering the Public Prosecutor. They generate coverage without a strategy. They organise people and then lose them to burnout after four months.
+Most communities, though, do not know HOW to make opposition effective. They attend one public hearing and go home. They assume the project "will be licensed anyway," and so they never file a substantive objection, never take a complaint to the Ministério Público, never demand consultation, never assert the constitutional protection of their land, never build the mobilisation that changes a decision. They generate a burst of outrage without a plan to sustain it. They gather a crowd and lose it to exhaustion. The gap between a community that stops a project and one that watches it get built is rarely courage or numbers. It is method.
 
-**This guide shows what actually works — in the Brazilian system.**
+**This guide shows what actually works — inside the Brazilian system.**
 
 ## The Strategic Framework
 
-Successful opposition campaigns follow the same basic pattern:
+Effective opposition campaigns follow the same underlying pattern, whichever project they face:
 
 ```
-STEP 1: TARGET IDENTIFICATION
-↓
-STEP 2: DOCUMENTATION (proof of harm)
-↓
-STEP 3: LOCAL OPPOSITION BUILD (organised community)
-↓
-STEP 4: LEGAL CHALLENGES (Public Prosecutor / court pressure)
-↓
-STEP 5: MEDIA STRATEGY (public visibility)
-
-These operate SIMULTANEOUSLY (not sequentially)
-Each step amplifies the others
-Multi-tactic pressure compounds toward victory
+STEP 1: TARGET IDENTIFICATION  (find the decision and its weak point)
+        |
+STEP 2: DOCUMENTATION          (build proof of harm and of every defect)
+        |
+STEP 3: LOCAL OPPOSITION        (organise a movement that lasts)
+        |
+STEP 4: LEGAL CHALLENGES        (licensing, the Ministério Público, consulta, Indigenous rights)
+        |
+STEP 5: MEDIA STRATEGY         (make the fight visible and impossible to ignore)
 ```
 
-**Why the legal step matters so much here:** Brazil gives communities an unusually powerful set of levers. The **Ministério Público** — a constitutionally independent institution with no equivalent in many countries — can open an investigation (**inquérito civil**) and bring a **ação civil pública** (public civil action) to suspend or annul a licence, and communities can *ask it to act* at no cost to themselves. Any citizen can bring an **ação popular** to annul an act that harms the environment. Projects affecting **Indigenous** or traditional communities require **free, prior and informed consultation** under **ILO Convention 169**. And the Constitution itself (article 225) guarantees an ecologically balanced environment and requires an impact study for potentially damaging projects. No Brazilian campaign should be planned without understanding these.
+These steps operate **simultaneously, not in sequence**. Documentation feeds the legal case and the media story at once; the movement sustains the pressure that decision-makers and courts respond to; a lawsuit is a headline and a headline strengthens a lawsuit. The community that runs all five together, each reinforcing the others, is the one that wins. The Munduruku did exactly this — they documented and demarcated their land, organised a durable resistance, worked with prosecutors and allies, and made the Tapajós a national and international story, all at once.
 
-## Critical Caveat: A Tilted System Can Make Opposition Harder (But Doesn't Make It Impossible)
+## The Levers That Are Distinctly Strong Here
 
-**Before you invest time, money, and emotional energy, understand this:**
+Every country's system has its own pressure points. Brazil's give communities a distinctive set:
 
-**First, a definition.** This guide calls it a **system tilted toward approval** (sometimes called *institutional bias*). It does not mean anything illegal. It means the bodies that decide on a project lean toward approving it — because the government treats it as a strategic priority, because the developer's own study drives the assessment, or because political and economic pressure to say yes is intense.
+- **The Ministério Público.** Independent federal and state prosecutors have a constitutional mandate to defend the environment, Indigenous peoples, and collective rights. A community can file a **representação** (a complaint), and the prosecutor can open an investigation and bring an **ação civil pública** — a collective lawsuit that can win an injunction halting the project. This is Brazil's single most distinctive lever.
+- **The constitutional shield around Indigenous and traditional land.** Under **Article 231** of the Constitution, Indigenous peoples hold original rights to their traditionally occupied lands, and flooding or exploiting them for energy or mining requires prior consultation and even **authorisation by Congress** — a formidable barrier, as Tapajós showed. Quilombola and other traditional communities hold related protections.
+- **Prior consultation.** Under **ILO Convention 169**, Indigenous and traditional peoples have a right to **free, prior, and informed consultation**, and communities have written their own binding **consultation protocols** to define how it must be done.
+- **Environmental licensing with public hearings.** Major projects need a staged environmental licence based on an **EIA/RIMA**, with a mandatory **audiência pública** — a formal entry point for evidence and objection.
+- **The citizen's own lawsuit.** The **ação popular** lets any citizen go to court to annul an act that harms the environment or the public patrimony.
+- **A deep resistance tradition.** From the Amazon to the cities, Brazil has a powerful tradition of community, Indigenous, and social-movement mobilisation.
 
-When these factors are present, opposition becomes harder. It does not become impossible. It becomes slower and more expensive and has a lower chance of stopping a project outright — but it still routinely wins suspensions, conditions, redesigns, and delay. Brazil has a specific device — the **suspensão de segurança** — that lets the government keep a project going even after a court has ruled against it; you need to understand it (Section 10). Where there is genuine misconduct — bribery, an undeclared interest, **improbidade administrativa** — that is a different and more serious problem, covered in Section 11.
+## What This Guide Will Not Pretend
 
-**This is covered in Sections 10 and 11. Read them before committing resources.**
+It would be dishonest to promise these levers always prevail. Brazil has a powerful countervailing tool, the **suspensão de segurança**, by which the government can persuade a senior judge to **lift an injunction** on grounds of harm to the public order or economy — the very mechanism by which the **Belo Monte** dam was built despite dozens of prosecutors' victories against it. Environmental licensing approves the great majority of projects, and the agencies that stopped Tapajós have at other times been pressured and weakened by the government of the day. Demarcation of Indigenous land is slow and bitterly contested. And Brazil is one of the most dangerous countries on Earth to be a land or environmental defender. This guide takes those facts seriously, names them plainly, and shows you how to win anyway — and, where an outright stop is not realistic, how to secure the delay, the conditions, the exposure, and the worn-down proponent that, in a hard fight, are often what winning actually looks like.
 
----
+# HOW THE SYSTEM WORKS
 
-# HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
+You cannot pull a lever you cannot see. Before you spend a single weekend, map who actually decides your project's fate, at which level, and where along that path the decision is weakest.
 
-If you've never dealt with how projects get approved, read this section first. It explains, in plain terms, who holds power over a development in Brazil, how a decision gets made, why the money so often points toward "yes," and the handful of words you'll need. Every term is defined here on first use. The rest of the guide assumes you know this map.
+## The Levels of Decision
 
-## The levels of government — and what each one controls
+A Brazilian development project runs through a structured set of institutions, and each is a place to intervene.
 
-Brazil is a federation with three levels of government, and environmental protection is a shared responsibility.
+**Environmental licensing.** For most significant projects, the decisive process is the staged **environmental licence** — **Licença Prévia**, then **Licença de Instalação**, then **Licença de Operação** — issued by **IBAMA** (for projects of national or regional impact, such as Amazon dams) or by the **state environmental agency**. A high-impact project requires an **EIA/RIMA** and a public hearing. This is where most projects live or die. The licence comes in three stages under the framework set by the environmental council CONAMA: the **Licença Prévia** approves the project's basic concept and location and attaches the conditions that must be met; the **Licença de Instalação** authorises construction; and the **Licença de Operação** allows it to run. Each stage is a fresh decision that can be objected to, challenged, and — if conditions are breached — revisited, so the fight does not end when the first licence is granted.
 
-- **The município (municipality), led by the *prefeito* and *câmara municipal*.** The municipality sets local land use (the **Plano Diretor**, the master plan) and licenses projects with local-only impact.
-- **The estado (state), through its environmental agency (an *OEMA*, e.g. a state environment secretariat or institute).** State agencies run the **environmental licensing** (*licenciamento ambiental*) of most projects.
-- **The União (federal government), through IBAMA.** IBAMA licenses projects with national or interstate impact or special sensitivity — big dams, major roads and ports, offshore oil, and anything affecting **Indigenous lands**, the marine zone, or two or more states.
+**The Ministério Público.** Independent of the government, the **Ministério Público Federal (MPF)** and the state MPs can investigate a project (through an **inquérito civil**) and sue to stop it (through an **ação civil pública**), and they routinely do so in defence of the environment and Indigenous peoples. They are prompted, very often, by a community's complaint.
 
-Which body licenses a project is set by law (mainly *Lei Complementar 140/2011* and **CONAMA** resolutions). Alongside the licensing agency, several specialised bodies must be heard for sensitive projects: **FUNAI** (the National Foundation of Indigenous Peoples) for the "Indigenous component," **ICMBio** for federal protected areas (**unidades de conservação**), the **Fundação Palmares** for **quilombola** (Afro-descendant traditional) communities, and **IPHAN** for cultural heritage.
+**Indigenous and traditional peoples.** Cutting across everything: where a project affects **povos indígenas** or **quilombola** and other traditional communities, their constitutional land rights, their right to consultation, and the demarcation process (through **FUNAI** for Indigenous land) are central — and, for energy or mining on Indigenous land, **congressional authorisation** is constitutionally required.
 
-**So which body decides *your* project?**
-- A local building or small works → the **município**.
-- A factory, a quarry, a medium road, a landfill, agribusiness infrastructure → usually the **state agency (OEMA)**.
-- A big dam, a major highway or port, offshore oil, a transmission line crossing states, or anything touching an **Indigenous land** or a federal protected area → **IBAMA**, with FUNAI/ICMBio/Palmares/IPHAN heard as relevant.
+**The courts.** Environmental and Indigenous disputes run through the **Justiça Federal** and, on constitutional questions, up to the **Supremo Tribunal Federal (STF)** — but subject to the government's power of suspensão de segurança.
 
-## How a decision is actually made — the three licences
+## The Journey of a Project
 
-For projects needing full licensing, the environmental agency issues three licences in sequence:
+A typical major project moves from a proposal, to the **EIA/RIMA** and the licensing process at IBAMA or the state agency, to the **audiência pública**, to the **Licença Prévia** and later licences, through any **consulta** and, for Indigenous land, **congressional** and demarcation questions, into the courts if challenged, and only then to construction. **Every one of those stages is a door you can put your foot in.** The earliest doors are the cheapest and widest: a substantive objection at the hearing, a complaint to the Ministério Público, evidence that the EIA is deficient. The later doors — an ação civil pública, a consulta claim, a constitutional challenge over Indigenous land — are more demanding but real, and communities walk through them and win. Find out exactly where your project stands on this path today; that tells you which door is open now.
 
-1. **Licença Prévia (LP)** — the *preliminary* licence. It approves the project's location and basic concept and its **environmental viability**. This is the most important stage to fight: it is where the big questions (should this be here at all?) are decided, usually on the basis of the **EIA/RIMA** and the **audiência pública**.
-2. **Licença de Instalação (LI)** — authorises *construction* once detailed plans and conditions (**condicionantes**) are set.
-3. **Licença de Operação (LO)** — authorises the project to *operate*.
+## Follow the Money and the Licence
 
-**The impact study.** A project likely to cause significant degradation needs an **EIA** (*Estudo de Impacto Ambiental* — the full technical study) and its plain-language summary, the **RIMA** (*Relatório de Impacto Ambiental*). There must be an **audiência pública** where the community can question the study and put objections on the record. A weak or incomplete EIA is one of the strongest grounds to stop or delay a project.
+Behind the licence stand a proponent, its financiers (often including public development banks), its contractors, and the officials who approved it. A large project is often driven by a consortium answerable to investors, lenders, and a public reputation a campaign can reach. Trace who owns and funds the proponent, who profits, and which agency issued the licence. Two questions unlock most Brazilian fights: **Did the licensing comply with the law — the EIA, the hearing, the consultation, the constitutional protection of the land — and were the impacts honestly assessed?** and **Who benefits from pretending they were?** Mapping the chain also shows where the project is exposed that the licensing agency is not: many large Brazilian projects lean on public development-bank finance and on private investors with their own environmental and human-rights commitments, and a project resting on a constitutionally shaky licence is a risk to every institution behind it. These are pressure points the agency does not control.
 
-**Consultation.** Projects affecting Indigenous peoples, **quilombolas**, or other traditional communities require **free, prior and informed consultation** (*consulta prévia*) under **ILO Convention 169**, according to each people's own protocol. Skipping or faking this consultation is a frequent and powerful ground of challenge.
+## The Overseers
 
-*What changed in 2025.* Law 15.190/2025 (called the *Lei Geral do Licenciamento Ambiental*, and by its critics the "*PL da Devastação*") introduced faster and lighter tracks — a self-declared **Licença por Adesão e Compromisso (LAC)** for lower-impact projects, and a **Licença Ambiental Especial (LAE)** fast-track for "strategic" projects. Parts of it are being challenged at the STF. Check which regime applies to your project.
+Finally, know the bodies that watch the deciders, because they are levers too. The **Ministério Público** is both a watchdog and a litigator. The **Justiça Federal** and the **STF** review legality and constitutionality. The **Tribunal de Contas** audits public money. **FUNAI** defends Indigenous land, and the federal attorney's office (**AGU**) advises the State — its advice against São Luiz do Tapajós helped sink the licence. Each overseer is a separate front, reachable with the same evidence, and a project rarely survives pressure on several at once. You do not have to choose one door: the same well-documented file can go to the licensing agency, the Ministério Público, the Justiça Federal, the Tribunal de Contas, FUNAI, the project's financiers, and the press at once, and each front that opens makes the others harder to close. A Brazilian campaign's power comes not from any single lever but from applying several at the same time — the very stacking that a lone suspensão de segurança cannot undo.
 
-## The rulebook — the laws that decide the outcome
+# QUICK REFERENCE: SUCCESS RATES
 
-- **The Constitution, article 225** — everyone's right to an ecologically balanced environment; the State and society must defend it; an impact study is required for potentially degrading projects. **Article 231** protects Indigenous lands and forbids the permanent removal of Indigenous peoples from them.
-- **The environmental-licensing rules** — the National Environmental Policy (*Lei 6.938/1981*), the CONAMA resolutions, and now Law 15.190/2025.
-- **The conservation-unit law (SNUC, *Lei 9.985/2000*)** — protected areas and their buffer zones.
-- **ILO Convention 169** — free, prior and informed consultation of Indigenous and traditional communities.
-- **The collective-action laws** — the **Ação Civil Pública** law (*Lei 7.347/1985*) and the **Ação Popular** law (*Lei 4.717/1965*) — the tools that get harm in front of a court.
-
-## Follow the money — why the system often leans toward "yes"
-
-- **Municipalities** gain jobs, tax (**ICMS**), and — for dams, mines, and oil — **royalties** and compensation payments, so there is often intense local pressure to approve.
-- **The federal and state governments** promote energy, mining, agribusiness, and infrastructure, and can label a project "strategic," which speeds licensing and hardens political backing.
-- **Developers** are frequently large state or private companies with the resources to fund the studies and the lawyers who prepare and defend the project.
-
-None of this makes a decision inevitable. It explains why a decision rarely tips your way on its own — it takes organised, evidenced pressure.
-
-## The overseers — who watches the decision-makers
-
-- **The Ministério Público** — the independent Public Prosecutor's Office (the federal **MPF** and the state MPs). It can open an **inquérito civil**, sign a binding clean-up agreement (**TAC**, *termo de ajustamento de conduta*), and bring a **ação civil pública** to suspend or annul a licence. It is the single most important accountability actor for communities — and you can trigger it.
-- **The courts** — the **Justiça Federal** (for federal and Indigenous matters) and state courts, up through the regional federal courts (**TRFs**), the **STJ**, and the Supreme Court (**STF**).
-- **The audit and control bodies** — the **TCU** (federal audit court) and state audit courts (TCEs); the **CGU** (federal internal-control and anti-corruption body).
-- **The Defensoria Pública** — public defenders, who can act for affected communities.
-
----
-
-# QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
-
-These ranges describe the general effectiveness of each tactic drawn from documented opposition campaigns. They are patterns, not guarantees. In Brazil, the variable most likely to push a campaign above these ranges is getting the **Ministério Público** to act on a real defect — a fake or missing **consulta prévia**, a fatally weak **EIA**, or a project unlawfully sited on protected or Indigenous land (Step 4).
+Before you commit months of effort, calibrate honestly. These figures are **directional, not guarantees** — patterns drawn from how Brazilian and comparable campaigns tend to go, not a controlled study. The decisive variables are whether the project affects **Indigenous or traditional land** (which raises the constitutional shield), whether the **Ministério Público** takes up the case, whether the **EIA and consultation have real defects**, whether the government deploys a **suspensão de segurança**, and whether the public and the proponent's financiers can be reached. Where Indigenous rights are engaged and prosecutors act, Brazil's levers are strong; where the paperwork is clean and the government is determined, discount the figures and think in terms of delay, conditions, exposure, and mobilisation.
 
 ## Individual Step Success Rates
 
-| Step | Success Rate | Timeline | Cost (BRL) | What "Success" Means |
-|------|--------------|----------|------|---------------------|
-| **Documentation Only** | 5-10% | 3-4 months | R$18K | Project slowed, public awareness only |
-| **Opposition Only** | 15-20% | 6-12 months | R$45K | Public pressure, minor modifications |
-| **Legal Only** | 20-30% | 12-24 months | R$0-60K | Slow; strong if the MP takes it up |
-| **Media Only** | 10-15% | 3-6 months | R$20K | Public knows, but no action |
-| **Docs + Opposition** | 25-35% | 12 months | R$60K | Slowed, some modifications |
-| **Docs + Legal** | 30-40% | 12-18 months | R$60K | Stronger legal arguments, slower |
-| **Opposition + Legal** | 35-45% | 12-18 months | R$90K | Political pressure strengthens the case |
-| **Opposition + Media** | 30-40% | 9-12 months | R$65K | Visibility creates political pressure |
-| **All 5 Steps Combined** | 60-75% | 12-24 months | R$95K | Licence suspended/refused/modified or project delayed |
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Objection at the audiência pública** | 15–35% | during licensing | low | On record; conditions; grounds |
+| **Complaint (representação) to the Ministério Público** | 30–55% | months–years | low | Investigation; ação civil pública; injunction |
+| **Ação civil pública (via MP or association)** | 30–50% | 1–4 years | low–moderate | Injunction; licence suspended or annulled |
+| **Consulta prévia claim (ILO 169)** | 30–55% | 6–36 months | low–moderate | Licensing halted for lack of consultation |
+| **Indigenous / quilombola land defence (Art 231/68)** | 35–60% | years | low–moderate | Project barred from protected land |
+| **Ação popular (citizen suit)** | 20–40% | 1–3 years | low | Harmful act annulled |
+| **Environmental-licence challenge (EIA defects)** | 25–45% | 1–3 years | low–moderate | Licence suspended; reassessment |
+| **Access-to-information route** | high for disclosure | weeks–months | low | Documents released; defects exposed |
+| **Media & public campaign** | 30–55% | ongoing | low | Political cost raised; decision shifts |
+| **International / financier pressure** | 25–50% | 6–48 months | low | Funders or buyers walk away |
+| **All steps combined (Indigenous land, MP engaged)** | 45–65% | 1–5 years | low–moderate | Stalled, suspended, annulled, or cancelled |
+| **All steps combined (clean licence, govt-backed)** | 20–45% | 1–5 years | moderate | Delayed, exposed, conditioned; sometimes stopped |
 
-**Key insight:** All five steps together = 3-4x more effective than any single step.
+**Key insight:** every step together beats any single one, and Brazil's real strengths are distinctive — the **independent Ministério Público** and the **ação civil pública**, the **constitutional shield around Indigenous and traditional land**, **prior consultation** and community protocols, the **ação popular**, licensing **public hearings**, and a **deep resistance tradition**. Its constraints are the **suspensão de segurança** override, a licensing system that **approves most projects**, **slow and contested demarcation**, **agencies vulnerable to political pressure**, and **grave danger to defenders**.
 
-*A note on legal cost: the **Ministério Público** litigates at no cost to the community, and an **ação popular** can be brought by a single citizen — so the "Legal" figures are not a hard floor. The biggest single move a Brazilian campaign can make is a well-documented petition to the MP.*
-
----
+*A note on cost: documenting, objecting, filing a representação to the Ministério Público, and requesting information are inexpensive — and the Ministério Público's power means a community can often trigger a powerful lawsuit **without paying for litigation itself**, which is the single most important fact about Brazilian environmental defence. Where a community or association litigates directly, public-interest lawyers and NGOs (as International Rivers and others were on the Tapajós) can help. The expenditure that most changes outcomes is committed **technical and legal support** and the reach of the **media and mobilisation**.*
 
 ## Effectiveness Visualization
 
 ```
-SUCCESS PROBABILITY (Licence Suspended/Refused/Modified/Shelved)
+SUCCESS PROBABILITY (stalled, delayed, suspended, annulled, or cancelled)
 
-CLEAN DECISION SCENARIO:
-All 5 Steps Combined:  ████████████████ 65-75%
-Same chance as: a coin coming up heads twice (75%)
+INDIGENOUS LAND + MP ENGAGED -- constitutional shield, prosecutors act, community organised:
+All steps combined:          █████████████   45-65%
+Indigenous land defence:     ████████████    35-60%
+MP / ação civil pública:     ████████████    30-55%
+Consulta prévia claim:       ████████████    30-55%
+Single step:                 ██              5-55%
 
-4 Steps Combined:      ███████████████ 55-65%
-Same chance as: a forecast of 60% rain being correct
-
-3 Steps Combined:      ██████████ 45-55%
-Same chance as: a single coin flip (50%)
-
-2 Steps Combined:      ████████ 30-40%
-Same chance as: drawing a face card from a deck
-
-Single Step:           ██ 5-20%
-Same chance as: rolling a specific number on one die
-
-WITH MODERATE TILT FACTORS:
-(Strong "strategic project" backing, or a developer-funded EIA)
-
-All 5 Steps Combined:  ██████████ 40-45%
-4 Steps Combined:      ████████ 30-40%
-3 Steps Combined:      ██████ 20-30%
-2 Steps Combined:      ████ 15-25%
-Single Step:           ██ 3-12%
-
-WITH SEVERE TILT FACTORS:
-(A federal "strategic" megaproject, developer-only studies, use of suspensão de segurança)
-
-All 5 Steps Combined:  ████ 25-30%
-4 Steps Combined:      ███ 18-24%
-3 Steps Combined:      ██ 12-18%
-2 Steps Combined:      █ 8-15%
-Single Step:           █ 2-8%
+CLEAN LICENCE, GOVERNMENT-BACKED -- suspensão de segurança in play:
+All steps combined:          █████████       20-45%
+Mobilisation + media + financier:███████████  the strongest combination
+Delay / conditions:          ████████████    more achievable than an outright stop
+Single step:                 ██              5-45%
 ```
 
-**One important point:** a single clear legal defect — most powerfully a missing or faked **consulta prévia**, a project that would unlawfully flood **Indigenous land**, or a fatally deficient **EIA** — can lead a court or the licensing agency to stop a project even where the politics favour it, because it is applying a constitutional standard the agency cannot ignore. (Be aware that the government can use the **suspensão de segurança** to keep works going while it appeals — see Section 10.)
-
----
+**How to read this honestly.** The levers that most change outcomes in Brazil are **the Ministério Público, the constitutional land shield, and consulta** where Indigenous or traditional peoples are engaged, and **the mobilisation, the media, and financier pressure** everywhere. Tapajós shows the ceiling: self-demarcation, an Indigenous agency's recognition, prosecutors and allies, and public pressure combined to sink a mega-dam's licence. The floor is set by the suspensão de segurança and by a government determined to build — Belo Monte was completed despite dozens of prosecutors' wins, each overturned on "public order" grounds. Most Brazilian fights sit between them, and the honest lesson is that the Ministério Público, the land shield, and mobilisation are real and distinctive levers — but against a clean, government-backed project, the realistic win is often delay, conditions, exposure, and a proponent worn down, as much as an outright, permanent stop. Use the table to plan, not to predict: it tells you which combinations have historically done the most work and where to put scarce time first. The single most important reading is that no row on its own is as strong as the rows run together — the community that documents, activates the Ministério Público, asserts its land and consulta rights, litigates on several fronts, and publicises at once consistently outperforms the one that pins its hopes on any single move or any single injunction.
 
 ## Step Importance Ranking (When All Combined)
 
-```
-1. OPPOSITION BUILDING (Step 3)     ████████████████ 25%
-   Why: creates political pressure, visible to decision-makers, enables other steps
-
-2. DOCUMENTATION (Step 2)           ███████████████ 22%
-   Why: provides ammunition for the MP, legal, and media; grounds opposition in facts
-
-3. MEDIA STRATEGY (Step 5)          ████████████ 20%
-   Why: makes opposition/legal/documentation visible, creates political cost
-
-4. LEGAL CHALLENGES (Step 4)        ███████████ 18%
-   Why: the MP and the courts can suspend a licence — and hold the consultation and EIA levers
-
-5. TARGET ID (Step 1)               ██████ 15%
-   Why: foundation — if wrong, everything fails
-```
-
-**Real insight:** a large, organised, visible community that has also put well-argued objections on the record at the **audiência pública** and handed the **Ministério Público** a documented complaint is far more powerful than perfect documentation or a brilliant legal argument standing alone.
-
----
+1. **The Ministério Público and the ação civil pública** — Brazil's decisive lever; independent prosecutors who investigate and sue on a community's behalf.
+2. **The constitutional shield around Indigenous and traditional land** — Article 231, demarcation, and the congressional-authorisation requirement that sank Tapajós.
+3. **Prior consultation and community protocols** — the ILO 169 right, defined on the community's own terms.
+4. **The mobilised, sustained movement** — the resistance, including self-demarcation, that makes a project impossible and prompts the institutions to act.
+5. **Media and financier pressure** — the coverage and reputational pressure that raise the cost of proceeding.
 
 ## What Brazilian Campaigns Actually Show
 
-A few patterns recur. **Organised opposition is the engine**, and a documented file is its ammunition. Brazil's distinctive lever is the **Ministério Público** — the prosecutors who, through the public civil action (*ação civil pública*), can and do move courts to suspend a licence — so a well-built complaint to the MP is often worth more than any objection. **Indigenous, quilombola, and traditional-community consultation** rights add a second powerful front where they are engaged. **A durable coalition and sustained media** supply the political weight, and the courts and the MP the legal teeth. **The ceiling turns on the project's backing** — a lawfully-approved, politically-favoured project is usually delayed, conditioned, or redesigned, while a defective licence or a violated consultation can be undone. The through-line: **build the file, take it to the MP and the courts, and hold the coalition and the coverage together.**
+A few patterns recur. **Indigenous land can stop a mega-dam** — Sawré Muybu did, through self-demarcation, FUNAI recognition, and a denied licence. **The Ministério Público is a formidable ally** — prosecutors have sued to halt project after project. **Consulta matters** — licensing has been suspended by the courts where the required prior consultation was skipped. **Mobilisation prompts the institutions** — the Munduruku's resistance created the moment FUNAI and IBAMA acted in. **But the suspensão de segurança can override the courts** — Belo Monte proved it — the licensing approves most projects, and defenders face lethal danger. The through-line: **object at the hearing; take a complaint to the Ministério Público; assert the constitutional land shield and consulta; document every defect; mobilise the public and reach the financiers — and expect a long fight measured in delay, conditions, and exposure as much as an outright stop.**
 
 # STEP 1: TARGET IDENTIFICATION
 
-**Time to complete:** Weeks 1-4
-**Cost:** R$0
-**Outcome:** A clear picture of what you're fighting, who decides, and when the decision is final
+Every effective campaign begins by finding the exact decision that governs the project — and its weakest point. Vague opposition to "the dam" goes nowhere; opposition to "the Licença Prévia sought on an EIA that understated the flooding of Indigenous land, without the prior consultation ILO 169 requires and the congressional authorisation the Constitution demands" is a case. Answer five questions.
 
-## Core Questions You Must Answer
+## The Five Core Questions
 
-Before you organise a single person, answer these precisely.
+**1. What exactly is proposed, and under what licence?** Name the project, the proponent, and the specific instrument it needs or holds — the environmental licence (and whether IBAMA or the state agency), the EIA/RIMA, the water and sectoral permits. Each has conditions and a paper trail, and each is a place a defect hides.
 
-### Question 1: What Exactly Will Be Destroyed?
+**2. What stage is it at?** Entering licensing? EIA under review? Audiência pública held or pending? Licença Prévia granted? In court? Under construction? The stage dictates the door. If the hearing is pending, your objection and evidence are the cheap, powerful route now; if a licence is granted, a complaint to the Ministério Público and an ação civil pública may be the route.
 
-Not: "Environmental damage"
-But: "The reservoir would flood 12 hectares of standing forest and the breeding habitat of a species on the national threatened-species list, plus part of a **quilombola** community's land."
+**3. Does it affect Indigenous or traditional land — and was there consulta?** This is often the decisive Brazilian question. Does the project affect the land of **povos indígenas**, **quilombolas**, or other traditional communities? If so, the **constitutional shield (Article 231)**, the **consultation** requirement, and — for energy or mining on Indigenous land — the **congressional-authorisation** requirement are among the strongest grounds there are. This lever belongs to the affected people; your role is to support their leadership.
 
-Not: "Pollution"
-But: "The plant will emit an estimated [X] of fine particles over the nearest homes of 1,500 people, in an area already near the air-quality limit."
+**4. Is the EIA or the process defective?** Was the **EIA/RIMA deficient** — understating the flooding, the fisheries, the forest, the cumulative basin-wide effects? Was the **audiência pública** a formality? Was **consultation** skipped? Each defect is a ground for the Ministério Público and the courts.
 
-Not: "Community harm"
-But: "The project takes 40 hectares used by riverside (*ribeirinho*) families for fishing and farming and cuts their access to the river."
+**5. Who decides, who benefits, and who is watching?** Which agency and officials licensed it; who owns, funds, and builds it (including any public banks); which Indigenous and traditional communities are affected; and which prosecutors, NGOs, press, and international allies can be reached. This maps your levers and your audiences at once.
 
-**Why this matters:** specific harms are easier to document, litigate, and organise around. Vague opposition dies; specific opposition survives. Harm to an **Indigenous land**, a **quilombola** community, a **conservation unit**, or a threatened species also opens a **specific legal front** (consultation rights; the SNUC rules; the Constitution).
+## A Worked Example
 
-### Question 2: Who Decides?
+Suppose a company proposes a dam or mine that would flood part of an Indigenous community's land, with the EIA under review and the Licença Prévia not yet granted.
 
-You cannot pressure an abstraction. Identify the decision-maker precisely — it is usually one of these:
+Working the five questions: the project needs a **Licença Prévia** from IBAMA or the state agency (pending — get the EIA and act). It is **in licensing**, so the audiência pública objection and a complaint to the Ministério Público are the live routes now, with an ação civil pública held in reserve. The **Indigenous land** raises the **constitutional shield, consulta, and the congressional-authorisation requirement** — led by the community. The **EIA** may be deficient on the flooding and fisheries. The licensing agency decides, so the **Ministério Público, the land shield, the courts, and the public** carry more weight than quiet lobbying.
 
-- **The state environmental agency (OEMA)** — for the **licenciamento** of most projects.
-- **IBAMA** — for big or interstate projects, offshore oil, and anything affecting **Indigenous lands** or federal protected areas.
-- **The município** — for local-impact projects (via the **Plano Diretor** and a local licence).
-And note who else must be heard: **FUNAI** (Indigenous component), **ICMBio** (conservation units), **Fundação Palmares** (quilombolas), **IPHAN** (heritage).
-
-Write it down concretely: "The state agency will decide the **Licença Prévia** after the **audiência pública** on [date]. IBAMA is involved because the site borders an Indigenous land, so **FUNAI** must assess the Indigenous component and **consulta prévia** is required."
-
-### Question 3: What Specific Action Stops It?
-
-Not: "Stop the project"
-But: "Persuade the agency to refuse the **Licença Prévia** for lack of environmental viability" — or, if refusal is unrealistic, "obtain strict **condicionantes**, real compensation, and a redesign."
-
-Not: "Protect the environment"
-But: "Show the **consulta prévia** was skipped or faked, or that the **EIA** is fatally deficient, and get the **Ministério Público** to bring a **ação civil pública** to suspend the licence."
-
-**Why this matters:** you can demand something achievable. Vague demands are easy to ignore; specific ones create measurable pressure and, if the process is unlawful, become the ground for the MP or a court to act.
-
-### Question 4: When Is the Decision Final?
-
-Timeline tells you how much time you have. Map every date: when the **EIA/RIMA** goes on public view, the **audiência pública**, the decision on each licence (LP, then LI, then LO), and the window to react. Because licensing runs in three stages, there are **several moments to intervene** — and a licence can be challenged in court or before the MP after it is issued. The LP stage is the decisive one; don't wait for the LI.
-
-### Question 5: Are There Documented Financial or Policy Pressures?
-
-This is the tilted-system assessment question. Know it BEFORE you organise:
-- Has the project been labelled **"strategic"** or fast-tracked (e.g. under the new **LAE**), hardening political backing?
-- Is the **EIA** funded and written by the developer only?
-- Does the município depend on the project for jobs, **ICMS**, or **royalties**?
-- Is the developer a big state or private company with deep resources for studies, lawyers, and appeals?
-- Is there any sign the government would use a **suspensão de segurança** to keep works going despite a court ruling?
-
-**Why this matters:** if strong "strategic project" backing or developer-controlled studies are present, opposition must overcome different barriers (Section 10). It doesn't mean opposition can't work — it means realistic expectations and, often, a focus on the **consulta prévia** and **EIA** defects, on conditions, and on the **Ministério Público**, rather than a straight political refusal.
-
----
+Within a weekend you have moved from "we oppose the dam" to a target list: obtain the EIA/RIMA and object at the hearing; file a **representação to the Ministério Público Federal**; support the community's consulta and its constitutional land claim (and, where they choose it, self-demarcation and a consultation protocol); identify the EIA's defects; map the financiers and public banks; and prepare the river-and-territory story for the press. That is a campaign, not a complaint. Notice what the exercise did: it converted a diffuse fear into a short list of concrete, assignable tasks — get the EIA, file the representação, support the consulta, map the financiers — each tied to a specific lever and each of which can begin this week, several of them before the Licença Prévia is even granted. That is the difference the five questions make.
 
 # STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
 
-**Time to complete:** Months 1-4
-**Cost:** R$15,000-25,000 (BRL)
-**Outcome:** Three polished reports (30+ pages total) showing specific, quantified harms
+Documentation is the foundation everything else stands on. A prosecutor, a federal judge, a journalist, and a project's financiers all move on evidence, not indignation. Build your file in three layers.
 
-**Success Rate (Documentation Alone):** 5-10%
-**Success Rate (Documentation + Opposition):** 25-35%
-**Success Rate (Documentation + Opposition + Legal + Media):** 60-75%
+## Layer 1: The Official Record
 
-## The Three Documentation Layers
+Get the documents the decision rests on. Obtain the **EIA/RIMA** and its annexes; the **audiência pública record**; the **licence and its conditions** (and the technical opinions — *pareceres* — behind it); any **consultation record**; and the FUNAI and land-demarcation status. Much of this is public through the licensing agency and Brazil's **access-to-information law (Lei de Acesso à Informação)**. The gap between what the EIA claims and what the science, the river, and the Constitution require is where cases are won. The Tapajós fight turned on exactly this — the documented reality that the dam would flood recognised Munduruku land, which the Constitution protects, and an EIA and process that tried to wish that away. Read the EIA/RIMA not only for what it claims but for what it quietly concedes and omits — the reservoir area understated, the fisheries surveyed thinly, the downstream and cumulative effects of a whole basin of dams declined, the affected communities undercounted. It is written by consultants paid to secure the licence; read against the grain, with a scientist's eye and against the internal technical opinions once you obtain them, it is often where the strongest objection is hiding in plain sight.
 
-Documentation turns vague opposition ("This is bad") into undeniable evidence ("This specific harm will occur to these specific people/places at these specific costs"). Success comes from three layers working together.
+## Layer 2: The Ground Truth
 
----
+Document the reality the paper hides. Photograph and date the **actual territory** — the river, the forest, the fishing grounds, the villages, the footprint — and geotag it. Log **incidents**: a fish kill, deforestation, river changes, works beyond the licence. Capture **before-and-after** with your own photos and with freely available satellite imagery, which can show clearing and the true scale. Record **the land and its use**: where the affected Indigenous or traditional community chooses to share it, its knowledge, occupation, and self-demarcation of the territory is powerful evidence — the Munduruku's own mapping of Sawré Muybu was central. Add independent technical readings — a fisheries biologist's, a hydrologist's — where you can get them. Community and Indigenous-led monitoring carries real weight.
 
-## LAYER 1: BASELINE CONDITIONS DOCUMENTATION
+## Layer 3: The Defects and the Rights
 
-**What it is:** documentation of existing conditions BEFORE the project begins — including who lives on and uses the land.
-
-**Why it matters:** developers claim "the area is empty" or "already degraded." Baseline documentation proves what — and who — was there, and it cannot be reconstructed later.
-
-**Documented case — the Munduruku and the São Luiz do Tapajós dam**
-
-São Luiz do Tapajós would have been the largest hydroelectric dam planned for the Amazon, on the Tapajós River in Pará. Its supporters treated the affected land as open territory. The **Munduruku** people made that impossible. Because the government was slow to demarcate their land, the Munduruku carried out their own **self-demarcation** (*autodemarcação*) — physically marking and mapping the boundaries of the **Sawré Muybu** Indigenous territory — and documented that the reservoir would flood their villages. That community-produced record went into the official process.
-
-It changed the outcome. In April 2016, **FUNAI** formally recognised the Sawré Muybu Indigenous Land; the same day, IBAMA suspended the licensing. Drawing on FUNAI's opinion, recommendations from the **Ministério Público Federal**, and its own technical staff — and finding the developer's impact study fatally incomplete — **IBAMA shelved (*arquivou*) the licensing on 4 August 2016**, because flooding the Indigenous land would force the removal of Munduruku villages, which the Constitution forbids. Without a licence, the dam could not be auctioned or built. The Munduruku, with allies, treated it as a landmark win. (The demarcation still faced later challenges, and other dams remained proposed on the river — a reminder that a win often has to be defended.)
-
-**Why it matters for you:** the Munduruku's own documentation — who lived there and what would be lost — was the thing the agency and the prosecutors could act on. Documenting existing conditions, including human occupation, is the foundation of everything that follows.
-
-**Building your own baseline (typical process).** Document existing conditions before the project starts, because a developer will claim the site is "already degraded" and baseline cannot be reconstructed later. A workable approach: monthly surveys across a season cycle of the project area plus upstream/downstream reference points; a species inventory with GPS locations of key habitat, flagging anything on the national or state threatened-species lists that the developer's **EIA** omitted; a record of any **Indigenous**, **quilombola**, or **ribeirinho** occupation and use of the land and river; proximity to any **conservation unit** or its buffer zone; and hydrology (pH, dissolved oxygen, temperature, seasonal flow). Typical cost is around R$15,000-20,000 for a *consultoria ambiental*, GPS, and water-testing supplies — reducible with knowledgeable community members, university partners, and naturalists. Dated, same-spot seasonal photographs and geo-referenced maps make it credible.
-
----
-
-## LAYER 2: IMPACT ANALYSIS
-
-**What it is:** detailed analysis of what specific harms will occur, based on the project description plus your baseline.
-
-**Why it matters:** it shows not just "something bad" but "specifically THIS BAD in THIS WAY" — and it maps directly onto what the **EIA** must properly assess.
-
-**Use the developer's own words and the assessment rules.** Powerful, documentable weak points in Brazilian assessments include:
-- **The EIA's completeness.** The impact study must genuinely assess the project's significant effects and alternatives. An EIA that omits an impact, understates it, or fails to show environmental viability can be sent back or become the ground to suspend a licence — this is part of what sank São Luiz do Tapajós.
-- **Consultation.** If the project affects Indigenous, **quilombola**, or traditional communities and the **consulta prévia** under ILO Convention 169 was skipped, rushed, or run by the developer instead of the State, that is a strong and specific defect.
-- **Cumulative impacts.** Projects are often assessed in isolation; showing the combined effect with other nearby projects (as with the dams and mines on the Xingu and Tapajós) is frequently the gap in the developer's study.
-
-Convert each of the developer's admissions ("temporary disturbance," "limited flooding") into a quantified prediction against your baseline.
-
-**Outcome (illustrative):** an **EIA** found incomplete on species, water, cumulative effects, or consultation can be sent back, adding months or years — or can ground the suspension of the licence by the **Ministério Público** or a court.
-
----
-
-## LAYER 3: HEALTH & ECONOMIC IMPACT DOCUMENTATION
-
-**What it is:** quantification of human-health and economic costs to the community.
-
-**Why it matters:** decision-makers and the public respond to human cost. "X hectares affected" matters less than "an estimated 45 additional respiratory cases a year, and R$X of health-system cost" — or "the fishery that feeds 200 families destroyed."
-
-**Method:** use recognised air-quality or water modelling and the public-health literature to translate emissions or river changes into health and livelihood outcomes, then attach costs — additional respiratory and cardiovascular cases, lost fishing and farming income, and total annual and lifetime cost for the affected population.
-
-**Outcome (illustrative):** an independent health-and-livelihood analysis can move a município, feed the **Ministério Público**, and force conditions the original design lacked.
-
----
-
-## How to Structure Your Documentation
-
-### Phase 1: Baseline Conditions (Months 1-2)
-Engage a *consultoria ambiental* (or use knowledgeable community members, university researchers, and naturalists); set a seasonal survey schedule; document conditions AND human occupation/use. **Deliverable:** a 20-30 page baseline report with species/habitat inventory, a record of Indigenous/quilombola/ribeirinho use, water-quality data, dated photographs, and geo-referenced maps.
-
-### Phase 2: Impact Analysis (Months 2-3)
-Obtain the **EIA/RIMA** and the licensing file; identify specific impacts; test the study against the rules (completeness, consultation, cumulative effects, protected areas). **Deliverable:** a 20-30 page impact analysis with quantified predicted impacts, comparison to baseline, and the developer's own admissions quoted back.
-
-### Phase 3: Health/Economic Analysis (Months 3-4)
-Identify affected populations; estimate health and livelihood impacts and costs. **Deliverable:** a 15-20 page report written for the public and press.
-
----
-
-## Common Documentation Pitfalls (What Fails)
-- **Waiting for perfect data.** Documented data beats perfect data that arrives after the licence.
-- **Only environmental data.** Add health, livelihood, and human-occupation impacts — the arguments that move decision-makers, the MP, and the public.
-- **No independent check.** A report the agency can dismiss as "activist material" is far stronger after an independent expert or a university reviews it.
-- **Ignoring the developer's own admissions.** Their **EIA/RIMA** is your best source; quote it against itself.
-
----
-
-## Documentation Budget Breakdown (BRL)
-
-| Item | Cost | Notes |
-|------|------|-------|
-| Consultoria ambiental (baseline + species ID) | R$12,000 | Threatened-species and habitat survey |
-| GPS / survey equipment | R$1,500 | Mapping/documentation |
-| Water-quality testing supplies | R$1,500 | Sampling across seasons |
-| Independent / university expert review | R$3,000 | Credibility |
-| Printing/distribution | R$1,000 | Copies for decision-makers |
-| **TOTAL** | **R$19,000** | Reducible with university partners and community members |
-
----
+Finally, document the failures of process and the constitutional lines the project crosses. Does it **flood or exploit Indigenous or traditional land** protected by the Constitution, without **congressional authorisation**? Was **prior consultation** skipped or faked? Was the **EIA/RIMA deficient** — understating the flooding, the fisheries, the forest, the cumulative basin-wide effects? Was the **audiência pública** a formality? Each defect is a separate ground — for an objection, a representação to the Ministério Público, an ação civil pública, a consulta claim, or a constitutional challenge — and together they make a case that is hard to wave away. This is the layer that most often decides Brazilian fights, because here a project that looked licensable is revealed to violate the constitutional protection of a people's land, to have skipped consultation, or to rest on an assessment that hid its true harm. Work it methodically against each requirement: does the project touch constitutionally protected land, and was there congressional authorisation; was there genuine prior consultation on the community's terms; were the flooding, the fisheries, the forest, and the cumulative basin-wide effects honestly assessed; was the audiência pública real; are the licence conditions being met? Where the answer is no, capture the proof — because each 'no' is a separate ground a prosecutor, a court, or the constitutional shield can act on.
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
-Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+This is the practical companion to Step 2: the specific records that decide Brazilian cases, and where to obtain them. You will not need every item; you will need the few that expose your project's particular defect.
 
-**Start at the deciding body's register and the município's own website.** In Brazil the official documents for a project — the licensing application, the EIA/RIMA (impact study and its plain-language report), the public-hearing (audiência pública) notices, the licence — are posted by the body running the review: the state environmental agency (órgão estadual) or IBAMA for federal licensing, the município for local matters, and the licensing runs through licença prévia, de instalação, and de operação. The official documents for most local projects live on the município's own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+## The Licences and Their Paper Trail
 
-**The project file and the EIA/RIMA.** Get the developer's EIA/RIMA as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+- **The EIA/RIMA and its annexes**, from the licensing agency (IBAMA or the state agency). Read it for what it understates — the area flooded, the fisheries and river, the forest, the affected communities, the cumulative effects of a whole cascade of dams.
+- **The audiência pública record** — who spoke, what was asked, and whether concerns were answered.
+- **The licence and the technical opinions (pareceres)** behind it — including any FUNAI, ICMBio, or agency technicians' opinions; a critical internal opinion that was overridden is powerful, as the opinions against Tapajós proved.
+- **The consultation record** — whether consulta prévia happened, how, and whether the community accepts it as genuine.
+- **The land status** — the FUNAI demarcation stage of any Indigenous territory, or the quilombola titling status, that the project would affect.
+- **The water and sectoral permits**, and the financing (including any public development bank involvement).
 
-**Baseline environmental data.** State and federal environmental data; protected-area and species records; and the developer's own EIA/RIMA baseline studies (the RIMA is the accessible summary).
+## How to Get Them
 
-**Ownership and money.** Company ownership from the Junta Comercial / Receita (CNPJ); land from the cartório de registro de imóveis; and officials' asset declarations and campaign-finance records (TSE).
+Much of the licensing file is public through the agency, and the **audiência pública** is a key open window — so watch for it and act while it is open. For everything else, use Brazil's **access-to-information law (Lei de Acesso à Informação)**: a request to IBAMA, the state agency, FUNAI, or the relevant body obliges a response. A refusal is itself a documentable fact. And remember a distinctively Brazilian route: you do not always have to gather everything yourself — a **representação to the Ministério Público** can trigger an **inquérito civil**, and the prosecutor has powers to **requisition documents** the community could never obtain alone. Move early, because objections and evidence entered while the licensing is open carry more weight than the same point raised after the licence is granted. A practical tip: make access-to-information requests specific and dated, keep proof of when you sent them and when they were answered, and treat a refusal not as a dead end but as a documentable fact — and, better still, as something to hand to a prosecutor, whose requisition powers reach files a citizen's request cannot. An agency that will not release its own technical opinions on a project is telling you something worth knowing, and telling a prosecutor too.
 
-**Case law and precedent.** Court decisions are published by the tribunals; the Ministério Público's civil-inquiry records are often public too.
+## The Ground Evidence
 
-**How to force a document open.** A request under the **Lei de Acesso à Informação (LAI, Lei 12.527/2011)** compels disclosure of records a public body holds. Use the request wording in Section 8E.
+- **Dated, geotagged photographs and video** of the territory, the river, the forest, the villages, the works.
+- **Satellite before-and-after** from freely available imagery, to show clearing, flooding, or the true extent.
+- **The land and its occupation** — where the community chooses to share it, its mapping and self-demarcation of the territory, its use of the river and forest; the Munduruku's own maps were decisive.
+- **Independent technical readings** — a fisheries biologist's, hydrologist's, or forest ecologist's report, and an independent review of the EIA. NGOs and university partners can help source these.
+- **Maps** overlaying the footprint on the Indigenous or quilombola territory, the river, the forest, and the protected area — a single map showing a reservoir over a people's land is worth pages of argument.
+- **Testimony and knowledge** — from the affected community (on its own terms and led by it), and from riverside dwellers, fishers, and independent experts.
 
-**Free and low-cost help.** The **Ministério Público** (federal MPF and state MPs) is the decisive ally — it can open inquiries and bring the ação civil pública; the **Defensoria Pública** and NGOs assist communities.
+## Organise It So It Persuades
 
-**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+Keep a **master timeline** of every licensing step, the hearing, the licence, the consultation, incidents, and deadlines — the spine of any case, and of any representação to the Ministério Público. Keep a **document index** so any fact can be sourced in seconds. And keep an **argument bank** (developed in a later section) that pairs each fact with what it proves, to whom. A well-ordered file is not bureaucracy; it is what lets a volunteer, a prosecutor, a journalist, and a judge all see the same clear picture fast — and it guards against the campaign's own worst enemy, a claim that cannot be sourced when the other side challenges it. In a fight that can run for years and pass through many hands, the community with the better-kept file is very often the one that prevails.
 
-## Researchers for Hire, and Everyday Research Tools
+# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE A MOVEMENT THAT LASTS
 
-If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+Evidence and law do not stop projects on their own. Organised people do — sustained, visible, and credible over the months or years a fight takes. This is the step the Munduruku did best: a people who organised their resistance, mapped their own land, and did not let the government's delays defeat them.
 
-For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
+## Phase 1: The Core, and the Leadership of the Affected People
 
-# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
+Start with a small, committed core — five to fifteen people who will carry the work. Where the project affects an Indigenous, quilombola, or other traditional community, the single most important early step is to **respect and support that community's own leadership and organisation**: the constitutional land rights and the right to consultation are theirs, and the strongest campaigns support that leadership rather than substituting for it. Follow the community's lead, and never presume to speak on its behalf. Assign roles: documentation, legal and Ministério Público liaison, technical, media, community liaison, and coordination. Agree on the goal — a denied or suspended licence, a project barred from the land, conditions, a financier walking away — and on what you will and will not accept.
 
-**Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
-**Cost:** ~R$45,000 (BRL) for a full year
-**Outcome:** 50-100 core people, 5-10 organisations, sustained organisation
+## Phase 2: The Coalition
 
-**Success Rate (Opposition Alone):** 15-20%
-**Success Rate (Opposition + Documentation + Legal + Media):** 60-75%
+Then widen deliberately. Bring in **riverside and fishing communities, neighbouring towns, unions, faith networks (such as the Catholic Church's Indigenous and pastoral bodies), students, and scientists**. Reach the **allies with capacity** — the environmental and Indigenous-rights NGOs and public-interest lawyers who litigate these cases; the national and international organisations (as International Rivers, Greenpeace, and Amazon Watch were on the Tapajós) whose reach and expertise amplify a local fight; independent scientists; and the financier-facing campaigners who pressure banks and buyers. The Tapajós campaign drew its power from exactly this breadth — the Munduruku joined to national and international allies and to sympathetic prosecutors — which is precisely the spread a winning campaign needs.
 
-## Critical Insight About Organising
+**A worked coalition example.** Facing a dam on Indigenous land, the affected people lead; riverside communities and a fishing colony join; national and international NGOs bring reach and science; a prosecutor opens an inquérito civil on the community's complaint; and financier campaigners brief the project's banks. No single group could have carried it; together they cover documentation, law, science, Indigenous legitimacy, national and international reach, and financial pressure.
 
-**Most opposition campaigns fail not because they can't build opposition, but because opposition burns out after 4-8 months.** You need structures that prevent it.
+## Phase 3: Sustaining It
 
----
+Campaigns die of burnout, not defeat. Meet on a rhythm. Give people concrete, finishable tasks. Mark small wins — a hearing packed, a document requisitioned by a prosecutor, an inquérito opened, a critical parecer surfaced. Rotate the exhausting roles. And protect people — this matters gravely in Brazil, one of the most dangerous countries for defenders: keep leadership collective and visible; document every threat; build strong links to prosecutors, the press, and national and international networks that raise the cost of harming a known, connected leader; and get security and legal advice. Sustaining a campaign — as the Munduruku's years of resistance show — is how these fights are won, and the ones that endure pace themselves. Build in the things that keep people together and safe: welcome newcomers, share food, mark the victories, root the campaign in the community's own life and leadership, and never let a leader stand alone and exposed. In Brazil, durability and collective visibility are not only how a campaign outlasts a proponent betting on fatigue — they are also part of how its people stay protected.
 
-## PHASE 1: FOUNDATION (Months 1-2)
+## Phase 4: Showing Strength
 
-**Goal:** a core group of 15-20 motivated people and a clear picture of their concerns.
+Numbers and legitimacy must be seen. Turn people out for the audiência pública and public meetings. Gather objections and testimony. Undertake, where the community chooses, powerful assertions of right — the **self-demarcation** of territory that the Munduruku used to force recognition. Hold peaceful, well-documented actions that make the fight a national and international story, always following the affected people's lead on any action on their land. Be clear-eyed about safety and legal risk, and take advice. The point is not spectacle; it is to demonstrate, to the licensing agency, the prosecutors, the courts, and the financiers, that the opposition is broad, rooted, and not going away.
 
-### Step 1a: One-to-One Conversations
-People don't join movements from flyers; they join from relationships. Identify the 15-20 people most affected or interested. **Talk to** each in person (not by message) for an hour. Ask: "What's your biggest concern about this project?" Listen — don't pitch. Ask what they'd be willing to do. Each person has a different concern (land, water, fishing, health, a place they love, a way of life). Opposition organised around each shared concern is stronger than one generic message.
+# STEP 4: LEGAL CHALLENGES — THE MINISTÉRIO PÚBLICO, CONSULTA, AND THE LAND SHIELD
 
-### Step 1b: Affinity Groups by Concern
-Organise small groups (3-8 people) around a shared concern, not around "opposition":
-- **Land/livelihood group** — land, farming, fishing, river access
-- **Water group** — the river, water supply, flooding, contamination
-- **Health group** — air quality, dust, water-borne disease
-- **Territory/rights group** — Indigenous, **quilombola**, or **ribeirinho** rights and **consulta prévia**
-Each group meets monthly and works out how opposition serves *their* interest, coordinating while keeping its own framing.
+Brazilian law gives communities a real arsenal, and you do not need a final ruling to win with it: an objection, a complaint to a prosecutor, or a lawsuit delays a project, forces disclosure, and creates leverage and headlines. The distinctive move here is that the community often does not litigate alone — it activates the Ministério Público.
 
-### Step 1c: Form or Partner With an Association
-In Brazil, a **registered association** (*associação*) is the natural vehicle: it can speak for the community, collect donations, and — importantly — an association in existence for at least a year, with an environmental or community purpose, has **standing to bring a *ação civil pública***. Formalise one (a name, statutes, a *diretoria*), or partner with an existing local association, a community/Indigenous organisation, or a religious body (in the interior, the **CPT** and diocesan bodies are often key allies).
+## The Ministério Público and the Ação Civil Pública
 
----
+Brazil's single most powerful lever is the **Ministério Público** — independent prosecutors with a constitutional duty to defend the environment and traditional peoples. A community files a **representação** (a formal complaint) with the **MPF** (federal, for Indigenous land, federal licensing, and Amazon matters) or the state MP. The prosecutor can open an **inquérito civil** to investigate, requisition documents, and — if satisfied — bring an **ação civil pública** (Law 7.347/1985), a collective lawsuit that can win an **injunction (liminar)** halting the project and, ultimately, its annulment or the repair of damage. This is transformative: a community with no money can set a formidable, publicly funded litigator in motion. It is worth understanding why this matters so much in Brazil specifically: litigation is slow and can be costly, and a small riverside or forest community rarely has the means to sustain a case against a well-funded consortium for years. The Ministério Público removes that asymmetry at a stroke — the prosecutor carries the cost, wields investigative powers no private party has, and cannot be outspent or outlasted by the proponent. Make your representação detailed, evidenced, and specific — it is the seed of the whole legal fight. The Ministério Público's powers flow from the Constitution itself (Articles 127 to 129), which charges it with defending the environment and other diffuse and collective interests and with protecting Indigenous rights; the ação civil pública is governed by Law 7.347 of 1985. Along the way a prosecutor can also negotiate a **termo de ajustamento de conduta** — a binding conduct agreement that can impose conditions or halt an activity without a full trial. None of this depends on the community having money for lawyers, which is precisely what makes it the great equaliser of Brazilian environmental defence.
 
-## PHASE 2: PUBLIC LAUNCH (Months 2-3)
+## Consulta Prévia and the Constitutional Land Shield
 
-**Goal:** announce opposition to the public, the media, and decision-makers.
+Where Indigenous or traditional peoples are affected, two of the strongest grounds in Brazilian law apply. Under **ILO Convention 169**, the community has a right to **free, prior, and informed consultation**, on its own terms — many peoples have adopted written **consultation protocols** defining how they must be consulted, and courts have halted licensing where consultation was skipped. Brazil incorporated ILO Convention 169 into its law (now by Decree 10.088 of 2019), and the courts treat the consultation duty as binding; crucially, communities have asserted the right to define **how** they are consulted, adopting their own written **protocolos de consulta** — the Munduruku's among the first — which set out who speaks for the people, in what language, on what timeline, and by what decision-making process, so that the State cannot substitute a token meeting for genuine consent-seeking. And under **Article 231 of the Constitution**, Indigenous peoples hold original rights to their traditionally occupied lands; flooding or exploiting them for energy or mining requires prior consultation and **authorisation by the National Congress** — a barrier that, at Tapajós, the recognition of Sawré Muybu made insurmountable. Quilombola communities hold related constitutional land rights. Demarcation of Indigenous land runs through stages — identification by FUNAI, declaration by the Ministry of Justice, and homologation by the President — and it is slow and politically fraught, which is why the Munduruku's self-demarcation mattered so much: it forced the process forward and created the recognised claim the dam could not overcome. For quilombola communities, the right flows from Article 68 of the Constitution's transitional provisions, with titling through the land agency; for both, the recognised (or credibly claimed) territory is a shield a project must reckon with. These levers belong to the affected people; your role is to support their leadership and resource their case where they welcome it. In practice that means offering capacity — research, technical evidence, logistics, a legal or prosecutorial contact — rather than direction, and accepting that the community may pursue the fight on its own terms, in its own language, and toward its own goals. The consultation right and the land are theirs; a campaign that forgets this not only wrongs the people it claims to help but weakens the very ground — the community's own voice and authority — on which the strongest legal case is built.
 
-### Step 2a: Public Meeting (*reunião* / *assembleia*)
-Hold a community meeting where people set out their concerns to themselves, to the **prefeito** and councillors, and to press. A serious, informational meeting carries weight. Typical 3-hour shape: welcome → project explanation → community concerns (each person 3-5 minutes) → expert Q&A (an ecologist, a health voice, a lawyer) → next steps. For Indigenous or traditional communities, follow the community's own **consultation protocol** (*protocolo de consulta*).
+## The Ação Popular and the Licence Challenge
 
-### Step 2b: Opposition Materials (Factsheets)
-One page. Decision-makers won't read 30 pages; one page gets read. Structure: a headline stating the problem → quick quantified facts → the specific impact → **what you're asking for** → the evidence base → contact/resources. Print 1,000; distribute at markets, churches, the *prefeitura* noticeboard, health posts; post a digital version. Cost: ~R$800.
+Two further tools complete the arsenal. The **ação popular** lets **any citizen** go to court to annul an administrative act that harms the environment or the public patrimony — a direct route that does not depend on the prosecutor. And the **environmental licence itself** can be challenged — in an ação civil pública or by judicial review — where the **EIA/RIMA is deficient**, the **audiência pública** was a sham, or the process broke the law; a suspended or annulled licence sends the project back to the start. The ação popular is a distinctive democratic tool: because standing belongs to any citizen, it means a project's licence is never beyond challenge for want of an official claimant, and even a single determined resident can put the legality of an environmental act before a federal judge. Used alongside the Ministério Público's action rather than instead of it, it adds another front the proponent must defend.
 
-### Step 2c: The Public Hearing and a Petition to the Prosecutor (the decisive record)
-Two things matter most here. First, get people to **speak and file written objections at the *audiência pública*** (and demand one if it hasn't happened), each raising real grounds — an incomplete **EIA**, a skipped **consulta prévia**, harm to a protected area, cumulative impacts. Second — and this is the strongest single move in Brazil — **take a documented complaint to the *Ministério Público*** (federal **MPF** if Indigenous land or a federal project is involved; the state MP otherwise) asking it to open an **inquérito civil**. A *pétition* for the wider count helps too. Cost: ~R$100.
+## The Suspensão de Segurança — Know the Counter-Move
 
-### Step 2d: Media Coverage at Launch
-Release data + hearing objections + the fact you've gone to the MP = a story. (Full press-release example is in Section 9, 9G.) Contact reporters, then send the study. Expect 1-3 local stories.
+You must understand the government's counter-weapon. When a community or prosecutor wins an injunction, the government can ask the president of a higher court for a **suspensão de segurança** — an order lifting the injunction on the ground that the project's halt would gravely harm the public order, health, safety, or economy. This is how **Belo Monte** was built despite dozens of prosecutors' victories, each suspended in turn. It does not make the fight hopeless, but it changes the strategy: rely not on a single injunction but on stacking pressure — multiple legal fronts, the constitutional land shield (which is far harder to override), consulta, the financiers, and the public — so that no one suspensão can clear the path.
 
----
+## Where to File and With Whom
 
-## PHASE 3: COALITION EXPANSION (Months 3-6)
-
-**Goal:** grow from 20 core people to 50+ core plus 5-10 organisations.
-
-### Step 3a: Organisation Outreach
-Approach environmental and rights organisations — the **ISA** (Instituto Socioambiental), local and national groups, university research groups, Indigenous organisations (e.g. an **APIB**-affiliated body), fishers' colonies (*colônias de pescadores*), rural-worker unions, the **CPT** (Comissão Pastoral da Terra), and quilombola associations — plus tourism operators and businesses that lose from the project. Research each; contact the right person; explain how opposition serves *their* aims; make a specific, tailored ask.
-
-Tailored asks:
-- **ISA / an environmental group:** "We need help analysing the **EIA** and the cumulative impacts — can you review it?"
-- **A university group:** "Would your researchers assess the health or hydrology impacts independently?"
-- **An Indigenous / quilombola organisation:** "The **consulta prévia** was not done properly — will you document that and join a complaint to the **MPF**?"
-- **Fishers / rural workers:** "This threatens the fishery and the land — will you speak at the hearing and sign the complaint?"
-
-### Step 3b: Coalition Agreements (Written)
-A written agreement — who's in, how decisions are made, meeting frequency, the public message, who may speak for the coalition, conflict resolution, money, and an exit clause — prevents later conflict. Consensus is stronger but slower; voting is faster but can fracture.
-
-### Step 3c: Coordinated Public Work
-Assign leadership by strength: environmental analysis to the NGO/university; rights and **consulta** to the Indigenous/quilombola organisation; livelihood to the fishers/rural workers; media to whoever has the contacts; the legal/MP track to the lawyer and the association. Sequence activities so each builds momentum (coalition launch → data release → act → hearing).
-
----
-
-## PHASE 4: SUSTAINED PRESSURE (Months 6-12)
-
-**Goal:** maintain organised opposition across a 12+ month timeline.
-
-### Step 4a: Public Demonstrations (*manifestações*)
-Regular, same time and place, growing attendance — outside the *prefeitura*, the licensing agency, or at the site. Handle logistics: notice to the authorities where required, marshals, accessibility, and a sound system for 100+. Momentum matters: "50 gather" becomes "gathering grows to 200."
-
-### Step 4b: Media Campaign (Ongoing)
-Monthly rhythm: week 1 a release tied to an event/data; weeks 2-3 social media 3x/week; week 4 a reporter check-in. Rotate themes (hearing objections → expert finding → coalition growth → act → the MP opens an inquiry).
-
-### Step 4c: Common Opposition Failure Points (How to Prevent)
-
-**Failure Point 1: Burnout (Months 4-8).** Prevent it: monthly (not weekly) meetings; celebrate milestones; fund one part-time coordinator so volunteers don't carry logistics; schedule breaks; keep a public progress tracker. Campaigns that bring in a part-time coordinator when founders tire tend to last for years; those that don't often collapse around month six.
-
-**Failure Point 2: Coalition Conflict.** Prevent it with a written agreement and decision process, a clear escalation path (discuss → mediator), an explicit exit clause, and rotating leadership. In Brazil, respect that Indigenous and traditional communities decide by their own protocols — don't let an outside NGO speak over them.
-
-**Failure Point 3: Competing Funding.** Grants with conflicting conditions can pull groups off shared work. Coordinate grants up front and agree no group commits coalition resources without a coalition decision.
-
-**Failure Point 4: No Clear Wins.** Name milestones as victories (500 objections filed, a 200-person act, the **MPF** opening an **inquérito civil**) and publicise cumulative progress.
-
----
-
-## Opposition Building Budget: Year-Long Campaign (BRL)
-
-| Item | Cost |
-|------|------|
-| Factsheet printing (1,000 copies) | R$900 |
-| Website/email hosting (annual) | R$600 |
-| Venue / assembly costs | R$1,500 |
-| Outreach travel (often long distances) | R$4,000 |
-| Objection/petition materials | R$150 |
-| Demonstration supplies (signs, sound) | R$2,000 |
-| Coalition meeting costs | R$1,500 |
-| Part-time coordinator stipend (part-time, 12 months) | R$24,000 |
-| Social-media management (3 months part-time) | R$6,000 |
-| Fundraiser/event costs | R$2,500 |
-| **TOTAL** | **R$43,150** |
-
-**Funding the campaign.** Money typically comes from four places: individual donations (local collections and online *vaquinhas* such as Vakinha or Apoia.se, plus dedicated legal-cost appeals); grants from environmental and rights funders (long lead times — apply early); benefit events; and in-kind support from coalition organisations (expertise, meeting space, volunteer time). A registered association can receive donations and, where eligible, grants. Aim to raise half the budget by month 6 and the rest by month 12. **Reductions:** use a volunteer coordinator, or run a shorter 6-month campaign, to cut ~R$24,000.
-
----
-
-## Hiring Help to Run the Campaign
-
-You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
-
-# STEP 4: LEGAL CHALLENGES — THE PUBLIC PROSECUTOR, THE COURTS, AND CONSULTATION
-
-**Time to complete:** 3-24 months (depends on track)
-**Cost:** R$0-60,000 (BRL; the Ministério Público litigates for free, and an ação popular is cheap)
-**Outcome:** an investigation, a suspended or refused licence, conditions, or a project shelved
-
-**Representation impact:**
-- **The Ministério Público taking up your case:** the single strongest position — it investigates and litigates at no cost to you, with powers you don't have.
-- Experienced environmental lawyers (*advogados*): 35-45% favourable-outcome likelihood
-- General or less specialised representation: 25-35%
-- Self-representation: 5-15%
-
-**Success Rate (Legal Only):** 20-30%
-**Success Rate (Legal + Opposition + Media):** 60-70%
-
-Brazilian legal strategy has three tracks, and the first is unusually powerful here.
-
----
-
-## TRACK 1: THE PUBLIC PROSECUTOR AND PARTICIPATION (the front door)
-
-Most Brazilian environmental fights are won or shaped here — and it can cost the community nothing.
-
-- **Put objections on the record at the *audiência pública*.** Speak, and file written objections raising real **legal grounds** — an incomplete **EIA**, a skipped **consulta prévia**, harm to a **conservation unit** or Indigenous land, ignored cumulative impacts. Demand a hearing if none was held. This builds the record.
-- **Petition the *Ministério Público* to open an *inquérito civil*.** This is the strongest single move available to a Brazilian community. Take a documented complaint to the **MPF** (if the project touches Indigenous land, a federal protected area, or a federal licence) or the state MP. A prosecutor (*promotor* or *procurador*) can then: **requisition documents and studies**; issue a **recomendação** to the agency; negotiate a binding **TAC** (*termo de ajustamento de conduta*) forcing changes; or file a **ação civil pública** to suspend or annul the licence. The MP acts in the public interest — you don't pay, and it has investigative powers you don't.
-- **Use FUNAI, ICMBio, and Palmares.** If a specialised body has flagged a problem — as **FUNAI** did over the Indigenous component of São Luiz do Tapajós — that opinion is powerful; get it into the record and to the prosecutor.
-
-**Why this track matters:** filing well — specific, on time, grounded in the Constitution, the licensing rules, and the evidence — plus triggering the **Ministério Público**, often does more than any amount of noise, and it builds the record you'll need for Tracks 2 and 3.
-
----
-
-## TRACK 2: CONSULTATION AND THE IMPACT-STUDY LEVERS (the strongest cards)
-
-Three grounds make this the most powerful legal tool available to Brazilian communities.
-
-**1. Free, prior and informed consultation (*consulta prévia*, ILO Convention 169).** A project affecting Indigenous, **quilombola**, or other traditional communities requires genuine consultation, conducted by the State, according to the community's own **protocol** (*protocolo de consulta*) — *before* decisions are made. Skipping it, rushing it, or letting the developer run it is a serious, specific defect. The Ministério Público sued over Belo Monte precisely because Indigenous peoples were not properly consulted, and it has repeatedly challenged projects on this ground.
-
-**2. Unlawful siting on protected or Indigenous land.** The Constitution (article 231) forbids the permanent removal of Indigenous peoples from their lands. That constitutional bar — combined with **FUNAI**'s recognition of the **Sawré Muybu** land — is what led IBAMA to shelve **São Luiz do Tapajós**. Harm to a **conservation unit** (SNUC) or its buffer zone is a related strong ground.
-
-**3. A fatally deficient EIA.** The **EIA** must genuinely assess significant impacts, alternatives, and cumulative effects, and demonstrate **environmental viability**. An impact study that omits an impact, understates it, ignores cumulative effects, or fails to show viability is a strong ground to suspend or refuse the licence — IBAMA archived São Luiz do Tapajós partly because the study lacked the content needed to judge viability.
-
-**Standing and cost — why you can get to court.** The **Ministério Público** brings most environmental **ações civis públicas** and litigates for free; associations (in existence a year, with an environmental purpose), the **Defensoria Pública**, and public bodies also have standing; and any citizen can bring an **ação popular**. A court can grant a **liminar** (an urgent injunction) to **suspend** a licence quickly. This means a community with a genuine legal point can get it before a court — often without paying for it.
-
----
-
-## TRACK 3: THE COURTS (ação civil pública, ação popular, liminar)
-
-When a licence is unlawful, it is challenged in court — usually by:
-- a **ação civil pública** (*Lei 7.347/1985*) brought by the **Ministério Público**, an association, the Defensoria, or a public body, to suspend or annul the licence and obtain repair of harm; or
-- a **ação popular** (*Lei 4.717/1965*) brought by any individual citizen to annul an act that harms the environment or public patrimony.
-
-Cases affecting Indigenous lands or federal projects go to the **Justiça Federal**, up through the **TRFs**, the **STJ**, and the **STF**. A **liminar** can freeze a licence or works pending the merits. **Be aware of the counter-move:** the government can ask a court president for a **suspensão de segurança**, which can put a favourable **liminar** on hold — without the merits being decided — by alleging serious harm to public order or the economy. This device repeatedly kept Belo Monte's works going despite rulings for the Ministério Público (see Section 10). Plan for it: a win at first instance may not hold, so keep opposition and media pressure alive alongside the case.
-
----
-
-## Legal Strategy Decision Tree
-
-```
-START: Is an audiência pública or a licence (LP/LI/LO) in process or issued?
-├─ IN PROCESS → File objections NOW (Track 1). Demand a hearing if none was held.
-└─ ISSUED     → You can still challenge the licence in court or via the MP.
-
-Q1: Is there a legal defect the MP or a court could act on?
-├─ NO (lawful process, you just disagree) → No strong challenge; focus on opposition + media.
-├─ UNCLEAR → Take the file to the Ministério Público and to an environmental lawyer.
-└─ YES (skipped/faked consulta prévia; unlawful siting on Indigenous land or a
-        conservation unit; a fatally deficient EIA; ignored cumulative impacts) → Continue.
-
-Q2: Budget?
-├─ R$0       → Petition the MINISTÉRIO PÚBLICO to open an inquérito civil and act; or
-              file an ação popular as a citizen. Both are low/no cost.
-├─ R$0-15K   → MP track + an association-led ação civil pública with a lawyer.
-└─ R$15-60K  → Full ação civil pública + expert evidence, combined with opposition + media.
-
-Q3: Are works imminent?
-├─ YES → Seek a LIMINAR to suspend the licence/works — but plan for a possible
-        suspensão de segurança keeping works going while the government appeals.
-└─ NO  → The action proceeds on the normal timetable.
-
-RECOMMENDED PATHS
-Path A — Clear consultation / siting / EIA defect: hand it to the MINISTÉRIO PÚBLICO with a
-  documented complaint + Track 1 record + media. Highest ceiling, lowest cost.
-Path B — Arguable but not clear-cut: build opposition + media; take the file to the MP and a
-  lawyer; litigate if a defect crystallises.
-Path C — No legal defect: don't litigate. Win it politically, on the record, and in the press.
-```
-
----
-
-## Litigation Success Factors
-Litigation succeeds when **combined** with the other steps:
-- Litigation alone: 20-30%
-- Litigation + opposition: 35-45%
-- Litigation + opposition + media: 50-70%
-- A clear defect — a skipped **consulta prévia**, unlawful siting on Indigenous land, or a fatally deficient **EIA** — can exceed these (as with São Luiz do Tapajós), though the **suspensão de segurança** can blunt an early win on strategic megaprojects.
-
-A prosecutor or court that sees a genuine legal defect, plus visible organised opposition, plus press coverage, treats the matter as serious.
-
-## What to Avoid: Legal Failures
-- **Litigating instead of organising.** A lone technical point with no visible opposition and no MP behind it reads as a niche dispute. Build opposition; trigger the MP; litigate with it all visible.
-- **Not going to the Ministério Público.** In Brazil this is the single most important lever — and communities routinely underuse it.
-- **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The **consulta prévia** required by ILO Convention 169 was not carried out" is a ground the MP and a court can act on.
-- **Assuming an early win is final.** On strategic projects, expect the government to try a **suspensão de segurança**; keep the pressure up.
-
----
+Representações go to the **Ministério Público** (MPF or state); ações civis públicas and ações populares run in the **Justiça Federal** (for Indigenous and federal matters) or state courts, up through the appeals courts to the **STF** on constitutional questions. Get help early: environmental and Indigenous-rights NGOs, public-interest lawyers, and — above all — the prosecutors themselves know exactly these procedures and can advise on the strongest ground and how a non-Indigenous community can properly support a land- or consulta-based case. A representação filed while the licensing is open is worth far more than help sought after the machinery arrives.
 
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
-Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Brazil — so you file the right fact against the right rule.
+You have a file of evidence. Now you must turn it into arguments — because the same fact persuades a prosecutor, a federal judge, a licensing official, a journalist, a financier, and the community itself in different ways. Learning to translate your evidence for each audience is what lets a community reach every lever at once.
 
-**A licence issued without proper EIA or hearing → annulment.** Where the EIA/RIMA or the audiência pública was skipped or deficient. Feed it with: the missing or deficient study and hearing record.
+## One Fact, Many Arguments
 
-**A representação to the Ministério Público → an ação civil pública.** The MP can sue to suspend or annul a licence and seek damages. Feed it with: your documented evidence, handed to the MP.
+Take a single documented fact — say, that a dam would flood recognised Indigenous land, was licensed on an EIA that understated the flooding, and never had the prior consultation ILO 169 requires. That one fact becomes:
 
-**Ignored effects or no alternatives → annulment.** Feed it with: the study's gaps and your expert critique.
+- **A constitutional argument:** the project would flood Indigenous land protected by Article 231 without the congressional authorisation the Constitution demands — the ground that sank Tapajós.
+- **A consulta argument:** the community's right to free, prior, and informed consultation was denied — a ground that has halted licensing.
+- **A prosecutorial argument:** a clear, evidenced representação that gives the Ministério Público the basis to open an inquérito civil and bring an ação civil pública.
+- **A media argument:** a mega-dam that would drown a people's territory, waved through on an assessment that hid it — a clear, human story with a stake.
+- **A financier argument:** a project resting on a constitutionally vulnerable, annullable licence is a legal and reputational risk to the banks and buyers behind it.
 
-**Indigenous or quilombola consultation (ILO 169) skipped → strong ground.** Feed it with: the affected community's position and the absence of free, prior, and informed consultation.
+Same fact, five arguments, five audiences. Go through your strongest facts and, for each, ask what it proves to each audience. That table is your campaign's argument bank — and in Brazil the arguments that most often decide things are the **constitutional land shield and the consulta**, because they are the hardest for even a suspensão de segurança to override, and the **representação**, because it sets the Ministério Público in motion. Keep the arguments anchored to the same documented facts, so a claim made to a reporter can be backed in the prosecutor's file and a claim made to the court can be spoken plainly at a community assembly; consistency across audiences is itself persuasive. Learning to move fluently between these registers — the constitutional and consulta grounds for the prosecutor and the court, the river and the territory for the community and the public, the financial risk for the bank, the human story for the reporter — is one of the most valuable skills a campaign develops, because it lets the same underlying evidence work every lever at once without ever straying from the facts.
 
-**Conditions (condicionantes) breached → enforcement.** Feed it with: the condicionantes and dated evidence of breach.
+## Match the Argument to the Audience
 
-The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." The Ministério Público can open a civil inquiry and bring the ação civil pública — the most powerful environmental lever in Brazil, and free to trigger via a representação.
+**Prosecutors and the courts** want the illegality framed precisely against the specific rule — Article 231, ILO 169, the licensing law, the EIA defect — with the documents and the timeline that prove it, and, on Indigenous rights, led by the affected people.
+
+**Licensing officials and the government** respond to legal risk and political cost — the annullable licence, the mobilised public, the constitutional exposure, the prosecutors circling.
+
+**Journalists** need a specific, verified, human story with a hook: a named river, a named people, a documented defect, an imminent decision.
+
+**Financiers, including public and private banks, and buyers** respond to legal, reputational, and financial exposure — a contested project on a constitutionally shaky licence, tied to a named consortium.
+
+**The community itself** needs to see that the fight is winnable and shared — the small wins, the growing movement, the pressure mounting — so it lasts.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
-**Time to complete:** the full 12-month campaign
-**Cost:** ~R$20,000 (BRL) for trained spokespeople + ongoing support
-**Outcome:** regular coverage reaching a large audience, political pressure on decision-makers
+Media is not vanity; it is a lever. Coverage raises the political cost of a licence, reaches officials, ministers, and the project's financiers your letters cannot, protects activists by making them visible — which matters intensely in Brazil — and can turn a local fight into a national and international cause. The Tapajós campaign proved it: images of the Munduruku demarcating their own land, and reporting that reached the world, made the dam a symbol and helped create the moment the agencies acted in.
 
-**Success Rate (Media Only):** 10-15%
-**Success Rate (Media + Opposition + Documentation + Legal):** 60-75%
+## Build the Story
 
-Brazil has a strong national and regional press, plus dedicated investigative and environmental outlets, that cover exactly these fights — and a record of that coverage shifting outcomes. On São Luiz do Tapajós, the Munduruku's cause drew national and international coverage, and more than a million people joined the campaign — raising the political cost of pushing the dam through.
+Reporters need specifics: a named place and people, a dated and documented defect or harm, a clear stake, and a live decision or deadline. "A project threatens the Amazon" is not a story; "a mega-dam would flood the recognised territory of the Munduruku people, licensed on an assessment that hid it and without the consultation the law requires, with a decision due next month" is. Lead with your strongest verified fact, attach the map and the imagery, and offer a human voice — a community leader where the people choose to speak, a fisher, a scientist — and a striking image, as the Tapajós and its people became. Brazilian and international audiences respond powerfully to the Amazon and to Indigenous rights: a named river, a named people, a recognised territory about to be drowned, and a decision with a date carry a moral clarity that a debate about megawatts never will. The Tapajós campaign understood that the image of a people mapping and defending their own land told the whole story in a single frame.
 
-## How Journalists Actually Work
-What reporters care about, in order: (1) **news** (something new happened), (2) **consequence** (someone is affected), (3) **timeliness** (it's happening now), (4) **conflict** (a real dispute), (5) **new information**. What they don't care about: your opinion, how angry you are, vague statements, or meetings with no hook.
+## Reach the Right Outlets
 
-## The Newsworthiness Formula
-**NEWS = DATA + CONSEQUENCE + TIMELINESS + NEW INFORMATION**
-- **Bad:** "Residents oppose the project." (no data, no specific consequence, nothing new) → ignored.
-- **Good:** "Community mapping shows the reservoir would flood three villages the developer's study didn't count; the agency decides on [date]." → covered.
+Work outward in rings. **Local and regional press** first, where the project is felt. Then **national outlets** — the major papers, broadcasters, and Brazil's strong investigative and environmental press — which carry political weight. Then, for a project touching a listed company, an international bank, or a globally resonant value (the Amazon, Indigenous rights), **international and financial media**, which reach the money and the world; the Amazon draws global attention that domestic politics cannot ignore. Feed each ring what it needs, and let coverage in one pull in the next. Pay particular attention to the ring that reaches the **financiers**: reputational coverage and briefings to a project's banks and investors can reach it where the licensing cannot. It is worth identifying the specific environment, Amazon, and Indigenous-affairs reporters who cover these projects, and the responsible-finance analysts who advise the banks; a journalist who already knows the terrain needs less briefing and carries more weight, and a single well-sourced investigation into a licence granted over its own technicians' objections can move a bank or a minister more than a month of releases. Offer your strongest documented finding as an exclusive and you gain an ally, not just a mention.
 
-The difference is roughly a 4-5x change in the likelihood of coverage.
+## Sustain It, Make It Safe and True
 
-## Know the Outlets That Cover This Beat
-- **Regional press** and local **TV/radio affiliates** — the audience that reaches your *prefeito* and the state agency.
-- **National desks** — *Folha de S.Paulo*, *O Estado de S.Paulo*, *O Globo* — for projects with wider significance.
-- **Investigative and environmental outlets** — **Agência Pública**, **Repórter Brasil**, **InfoAmazonia**, **Sumaúma**, **((o))eco** — for deeper accountability and Amazon/territory stories.
-- International wires and outlets for megaprojects (they moved the needle on Tapajós and Belo Monte).
+A single article changes little; a drumbeat changes decisions. Plan a sequence — the hearing, the licence, the representação, the lawsuit, the new document, the demarcation, the action — so there is always a next hook, and build your own record (a simple site, a social feed, a growing album of dated photographs and video) so the story exists in a form journalists can pick up and that survives if posts are removed. Keep messaging disciplined, accurate, and consistent; one exaggeration handed to the other side can cost you credibility you cannot rebuild. Follow the affected people's lead on how their story and knowledge are told. And weigh safety in every choice — visibility protects leaders, but so does not exposing them recklessly. Verified, specific, human, and relentless — that is the coverage that shifts outcomes.
 
-## Building Reporter Relationships (The Key)
-Reporters don't ring campaigners for comment; campaigners ring reporters with tips. Identify 5-10 local/regional and specialist reporters (environment, Amazon, human-rights, local-government rounds). **Contact** them first: "I saw your piece on [similar story]. We've got a similar situation in [place] and I think your readers should know." Then keep the relationship warm over months — a relevant article, a data tip, a milestone — so that when the big story lands, they already know you.
+# EMAILS & LETTERS
 
-## Sample Media Timeline
-- Month 1: build relationships (contact five reporters)
-- Month 2: first story (hearing objections / going to the MP)
-- Month 3: press event releasing the survey/mapping; expert available
-- Month 4: coalition announcement
-- Month 5: demonstration coverage
-- Month 6: decision-date coverage
+Written communications are how you object, create a record, and reach the bodies that can act. Each does double duty: it asks for something and it documents that you asked. Keep copies of everything, and send important items so that receipt is provable. Below are adaptable templates for the situations you will meet most often. Keep them factual, specific, and grounded in the law and the evidence.
 
-## Real Media Dynamics (Brazilian grounding)
-- **Coverage plus mobilisation can shelve a project:** São Luiz do Tapajós combined the Munduruku's on-the-ground documentation and self-demarcation with sustained national and international coverage — raising the political cost until IBAMA shelved the licence.
-- **A live case is a running story:** the Belo Monte litigation, moving through the federal courts for years, kept the project — and the use of **suspensão de segurança** — in the national press and framed the wider debate over Amazon dams.
-- **Independent evidence beats the developer's study:** independent ecological, hydrological, or health analysis that contradicts an optimistic **EIA** lets the press write "experts dispute the developer's figures," and decision-makers and prosecutors take notice.
+## 8A. Objection at the Audiência Pública / to the Licensing Agency
 
-## Media Measurement
-Track cumulative stories and reach month over month. **Success indicators:** regular (at least monthly) coverage that carries your message and specific data, and visible decision-maker or prosecutor response. **Failure indicators:** no coverage for 2+ months, superficial coverage that drops your argument, or no response from decision-makers.
+**To:** the licensing agency (IBAMA or the state environmental agency)
+**Subject:** Manifestação — [project], licensing process [number]
 
----
+As a person/community affected by [project] at [location], I present the following objections. My grounds, with evidence: (1) the EIA/RIMA [understates/omits] [impact — e.g. the flooding of [river/territory], the fisheries]; (2) [the project affects the land of [Indigenous/quilombola community] and requires prior consultation and, for energy/mining on Indigenous land, congressional authorisation]; (3) [prior consultation under ILO 169 has not taken place]; (4) [the audiência pública/process was inadequate on [point]]. I request that the licence be **denied**, and that these objections be formally answered. [Attachments: technical note, maps, records.]
 
-## Amplifying at Scale — Media Help for Hire
+## 8B. Representação to the Ministério Público (the key move)
 
-Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
+**To:** the Ministério Público Federal [or the state Ministério Público]
+**Subject:** Representação — environmental and [Indigenous] rights, [project]
 
-# SECTION 8: EMAILS & LETTERS YOU CAN COPY
+I bring to the Ministério Público the following facts regarding [project]: [sourced facts — the flooding of recognised Indigenous/traditional land, a deficient EIA, absent consultation, an unlawful licence]. These appear to breach [Article 231/225 of the Constitution, ILO Convention 169, the environmental-licensing law]. I request that the Ministério Público open an **inquérito civil**, requisition the licensing file and technical opinions, and consider an **ação civil pública** to suspend the licensing and the project. I attach my documentation and remain available to provide more.
 
-These are ready-to-use messages. Adapt the bracketed parts and send them. Keep them short, specific, and grounded in the Constitution, the licensing rules, and the evidence — that is what gets read and acted on. The complaint to the Public Prosecutor (8F) and the press release (8G) are the highest-leverage messages here.
+## 8C. Access-to-Information Request
 
-## 8A. Email to a reporter (story pitch)
+**To:** [IBAMA / the state agency / FUNAI / the relevant body]
+**Subject:** Access-to-information request (Lei de Acesso à Informação) — [project]
 
-```
-Subject: Story tip: [specific finding] — [the agency / IBAMA] decides [date]
+Under the Lei de Acesso à Informação, I request: the EIA/RIMA and annexes; the audiência pública record; the licence, its conditions, and the technical opinions (pareceres) behind it; [the FUNAI reports and land-demarcation status]; and [correspondence between the proponent and the agency on [issue]]. Please respond within the statutory period. I note the public interest in environmental and Indigenous-rights information.
 
-Hi [Reporter first name],
+## 8D. Supporting an Affected People's Consulta / Land Claim (at their invitation)
 
-I follow your coverage of [round / recent story]. We have something in [place]
-your readers should know about, and there's a clear news hook.
+**To:** [the licensing agency / FUNAI / the Ministério Público], with the community's agreement
+**Subject:** [Project] — support for [community]'s rights to consultation and land
 
-In one line: [independent survey / community mapping] shows [quantified finding —
-e.g. "the reservoir would flood three villages the EIA didn't count"], and
-[the agency / IBAMA] decides on [date].
+As a community group in [place], at the invitation of and in support of [Indigenous/quilombola community], we underline the rights the community has asserted regarding [project]: its right to **free, prior, and informed consultation** (including under its own consultation protocol), and its constitutional rights to its territory. We do not speak for the community; we stand with it, and we ask that its rights and the Constitution be honoured before any licence proceeds. [Attach material the community is content to have shared.]
 
-Why it's newsworthy: it's new (just released), specific (affects [# people /
-hectares / an Indigenous or quilombola community]), and time-sensitive
-(decision [date]; we've asked the Ministério Público to investigate).
+## 8E. Letter to a Financier / Bank / Buyer
 
-I can send the full report and connect you with [one named expert] for an
-interview. Would a quick call this week work?
+**To:** [the project's bank / investor / buyer]
+**Subject:** [Project] — legal and reputational risk
 
-Thanks,
-[Name] — [Association] — [phone] — [email]
-```
+We write regarding your [financing of / investment in / purchasing from] [company] in connection with [project]. The project [one-line stake — e.g. "would flood recognised Indigenous land in breach of the Constitution, rests on a legally vulnerable licence, and is opposed by the affected people and by prosecutors"], and our documented concerns include [the constitutional defect, the absent consultation, the deficient EIA, the pending action]. We ask you to weigh the legal, reputational, and financial risk, and whether your own [environmental, social, and human-rights commitments] are consistent with supporting it. We are glad to share our evidence.
 
-## 8B. Letter to the prefeito, a councillor, or the licensing agency
+## 8F. Letter to an Official / Legislator
 
-```
-Subject: [Refuse / attach strict conditions to] [project] — process [ref]
+**To:** [the relevant official / a federal or state deputy or senator]
+**Subject:** [Project] — concerns and request
 
-To [the Prefeito / the President of the environmental agency / the councillor],
+We are residents of [place] writing about [project]. Our concern, briefly: [one or two specific grounds — the flooding of a people's territory, a deficient assessment, absent consultation]. Within your responsibility, we ask you to [oppose or condition the licence / uphold the constitutional protection of the land and the consultation right / scrutinise any congressional authorisation]. [If true:] [#] communities and organisations share this concern, and the licence carries real legal risk. We welcome a meeting and can share our full evidence.
 
-I am a resident of [município] writing about the [project], on which a decision
-(a [Licença Prévia / Licença de Instalação]) is expected around [date].
+## 8G. Email to a Reporter (Regional, National, or International)
 
-The concern, briefly: [one or two specific grounds — e.g. "the flooding of a
-quilombola community's land and an EIA that fails to assess cumulative impacts
-and to show environmental viability"].
+**To:** [journalist]
+**Subject:** Story tip: [specific finding] — [the river / the people]
 
-I am asking you to [specific, achievable action — e.g. "refuse the Licença
-Prévia for lack of environmental viability," or "require real consultation,
-strict condicionantes, independent monitoring, and a redesign"].
+I follow your coverage of [beat]. We have something your readers should know, with a clear news hook: [documents] show [quantified finding — e.g. "a mega-dam would flood the recognised territory of the [people], licensed on an assessment that hid the flooding and without the consultation the law requires"], with [a decision/hearing] due [date]. It is specific, verified, and it echoes the Tapajós fight. I can share the full file and — where the community wishes to speak — connect you with affected people and a scientist. Could we talk this week?
 
-[If true:] [#] residents filed objections at the audiência pública, [#]
-organisations share the concern, and we have asked the Ministério Público to
-open an inquérito civil.
+## 8H. Letter Instructing / Working with a Public-Interest Lawyer or NGO
 
-I would welcome a meeting and can share our full evidence.
+**To:** an environmental or Indigenous-rights NGO or lawyer
+**Subject:** [Project] — ação civil pública / ação popular / consulta
 
-Respectfully,
-[Name], [address in the município], [phone], [email]
-```
+We believe the [licence] for [project], of [date], is unlawful because [it would flood constitutionally protected land without congressional authorisation / consultation was skipped / the EIA is deficient]. We attach the licence, the EIA, the participation and consultation record, and our timeline, and seek your advice on an **ação civil pública** or **ação popular**, on supporting the affected people's consulta and land claim, on the risk of a **suspensão de segurança** and how to stack pressure against it, and on the strongest ground.
 
-## 8C. Objection at the audiência pública
+## Using the Templates Well
 
-```
-To: [the environmental agency conducting the audiência pública on [project]]
-
-Written objection to the [project]. Process [ref]. Hearing held [date].
-
-1. Who I am: [name], [address], [interest].
-
-2. Grounds (with evidence):
-   a. [Consulta prévia] — the project affects [Indigenous / quilombola /
-      traditional] communities and the free, prior and informed consultation
-      required by ILO Convention 169 was [not carried out / rushed / run by the
-      developer]. (Attach evidence.)
-   b. [Deficient EIA] — the study omits [impact], understates [impact], ignores
-      cumulative effects with [nearby projects], and does not demonstrate
-      environmental viability.
-   c. [Protected/Indigenous land] — the project harms [conservation unit /
-      Indigenous land], contrary to [SNUC / article 231 of the Constitution].
-   d. [Water / livelihood] — the project destroys [the fishery / farmland / river
-      access] relied on by [#] families.
-
-3. What I ask: that the Licença Prévia be REFUSED for lack of environmental
-   viability; alternatively, [strict condicionantes and a redesign].
-
-[Name] — [contact]
-Attachments: [baseline / impact / health report]
-```
-
-## 8D. Coalition outreach email (to an organisation)
-
-```
-Subject: [Organisation] + [project] — a specific ask that fits your work
-
-Olá [Name],
-
-I'm [name] with [association] in [place]. We're working on [project], which
-[one-line stake]. I'm getting in touch because this connects directly to
-[organisation]'s work on [their aim].
-
-We're not asking you to adopt our whole campaign — just one concrete thing that
-serves your aims: [tailored ask — e.g. "review the biodiversity and cumulative-
-impact sections of the EIA," or "help document that the consulta prévia was not
-done properly and join our complaint to the MPF," or "have your researchers
-assess the health impacts independently"].
-
-If helpful, I can send a one-page brief and arrange a short call.
-
-Thanks for considering it,
-[Name] — [Association] — [contact]
-```
-
-## 8E. Records request (Access to Information Law — LAI)
-
-```
-Subject: Request for documents under the Lei de Acesso à Informação (Law 12.527/2011)
-
-To: [the environmental agency / IBAMA / the município]
-
-Under the Access to Information Law (Lei de Acesso à Informação, Law 12.527/2011),
-I request copies of the following about [project]:
-
-- the full EIA and RIMA and their annexes;
-- the technical opinions (pareceres) of the agency, FUNAI, ICMBio, and any other
-  consulted body;
-- correspondence between [the agency] and [the developer], [date] to [date];
-- the record of the consulta prévia and of the audiência pública;
-- the condicionantes and any compliance/monitoring reports.
-
-Please provide these electronically. If any document is refused, please give the
-legal reasons; I reserve the right to appeal and to take the matter to the
-Ministério Público.
-
-[Name] — [contact]
-```
-
-## 8F. Complaint to the Public Prosecutor (the strongest move)
-
-```
-NOTE: In Brazil this is usually the most powerful single step. The Ministério
-Público investigates and litigates in the public interest at NO COST to you. Use
-the MPF if the project touches Indigenous land, a federal protected area, or a
-federal licence; otherwise the state MP. A liminar can suspend a licence quickly
-— but the government may seek a suspensão de segurança to keep works going.
-
-REPRESENTAÇÃO / NOTÍCIA DE FATO
-[Date]
-
-To: [the Ministério Público Federal / the state Ministério Público], [city]
-
-1. The project: [project], licensed by [agency] under process [ref]; decision /
-   licence [LP/LI/LO] [expected/issued] on [date].
-
-2. The facts and evidence: [attach baseline, impact, and health reports;
-   photographs; the EIA/RIMA; the record of the hearing].
-
-3. The legal problems:
-   • The consulta prévia required by ILO Convention 169 was [not done / faked].
-   • The project would unlawfully harm [Indigenous land (art. 231) / a
-     conservation unit (SNUC)].
-   • The EIA is deficient: [omissions / cumulative impacts / no demonstrated
-     viability].
-
-4. What we ask: that the Ministério Público open an INQUÉRITO CIVIL, requisition
-   the full file, and consider a RECOMENDAÇÃO, a TAC, or a AÇÃO CIVIL PÚBLICA to
-   suspend or annul the licence.
-
-[Name / association] — [contact]
-```
-
-## 8G. Press release (effective)
-
-```
-FOR IMMEDIATE RELEASE
-
-[HEADLINE: make it NEWS, not opinion]
-[Subtitle: consequence + timeliness]
-
-[DATELINE: Town / Date]
-
-[LEAD — answer "why now?"]
-[Local association] released [study / mapping] today showing [specific finding]
-affecting [# of people / hectares / an Indigenous or quilombola community].
-
-KEY FINDINGS
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-
-[DIRECT QUOTE — specific, from a credible voice, not a slogan]
-"[What the finding means]," said [Name, Title].
-
-[CONTEXT — why it matters; reference a documented case where relevant]
-
-[DECISION POINT — create urgency]
-[The agency / IBAMA] decides on [date]. We have asked the Ministério Público to
-investigate.
-
-[CALL TO ACTION] To file an objection or support the complaint: [how].
-For more: [contact].
-
-CONTACT: [Name / Association / Phone / Email]
-ATTACHMENTS: full report, technical summary, methodology, maps, Q&A
-```
-
-## 8H. Legal strategy decision tree
-See Step 4 for the full decision tree — Tracks 1-3, the budget branches, and the consultation, siting, and EIA levers, plus the role of the Ministério Público and the caution about the suspensão de segurança.
-
----
+Send important communications so that receipt is provable, and log every one in your timeline. Keep them factual, specific, and grounded in the law and the evidence; attach your documentation and technical reports; and route them, where you can, through or with the affected people (following their lead), the **Ministério Público**, and your NGO and financier-facing allies. The reply — or the silence — becomes part of your record, and in Brazil that record feeds the levers that matter most: the audiência pública, the Ministério Público and the ação civil pública, consulta, the constitutional land shield, and the public.
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
-Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+Not everyone can run a long campaign. With a few hours a week you can still do real damage to a bad project. In rough order of impact for the effort:
 
-1. **Speak or submit at the audiência pública, and put your objection in writing before the deadline. Name one or two concrete grounds (a protected area, water, an affected community). It enters the record.**
-2. **Get the EIA/RIMA and quote its worst admission back to the órgão ambiental.** The developer's own words carry the most weight.
-3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
-4. **File one LAI request** (Section 8E) — even if someone else uses it later.
-5. **Point one public body or NGO at the fight.** The Ministério Público or a legal-aid NGO may take it from there — you hand off, you don't have to lead.
-6. **File a representação with the Ministério Público** — one letter can trigger a civil inquiry and, potentially, an ação civil pública. This is the single highest-leverage act in Brazil.
-7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+**1. Take a complaint to the Ministério Público — first.** A detailed, evidenced **representação** (8B) can set an independent, publicly funded prosecutor investigating and, potentially, suing to halt the project — the highest-leverage thing a Brazilian community can do, and it costs nothing.
 
-Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+**2. Check for Indigenous or traditional land and consulta.** Establish whether the project affects the land of an Indigenous, quilombola, or traditional community, and whether the consultation the law requires took place. If it affects such land, the constitutional shield and consulta are the strongest grounds there are — led by the community.
 
-# SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
+**3. Object at the audiência pública.** One evidenced objection (8A) puts your case on the licensing record and creates grounds for later challenge — but the window is limited, so act while it is open.
 
-**What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because the government treats it as a strategic priority, because the developer's own study drives the assessment, or because political and economic pressure to say yes is intense. It rarely means anyone broke the law. Here is how it works — and how communities win anyway.
+**4. Get the documents.** The EIA and much of the file are public; the rest comes under the access-to-information law (8C) — or, powerfully, a prosecutor can requisition what you cannot. The gap between the EIA and the law is usually the case.
 
-## Important Caveat
-This section describes patterns from documented Brazilian dynamics and public policy — "strategic project" backing, developer-funded studies, the **suspensão de segurança** override, and the 2025 licensing rollback. It is not a statistical claim about "X% of all decisions." Read it as: "where these patterns appear, here is what happens and what it means for opposition."
+**5. Reach an NGO and a lawyer.** Environmental and Indigenous-rights organisations (8H) can bring litigation, science, reach, and — vital in Brazil — protection for exposed leaders.
 
-## What This Tilt DOES (and DOESN'T DO)
-**DOES:** create financial and political incentive to approve (jobs, **ICMS**, **royalties**, "strategic" status); bias information (developer-funded **EIAs** read optimistically); advantage well-resourced developers (better consultants, lawyers, appeals); let the government keep works going despite a court ruling via the **suspensão de segurança**; and — since 2025 — allow faster and lighter licensing (the self-declared **LAC**, the **LAE** fast-track) that reduces scrutiny.
-**DOESN'T:** guarantee approval; make opposition impossible; remove the constitutional protection of Indigenous lands or the consultation right; or prevent suspensions, conditions, and delay.
+**6. Brief the financiers.** A project's banks and buyers (8E) respond to legal and reputational risk a licence never will.
 
-**Analogy:** a tilted system is like playing with the pitch sloped against you. It makes winning harder, not impossible — so your strategy has to be sharper and more visible, your legal grounds cleaner, and the **Ministério Público** engaged early.
+**7. Tell the story.** A river, a forest, a people's territory is a powerful story, and in Brazil international attention matters; one accurate tip (8G) can reach the world.
 
-## Documented Brazilian Dynamics
+Do only the first three and you will have set a prosecutor in motion, identified your strongest constitutional ground, and put your case on the record while it counts — the exact foundation a bigger fight is built on. Then come back and read the rest. Even the shortest version has a spine: go to the Ministério Público, check the land and consulta, object at the hearing. Everything else in this guide amplifies those three moves. A community that does only them has already done more than most projects' opponents ever manage — and has often done enough to set a prosecutor investigating, put the constitutional land question on the table, and place a specific, evidenced objection on the licensing record where it counts.
 
-**Documentation and rights can shelve a megaproject (São Luiz do Tapajós).** Despite strong federal energy backing, the dam was shelved in 2016 after the Munduruku documented and self-demarcated their land, FUNAI recognised it, and the Ministério Público and IBAMA's own staff found the project unlawful and unviable. **Lesson:** even a "strategic" project can fall when documentation, rights, and the Ministério Público line up.
+# WHEN THE SYSTEM IS TILTED
 
-**The government can override a court — the suspensão de segurança (Belo Monte).** The Ministério Público repeatedly won rulings against Belo Monte, including over the lack of Indigenous consultation. Yet the government used the **suspensão de segurança** — an instrument dating from the military dictatorship, by which the Executive can ask a court president to suspend a ruling *without the merits being judged*, alleging serious harm to public order or the economy — to keep works going. The dam was built. **Lesson:** on strategic megaprojects, an early court win may not hold; keep opposition, the Ministério Público, and media pressure alive together, and expect a long fight.
+Brazil's system is tilted in specific ways you must understand, so you neither waste effort nor miss the levers that still work.
 
-**Developer-funded studies.** **EIAs** are commissioned by the developer. Independent survey and mapping work that contradicts them — a missed community, an understated impact, ignored cumulative effects — is one of the most valuable things a campaign can produce, and can feed a prosecutor's inquiry and a court case.
+## Where the Tilt Shows
 
-## Assessment Framework — Determine Your Situation
-**GREEN FLAG (low tilt):** an ordinary state or municipal licence with genuine scrutiny; no "strategic" label; a clear legal defect; the Ministério Público engaged. → 65-75% with all 5 steps. Proceed with standard opposition.
+The tilt runs, above all, through the **suspensão de segurança** — the government's power to persuade a senior judge to **lift an injunction** because halting a project would supposedly harm the public order or economy. This is how **Belo Monte** was built despite dozens of prosecutors' court victories, each suspended in turn; it is the single most important feature of the tilted terrain. Belo Monte, on the Xingu River in the state of Pará, became one of the very largest hydroelectric projects anywhere on Earth, and the Ministério Público Federal brought action after action against its licensing and its failures to consult and mitigate — winning many at first instance, only to watch each injunction lifted by a court president invoking harm to the economy and public order. The lesson is not that the courts are useless but that a single victory is fragile: what endures is the accumulation of fronts, and above all the constitutional land shield, which is far harder to suspend than an ordinary injunction. Beyond it: environmental **licensing approves the great majority of projects**; the agencies that can stop a project — IBAMA, FUNAI — have at times been **deliberately weakened and pressured** by the government of the day; **demarcation of Indigenous land is slow and bitterly fought**, with recurring political attempts to narrow Indigenous rights; and Brazil is **one of the deadliest countries in the world for land and environmental defenders**. Year after year, international monitors record Brazil among the countries with the most killings of people defending land, forests, and rivers, with Indigenous leaders and Amazon defenders especially at risk. This is not a reason to abandon the fight, but it is a reason to build protection into every decision — collective leadership, documented threats, strong outside links, and security advice — rather than treating safety as an afterthought. Where this tilt bites, the formal process gives less than it should — but real levers still reach past it.
 
-**YELLOW FLAG (moderate tilt):** strong pro-development policy and a developer-funded **EIA**, but independent evidence is possible and a legal ground (consultation, EIA, siting) is arguable. → 40-45% with all 5 steps; often win conditions and delay even if not a refusal. Proceed; prioritise the consultation/EIA/siting grounds and the Ministério Público.
+## What Still Works — And Some Is Distinctive
 
-**RED FLAG (high tilt):** a federal "strategic" megaproject, developer-only studies, heavy political backing, and a real prospect of a **suspensão de segurança**. → 25-30% to stop; 50-60% to modify/delay. Decide whether delay/conditions justify the investment; lead with the cleanest constitutional ground (consultation, Indigenous land); build power and a record for the next round.
+The decisive point is that even where the system tilts, real and distinctive levers reach past it.
 
-## Direct Action: Factual Information (Descriptive, Not Prescriptive)
-When licensing and legal routes are exhausted, some Brazilian communities and land and river defenders have engaged in direct action — occupations of construction sites (the Munduruku occupied Belo Monte's works more than once), blockades, and self-demarcation of territory. This is descriptive of what has occurred, not guidance.
+**The Ministério Público is independent.** Prosecutors do not answer to the government that wants the project, and their investigations and lawsuits proceed regardless — a standing, publicly funded adversary a proponent cannot easily silence.
 
-**Documented consequences and risks under Brazilian conditions:** occupations and blockades are cleared by court-ordered *reintegração de posse* and by police, and can bring criminal charges. More seriously, **Brazil is one of the most dangerous countries in the world for environmental and land defenders**: activists, Indigenous leaders, and rural workers have been threatened and killed in connection with land and resource conflicts (documented for decades by the **CPT** and international monitors). Anyone considering direct action — or even visible organising in a high-conflict area — should take the physical risk seriously, avoid acting alone, and use protection channels: report threats to the **Polícia Federal** and the **Ministério Público**, and seek support from the federal **Programa de Proteção aos Defensores de Direitos Humanos**, the **CPT**, Indigenous organisations, and human-rights groups. Direct action has produced delay and disproportionate attention in documented cases, but on its own rarely stops a project permanently; combined with documentation, the Ministério Público, and media it is more consequential — and safer.
+**The constitutional land shield is hard to override.** A suspensão de segurança can lift an injunction, but the constitutional protection of Indigenous and traditional land, and the congressional-authorisation requirement, are structural barriers of a different order — the barrier that stopped Tapajós.
 
-## Honest Assessment
-Where the system is tilted, opposition using licensing and legal methods has lower odds of an outright stop — but still reliably wins suspensions or conditions, forces delay (often long), imposes political cost, builds durable community power, and creates a record for the Ministério Público and the courts. And Brazil offers genuine equalisers: a constitutionally independent **Ministério Público** that litigates for free, the constitutional protection of Indigenous lands, the **consulta prévia** right, the **ação popular** open to any citizen, and courts that can suspend an unlawful licence. Neither scenario makes opposition futile.
+**Consulta cannot simply be skipped.** The ILO 169 right, defined by communities' own protocols, is a recurring, court-recognised obstacle to licensing. A licence granted without the consultation the law requires is vulnerable for as long as that defect stands, whatever the government's enthusiasm for the project.
 
----
+**The record and the representação endure.** What you document and file with a prosecutor powers investigations and lawsuits over years, whatever any single decision.
+
+**Mobilisation and international attention endure.** The Munduruku tradition — resistance, self-demarcation, and a story the world watches — is a force no suspensão can dissolve, and the Amazon draws a global spotlight.
+
+## The Honest Frame
+
+So the honest frame for Brazil is real but demanding. The Ministério Público, the constitutional land shield, consulta, the ação popular, and a deep resistance tradition give a community genuine — in places uniquely — power, as Tapajós proved. But the suspensão de segurança can override the courts, licensing approves most projects, agencies can be captured, demarcation is slow, and defenders are in real danger. So diagnose the tilt honestly: lean on the prosecutors, the constitutional land shield, consulta, and the mobilisation, not on a single injunction that can be suspended; stack multiple fronts so no one suspensão clears the path; document every defect; protect your people above all; treat a win as something to be defended, not banked; and think in terms of delay, conditions, exposure, and a proponent worn down as much as an outright, permanent stop. Against a government determined to build, that is often what winning looks like — and it is real.
 
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
+Sometimes a project advances not despite the evidence but because someone is being improperly favoured, pressured, or paid. Undue influence changes your strategy: you stop trying to persuade a captured decision-maker and start exposing and going around them.
 
-**Município officials and councillors.** The most common pressure point: a município dependent on the project's revenue, or an official with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the improbidade administrativa rules and conflict-of-interest law — misconduct can void acts and personally sanction officials.
+## How to Tell
 
-**The state environmental agency or IBAMA.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: an ação civil pública via the Ministério Público, or judicial review.
+Look for the signatures of capture. A **licence granted against the technical opinions** of the agency's own staff, over strong objections and Indigenous opposition, suggests more than error. **Internal pareceres overridden**; a project **steered to a weaker state agency** to dodge federal scrutiny; a **consulta staged** as a formality; **undisclosed ties, contracts, or campaign donations** between the proponent and officials; **licence conditions never enforced**; and a **suspensão de segurança** deployed to crush every legal victory all point the same way. And **threats or violence against the community's or campaign's leaders** — tragically common in Brazil — are themselves a signature of something deeply wrong. One anomaly may be error; a pattern is capture. Lay your timeline beside the official one and watch for approvals that cluster around a contract, an appointment, or a donation.
 
-**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the CNPJ registry, the cartório de imóveis, and asset and campaign-finance disclosures surface the timeline a journalist needs.
+## Who Can Be Captured — and Who Is Harder
 
-**The courts.** Brazil's courts and, crucially, its independent Ministério Público are genuine levers — the MP's power to sue is a major advantage. The constraint is time and appeals; seek a liminar (injunction) where work could start before judgment.
+Be clear-eyed about where undue influence reaches. A **licensing agency, a state official, or a staged consulta** can be pressured or captured. But the Brazilian system has bodies harder to reach that a captured local arrangement cannot easily control: the **Ministério Público**, constitutionally independent; the **Justiça Federal** and the **STF**; the **Tribunal de Contas**; the federal **Polícia Federal** for crimes; and the national and international press. Undue influence thrives on darkness and on staying local; your task is to lift the matter out of the captured node and into the light and the higher, cleaner fora — and in Brazil the Ministério Público is often the most powerful place to lift it to.
 
-**State and federal politicians and priority projects.** Where a project is a stated state or federal priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
+## What to Do
 
-**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Ministério Público, the Tribunal de Contas for public money, the Controladoria (CGU), and the Polícia Federal for crimes — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
+Do not confront and tip off the captured decision-maker. Instead, **document the anomaly precisely** — the dates, the overridden opinions, the ties, the staged consulta, the missing enforcement — and take it, with evidence, to the **Ministério Público** (which can investigate corruption as well as environmental harm), the Tribunal de Contas, the courts, and the press. Pair the referral with the ação civil pública, the constitutional land defence, and the financier and public pressure, so the wrongdoing and the harm are exposed together. Exposure has its own momentum: a prosecutor's inquérito or a court's attention creates a record other bodies must reckon with, and a consulta shown to be staged or an opinion shown to be overridden can collapse the licence. And protect yourself above all — this is life-and-death in parts of Brazil: get security and legal advice, coordinate with prosecutors and national and international networks, keep the work collective and visible, and never carry it alone.
 
-# INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
+# INTEGRATION & TIMELINE
 
-## Realistic 12-Month Campaign Timeline
+The five steps win when they run together. Here is how they fit across the life of a fight.
 
-**Months 1-2 — Foundation + Documentation:** identify the target and decision-maker (Step 1); begin baseline surveys and map human occupation (Step 2); form or partner with an association and start one-to-ones (Step 3); prepare for the **audiência pública** and make first reporter contacts (Steps 4-5). *Outcome:* structure forming, the record beginning.
+## Early (Weeks 0–8): Identify, Connect, and Activate the Prosecutor
 
-**Months 2-3 — Public Launch:** baseline complete; community meeting + objections at the hearing + a first complaint to the **Ministério Público** (Steps 3-4); media event (Step 5). *Outcome:* opposition visible, objections on the record, the MP alerted, 3-5 stories.
+Pin down the project, the licence, and the stage (Step 1), and, where Indigenous or traditional peoples are affected, support the community's leadership and its rights to consultation and land (Step 3). Begin the file — get the EIA and the licensing record, and request documents under the access-to-information law (Step 2 and What to Gather). And move fast on the highest-leverage things: **file a representação with the Ministério Público**, **object at the audiência pública**, and **assert the land shield and consulta**. Reach an NGO and a lawyer, and — vital — put protection for exposed leaders in place. This early phase is cheap, and it sets up everything else.
 
-**Months 3-4 — Coalition + Impact Analysis:** complete impact analysis testing the **EIA** and cumulative effects (Step 2); expand the coalition and bring in an NGO/university and an Indigenous/quilombola organisation (Step 3); the MP considers an **inquérito civil** (Step 4); data-release press event (Step 5). *Outcome:* broad coalition, legal grounds identified, the MP engaged, coverage expanding.
+## Middle (Months 2–24): Escalate on Every Front
 
-**Months 4-6 — Expansion + Health Data:** health/livelihood report (Step 2); sustained acts (Step 3); the decision on the **Licença Prévia** (Step 4); expert press events (Step 5). *Outcome:* possible refusal or strict **condicionantes**, quantified impacts, regional media.
+Grow the movement and coalition (Step 3). Turn your evidence into arguments for each audience (Turning Evidence). Escalate legally as the facts warrant — an ação civil pública through the prosecutor, an ação popular, a consulta claim, and the constitutional land defence (Step 4) — and **stack the fronts** so no single suspensão de segurança can clear the path. Refer any corruption to the Ministério Público and the Tribunal de Contas. Press the financiers and banks (8E). Build the media drumbeat from local to national to international (Step 5). Each front feeds the others. Do the cheap, time-sensitive things first, because a missed hearing or licensing window cannot be recovered. And sequence the moves with your lawyer, the prosecutors, and the community so they land when they bite hardest — the representação built on the fullest evidence, the constitutional land defence and consulta claim led by the affected people, the ações filed to create several simultaneous fronts — because in Brazil a single well-timed action matters less than a web of them the government cannot suspend all at once.
 
-**Months 6-9 — Escalation + Challenge:** acts escalating (Step 3); if licensed, a **ação civil pública** (via the MP or an association) and a **liminar**, with a plan for a possible **suspensão de segurança** (Step 4); ongoing monthly media (Step 5). *Outcome:* sustained pressure, court process live.
+## Later (Months 6–60+): Sustain, Win the Line, and Redefine the Win
 
-**Months 9-12 — Peak Pressure + Positioning:** maintain opposition (Step 3); hearing / positioning (Step 4); media momentum (Step 5). *Outcome:* licensing + opposition + media + law compound; suspension, conditions, or the project shelved.
+Sustain the movement against burnout; protect your people; keep the record and the coverage alive. Pursue the durable prizes — a **denied or suspended licence**, a **project barred from protected land**, a **completed demarcation**, an **ação civil pública won**, a **financier walking away**, an **abandonment**. And judge success honestly. Sometimes it is an outright stop — a licence denied, a river saved, as at Tapajós. More often, against a determined government, it is a project **delayed for years, shrunk, conditioned, stripped of finance, or so legally and reputationally besieged that the proponent walks away**. That is not a lesser victory. It is what winning usually looks like, and it is worth every effort it takes.
 
-## Key Principles (What Separates Winning Campaigns from Losing Ones)
-1. **Specificity** — "the **consulta prévia** was not carried out," not "we oppose the project."
-2. **Multi-tactic pressure** — objections + opposition + media + the Ministério Público + legal, together.
-3. **Long-term organising** — sustain 12+ months; prevent burnout; keep people safe.
-4. **Documentation first** — build the evidence (including who lives on the land), then object and litigate on it.
-5. **Coalition building** — 5-10 diverse groups; respect Indigenous and traditional communities' own protocols.
-6. **Trigger the Ministério Público early** — the single most powerful, lowest-cost lever in Brazil.
-7. **Use the legal levers** — consultation, unlawful siting, and a deficient **EIA** are often the strongest cards.
-8. **Realistic expectations** — expect conditions/modifications/delay; a refusal, shelving, or annulment is the bonus; expect the **suspensão de segurança** on strategic projects.
-9. **Persistence and safety** — plan for 12-24 months (and possibly several courts), keep momentum, and protect defenders.
+## The Shape of a Campaign
 
-## Warning Signs — Act Early
-Watch for these and respond fast: attendance declining around months 4-5 (burnout); coalition members leaving (conflict or leadership problem); no media coverage for 2-3 months; the case stalling or a **suspensão de segurança** looming; fundraising below half your target by month 6; a core organiser leaving without a successor; threats against organisers (treat as a safety emergency — see Section 9); or someone new pushing illegal or reckless tactics. Each has a fix earlier in this guide — catch it early and the campaign holds.
+```
+WEEKS 0-8      Identify | Support the people | Document | Representação to the MP | Object at the hearing | Protect leaders
+MONTHS 2-24    Grow the movement | Arguments | Ação civil pública + consulta + land shield (stack the fronts) | Financiers | Media
+MONTHS 6-60+   Sustain | Protect people | Win the denied licence / barred land / demarcation | Redefine the win
+```
 
----
+# FINAL ASSESSMENT
 
-# FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
+Brazil gives communities a genuinely powerful — and, in places, unique — set of tools, and the honest measure of this guide is how squarely it faces both their strength and their limits.
 
-## Real Outcomes: What Winning Looks Like
-- **Licence refused / shelved / project cancelled** (rarer): usually needs overwhelming opposition + a strong legal or consultation case + heavy media + the Ministério Público + lower tilt. São Luiz do Tapajós (shelved) shows it happens.
-- **Licence modified** (most common victory): strict **condicionantes**, real consultation and compensation, buffers, independent monitoring, redesign — often via the agency, a **TAC** with the Ministério Público, or a court.
-- **Delay / attrition:** stalled for years while licensing and litigation run; costs mount and financiers lose confidence; the developer sometimes walks away.
-- **Defeat:** the project proceeds (sometimes via a **suspensão de segurança**, as at Belo Monte). Focus then shifts to enforcing **condicionantes** and compensation, monitoring compliance, and the next opening.
+The strengths are real and distinctive. A community can set an independent, publicly funded prosecutor in motion with a **representação**, and the **Ministério Público** can investigate and bring an **ação civil pública** to halt the project — a lever few countries offer. Where Indigenous or traditional peoples are affected, the **constitutional shield of Article 231**, the requirement of **congressional authorisation** for energy and mining on Indigenous land, and the right to **free, prior, and informed consultation** are formidable barriers — the barriers that stopped the São Luiz do Tapajós mega-dam in its tracks. Any citizen can bring an **ação popular**; the licensing **public hearing** is an open door; and a **deep resistance tradition**, including the self-demarcation the Munduruku used, prompts the institutions to act.
 
-## Decision Point: Continue, Modify, or Reassess
-**Continue** if the legal grounds are live, the Ministério Público is engaged, opposition is holding or growing, media is at least monthly, the coalition is stable, and organisers are safe.
-**Modify** if attendance is falling, coverage has dropped for 2+ months, coalition members are leaving, the legal position has weakened, or you discover the system is more tilted than assessed.
-**Reassess** if, after ~12 months (and perhaps a first court and a **suspensão de segurança**), licensing and legal options are exhausted, the decision looks settled despite real effort, the community is exhausted, or resources are gone — or if the personal risk to organisers has become unacceptable. Ask: has opposition already won partial victory (conditions, compensation, delay)? Would more effort win more, or just prolong the fight? Should energy shift to enforcing conditions, to the next project, or to changing the policy?
+The limits are just as real. The **suspensão de segurança** can lift the injunctions a community wins, as it did throughout the building of Belo Monte; licensing approves most projects; agencies can be pressured and weakened; demarcation is slow and fiercely contested; and Brazil is one of the most dangerous places on Earth to defend land and rivers. No guide should pretend otherwise. Belo Monte stands, and the Tapajós basin still holds dozens of planned dams; that is the condition of this fight, not its exception.
 
----
+So the realistic promise is this: **take a well-evidenced complaint to the Ministério Público, assert the constitutional land shield and the right to consultation, object at the hearing, document every defect, stack multiple legal fronts against the suspensão de segurança, reach the financiers, mobilise the public — and run all of it together, protecting your people above all and following the affected community's lead.** Do that, and even against a government determined to build you can force delay, conditions, exposure, lost finance, a suspended or denied licence, and a proponent worn down — and sometimes an outright stop. Do it as the Munduruku did, with a people's assertion of its own land and a chain of institutions made to honour it, and you can win a victory that protects not only your own river but sets a precedent others will stand on.
 
-## The Bottom Line
+A last word on endurance. These fights are won in years, not weeks, and the proponent is counting on your exhaustion — and, in Brazil, sometimes on your fear. Its advantage is money, patience, and the suspensão de segurança; yours is legitimacy, the independent prosecutors of the Ministério Público, the Constitution's protection of the land, and the plain fact that you are defending your home and your river while it is merely pursuing a return. Play to that. Keep the file, keep the movement, keep the record and the coverage alive, protect your people, and treat every delay, every suspended licence, every prosecutor's inquérito, every financier that walks, and every headline as a brick in a wall that grows too high and too costly for the project to climb.
 
-Opposition work can stop or significantly modify destructive projects in Brazil — even where jobs, **royalties**, and "strategic project" politics point toward approval. Opposition creates multiple, compounding forms of pressure: on the record, politically, in the press, before the **Ministério Público**, and in the courts. Where the system is tilted, an outright stop is less likely, but opposition still delivers suspensions, conditions, compensation, delay, and durable power.
-
-And Brazil offers genuine equalisers: a constitutionally independent **Ministério Público** that litigates for free, the constitutional protection of Indigenous lands, the **consulta prévia** right under ILO Convention 169, the **ação popular** open to any citizen, courts that can suspend an unlawful licence — and, when a project truly cannot be made lawful and viable, the possibility of outright shelving, as at São Luiz do Tapajós.
-
-Know your situation. Assess how tilted the system is, honestly. Watch for genuine corruption and refer it to the Ministério Público and the control bodies. Keep organisers safe. Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers.
-
----
+The tools are here, and Brazil's history proves they work: a mega-dam that would have drowned a people's territory was stopped, because the Munduruku marked out their own land, an agency was made to recognise it, and the Constitution held. What decides the outcome is method, endurance, and courage — and those you supply. Begin today, begin cheaply, and build from there. Communities before you have stopped what looked unstoppable — a mega-dam's licence denied, a people's land defended by their own hands and by the Constitution, a river left to run free through the heart of the Amazon. The tools are here, and the most powerful of them — the independent prosecutors and the constitutional shield around the land — do not depend on a community's wealth; what has ever been missing in the fights that were lost was not the law but the organisation, the endurance, and the protection to use it. So can yours.

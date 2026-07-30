@@ -1,1031 +1,457 @@
-
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN AOTEAROA NEW ZEALAND
 
-**Complete Community Opposition How-To**
-
-A practical guide for communities facing destructive development projects in Aotearoa New Zealand, grounded in the resource-consent and Treaty system and documented campaigns
-
-*This guide uses the terms you will actually encounter (resource consent, Assessment of Environmental Effects, the Environment Court, the Treaty of Waitangi, kaitiakitanga, and so on), each explained in plain language where it first comes up. It describes the national framework; regional and district councils have their own plans and rules, so check locally. New Zealand's resource-management law is undergoing major reform — see the note below and check the current law.*
-
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
->
-> **A note on the law changing.** The **Resource Management Act 1991 (RMA)** has been the framework for most of the decisions this guide describes, and the case law is built on it. It is being **replaced**: the government released new Natural Environment and Planning Bills in December 2025, aiming to take effect around mid-2026, and has already passed a **Fast-track Approvals Act 2024**. These changes generally **reduce** public notification and participation. This guide describes the enduring levers and the RMA model, but **check the current law and get advice** — the details are moving.
-
----
-
-## TABLE OF CONTENTS
-
-1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
-2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
-3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
-5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
-7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
-8. **STEP 4: LEGAL CHALLENGES** — Submissions, the Environment Court, and judicial review
-9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
-10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
-11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
-13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
-14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
-15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
-
----
+*Complete Community Opposition How-To*
 
 # INTRODUCTION & FRAMEWORK
 
-## Why This Matters
+Community action decides project outcomes in Aotearoa New Zealand. The country's most famous environmental victory did not turn on a permit — it turned on a lake, a petition, and a movement that would not be ignored. In the late 1960s, the Government planned to raise **Lake Manapōuri** in Fiordland by as much as thirty metres to feed a hydro scheme for an aluminium smelter, drowning the lake's wooded islands and beech-forest shores and merging it with Lake Te Anau. Against it rose the **Save Manapōuri campaign** — led by Forest & Bird, local farmers, and scientists — and in 1970 it delivered a petition signed by **264,907 New Zealanders, nearly one in ten of the entire population**, the largest in the country's history to that point and a scale of public feeling no government could easily ignore. Manapōuri became a defining issue at the 1972 general election, fought over on doorsteps and front pages the length of the country; the incoming Labour government of Norman Kirk honoured its pledge **not to raise the lakes**, and created the community-led **Guardians of Lakes Manapōuri, Monowai and Te Anau**, drawn from the campaign's own leaders, to watch over the lakes for good. It was the first time a major commercial project in New Zealand was stopped on environmental grounds, and it sparked the country's modern conservation movement. The scheme it was meant to feed — an overseas-owned aluminium smelter at Tiwai Point — went ahead in a scaled-back form that left the lakes at their natural level, and the years that followed became New Zealand's "environmental decade": the founding of Greenpeace in the country, the opening of the first marine reserve, and, in 1977, another mammoth petition, this one of some 340,000 signatures, against the logging of native forests. Save Manapōuri did not just save a lake; it taught a country that ordinary people, organised and evidenced, could stop a project the government had already decided to build.
 
-Community action directly determines project outcomes in Aotearoa New Zealand. Projects that clear every political and commercial hurdle still fall when opposition is organised, documented, and legally sharp. Off the coast of South Taranaki, a company wanted to mine up to 50 million tonnes of the seabed a year; local **iwi** (tribes), a community campaign, and environmental and fishing groups documented the harm to the marine environment and the breach of their relationship with it — and in 2021 the **Supreme Court** quashed the consents, because the decision had ignored the **precautionary approach** and the **Treaty of Waitangi**. Across the country, communities, iwi and hapū, and environmental groups using **submissions**, the **Environment Court**, and the Treaty have forced projects to be refused, halted, redesigned, or abandoned. These outcomes were not inevitable; communities made them happen.
+Manapōuri teaches the pattern that wins here: not a single silver bullet, but sustained, broad, visible public pressure — the petition, the campaign, the ballot box — combined with credible evidence and every legal lever, until a project the government backed became politically impossible. And modern Aotearoa adds a second, distinctly powerful lever that Manapōuri only began to touch: **Te Tiriti o Waitangi, the Treaty of Waitangi, and tikanga Māori**. In 2021, the **Supreme Court** stopped a proposal to mine iron sands from the South Taranaki seabed, ruling that decision-makers must favour caution and environmental protection and must give the Treaty and Māori customary interests a "broad and generous" reading. Where a project affects the environment, the sea, or Māori rights, the community's strongest levers are often the precautionary bottom line and Te Tiriti itself.
 
-But most communities don't know HOW to make opposition effective. They put in one submission, then give up. They assume "the council will decline it" without building public pressure, lodging strong submissions, or going to the Environment Court. They generate coverage without a strategy. They organise people and then lose them to burnout after four months.
+Most communities, though, do not know HOW to make opposition effective. They lodge one submission on a resource consent and go home. They assume the project "will be consented anyway," and so they never make a substantive submission, never appeal to the Environment Court, never seek judicial review, never build the mobilization and the evidence that change a decision. They generate a burst of outrage without a plan to sustain it. They gather a crowd and lose it to exhaustion. The gap between a community that stops a project and one that watches it get built is rarely courage or numbers. It is method.
 
-**This guide shows what actually works — in the New Zealand system.**
+**This guide shows what actually works — inside the New Zealand system.**
 
 ## The Strategic Framework
 
-Successful opposition campaigns follow the same basic pattern:
+Effective opposition campaigns follow the same underlying pattern, whichever project they face:
 
 ```
-STEP 1: TARGET IDENTIFICATION
-↓
-STEP 2: DOCUMENTATION (proof of harm)
-↓
-STEP 3: LOCAL OPPOSITION BUILD (organised community)
-↓
-STEP 4: LEGAL CHALLENGES (submissions / Environment Court)
-↓
-STEP 5: MEDIA STRATEGY (public visibility)
-
-These operate SIMULTANEOUSLY (not sequentially)
-Each step amplifies the others
-Multi-tactic pressure compounds toward victory
+STEP 1: TARGET IDENTIFICATION  (find the decision and its weak point)
+        |
+STEP 2: DOCUMENTATION          (build proof of harm and of every defect)
+        |
+STEP 3: LOCAL OPPOSITION        (organise a movement that lasts)
+        |
+STEP 4: LEGAL CHALLENGES        (submissions, the Environment Court, Te Tiriti, the precautionary principle)
+        |
+STEP 5: MEDIA STRATEGY         (make the fight visible and impossible to ignore)
 ```
 
-**Why the legal step matters so much here:** New Zealand gives communities a distinctive set of levers. A **resource consent** rests on an **Assessment of Environmental Effects (AEE)**, and if the application is **notified** you can lodge a **submission**, be heard, and — this is the powerful part — appeal the decision to the **Environment Court**, which reconsiders the merits, not just the process. Decision-makers must weigh the **effects** on the environment and, where information is uncertain, courts have required a **precautionary approach** — an "environmental bottom line." The **Treaty of Waitangi (Te Tiriti o Waitangi)** runs through the system: the relationship of **tangata whenua** (the people of the land) with their lands, waters, and taonga, and their **kaitiakitanga** (guardianship), must be recognised. And in a set of world-first settlements, New Zealand has granted **legal personhood** to natural features — the **Whanganui River (Te Awa Tupua)**, **Te Urewera**, and **Taranaki Maunga** — so that the feature itself has legal standing, spoken for by appointed guardians. No New Zealand campaign should be planned without understanding these.
+These steps operate **simultaneously, not in sequence**. Documentation feeds the legal case and the media story at once; the movement sustains the pressure that decision-makers and courts respond to; a legal challenge is a headline and a headline strengthens a challenge. The community that runs all five together, each reinforcing the others, is the one that wins. Save Manapōuri did exactly this — it documented the harm with its own scientists, organised a nationwide movement, and made the lake a question at the ballot box, all at once.
 
-## Critical Caveat: A Tilted System Can Make Opposition Harder (But Doesn't Make It Impossible)
+## The Levers That Are Distinctly Strong Here
 
-**Before you invest time, money, and emotional energy, understand this:**
+Every country's system has its own pressure points. Aotearoa's give communities a distinctive set:
 
-**First, a definition.** This guide calls it a **system tilted toward approval** (sometimes called *institutional bias*). It does not mean anything illegal. It means the bodies that decide on a project lean toward approving it — because councils want development and rates, because central government is pushing growth and infrastructure, or because the applicant's own consultants prepare the assessment. In New Zealand this tilt has recently been **sharpened by reform**: a **fast-track** approvals regime and a rewrite of the resource-management law that reduces public notification — a point this guide returns to.
+- **Te Tiriti o Waitangi and tikanga Māori.** The Treaty and Māori customary rights are woven through the country's environmental laws, and the courts read them generously. Where a project affects Māori interests — the whenua (land), the awa (river), the moana (sea) — iwi and hapū hold powerful levers, and tikanga-based interests such as kaitiakitanga (guardianship) count in law, as the 2021 seabed-mining decision confirmed.
+- **The precautionary bottom line.** Under the environmental laws, a decision-maker must favour **caution and environmental protection** where the effects are uncertain — so a proponent who cannot show its project will not cause material harm can be refused, as the seabed miner was.
+- **Merits appeals to the Environment Court.** For many resource-consent decisions, a community can appeal to a specialist **Environment Court** that re-hears the case on its merits — not just its legality — a genuinely powerful second bite.
+- **Public submissions.** Where a consent is publicly notified, anyone can make a submission, be heard, and gain the right to appeal.
+- **Judicial review and the courts.** The High Court, Court of Appeal, and Supreme Court review the legality of decisions and have quashed major approvals.
+- **A deep mobilization tradition.** From Save Manapōuri's record petition to the campaigns since, Aotearoa has a strong, effective tradition of public mobilization on the environment.
 
-When these factors are present, opposition becomes harder. It does not become impossible. It becomes slower and more expensive and has a lower chance of stopping a project outright — but it still routinely wins declines, conditions, redesigns, and delay. Where there is genuine misconduct — an undisclosed conflict of interest, fraud, the offences the Serious Fraud Office handles — that is a different and rarer problem, covered in Section 11.
+## What This Guide Will Not Pretend
 
-**This is covered in Sections 10 and 11. Read them before committing resources.**
+It would be dishonest to promise these levers always prevail. The law is in flux and, right now, tilting toward development: the **Fast-track Approvals Act 2024** — described by a senior minister as among the most permissive regimes in Australasia — lets ministers approve major projects, including mining, with **limited public input and constrained appeals**, and the very seabed project the Supreme Court stopped has been resubmitted under it. The **Resource Management Act is being replaced**, its successor still taking shape. Many consents are processed **without public notification**, shutting the community out entirely. Treaty principles are strong but do not give an absolute veto, and the Crown can still proceed. This guide takes those facts seriously, names them plainly, and shows you how to win anyway — and, where an outright, permanent stop is not realistic, how to secure the delay, the conditions, the exposure, and the worn-down proponent that, in a hard fight, are often what winning actually looks like.
 
----
+# HOW THE SYSTEM WORKS
 
-# HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
+You cannot pull a lever you cannot see. Before you spend a single weekend, map who actually decides your project's fate, at which level, and where along that path the decision is weakest.
 
-If you've never dealt with how projects get approved, read this section first. It explains, in plain terms, who holds power over a development in Aotearoa New Zealand, how a decision gets made, why the money so often points toward "yes," and the handful of words you'll need. Every term is defined here on first use. The rest of the guide assumes you know this map.
+## The Levels of Decision
 
-## The levels of government — and what each one controls
+A New Zealand development project runs through a set of consent and approval processes, and each is a place to intervene.
 
-New Zealand has central government and local government (with no state tier).
+**Local government (councils).** For most land-based projects — subdivisions, quarries, discharges, land-use changes — the decisive decision is the **resource consent** granted by the regional or district **council** under the resource-management regime. Councils decide whether an application is **notified** (opening it to public submissions) or non-notified, run the hearings, and impose conditions. This is where most projects live or die.
 
-- **Central government** — sets national direction (National Policy Statements and National Environmental Standards), and, for **nationally significant** proposals, a **board of inquiry** or the **Environmental Protection Authority (EPA)** may decide; the EPA also decides **marine consents** in the **Exclusive Economic Zone (EEZ)** offshore; and, under the new **Fast-track Approvals Act 2024**, ministers and expert panels can approve listed projects.
-- **Regional councils** — regional plans and consents for taking water, discharges to water and air, and the coastal marine area.
-- **Territorial authorities (district and city councils)** — district plans, land use, and subdivision.
+**The Environment Court.** A specialist court that hears **appeals on the merits** from many council consent decisions, re-deciding whether and on what terms a project should proceed — a powerful avenue where an appeal right exists.
 
-**So which body decides *your* project?**
-- A mine, quarry, dam, subdivision, intensive farm, or major building on land → a **resource consent** from the regional and/or district council (or a **board of inquiry**/EPA if nationally significant), based on an **AEE**.
-- Offshore activity (like seabed mining) → a **marine consent** from the **EPA** under the **EEZ Act**.
-- A listed major project → possibly a **Fast-track Approvals Act** approval.
-- Anything affecting **tangata whenua**, a **Treaty settlement** area, or a feature with **legal personhood** (the Whanganui River, Te Urewera, Taranaki Maunga) → those rights and values are engaged.
+**Central government and the EPA.** For **nationally significant** proposals and for activities in the **exclusive economic zone** (offshore, such as seabed mining), the **Environmental Protection Authority (EPA)** and central-government processes decide, under laws including the **EEZ Act**. And, increasingly, the **Fast-track Approvals** regime routes major projects to ministerial panels — a process this guide treats as a serious obstacle you must plan around.
 
-## The expert and decision bodies
+**Māori — iwi and hapū.** Cutting across all of these: **iwi and hapū** hold rights and interests protected by Te Tiriti o Waitangi, recognised in the environmental laws and, for the coast and sea, in customary-marine-title law. Their voice, their tikanga, and the Crown's Treaty obligations are central wherever a project touches Māori interests — which, given the reach of whenua, awa, and moana, is very often.
 
-- **Council planners and independent commissioners** — assess applications and decide many consents.
-- **The EPA, its decision-making committees, and boards of inquiry** — for nationally significant and offshore proposals.
-- **The Environment Court** — the specialist court that hears appeals on the merits.
-- **The courts, the Ombudsman, the Auditor-General, and the Waitangi Tribunal** — the accountability bodies (see the overseers, below, and Section 11).
+## The Journey of a Project
 
-## How a decision is actually made — the consent journey
+A typical project moves from a proposal, to a **resource-consent application** (or an EEZ or fast-track application), to a decision on **notification**, to **submissions and a hearing** if notified, to the **consent decision and its conditions**, through any **Treaty, iwi, and customary processes**, to any **appeals**, and only then to construction. **Every one of those stages is a door you can put your foot in.** The earliest doors are the cheapest and widest: pressing for public notification, making a substantive submission, entering your evidence at the hearing. The later doors — an Environment Court appeal, judicial review, a Treaty or tikanga argument — are more demanding but real, and communities walk through them and win. Find out exactly where your project stands on this path today; that tells you which door is open now.
 
-For a project that may affect the environment, the developer must obtain a **resource consent** (or a **marine consent** offshore) based on an **AEE**. The process runs roughly:
+## Follow the Money and the Consent
 
-1. **Application and AEE** — the developer lodges the application with the assessment of effects.
-2. **Notification decision** — the council decides whether to **notify** the application publicly (anyone can submit), with limited notification (only affected persons), or not at all. **This decision is pivotal** — if it isn't notified, the public can't submit. (The current reforms **narrow** notification.)
-3. **Submissions and hearing** — if notified, the public lodge **submissions**, and there is a hearing before commissioners where submitters can be heard.
-4. **Decision** — the consent is **granted (with conditions) or declined**.
-5. **Appeal** — the applicant or a submitter can **appeal to the Environment Court**, which reconsiders the merits.
+Behind the consent stand a proponent, its financiers, its customers, and the councillors, officials, and ministers who approved it. A large project is often driven by a company answerable to shareholders, lenders, and a public reputation a campaign can reach; the Manapōuri scheme was driven by the demands of a single overseas-owned smelter, and naming that interest was part of the campaign's power. Trace who owns and funds the proponent, who buys its output, and which council or minister granted the consent. Two questions unlock most New Zealand fights: **Was the process lawful — notification, the precautionary principle, the Treaty — and were the effects honestly assessed?** and **Who benefits from pretending they were?** Mapping the chain also shows where the project is exposed that the council or the minister is not: a listed proponent answers to shareholders and to a public reputation; a buyer or an insurer has its own environmental and social commitments; a project resting on a legally shaky consent is a risk to everyone who funds or relies on it. These are pressure points the consent authority does not control.
 
-A **weak or misleading AEE, a wrongly non-notified application, unacceptable effects, or a failure to give effect to the Treaty and tangata whenua's relationship with the place** are among the strongest grounds to stop or delay a project — and the route to the **Environment Court**.
+## The Overseers
 
-## The rulebook — the laws that decide the outcome
+Finally, know the bodies that watch the deciders, because they are levers too. The **Environment Court** and the higher courts — the High Court, Court of Appeal, and **Supreme Court**, which stopped the seabed mine — review decisions and can set them aside. The **Waitangi Tribunal** inquires into breaches of Te Tiriti and can shine a powerful light on a project's Treaty failings. The **Parliamentary Commissioner for the Environment**, the **Ombudsman** (who enforces official-information requests), and the **Auditor-General** scrutinise decisions, records, and public money. Each overseer is a separate front, reachable with the same evidence, and a project rarely survives pressure on several at once. You do not have to choose one door: the same well-documented file can go to the consent authority, the Environment Court, the higher courts, the Ombudsman, the Waitangi Tribunal, the proponent's buyers, and the press at once, and each front that opens makes the others harder to close. A New Zealand campaign's power comes not from any single lever but from applying several at the same time, so that the proponent and the Crown must defend on every side.
 
-- **The Resource Management Act 1991 (RMA)** — the framework for resource consents (being replaced; see the note at the top).
-- **The EEZ Act 2012** — offshore activity and marine consents, with a **precautionary approach** built in.
-- **The Fast-track Approvals Act 2024** — a fast route for listed projects.
-- **The Treaty of Waitangi / Te Tiriti o Waitangi (1840)** and **Treaty settlements** — including the **legal-personhood** settlements for the **Whanganui River (Te Awa Tupua Act 2017)**, **Te Urewera (Te Urewera Act 2014)**, and **Taranaki Maunga (2025)**.
-- **The Official Information Act 1982 (OIA)** and the **Local Government Official Information and Meetings Act 1987 (LGOIMA)** — the right to official information.
+# QUICK REFERENCE: SUCCESS RATES
 
-## Follow the money — why the system often leans toward "yes"
-
-- **Councils** want development, rates, and jobs, so there is often pressure to approve.
-- **Central government** promotes growth, housing, and infrastructure — the current reforms are explicitly framed as ending a "culture of no."
-- **Developers** are often well-resourced, and the **AEE is prepared by the applicant's own consultants**, so it tends to read in the project's favour.
-- Most applications that reach a decision are granted, usually with conditions.
-
-None of this makes a decision inevitable. It explains why a decision rarely tips your way on its own — it takes organised, evidenced pressure.
-
-## The overseers — who watches the decision-makers
-
-- **The Environment Court** and, on points of law, the **High Court**, **Court of Appeal**, and **Supreme Court** — reconsider decisions and can quash a consent (as in the South Taranaki seabed case).
-- **The Ombudsman** — reviews refusals under the OIA/LGOIMA and investigates maladministration.
-- **The Auditor-General**, and the **Serious Fraud Office (SFO)** — the integrity bodies (see Section 11).
-- **The Waitangi Tribunal** — inquires into Crown breaches of the Treaty.
-
----
-
-# QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
-
-These ranges describe the general effectiveness of each tactic drawn from documented opposition campaigns. They are patterns, not guarantees. In New Zealand, the variable most likely to push a campaign above these ranges is a well-founded challenge on a real defect — a misleading **AEE**, unacceptable **effects**, a wrongly non-notified application, or a failure to give effect to the **Treaty** and **tangata whenua's** relationship with the place — carried through **submissions** and the **Environment Court** (Step 4).
+Before you commit months of effort, calibrate honestly. These figures are **directional, not guarantees** — patterns drawn from how New Zealand and comparable campaigns tend to go, not a controlled study. The decisive variables are whether a consent is **publicly notified** (opening submissions and appeals), whether **Māori interests and Te Tiriti** are engaged, whether the effects are **uncertain enough to trigger the precautionary bottom line**, whether an **Environment Court appeal** is available, and whether the project has been routed through **fast-track**. Where notification and appeal rights exist and Treaty interests are engaged, Aotearoa's levers are strong; where a consent is non-notified or a project is fast-tracked, discount the figures and think in terms of delay, conditions, exposure, and public and market pressure.
 
 ## Individual Step Success Rates
 
-| Step | Success Rate | Timeline | Cost (NZD) | What "Success" Means |
-|------|--------------|----------|------|---------------------|
-| **Documentation Only** | 5-10% | 3-4 months | NZ$40,000 | Project slowed, public awareness only |
-| **Opposition Only** | 15-20% | 6-12 months | NZ$110,000 | Public pressure, minor modifications |
-| **Legal Only** | 20-30% | 12-24 months | NZ$0-90,000 | Slow; strong if the defect is real |
-| **Media Only** | 10-15% | 3-6 months | NZ$40,000 | Public knows, but no action |
-| **Docs + Opposition** | 25-35% | 12 months | NZ$130,000 | Slowed, some modifications |
-| **Docs + Legal** | 30-40% | 12-18 months | NZ$160,000 | Stronger legal arguments |
-| **Opposition + Legal** | 35-45% | 12-18 months | NZ$200,000 | Political pressure strengthens the case |
-| **Opposition + Media** | 30-40% | 9-12 months | NZ$130,000 | Visibility creates political pressure |
-| **All 5 Steps Combined** | 60-75% | 12-24 months | NZ$220,000 | Consent declined/quashed/modified or project shelved |
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Pushing for public notification** | 20–40% | during processing | low | Opens submissions and appeal rights |
+| **Submission + hearing** | 15–35% | during consent | low | On record; conditions; refusal |
+| **Environment Court appeal (merits)** | 30–55% | 6–24 months | moderate | Consent refused or conditioned on merits |
+| **Judicial review** | 25–45% | 6–24 months | moderate | Decision quashed; remade properly |
+| **Te Tiriti / tikanga argument (with iwi/hapū)** | 30–55% | 6–36 months | low–moderate | Consent quashed or reshaped; Treaty weight |
+| **Precautionary-principle challenge** | 30–55% | 6–30 months | moderate | Refusal where harm is uncertain |
+| **Waitangi Tribunal claim** | 20–45% | months–years | low | Findings; political and legal pressure |
+| **Official-information / disclosure route** | high for disclosure | weeks–months | low | Documents released; defects exposed |
+| **Media & public campaign** | 30–55% | ongoing | low | Political cost raised; decision shifts |
+| **Market / customer / investor pressure** | 25–50% | 6–48 months | low | Buyers, funders, insurers walk away |
+| **All steps combined (notified, Treaty engaged)** | 45–65% | 12–36 months | low–moderate | Stalled, refused, conditioned, or abandoned |
+| **All steps combined (fast-tracked / non-notified)** | 25–45% | 12–48 months | low–moderate | Delayed, exposed, conditioned; sometimes stopped |
 
-**Key insight:** All five steps together = 3-4x more effective than any single step.
+**Key insight:** every step together beats any single one, and Aotearoa's real strengths are distinctive — **Te Tiriti and tikanga** woven through the law, a **precautionary environmental bottom line**, **merits appeals to the Environment Court**, **public submissions**, the **higher courts** that stopped the seabed mine, and a **deep mobilization tradition**. Its constraints are the **Fast-track regime** that narrows public input and appeals, an **RMA in transition**, **non-notified consents** that shut the public out, and a **Treaty that is not an absolute veto**.
 
-*A note on legal cost: the Environment Court has modest filing fees, and environmental groups (such as the **Environmental Defence Society** and **Forest & Bird**), community law centres, and — for iwi and hapū — Treaty and legal-aid support take these cases, so the "Legal" figures are not a hard floor. The main cost is expert evidence, not court fees. Beware, though, that costs can be awarded in the Environment Court — get advice.*
-
----
+*A note on cost: documenting, pushing for notification, making submissions, and seeking official information are inexpensive, and the Environmental Defence Society, community law and public-interest lawyers, and iwi/hapū counsel carry public-interest cases. Environment Court appeals and judicial review cost more but are within reach, and costs can sometimes be recovered. The expenditure that most changes outcomes is committed **legal support** — especially on the Treaty and the precautionary principle — and the reach of the **media and mobilization**, exactly what Save Manapōuri marshalled.*
 
 ## Effectiveness Visualization
 
 ```
-SUCCESS PROBABILITY (Consent Declined/Quashed/Modified/Project Shelved)
+SUCCESS PROBABILITY (stalled, delayed, refused, conditioned, or abandoned)
 
-CLEAN DECISION SCENARIO:
-All 5 Steps Combined:  ████████████████ 65-75%
-Same chance as: a coin coming up heads twice (75%)
+NOTIFIED + TREATY ENGAGED -- appeal rights, Māori interests, community organised:
+All steps combined:          █████████████   45-65%
+Te Tiriti / tikanga (w/ iwi):████████████    30-55%
+Environment Court + precaution:███████████    30-55% each
+Submission + notification:   ████████████    15-40%, more with appeal
+Single step:                 ██              5-55%
 
-4 Steps Combined:      ███████████████ 55-65%
-Same chance as: a forecast of 60% rain being correct
-
-3 Steps Combined:      ██████████ 45-55%
-Same chance as: a single coin flip (50%)
-
-2 Steps Combined:      ████████ 30-40%
-Same chance as: drawing a face card from a deck
-
-Single Step:           ██ 5-20%
-Same chance as: rolling a specific number on one die
-
-WITH MODERATE TILT FACTORS:
-(Strong pro-development council, or an applicant-funded AEE)
-
-All 5 Steps Combined:  ██████████ 40-45%
-4 Steps Combined:      ████████ 30-40%
-3 Steps Combined:      ██████ 20-30%
-2 Steps Combined:      ████ 15-25%
-Single Step:           ██ 3-12%
-
-WITH SEVERE TILT FACTORS:
-(A fast-tracked project, applicant-only studies, heavy political backing)
-
-All 5 Steps Combined:  ████ 25-30%
-4 Steps Combined:      ███ 18-24%
-3 Steps Combined:      ██ 12-18%
-2 Steps Combined:      █ 8-15%
-Single Step:           █ 2-8%
+FAST-TRACKED / NON-NOTIFIED -- public input narrowed:
+All steps combined:          █████████       25-45%
+Media + market + judicial review:███████████  the strongest combination
+Delay / conditions:          ████████████    more achievable than an outright stop
+Single step:                 ██              5-45%
 ```
 
-**One important point:** a single clear legal defect — most powerfully a misleading **AEE**, unacceptable **effects** under an uncertain-information **precautionary approach**, or a failure to give effect to the **Treaty** and **tangata whenua's** relationship with the place — can lead the **Environment Court** (or a higher court) to decline or quash a consent even where the politics favour the project, because it is applying a legal standard the decision-maker cannot ignore. (A quashed consent can be reconsidered and re-granted, as in the seabed case — so an early win may need defending.)
-
----
+**How to read this honestly.** The levers that most change outcomes in Aotearoa are **Te Tiriti, the precautionary principle, and the Environment Court** where they apply, and **the mobilization, the media, and the market** everywhere. Save Manapōuri shows the ceiling: a nationwide movement made a government-backed scheme impossible at the ballot box. The floor is set by the fast-track regime and by non-notified consents that lock the public out. Most New Zealand fights sit between them, and the honest lesson is that the Treaty, the courts, and the mobilization are real and distinctive levers — but against a fast-tracked project the government wants, the realistic win is often delay, conditions, exposure, and a proponent worn down, as much as an outright, permanent stop. Use the table to plan, not to predict: it tells you which combinations have historically done the most work and where to put scarce time first. The single most important reading is that no row on its own is as strong as the rows run together — the community that documents, supports the mana whenua, submits, appeals, and publicises at once consistently outperforms the one that pins its hopes on any single move.
 
 ## Step Importance Ranking (When All Combined)
 
-```
-1. OPPOSITION BUILDING (Step 3)     ████████████████ 25%
-   Why: creates political pressure, visible to decision-makers, enables other steps
-
-2. DOCUMENTATION (Step 2)           ███████████████ 22%
-   Why: provides ammunition for submissions, the court, and media; grounds opposition in facts
-
-3. MEDIA STRATEGY (Step 5)          ████████████ 20%
-   Why: makes opposition/legal/documentation visible, creates political cost
-
-4. LEGAL CHALLENGES (Step 4)        ███████████ 18%
-   Why: the Environment Court reconsiders the merits — and holds the Treaty, effects, and precautionary levers
-
-5. TARGET ID (Step 1)               ██████ 15%
-   Why: foundation — if wrong, everything fails
-```
-
-**Real insight:** a large, organised, visible community that has also lodged well-argued **submissions** and, with **tangata whenua**, asserted the Treaty and kaitiakitanga, is far more powerful than perfect documentation or a brilliant legal argument standing alone.
-
----
+1. **Te Tiriti and tikanga Māori** — Aotearoa's most distinctive lever, led by iwi and hapū, which has helped stop a major project outright.
+2. **The precautionary bottom line and the courts** — the environmental caution the seabed decision enforced, and the Environment Court and higher courts that apply it.
+3. **The mobilized, sustained movement** — the Save Manapōuri tradition of nationwide public pressure that makes a project a political liability.
+4. **Public submissions and notification** — the entry point that opens the hearing, the record, and the appeal.
+5. **Media and market pressure** — the visibility and the reputational and financial pressure that raise the cost of proceeding.
 
 ## What New Zealand Campaigns Actually Show
 
-A few patterns recur. **Organised opposition and a documented file are the base**, and New Zealand's distinctive lever is the **Environment Court**, which reconsiders a decision on its merits, not only its legality. **Submissions in the consenting process** supply the procedural foothold, and **Treaty of Waitangi and iwi/hapū rights** add a powerful further front where Māori interests are engaged. **A durable coalition and sustained media** turn these into political cost. **The ceiling depends on the merits and the politics** — a lawfully-consented, wanted project is usually conditioned or delayed, while a flawed consent or an unaddressed Treaty interest is genuinely vulnerable. The through-line: **build the file, submit, use the Environment Court's merits jurisdiction, and hold the coalition and coverage together.**
+A few patterns recur. **A nationwide movement can beat a government scheme** — Save Manapōuri did, at the ballot box. **The Treaty and tikanga can stop a project** — the seabed mine was refused partly on them. **The precautionary principle bites** — a proponent who cannot prove its project will not cause material harm can be refused, whatever its economic promises. **The Environment Court re-decides on the merits** — a real second chance. **Legal personhood and Treaty settlements protect some places outright** — a river or a forest with its own legal standing is a formidable obstacle to a careless project. **Mobilization endures** — the petition tradition runs deep. **But the fast-track regime narrows the doors**, non-notified consents shut the public out, the RMA is in flux, and the Treaty is not an absolute veto. The through-line: **push for notification; engage and support iwi and hapū; document every defect and uncertainty; use submissions, the Environment Court, the Treaty, and the precautionary principle; mobilize the public — and expect a long fight measured in delay, conditions, and exposure as much as an outright stop.**
 
 # STEP 1: TARGET IDENTIFICATION
 
-**Time to complete:** Weeks 1-4
-**Cost:** NZ$0
-**Outcome:** A clear picture of what you're fighting, who decides, and when the decision is final
+Every effective campaign begins by finding the exact decision that governs the project — and its weakest point. Vague opposition to "the mine" goes nowhere; opposition to "the resource consent granted without public notification on an assessment that understated the effects on a river and the customary interests of the hapū, where the precautionary principle was ignored" is a case. Answer five questions.
 
-## Core Questions You Must Answer
+## The Five Core Questions
 
-Before you organise a single person, answer these precisely.
+**1. What exactly is proposed, and under what consent?** Name the project, the proponent, and the specific approval it needs or holds — the resource consent (and which council), an EEZ marine consent, or a fast-track approval. Each instrument has conditions and a paper trail, and each is a place a defect hides.
 
-### Question 1: What Exactly Will Be Destroyed?
+**2. What stage is it at — and is it notified or fast-tracked?** Application lodged? Notification decided? Submissions open? Hearing held? Consent granted? Appeal period running? Under fast-track? The stage dictates the door. If submissions are open, they are the cheap, powerful route now; if a consent is non-notified or fast-tracked, judicial review and public pressure may be the route — and appeal deadlines are short.
 
-Not: "Environmental damage"
-But: "The mine takes [X] hectares of habitat and discharges to the awa (river) that [number] households and the local marae depend on."
+**3. Are Māori interests and Te Tiriti engaged?** This is a pivotal New Zealand question. Does the project affect the whenua, awa, moana, wāhi tapu, or customary rights of iwi or hapū? If so, the Treaty and tikanga are powerful levers — led by the affected iwi or hapū, whose leadership you support rather than substitute for.
 
-Not: "Pollution"
-But: "The plant will discharge [X] to the harbour, over an area of shellfish gathering (kaimoana) that [community] relies on, already under pressure."
+**4. Are the effects uncertain — and is the precautionary principle engaged?** Where the environmental effects are uncertain and potentially serious, the law's requirement to favour caution and environmental protection can defeat the project, as it did the seabed mine. Identify the uncertainty and the potential for material harm.
 
-Not: "Community harm"
-But: "The project crosses [iwi/hapū] land and cuts their relationship with [named awa/maunga/moana], a taonga, without their support."
+**5. Who decides, who benefits, and who is watching?** Which council, the EPA, or which minister decides; who owns, funds, and buys from the proponent; which iwi, hapū, and community groups are engaged; and which legal organisations, iwi counsel, press, and market-facing allies can be reached. This maps your levers and your audiences at once.
 
-**Why this matters:** specific harms are easier to document, litigate, and organise around. Vague opposition dies; specific opposition survives. Harm to **tangata whenua's** relationship with a place, to a **water body**, to the **coastal marine area**, or to a feature with **legal personhood** also opens a **specific legal front** (the Treaty; kaitiakitanga; the coastal and freshwater rules; the settlement's values).
+## A Worked Example
 
-### Question 2: Who Decides?
+Suppose a company proposes a quarry or a mine on a river catchment near a hapū's wāhi tapu, with a resource-consent application lodged and notification not yet decided.
 
-You cannot pressure an abstraction. Identify the decision-maker precisely — it is usually one of these:
+Working the five questions: the project needs a **resource consent** from the council (lodged — push hard for **public notification** and get the documents). Notification is **undecided**, so pressing for it, and preparing submissions, is the live, cheap route now, with an Environment Court appeal and judicial review held in reserve. The **hapū's wāhi tapu and river interests** engage **Te Tiriti and tikanga** — led by the hapū. The **uncertainty about the river's health** may engage the **precautionary principle**. The council's role means the **notification decision, the Environment Court, the Treaty, and the public** carry more weight than quiet lobbying.
 
-- **The regional and/or district council** — for most **resource consents**.
-- **A board of inquiry or the EPA** — for nationally significant proposals, and (offshore) **marine consents**.
-- **Ministers / an expert panel** — under the **Fast-track Approvals Act**.
-- **Tangata whenua and, where relevant, a legal-personhood guardian** — whose rights and values are engaged.
-
-Write it down concretely: "The regional council will decide the discharge consent, the district council the land-use consent. The project affects the [iwi] relationship with the awa, so the Treaty and kaitiakitanga are engaged. Is it being fast-tracked?"
-
-### Question 3: What Specific Action Stops It?
-
-Not: "Stop the project"
-But: "Persuade the council to decline consent, or win a decline in the Environment Court" — or, if refusal is unrealistic, "obtain strict conditions, real mitigation, and a redesign."
-
-Not: "Protect the environment"
-But: "Show the **AEE** is misleading, the **effects** unacceptable under the **precautionary approach**, the application wrongly non-notified, or the **Treaty** and kaitiakitanga not given effect, and take it to the **Environment Court**."
-
-**Why this matters:** you can demand something achievable. Vague demands are easy to ignore; specific ones create measurable pressure and, if the decision is legally flawed, become the ground for a court to act.
-
-### Question 4: When Is the Decision Final?
-
-Timeline tells you how much time you have. Map every date: when the application is lodged, the **notification** decision, the **submission** period (often around 20 working days), the hearing, the decision, and the **appeal** window to the Environment Court. Don't wait: get ready to submit the moment it's notified — and if it's non-notified when it should have been notified, get urgent advice.
-
-### Question 5: Are There Documented Financial or Policy Pressures?
-
-This is the tilted-system assessment question. Know it BEFORE you organise:
-- Is the project being **fast-tracked**, or strongly backed by central government or the council?
-- Is the **AEE** prepared and paid for by the applicant's own consultants only?
-- Does the council depend on the project for rates, development, or jobs?
-- Is the applicant a large company with deep resources for experts, lawyers, and appeals?
-- Is the application likely to be **non-notified**, shutting out public submissions?
-
-**Why this matters:** if fast-tracking, strong political backing, or applicant-controlled studies are present, opposition must overcome different barriers (Section 10). It doesn't mean opposition can't work — it means realistic expectations and, often, a focus on the **AEE**, the **effects**, the **notification** decision, and the **Treaty**, on conditions, and on the **Environment Court**, rather than a straight political refusal.
-
----
+Within a weekend you have moved from "we oppose the quarry" to a target list: push for public notification and request the application and assessment; prepare substantive submissions; engage and support the hapū's position and any Treaty and tikanga arguments; identify the precautionary-principle angle; line up the Environmental Defence Society or counsel for an Environment Court appeal; identify the proponent's buyers and funders; and prepare the river-and-wāhi-tapu story for the press. That is a campaign, not a complaint. Notice what the exercise did: it converted a diffuse fear into a short list of concrete, assignable tasks — press for notification, prepare the submission, support the hapū's position, brief the lawyer — each tied to a specific lever and each of which can begin this week, several of them before the consent is even decided. That is the difference the five questions make.
 
 # STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
 
-**Time to complete:** Months 1-4
-**Cost:** NZ$40,000-70,000 (NZD)
-**Outcome:** Three polished reports (30+ pages total) showing specific, quantified harms
+Documentation is the foundation everything else stands on. A judge, an Environment Court, a hearing panel, a journalist, and a company's financiers all move on evidence, not indignation. Build your file in three layers.
 
-**Success Rate (Documentation Alone):** 5-10%
-**Success Rate (Documentation + Opposition):** 25-35%
-**Success Rate (Documentation + Opposition + Legal + Media):** 60-75%
+## Layer 1: The Official Record
 
-## The Three Documentation Layers
+Get the documents the decision rests on. Obtain the **resource-consent application and the assessment of environmental effects (AEE)**, from the council or the EPA; the **notification decision** and its reasons; the **section 42A officer's report** and any expert reviews; the **consent and its conditions**; and any **cultural impact assessment** or iwi/hapū material the affected group has chosen to make available. Much of this is public once an application is notified, and the rest is obtainable under the **official-information laws** (the Official Information Act and the Local Government Official Information and Meetings Act), enforced by the **Ombudsman**. The gap between what the assessment claims and what the science, the river, and the Treaty require is where cases are won. Save Manapōuri's campaigners built exactly this kind of record — the science of the shoreline forests that could not survive the flooding — and made it impossible to wave away. Read the assessment of effects not only for what it claims but for what it quietly concedes and what it omits — the native fish surveyed once and dropped, the sediment plume modelled optimistically, the water take whose downstream effect is buried in an appendix, the rehabilitation that assumes a river can be put back. An AEE is written by a consultant paid to justify the consent; read against the grain, with a scientist's eye, it is often where the strongest objection is hiding in plain sight.
 
-Documentation turns vague opposition ("This is bad") into undeniable evidence ("This specific harm will occur to these specific people/places at these specific costs"). Success comes from three layers working together.
+## Layer 2: The Ground Truth
 
----
+Document the reality the paper hides. Photograph and date the **actual site** — the river, the forest, the coast, the wāhi tapu (with the hapū's guidance), the footprint — and geotag it. Log **incidents**: a discharge, a sediment plume, a fish kill, works beyond consent. Capture **before-and-after** with your own photos and with freely available satellite imagery, to show clearing or the true scale. Record **species and habitat** — native fish, birds, marine mammals, threatened species — mapped against the footprint. Record **testimony and mātauranga**: where the affected iwi or hapū chooses to share it, mātauranga Māori (Māori knowledge) of the awa, moana, and whenua is powerful evidence, held and led by them; and residents, fishers, and independent scientists can add technical readings. Community and iwi-led monitoring carries real weight.
 
-## LAYER 1: BASELINE CONDITIONS DOCUMENTATION
+## Layer 3: The Defects and the Rights
 
-**What it is:** documentation of existing conditions BEFORE the project begins — including who lives on and uses the land and waters, and how.
-
-**Why it matters:** developers claim "the site is low-value" or "already modified." Baseline documentation proves what — and who — was there, and it cannot be reconstructed later.
-
-**Documented case — iwi, KASM, and the South Taranaki seabed**
-
-A company sought consents to mine up to 50 million tonnes of the seabed a year for 35 years in the **South Taranaki Bight**, discharging processed sand back to the sea. Its backers treated the seabed as an iron-sand resource. The community made that impossible. Local **iwi** — including **Ngāti Ruanui** and **Ngā Rauru** — together with the campaign **Kiwis Against Seabed Mining (KASM)**, environmental groups, and fishing interests, documented what the seabed and the water column actually were: habitat for seabirds and marine mammals, a food-gathering area, and part of the iwi's **kaitiakitanga** relationship with the moana (sea) — and they showed the information about the effects was uncertain.
-
-It changed the outcome. After the **EPA**'s committee granted the consents, the opponents challenged them through the courts, and in 2021 the **Supreme Court** unanimously upheld the quashing of the consents — because the decision-maker had failed to apply the **precautionary approach** the law requires when information is uncertain (an "environmental bottom line"), and had failed to give proper effect to the **Treaty of Waitangi** and **tikanga**, treating the iwi's relationship with the moana as a relevant existing interest. The opponents' documented account — of the marine values, the food-gathering, and the uncertainty — was the thing the courts acted on. (Honesty matters here: the court sent the application back for fresh consideration, and the company said it still had a pathway — so the community kept fighting. A legal victory often has to be defended.)
-
-**Why it matters for you:** the opponents' documentation — of the marine values, the kaitiakitanga relationship, and the uncertainty in the applicant's information — was decisive. Documenting existing conditions, including who uses the place and their relationship with it, and pinpointing where the applicant's information is uncertain, is the foundation of everything that follows.
-
-**Building your own baseline (typical process).** Document existing conditions before the project starts, because a developer will claim the site is low-value and baseline cannot be reconstructed later. A workable approach: surveys across a season cycle of the project area plus reference sites; a species and habitat inventory with GPS locations, flagging anything protected or significant that the applicant's **AEE** omitted; a record of who uses the place — mahinga kai (food gathering), fishing, recreation, wāhi tapu (sacred sites) — and the **tangata whenua** relationship with it; the **water bodies and coastal areas** the community depends on; and water, air, and (offshore) marine baselines, including where the information is uncertain. Typical cost is around NZ$40,000-60,000 for an ecologist/consultant, surveys, and testing — reducible with knowledgeable community members, university researchers, and naturalists, and — for the tangata whenua dimension — led by the iwi/hapū themselves. Dated, same-spot photographs and geo-referenced maps make it credible.
-
----
-
-## LAYER 2: IMPACT ANALYSIS
-
-**What it is:** detailed analysis of what specific harms will occur, based on the project description plus your baseline.
-
-**Why it matters:** it shows not just "something bad" but "specifically THIS BAD in THIS WAY" — and it maps directly onto what the **AEE** and the decision-maker must properly consider.
-
-**Use the applicant's own words and the assessment rules.** Powerful, documentable weak points in New Zealand assessments include:
-- **A misleading or incomplete AEE.** The **AEE** must genuinely assess the project's effects, alternatives, and mitigation. A study that omits or understates effects — or relies on uncertain information — is a strong ground.
-- **Uncertain information and the precautionary approach.** Where the information about effects is uncertain, the law can require the decision-maker to **favour caution and environmental protection** — as the seabed case showed. Pinpoint the uncertainty.
-- **A failure to give effect to the Treaty and kaitiakitanga.** The relationship of **tangata whenua** with their lands, waters, and taonga must be recognised; a decision that ignores it is vulnerable.
-
-Convert each of the applicant's admissions ("temporary disturbance," "minor effects") into a quantified prediction against your baseline.
-
-**Outcome (illustrative):** an **AEE** found misleading, effects shown to be unacceptable under the **precautionary approach**, or the **Treaty** not given effect, can lead the **Environment Court** to decline or quash a consent — adding months or years, or stopping the project.
-
----
-
-## LAYER 3: HEALTH, CULTURAL & ECONOMIC IMPACT DOCUMENTATION
-
-**What it is:** quantification of the human-health, cultural, and economic costs to the community.
-
-**Why it matters:** decision-makers and the public respond to human and cultural cost. "X hectares affected" matters less than "an estimated 45 additional respiratory cases a year, and NZ$X of health cost" — or "the mahinga kai and fishing that sustain [community], and a taonga relationship, damaged."
-
-**Method:** use recognised air-quality or water modelling and the public-health literature to translate effects into health and livelihood outcomes; document the **cultural effects** (with tangata whenua, on their terms) on wāhi tapu, mahinga kai, and the relationship with the place; and attach costs — additional health cases, lost fishing and food-gathering, and total annual and lifetime cost for the affected community.
-
-**Outcome (illustrative):** an independent health, cultural, and economic analysis can move a council, feed the Environment Court case, and force conditions the original design lacked.
-
----
-
-## How to Structure Your Documentation
-
-### Phase 1: Baseline Conditions (Months 1-2)
-Engage an ecologist/consultant (or use knowledgeable community members, university researchers, and naturalists), with the tangata whenua dimension led by the iwi/hapū; document conditions AND use, cultural relationship, water bodies, and wāhi tapu. **Deliverable:** a 20-30 page baseline report with species/habitat inventory, a record of use and relationship, water/air/marine data, dated photographs, and geo-referenced maps.
-
-### Phase 2: Impact Analysis (Months 2-3)
-Obtain the **AEE** and the application file (the OIA/LGOIMA can help); identify specific effects; test the assessment against the rules (completeness, uncertainty/precaution, notification, Treaty, coastal/freshwater). **Deliverable:** a 20-30 page impact analysis with quantified predicted effects, comparison to baseline, and the applicant's own admissions quoted back.
-
-### Phase 3: Health/Cultural/Economic Analysis (Months 3-4)
-Identify affected populations; estimate health, cultural, and livelihood impacts and costs. **Deliverable:** a 15-20 page report written for the public and press.
-
----
-
-## Common Documentation Pitfalls (What Fails)
-- **Waiting for perfect data.** Documented data beats perfect data that arrives after the consent — and pinpointing the applicant's *uncertainty* is itself powerful under the precautionary approach.
-- **Only environmental data.** Add health, cultural, and livelihood effects — the arguments that move decision-makers, the court, and the public.
-- **No independent check.** A report the council can dismiss as "activist material" is far stronger after an independent expert or a university reviews it.
-- **Ignoring the applicant's own admissions.** Their **AEE** is your best source; quote it against itself. Use the OIA/LGOIMA to get it and the file.
-- **Speaking for tangata whenua.** The cultural dimension must be led by the iwi/hapū themselves, on their terms — not spoken for by others.
-
----
-
-## Documentation Budget Breakdown (NZD)
-
-| Item | Cost | Notes |
-|------|------|-------|
-| Ecologist / consultant (baseline + species ID) | NZ$32,000 | Protected-species and habitat survey |
-| GPS / survey equipment | NZ$3,000 | Mapping/documentation |
-| Water/air/marine testing | NZ$7,000 | Sampling across seasons |
-| Independent / university expert review | NZ$6,000 | Credibility |
-| Printing / OIA / cultural-documentation support | NZ$4,000 | Copies for decision-makers; iwi/hapū-led work |
-| **TOTAL** | **NZ$52,000** | Reducible with university partners and community members |
-
----
+Finally, document the failures of process and the legal lines the project crosses. Was the consent **wrongly not notified**, shutting out the public? Was the **assessment of effects deficient** — understating the impact on the river, the coast, native species, or cumulative effects? Was the **precautionary principle ignored** in the face of uncertainty and potential material harm? Were **Te Tiriti, tikanga, and the customary interests** of iwi and hapū inadequately weighed? Was a **cultural impact assessment** dismissed? Each defect is a separate ground — for a submission, an Environment Court appeal, judicial review, a Treaty argument, or a Waitangi Tribunal claim — and together they make a case that is hard to wave away. This is the layer that most often decides New Zealand fights, because here a project that looked consented is revealed to have dodged notification, understated its effects, ignored the precautionary bottom line, or failed the Treaty. Work it methodically against each legal requirement: should this have been notified; were the effects on the river, the coast, and native species honestly assessed; was caution favoured where the science was uncertain; were the customary interests and tikanga of the mana whenua properly weighed; was a cultural impact assessment sought and heeded? Where the answer is no, capture the proof — because each 'no' is a separate ground a court, the Environment Court, or the Waitangi Tribunal can act on.
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
-Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+This is the practical companion to Step 2: the specific records that decide New Zealand cases, and where to obtain them. You will not need every item; you will need the few that expose your project's particular defect.
 
-**Start at the deciding body's register and the council's own website.** In New Zealand the official documents for a project — the resource-consent application, the assessment of environmental effects (AEE), the notification and submission notices, the officer's report — are posted by the body running the review: the regional and district councils for most resource consents, the Environmental Protection Authority for nationally significant proposals, and the relevant Minister for some decisions. The official documents for most local projects live on the council's own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+## The Consents and Their Paper Trail
 
-**The project file and the assessment of environmental effects (AEE).** Get the developer's assessment of environmental effects (AEE) as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+- **The resource-consent application and the assessment of environmental effects (AEE)**, with the conditions. From the council's or the EPA's file. Read the AEE for what it understates — the river, the coast, native species, the water take, the cumulative and downstream effects, the rehabilitation plan.
+- **The notification decision and its reasons** — whether the consent was publicly notified, limited-notified, or non-notified, and why. A wrongly non-notified consent is a live ground.
+- **The council officer's report (the "section 42A report")** and any peer reviews — the official analysis the decision rests on.
+- **The consent and its conditions**, and, for offshore projects, the EPA/EEZ decision.
+- **Any cultural impact assessment and iwi/hapū material** the affected group chooses to make available, and the relevant Treaty settlement or customary-marine-title context.
+- **The relevant planning instruments** — the regional and district plans and any national direction — that set the rules the consent must meet.
 
-**Baseline environmental data.** Regional-council monitoring of water and air; Department of Conservation and council records for protected species and habitats; and the applicant's own AEE baseline studies.
+## How to Get Them
 
-**Ownership and money.** Company ownership and directors from the Companies Register; land title from Land Information New Zealand (LINZ); and councillors' interest registers and donation records.
+Much of this is public once a consent is **notified**, and during the **submission period** — the cheapest, most powerful window, so watch for it and act while it is open. For everything else, use the **official-information laws**: a request to the council or agency under the Official Information Act or its local-government equivalent obliges a response, with the **Ombudsman** behind you if it is refused or delayed. A refusal is itself a documentable fact. Move early: the submission period is fixed and short, and the deadline to appeal to the Environment Court or to seek judicial review is short too, so evidence and objections entered while the doors are open carry far more weight — and preserve far more of your rights — than the same point raised after the consent is granted. A practical tip: make official-information requests specific and dated, keep proof of when you sent them and when they were answered, and treat any refusal or delay not as a dead end but as a new, documentable fact and a trigger for a complaint to the Ombudsman. A council that will not release its own officer's report or notification reasons is telling you something worth knowing.
 
-**Case law and precedent.** **NZLII** (*nzlii.org*) gives free access to New Zealand judgments, including the Environment Court.
+## The Ground Evidence
 
-**How to force a document open.** An **Official Information Act 1982** request (central government) or **Local Government Official Information and Meetings Act 1987 (LGOIMA)** request (councils) compels disclosure of records a body holds. Use the request wording in Section 8E.
+- **Dated, geotagged photographs and video** of the site, the river, the coast, the footprint.
+- **Satellite before-and-after** from freely available imagery, to show clearing or the true extent.
+- **Species and habitat records** — native fish, birds, marine mammals, threatened species — mapped against the footprint; a documented effect the assessment missed is decisive.
+- **Independent technical readings** — a freshwater ecologist's, hydrologist's, or marine scientist's report, and an independent review of the AEE. The Environmental Defence Society and university partners can help source these.
+- **Maps** overlaying the footprint on the catchment, the coast, the species habitat, the wāhi tapu (with the hapū's guidance), and the customary-marine area — a single map showing a mine above a river or across a fishing ground is worth pages of argument.
+- **Mātauranga and testimony** — where the iwi or hapū chooses to bring it, mātauranga Māori and customary use, led by them; and residents' and fishers' accounts.
 
-**Free and low-cost help.** The **Environmental Defence Society (EDS)** and **Forest & Bird** litigate and advise on environmental matters; community law centres assist on process.
+## Organise It So It Persuades
 
-**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+Keep a **master timeline** of every consent step, notification and submission window, hearing, condition, and deadline — the spine of any court case. Keep a **document index** so any fact can be sourced in seconds. And keep an **argument bank** (developed in a later section) that pairs each fact with what it proves, to whom. A well-ordered file is not bureaucracy; it is what lets a volunteer, a lawyer, a journalist, and a judge all see the same clear picture fast — and it guards against the campaign's own worst enemy, a claim that cannot be sourced when the other side challenges it. In a fight that can run for years and pass through many hands, the community with the better-kept file is very often the one that prevails.
 
-## Researchers for Hire, and Everyday Research Tools
+# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE A MOVEMENT THAT LASTS
 
-If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+Evidence and law do not stop projects on their own. Organised people do — sustained, visible, and credible over the months or years a fight takes. This is the step Save Manapōuri did best: a nationwide movement, built on local commitment and credible science, that made a lake everyone's business.
 
-For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
+## Phase 1: The Core, and the Relationship with Mana Whenua
 
-# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
+Start with a small, committed core — five to fifteen people who will carry the work. Where the project affects Māori interests, the single most important early step is to **understand and respect the position of the mana whenua** — the iwi and hapū with authority over the place: the Treaty interests and tikanga are theirs, and the strongest campaigns support Māori leadership rather than substituting for it. Reach out respectfully, follow their lead, and never presume to speak on their behalf. Assign roles: documentation, legal liaison, media, community liaison, research on the proponent and its market, and coordination. Agree on the goal — refusal, a quashed consent, redesign, conditions, a buyer walking away — and on what you will and will not accept.
 
-**Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
-**Cost:** ~NZ$110,000 (NZD) for a full year
-**Outcome:** 50-100 core people, 5-10 organisations, sustained organisation
+## Phase 2: The Coalition
 
-**Success Rate (Opposition Alone):** 15-20%
-**Success Rate (Opposition + Documentation + Legal + Media):** 60-75%
+Then widen deliberately. Bring in **residents, farmers, fishers, scientists, students, tramping and recreation clubs, faith groups, and local businesses**. Reach the **allies with capacity** — the Environmental Defence Society, Forest & Bird, and community-law and public-interest lawyers who run environmental cases; the national organisations whose reach and experience can amplify a local fight; independent scientists; and the market-focused campaigners who pressure buyers and funders. Save Manapōuri's power came from exactly this breadth — Forest & Bird, farmers, scientists, and ordinary New Zealanders in a single nationwide movement — which is precisely the spread a winning campaign needs.
 
-## Critical Insight About Organising
+**A worked coalition example.** Facing a mine on a river catchment, a handful of residents and a fishing club form a core; they build a respectful relationship with the hapū and follow its lead; they bring in the Environmental Defence Society and an independent freshwater ecologist; the council receives hundreds of submissions; a national organisation amplifies the fight; and market campaigners brief the proponent's funders. No single group could have carried it; together they cover documentation, law, science, local and Māori legitimacy, national reach, and market pressure.
 
-**Most opposition campaigns fail not because they can't build opposition, but because opposition burns out after 4-8 months.** You need structures that prevent it.
+## Phase 3: Sustaining It
 
----
+Campaigns die of burnout, not defeat. Meet on a rhythm. Give people concrete, finishable tasks. Mark small wins — a notification won, a strong submission body, a document pried loose, a hearing packed. Rotate the exhausting roles. And protect people: keep leadership collective and visible; get early legal advice, especially before any action that risks trespass or an injunction; document every threat or intimidation; and build outside links to the national organisations and the press. Sustaining a campaign — as Save Manapōuri's years-long build shows — is how these fights are won, and the ones that endure pace themselves. Build in the human things that keep people together: welcome newcomers, share kai, mark the anniversaries and the small victories, and make the campaign a community people want to belong to. And respect the difference in stakes: for a non-Māori ally the fight may be a cause, but for the mana whenua the whenua and awa are whakapapa and identity, so follow their pace and priorities and do not burn out the relationship by pushing harder than they wish to go.
 
-## PHASE 1: FOUNDATION (Months 1-2)
+## Phase 4: Showing Strength
 
-**Goal:** a core group of 15-20 motivated people and a clear picture of their concerns.
+Numbers and legitimacy must be seen. Turn people out for hearings and public meetings. Gather submissions — a mass of individual, substantive submissions carries real weight — and, in the Save Manapōuri tradition, petitions and open letters. Hold peaceful, well-documented actions — the hīkoi (march), the rally, the community day — that make a project a national story. Follow the mana whenua's lead on any action on or about the whenua, and be clear-eyed that trespass and obstruction carry legal consequences that must be weighed with advice. The point is not spectacle; it is to demonstrate, to councillors, ministers, courts, and the market, that the opposition is broad, rooted, and not going away. Choose actions that photograph well and that anyone can join — a hīkoi to the council, a flotilla on the threatened coast, a community day on the riverbank, a petition in the Save Manapōuri tradition — and document them yourselves, so the breadth and spirit of the turnout survive as a record even if no outlet covers them. A visibly broad, peaceful, rooted movement, standing with the mana whenua, is the single most persuasive argument a councillor or a minister weighs.
 
-### Step 1a: One-to-One Conversations
-People don't join movements from pamphlets; they join from relationships. Identify the 15-20 people most affected or interested. **Talk to** each in person for an hour. Ask: "What's your biggest concern about this project?" Listen — don't pitch. Ask what they'd be willing to do. Each person has a different concern (land, water, fishing, health, a wāhi tapu, a way of life). Opposition organised around each shared concern is stronger than one generic message.
+# STEP 4: LEGAL CHALLENGES — SUBMISSIONS, THE ENVIRONMENT COURT, TE TIRITI, AND CAUTION
 
-### Step 1b: Affinity Groups by Concern
-Organise small groups (3-8 people) around a shared concern, not around "opposition":
-- **Land/livelihood group** — farming, fishing, tourism, displacement and mitigation
-- **Water group** — the awa, harbour, coast, aquifer, discharges
-- **Health group** — air quality, dust, water quality
-- **Tangata whenua / cultural group** — the Treaty relationship, kaitiakitanga, wāhi tapu (led by iwi/hapū)
-Each group meets regularly and works out how opposition serves *their* interest, coordinating while keeping its own framing.
+New Zealand law gives communities a real arsenal, and you do not need a final ruling to win with it: a submission, an appeal, or a review delays a project, forces disclosure, and creates leverage and headlines. Engage the Environmental Defence Society or a public-interest lawyer early — but understand the tools yourself.
 
-### Step 1c: Work With Tangata Whenua From the Start, and Set Up a Vehicle
-Two things matter most. First, in Aotearoa New Zealand, working **with tangata whenua** — the relevant **iwi and hapū**, their **marae** and, where they exist, post-settlement governance entities and (for a feature with **legal personhood**) its guardians — is both right and strategically decisive; their **Treaty** relationship and **kaitiakitanga** are among the strongest legal levers, and this work must be **led by them, on their terms**, as partners rather than props. Second, an **incorporated society or charitable trust** can speak for the wider community, receive donations, and take a case; partner with established groups (such as the **Environmental Defence Society** and **Forest & Bird**) early.
+## Notification and Submissions
 
----
+The first lever is the consent process itself. Pressing for **public notification** matters enormously, because a notified consent opens the right to **make a submission, be heard, and appeal**, while a non-notified consent shuts the public out. Whether a consent is notified turns largely on the scale of its effects and who is affected: a proposal with effects that are more than minor, or that adversely affects identified persons, should ordinarily be notified, so a well-evidenced case that the effects are significant is itself an argument for notification. This matters because the appeal right to the Environment Court generally flows from having been a submitter — miss the submission window on a notified consent, or lose the notification argument on a non-notified one, and the merits appeal may be closed to you. Where a consent is notified, a substantive, evidenced submission does more than register opposition: it builds the record, can win binding conditions or a refusal, and secures your standing to appeal. Treat the submission not as a formality but as the first phase of the legal case, and put your strongest science and your clearest account of the defects on the record while the window is open. What you leave out of the submission can be as costly as what you put in: your later appeal to the Environment Court is generally confined to the matters you raised as a submitter, so a ground never pleaded at the submission stage may be lost to you on appeal. Treat the submission window as your one chance to lay down the full case — every effect, every uncertainty, every Treaty and tikanga interest the mana whenua wish raised — because it is the foundation everything later is built on.
 
-## PHASE 2: PUBLIC LAUNCH (Months 2-3)
+## The Environment Court — Merits Appeal
 
-**Goal:** announce opposition to the public, the media, and decision-makers.
+Aotearoa's distinctive litigation strength is the **Environment Court**: for many consent decisions, a submitter can **appeal to a specialist court that re-hears the case on its merits**, deciding afresh whether and on what conditions the project should proceed. This is far more powerful than reviewing legality alone, because it reaches the substance — the effects, the conditions, the alternatives — and communities have won refusals and stringent conditions on appeal. Where an appeal right exists, it is often your strongest formal lever; confirm it early, because the appeal period is short.
 
-### Step 2a: Public Meeting (community hui)
-Hold a public meeting or **hui** where people set out their concerns to themselves, to councillors, and to press. A serious, informational meeting carries weight. Typical shape: welcome (and, with tangata whenua, appropriate tikanga) → project explanation → community concerns (each person a few minutes) → expert Q&A (an ecologist, a health voice, a lawyer/planner) → next steps.
+## Te Tiriti o Waitangi and Tikanga
 
-### Step 2b: Opposition Materials (Factsheets)
-One page. Decision-makers and neighbours won't read 30 pages; one page gets read. Structure: a headline stating the problem → quick quantified facts → the specific effect → **what you're asking for** → the evidence base → contact/resources. Print widely; distribute at markets, the library, the marae (with permission), community boards; post a digital version. Cost: ~NZ$2,500.
+The most distinctive lever in New Zealand law is **Te Tiriti o Waitangi and tikanga Māori**. The Treaty and its principles run through the environmental statutes, and the courts read them generously: in the 2021 seabed-mining case, the Supreme Court held that the Treaty clauses must be given a "broad and generous" interpretation and that **tikanga-based customary interests — including kaitiakitanga and rights under customary-marine-title law — count as "existing interests"** the decision-maker must weigh. The case is worth understanding in detail, because it is the modern template. Trans-Tasman Resources had a permit to mine up to fifty million tonnes of iron sands a year for thirty-five years from the South Taranaki Bight, discharging the de-ored sand back onto the seabed; it needed marine consents under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act, decided by a committee of the Environmental Protection Authority. South Taranaki iwi, fishers, and environmental groups fought it through the High Court, the Court of Appeal, and finally the Supreme Court, which unanimously held that the committee had erred by not favouring caution and environmental protection in the face of scientific uncertainty, and by not treating tikanga-based interests — including rights claimed under the Marine and Coastal Area (Takutai Moana) Act — as interests it was bound to weigh. The distilled rule: a proponent who cannot show its project will not cause material harm should not be consented. Where a project affects Māori interests, this is among the most powerful grounds available. This lever, above all, belongs to the affected iwi and hapū; your role is to support their leadership, resource their position where they welcome it, and never to appropriate or speak for it. In practice that means asking rather than assuming, offering capacity — research, logistics, funds, a legal contact — rather than direction, and accepting that the mana whenua may pursue the fight on terms, at a pace, or toward an outcome different from what a non-Māori ally would choose. That is not a limitation on the campaign; it is the condition of its integrity and, very often, of its success. A **Waitangi Tribunal** claim can add further weight, exposing a project's Treaty failings and generating political pressure. New Zealand has also pioneered a distinctive legal idea that can bear on these fights: legal personhood for parts of the natural world, granted to the former Te Urewera national park and, through the 2017 Te Awa Tupua settlement, to the Whanganui River, which the law now recognises as a legal person with its own guardians and standing. Where such an arrangement or a Treaty settlement covers the whenua or awa your project would affect, it can add a further, powerful layer of protection and a further party whose interests must be reckoned with.
 
-### Step 2c: Submissions and the Tangata Whenua Position (the decisive record)
-Two things matter most here. First, turn people out to **lodge strong submissions** the moment the application is notified — and, if it is **non-notified** when it should have been notified, get urgent advice — each raising real grounds: a misleading **AEE**, unacceptable **effects**, uncertain information, a wāhi tapu or water body harmed. Second, support **tangata whenua** to put their own position on the record — their **Treaty** and **kaitiakitanga** relationship with the place — in their own words and through their own processes. Together these build a record the council and the court take seriously. Cost: ~NZ$2,000.
+## The Precautionary Principle
 
-### Step 2d: Media Coverage at Launch
-Release data + submissions + the tangata whenua position = a story. (Full press-release example is in Section 9, 9G.) Contact reporters, then send the study. Expect 1-3 local stories.
+Among the hardest legal lines is the requirement, in the environmental laws, to **favour caution and environmental protection where effects are uncertain**. In the seabed case, the Supreme Court held that the decision-maker had failed to apply this properly and that economic considerations counted "only at the margins" — in effect, that a proponent who cannot demonstrate its project will not cause **material harm** should be refused. Where your project's effects are genuinely uncertain and potentially serious, argue the precautionary principle explicitly, tied to the specific harm and the specific uncertainty.
 
----
+## Where to File and With Whom
 
-## PHASE 3: COALITION EXPANSION (Months 3-6)
-
-**Goal:** grow from 20 core people to 50+ core plus 5-10 organisations.
-
-### Step 3a: Organisation Outreach
-Approach environmental and community organisations — the **Environmental Defence Society (EDS)**, **Forest & Bird**, **Greenpeace Aotearoa**, local residents' and ratepayers' associations, recreational and commercial fishing groups, and — as partners, led by them — the relevant **iwi and hapū** — plus universities, churches, and businesses that lose from the project. Research each; contact the right person; explain how opposition serves *their* aims; make a specific, tailored ask.
-
-Tailored asks:
-- **EDS / Forest & Bird / a lawyer:** "We need help with submissions and, if it's granted, an Environment Court appeal — can you assist?"
-- **A university group:** "Would your researchers assess the marine/freshwater or health effects independently?"
-- **Iwi / hapū (as partners):** "How can we support your Treaty and kaitiakitanga case, on your terms?"
-- **Fishers / recreation / churches:** "This harms the waters and food we depend on — will you submit and speak?"
-
-### Step 3b: Coalition Agreements (Written)
-A written agreement — who's in, how decisions are made, meeting frequency, the public message, who may speak for the coalition, conflict resolution, money, and an exit clause — prevents later conflict. Consensus is stronger but slower; voting is faster but can fracture. Respect that iwi and hapū speak for themselves.
-
-### Step 3c: Coordinated Public Work
-Assign leadership by strength: environmental analysis to the NGO/university; the Treaty and cultural case to tangata whenua (as partners, led by them); livelihood to the fishing/farming groups; media to whoever has the contacts; the legal track to the law group and the incorporated society. Sequence activities so each builds momentum (coalition launch → data release → tangata whenua position → submissions).
-
----
-
-## PHASE 4: SUSTAINED PRESSURE (Months 6-12)
-
-**Goal:** maintain organised opposition across a 12+ month timeline.
-
-### Step 4a: Public Demonstrations (marches / rallies)
-Regular, same time and place, growing attendance — outside the council, at the site, or in the town centre. Handle logistics: any council/police notice, marshals, accessibility, and a sound system for large gatherings. Momentum matters: "50 gather" becomes "gathering grows to 500."
-
-### Step 4b: Media Campaign (Ongoing)
-Monthly rhythm: week 1 a release tied to an event/data; weeks 2-3 social media 3x/week; week 4 a reporter check-in. Rotate themes (tangata whenua position → expert finding → coalition growth → rally → appeal filed).
-
-### Step 4c: Common Opposition Failure Points (How to Prevent)
-
-**Failure Point 1: Burnout (Months 4-8).** Prevent it: regular (not constant) meetings; celebrate milestones; fund one part-time coordinator so volunteers don't carry logistics; schedule breaks; keep a public progress tracker. Campaigns that bring in a part-time coordinator when founders tire tend to last for years; those that don't often collapse around month six.
-
-**Failure Point 2: Coalition Conflict.** Prevent it with a written agreement and decision process, a clear escalation path (discuss → mediator), an explicit exit clause, and rotating leadership. Respect that iwi and hapū decide by their own tikanga — and be alert to developers trying to split a community, or to deal separately with some to manufacture "support"; keep decisions transparent and collective.
-
-**Failure Point 3: Competing Funding.** Grants with conflicting conditions can pull groups off shared work. Coordinate grants up front and agree no group commits coalition resources without a coalition decision.
-
-**Failure Point 4: No Clear Wins.** Name milestones as victories (tangata whenua position lodged, 500 submissions filed, a large rally, the appeal accepted) and publicise cumulative progress.
-
----
-
-## Opposition Building Budget: Year-Long Campaign (NZD)
-
-| Item | Cost |
-|------|------|
-| Factsheet printing | NZ$4,000 |
-| Website/phone/data (annual) | NZ$3,000 |
-| Meeting / venue / hui costs | NZ$6,000 |
-| Outreach travel | NZ$12,000 |
-| Submission materials | NZ$2,000 |
-| Demonstration supplies (banners, sound) | NZ$7,000 |
-| Coalition meeting costs | NZ$5,000 |
-| Part-time coordinator (12 months) | NZ$55,000 |
-| Social-media / content (part-time, 3 months) | NZ$12,000 |
-| Fundraiser/event costs | NZ$5,000 |
-| **TOTAL** | **NZ$111,000** |
-
-**Funding the campaign.** Money typically comes from four places: individual donations (local collections and online fundraisers, plus dedicated legal-cost appeals); grants from environmental and community funders (long lead times — apply early); benefit events; and in-kind support from coalition organisations (expertise, meeting space, volunteer time). An incorporated society or charitable trust can receive donations and, where eligible, grants. Aim to raise half the budget by month 6 and the rest by month 12. **Reductions:** use a volunteer coordinator, or run a shorter 6-month campaign, to cut ~NZ$55,000; and groups such as EDS and Forest & Bird, and community law centres, may act at reduced or no cost.
-
----
-
-## Hiring Help to Run the Campaign
-
-You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
-
-# STEP 4: LEGAL CHALLENGES — SUBMISSIONS, THE ENVIRONMENT COURT, AND THE TREATY
-
-**Time to complete:** 3-24 months (depends on track)
-**Cost:** NZ$0-90,000 (NZD; submissions are free, and the Environment Court's fees are modest — the main cost is expert evidence)
-**Outcome:** a consent declined or quashed, a project halted, conditions, or a project shelved
-
-**Representation impact:**
-- Experienced resource-management lawyers or a public-interest law group: 35-45% favourable-outcome likelihood
-- General or less specialised representation: 25-35%
-- Self-representation: 5-15%
-- **A key advantage:** the **Environmental Defence Society** and **Forest & Bird** take significant cases; community law centres and legal aid can help; and iwi and hapū have Treaty and legal support. **A key caution:** the **Environment Court can award costs** — get advice on your exposure before you file.
-
-**Success Rate (Legal Only):** 20-30%
-**Success Rate (Legal + Opposition + Media):** 60-70%
-
-New Zealand legal strategy has three tracks. One caution up front: the **RMA reform** and the **Fast-track Approvals Act 2024** are **reducing** public notification and appeal rights, so the exact route is moving — get **current advice** on your rights today.
-
----
-
-## TRACK 1: PARTICIPATION AND THE PAPER TRAIL (the front door)
-
-Most fights are shaped here, on the record, before any appeal.
-
-- **Lodge strong submissions.** The moment the application is **notified**, submit — specific, on time, and grounded in real **legal grounds** (a misleading AEE, unacceptable effects, uncertain information, a water body or wāhi tapu harmed) — and ask to be **heard** at the hearing.
-- **Challenge a wrong notification decision.** If the council decides **not to notify** an application that should have been notified, that decision can be judicially reviewed — get urgent advice, because non-notification shuts the public out.
-- **Support the tangata whenua position.** The **Treaty** and **kaitiakitanga** relationship of the iwi/hapū with the place, put on the record in their own words and processes, is among the strongest inputs.
-- **Use the OIA/LGOIMA.** Request the **AEE**, the application file, the council's reports, and the correspondence under the **Official Information Act** (central government) or **LGOIMA** (councils); escalate a refusal to the **Ombudsman**. This turns a closed process into a documented one.
-
-**Why this track matters:** submitting well — specific, on time, grounded in the law and the evidence — plus the information paper trail and the tangata whenua position, often does more than any amount of noise, and it builds the record you'll need for Tracks 2 and 3. (Note: generally you must have **submitted** to have a right to **appeal** — so a good submission is also your ticket to the Environment Court.)
-
----
-
-## TRACK 2: EFFECTS, THE PRECAUTIONARY APPROACH, THE TREATY, AND LEGAL PERSONHOOD (the strongest cards)
-
-Several grounds make this powerful.
-
-**1. A misleading AEE or unacceptable effects.** The **AEE** must genuinely assess the effects, alternatives, and mitigation, and the decision-maker must weigh the **effects** on the environment. A study that omits or understates effects — or effects that cannot be avoided, remedied, or mitigated — is a strong ground.
-
-**2. Uncertain information and the precautionary approach.** Where the information about effects is uncertain, the law can require the decision-maker to **favour caution and environmental protection** — an "environmental bottom line," as the **South Taranaki seabed** case established. Pinpointing the uncertainty in the applicant's own material is a distinctively powerful move.
-
-**3. The Treaty of Waitangi and kaitiakitanga.** Decision-makers must give effect to the principles of the **Treaty** and recognise the relationship of **tangata whenua** with their lands, waters, and taonga; the courts have held this relationship — including its cultural and spiritual dimensions and food-gathering (mahinga kai/kaimoana) — is a relevant **existing interest**. A decision that fails to grapple with it is vulnerable.
-
-**4. Legal personhood.** Where a project affects a feature with **legal personhood** — the **Whanganui River (Te Awa Tupua)**, **Te Urewera**, or **Taranaki Maunga** — the feature has legal standing and appointed **guardians** who can act for it, and the settlement's **values** must be considered. This is a genuinely distinctive New Zealand lever.
-
----
-
-## TRACK 3: THE ENVIRONMENT COURT, JUDICIAL REVIEW, AND THE HIGHER COURTS
-
-Match the tool to the goal:
-- **The Environment Court** — the specialist court that hears an **appeal on the merits** (effectively a rehearing) against a consent decision; it can confirm, decline, or change the consent and its conditions. This merits reconsideration is the workhorse.
-- **Judicial review in the High Court** — for a legal or process error (for example, a wrongly **non-notified** application, or a flawed **EPA** or **fast-track** decision) — the route by which the seabed consents were first quashed.
-- **Appeals on points of law** — from the Environment Court or the High Court up to the **Court of Appeal** and **Supreme Court** (the seabed case's path).
-- **The Waitangi Tribunal** — inquiries into Crown breaches of the Treaty (its findings are usually recommendatory, but influential).
-
-**Be realistic about two things.** First, the **reforms are narrowing** notification and appeal rights, and **fast-tracked** projects have limited public participation — so get current advice on what rights apply to *your* project. Second, a quashed or declined consent can be **reconsidered and re-granted** after the defect is addressed — as in the seabed case, where the matter went back to the EPA. So an early win may need defending: keep opposition and media pressure alive alongside the case.
-
----
-
-## Legal Strategy Decision Tree
-
-```
-START: Is an application lodged? Is it notified?
-├─ NOTIFIED     → Lodge strong submissions NOW + ask to be heard (Track 1). Use OIA/LGOIMA.
-│                 Support the tangata whenua position.
-├─ NON-NOTIFIED → Get URGENT advice on judicial-reviewing the notification decision.
-└─ FAST-TRACKED → Get advice fast — participation is limited; act early.
-
-Q1: What is the defect?
-├─ Misleading AEE / unacceptable effects → SUBMIT, then ENVIRONMENT COURT appeal on the merits.
-├─ Uncertain information → argue the PRECAUTIONARY APPROACH ("environmental bottom line").
-├─ Treaty / kaitiakitanga not given effect → strong ground; support the tangata whenua case.
-├─ Feature with LEGAL PERSONHOOD affected → its guardians and values are engaged.
-├─ A legal/process error (wrong non-notification, flawed EPA/fast-track decision)
-│      → JUDICIAL REVIEW in the High Court.
-└─ No real defect (lawful process, you just disagree) → focus on opposition + media.
-
-Q2: Costs risk?
-└─ The Environment Court can award costs — get advice on your exposure; groups like EDS
-   and Forest & Bird can carry or share the risk.
-
-Q3: Budget?
-├─ NZ$0        → Submissions yourself; partner with EDS/Forest & Bird/community law/iwi support.
-├─ NZ$0-40k    → Environment Court appeal with a lawyer + focused expert evidence.
-└─ NZ$40-90k   → Full case + expert witnesses, combined with opposition + media.
-
-RECOMMENDED PATHS
-Path A — Clear defect: strong submissions + Environment Court appeal + Treaty case + OIA
-  file + media. Highest ceiling.
-Path B — Arguable but not clear-cut: build opposition + media; submit; take advice; appeal
-  if a defect crystallises.
-Path C — No legal defect: don't appeal. Win it politically, on the record, and in the press.
-```
-
----
-
-## Litigation Success Factors
-Litigation succeeds when **combined** with the other steps:
-- Litigation alone: 20-30%
-- Litigation + opposition: 35-45%
-- Litigation + opposition + media: 50-70%
-- A clear defect — a misleading **AEE**, unacceptable **effects** under the **precautionary approach**, or a failure to give effect to the **Treaty** — can exceed these (as in the seabed case), though a defect that is later cured may let the consent be re-granted.
-
-A court that sees a genuine legal defect, plus visible organised opposition, plus press coverage, treats the matter as serious.
-
-## What to Avoid: Legal Failures
-- **Litigating instead of organising.** A lone technical point with no visible opposition reads as a niche dispute. Build opposition; litigate with it visible.
-- **Not submitting (or submitting late).** Generally you must have **submitted** to appeal — a good, on-time submission is your ticket to the Environment Court.
-- **Missing a non-notification.** If it isn't notified, act fast on advice — you may be shut out otherwise.
-- **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The information on marine effects is uncertain, so the decision-maker had to favour caution" is a ground a court can act on.
-
----
+Merits appeals run in the **Environment Court**; judicial review and appeals on law run in the **High Court**, up to the Court of Appeal and the **Supreme Court**, which stopped the seabed mine; Treaty breaches can be taken to the **Waitangi Tribunal**. Get help early: the Environmental Defence Society, public-interest and community lawyers, and iwi/hapū counsel know exactly these procedures and can advise on standing, the strongest ground, the short deadlines, and how a non-Māori community can properly support a Treaty-based case. A lawyer engaged while submissions are open and the appeal deadline is alive is worth far more than help sought after the machinery arrives.
 
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
-Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in New Zealand — so you file the right fact against the right rule.
+You have a file of evidence. Now you must turn it into arguments — because the same fact persuades a judge, the Environment Court, a council, a journalist, a buyer, and the community itself in different ways. Learning to translate your evidence for each audience is what lets a community reach every lever at once.
 
-**A consent granted contrary to the planning framework → Environment Court appeal.** Where a decision misapplies the district or regional plan or the relevant national direction. Feed it with: the plan provisions and the decision's departure from them.
+## One Fact, Many Arguments
 
-**A flawed AEE → appeal or judicial review.** Ignored significant effects, no real alternatives, or inadequate assessment. Feed it with: the AEE gaps and your expert critique.
+Take a single documented fact — say, that a mine was consented without public notification, on an assessment that understated its effects on a river and the customary interests of the hapū, and without applying the precautionary principle. That one fact becomes:
 
-**A submitter's points ignored → procedural challenge.** Feed it with: your dated submission and the decision's silence on it.
+- **A process argument:** the consent was wrongly not notified, shutting out the public — a ground for judicial review.
+- **A precautionary argument:** the decision-maker failed to favour caution where the river's health was uncertain — the ground the seabed mine was refused on.
+- **A Te Tiriti argument:** the customary interests and tikanga of the hapū were inadequately weighed — a powerful ground, led by the hapū.
+- **A media argument:** a mine consented behind closed doors above a river the community was never allowed to speak about — a clear, human story with a stake.
+- **A market argument:** a project resting on a legally vulnerable consent and unresolved Māori opposition is a legal, reputational, and financial risk to its buyers and funders.
 
-**Te Tiriti o Waitangi / Māori interests not properly considered → strong ground.** Where iwi and hapū interests and the Treaty were not given the weight the law requires. Feed it with: the consultation record and the affected iwi/hapū position.
+Same fact, five arguments, five audiences. Go through your strongest facts and, for each, ask what it proves to each audience. That table is your campaign's argument bank — and in Aotearoa the arguments that most often decide things are the **Treaty and the precautionary principle**, because they hand the court a reason to refuse. Keep the arguments anchored to the same documented facts, so a claim made to a reporter can be backed in the record and a claim made to the court can be spoken plainly at a public meeting; consistency across audiences is itself persuasive. Learning to move fluently between these registers — the notification error and the precautionary failure for the court, the river for the community and the public, the reputational risk for the buyer, the human story for the reporter — is one of the most valuable skills a campaign develops, because it lets the same underlying evidence work every lever at once without ever straying from the facts.
 
-**Conditions breached → enforcement.** Feed it with: the conditions and dated evidence of breach.
+## Match the Argument to the Audience
 
-The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." The Environmental Defence Society can tell you fast which ground is live.
+**The Environment Court and the higher courts** want the ground framed precisely against the specific law — the notification error, the precautionary failure, the Treaty and tikanga interests, the deficient assessment — with the documents and the timeline that prove it, and, on the Treaty, led by the iwi or hapū.
+
+**Councillors, the EPA, and ministers** respond to legal risk and political cost — the appealable or reviewable decision, the mobilized public, the Māori opposition, the exposure of having consented a defective project.
+
+**Journalists** need a specific, verified, human story with a hook: a named place, a river or a coast, a hapū's stand, a documented defect, an imminent decision.
+
+**Buyers, investors, and insurers** respond to legal, reputational, and financial exposure — a contested project on a shaky consent, tied to a named company.
+
+**The community itself** needs to see that the fight is winnable and shared — the small wins, the growing movement, the pressure mounting — so it lasts.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
-**Time to complete:** the full 12-month campaign
-**Cost:** ~NZ$40,000 (NZD) for trained spokespeople + ongoing support
-**Outcome:** regular coverage reaching a large audience, political pressure on decision-makers
+Media is not vanity; it is a lever. Coverage raises the political cost of a consent, reaches councillors, ministers, and the proponent's backers your letters cannot, protects activists by making them visible, and can turn a local fight into a national cause. Save Manapōuri proved it: the campaign made a remote Fiordland lake a household issue, put it on the front pages and into a hit protest song, and carried it all the way to the ballot box.
 
-**Success Rate (Media Only):** 10-15%
-**Success Rate (Media + Opposition + Documentation + Legal):** 60-75%
+## Build the Story
 
-New Zealand has a strong national and regional press, an active environmental- and Māori-affairs journalism sector, and heavy social-media use, that cover exactly these fights — and a record of that coverage shifting outcomes. The South Taranaki seabed fight drew sustained national coverage over years, which kept the political and legal pressure on.
+Reporters need specifics: a named place and people, a dated and documented defect or harm, a clear stake, and a live decision or deadline. "A project threatens the environment" is not a story; "a mine has been consented behind closed doors above a river the hapū was never properly consulted about, on an assessment that understated the risk, with works due next month" is. Lead with your strongest verified fact, attach the map and the imagery, and offer a human voice — a fisher, a kaumātua where the iwi chooses to speak, a scientist — and a striking image, as Manapōuri's threatened shores became.
 
-## How Journalists Actually Work
-What reporters care about, in order: (1) **news** (something new happened), (2) **consequence** (someone is affected), (3) **timeliness** (it's happening now), (4) **conflict** (a real dispute), (5) **new information**. What they don't care about: your opinion, how angry you are, vague statements, or meetings with no hook.
+## Reach the Right Outlets
 
-## The Newsworthiness Formula
-**NEWS = DATA + CONSEQUENCE + TIMELINESS + NEW INFORMATION**
-- **Bad:** "Residents oppose the project." (no data, no specific consequence, nothing new) → ignored.
-- **Good:** "OIA documents show the AEE never assessed the discharge into the harbour where the community gathers kaimoana; 400 submissions oppose it; the hearing is next week." → covered.
+Work outward in rings. **Local and regional media** first, where the project is felt and councillors read it. Then **national outlets** — the major news sites, broadcasters, and strong independent and Māori media — which carry political weight. Then, for a project touching a listed company, a global buyer, or a globally resonant value (native forest, a river, the moana, seabed mining), **international and financial media**, which reach the money. Feed each ring what it needs, and let coverage in one pull in the next. Pay particular attention to the ring that reaches the **money and the ministers**: national coverage raises the political cost of backing a project, and reputational coverage can reach a listed proponent or its funders where a council cannot. It is worth identifying the specific environment, Māori-affairs, and business reporters who cover resource projects, and the outlets that specialise in in-depth environmental journalism; a reporter who already knows the terrain needs less briefing and writes with more authority, and a single well-sourced investigation into a non-notified consent or a broken assessment can move a minister or a funder more than a month of press releases. Offer your strongest documented finding as an exclusive and you gain an ally, not just a mention.
 
-The difference is roughly a 4-5x change in the likelihood of coverage.
+## Sustain It, Make It Safe and True
 
-## Know the Outlets That Cover This Beat
-- **Local and community media** and **regional press** — the audience that reaches your councillors.
-- **National outlets** — **RNZ**, **Stuff**, the **NZ Herald**, **Newsroom**, and **The Spinoff** — for projects with wider significance.
-- **Māori media** — **Whakaata Māori / Te Ao Māori News** and iwi channels — essential where tangata whenua are central, and led by them.
-- **Social media** — powerful in New Zealand — plus international outlets for landmark cases.
+A single article changes little; a drumbeat changes decisions. Plan a sequence — the notification decision, the submission, the hearing, the appeal, the new document, the rally — so there is always a next hook, and build your own record (a simple site, a social feed, a growing album of dated photographs and video) so the story exists in a form journalists can pick up and that survives if posts are removed. Keep messaging disciplined, accurate, and consistent; one exaggeration handed to the other side can cost you credibility you cannot rebuild. Follow the mana whenua's lead on how their story and mātauranga are told, and be careful and factual when naming individuals or companies. Verified, specific, human, and relentless — that is the coverage that shifts outcomes.
 
-## Building Reporter Relationships (The Key)
-Reporters don't ring campaigners for comment; campaigners ring reporters with tips. Identify 5-10 local, regional, and specialist reporters (environment, local-government, Māori-affairs beats). **Contact** them first: "I saw your piece on [similar story]. We've got a similar situation in [place] and I think your audience should know." Then keep the relationship warm over months — a relevant article, an OIA document, a milestone — so that when the big story lands, they already know you.
+# EMAILS & LETTERS
 
-## Sample Media Timeline
-- Month 1: build relationships (contact five reporters)
-- Month 2: first story (submissions / the tangata whenua position)
-- Month 3: press event releasing the survey/OIA findings; expert available
-- Month 4: coalition announcement
-- Month 5: rally coverage
-- Month 6: hearing/decision coverage
+Written communications are how you make submissions, create a record, and reach the bodies that can act. Each does double duty: it asks for something and it documents that you asked. Keep copies of everything, and send important items so that receipt is provable. Below are adaptable templates for the situations you will meet most often. Keep them factual, specific, and grounded in the law and the evidence.
 
-## Real Media Dynamics (New Zealand grounding)
-- **Coverage plus mobilisation shifts outcomes:** the seabed fight combined iwi leadership, community organising, the documentation of marine and cultural values, and years of litigation with sustained national coverage that kept the pressure on.
-- **OIA documents make stories:** a disclosure that contradicts the applicant's claims — an AEE that ignored a discharge, a wrongly non-notified consent — is a gift to a reporter and a court.
-- **Independent evidence beats the applicant's study:** independent ecological, marine, or health analysis that contradicts an optimistic **AEE** lets the press write "experts dispute the applicant's figures," and decision-makers take notice.
+## 8A. Submission on a Resource Consent (or EEZ/Fast-track application)
 
-## Media Measurement
-Track cumulative stories and reach month over month. **Success indicators:** regular (at least monthly) coverage that carries your message and specific data, and visible decision-maker response. **Failure indicators:** no coverage for 2+ months, superficial coverage that drops your argument, or no response from decision-makers.
+**To:** the consent authority (the council, the EPA, or the fast-track panel)
+**Subject:** Submission — [project], [application reference]
 
----
+I make this submission opposing [project] at [location]. My grounds, with evidence: (1) the assessment of environmental effects [understates / omits] [effect — e.g. on the [river] and its native fish]; (2) [the effects are uncertain and potentially serious — the precautionary principle requires caution]; (3) [Te Tiriti, tikanga, and the customary interests of [iwi/hapū] are inadequately addressed]; (4) [the consent was wrongly not notified / the process was deficient]. I request that the consent be [declined / granted only on strict conditions], I wish to **be heard**, and I attach my evidence. [Attachments: expert report, maps, records.]
 
-## Amplifying at Scale — Media Help for Hire
+## 8B. Request Pressing for Public Notification
 
-Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
+**To:** the consent authority (council)
+**Subject:** [Project] — request that the application be publicly notified
 
-# SECTION 8: EMAILS & LETTERS YOU CAN COPY
+I ask that the application for [project] be **publicly notified**. The proposal will have effects that are more than minor on [the river / the coast / native species / the wider community], and affects the interests of [iwi/hapū] and persons beyond the applicant. Given the scale and the public interest, notification is warranted so that affected people may make submissions and be heard. I attach evidence of the effects that support notification.
 
-These are ready-to-use messages. Adapt the bracketed parts and send them. Keep them short, specific, and grounded in the law and the evidence — that is what gets read and acted on. The **OIA/LGOIMA request (8E)** and the press release (8G) are among the highest-leverage messages here.
+## 8C. Official-Information Request
 
-## 8A. Email to a reporter (story pitch)
+**To:** [the council (LGOIMA) or the agency (OIA)]
+**Subject:** Official-information request — [project]
 
-```
-Subject: Story tip: [specific finding] — [the council/EPA] decides [date]
+Under the [Official Information Act / Local Government Official Information and Meetings Act], I request: the resource-consent application and assessment of environmental effects; the notification decision and its reasons; the officer's (s42A) report and any peer reviews; the consent and conditions; and [correspondence between the applicant and the authority on [issue]]. Please respond within the statutory timeframe; I am glad to discuss scope, and note the public interest in disclosure.
 
-Kia ora [Reporter],
+## 8D. Letter Instructing a Public-Interest Lawyer / EDS
 
-I follow your coverage of [beat / recent story]. We have something in [place]
-your audience should know about, and there's a clear news hook.
+**To:** the Environmental Defence Society or a public-interest lawyer
+**Subject:** [Project] — Environment Court appeal / judicial review
 
-In one line: [OIA documents / the tangata whenua position / an independent survey]
-show [quantified finding — e.g. "the AEE never assessed the discharge into the
-harbour where the community gathers kaimoana"], and [the council / the EPA] decides
-on [date].
+We believe the [consent] for [project], granted on [date], is legally vulnerable because [it was wrongly not notified / the assessment is deficient / the precautionary principle was not applied / Te Tiriti and tikanga interests were inadequately weighed]. We attach the decision, the assessment, the notification reasons, our expert evidence, and our timeline. We seek your advice on an **Environment Court appeal** (or judicial review), the short deadline, the strongest ground, and — where the affected iwi or hapū wishes it — how our community can properly support a Treaty-based case.
 
-Why it's newsworthy: it's new (just obtained), specific (affects [# people /
-hectares / an iwi's relationship with the moana]), and time-sensitive (decision [date]).
+## 8E. Letter Supporting Mana Whenua (at their invitation)
 
-I can share the full report and the documents and connect you with [one named
-expert] for an interview. Would a quick call this week work?
+**To:** [the consent authority / the proponent], copied to [the iwi/hapū, with their agreement]
+**Subject:** [Project] — support for [iwi/hapū]'s stated concerns
 
-Ngā mihi,
-[Name] — [Organisation] — [phone] — [email]
-```
+As a community group in [place], and at the invitation of and in support of [iwi/hapū], we underline the concerns the mana whenua have raised about [project]: [the effects on the awa/moana, the customary interests, the failure to weigh tikanga and Te Tiriti]. We do not speak for the mana whenua; we stand with them, and we ask that their interests and the Crown's Treaty obligations be properly honoured before any decision proceeds. [Attach supporting evidence they are content to have shared.]
 
-## 8B. Letter to the council, the EPA, or a councillor/minister
+## 8F. Letter to a Councillor / Minister / MP
 
-```
-Subject: [Decline / attach strict conditions to] [project] — consent [ref]
+**To:** [a councillor / the relevant Minister / a local MP]
+**Subject:** [Project] — concerns and request
 
-To [the Consents Manager / the EPA / Councillor / Minister],
+We are residents of [place] writing about [project]. Our concern, briefly: [one or two specific grounds — a threat to a river and a hapū's interests, a non-notified consent, an ignored precautionary risk]. Within your responsibility, we ask you to [decline or condition the consent / ensure it is notified / honour the Crown's Treaty obligations / oppose its fast-tracking]. [If true:] [#] residents and [#] organisations share this concern, and the decision carries real legal risk. We welcome a meeting and can share our full evidence.
 
-I am a resident of [place] writing about the [project], on which a decision (the
-resource/marine consent) is expected around [date].
+## 8G. Letter to a Buyer / Investor / Insurer
 
-The concern, briefly: [one or two specific grounds — e.g. "the AEE fails to assess
-the discharge into the harbour the community gathers kaimoana from, the information
-on effects is uncertain, and the iwi's kaitiakitanga relationship has not been given
-effect"].
+**To:** [the proponent's customer / financier / insurer]
+**Subject:** [Project] — legal and reputational risk
 
-I am asking you to [specific, achievable action — e.g. "decline the consent," or
-"require strict conditions, real mitigation, and a redesign"].
+We write regarding your [purchasing / financing / insurance] relationship with [company] in connection with [project]. The project [one-line stake — e.g. "rests on a legally vulnerable consent and unresolved opposition from the hapū whose interests it affects, and echoes a seabed proposal the Supreme Court refused"], and our documented concerns include [the notification failure, the deficient assessment, the pending appeal]. We ask you to weigh the legal, reputational, and financial risk, and whether your own [environmental, social, and Treaty commitments] are consistent with supporting it. We are glad to share our evidence.
 
-[If true:] [#] residents have submitted; the [iwi/hapū] have lodged their position;
-[#] organisations share the concern.
+## 8H. Email to a Reporter (Regional, National, or International)
 
-I would welcome a meeting and can share our full evidence.
-
-Ngā mihi,
-[Name], [address], [phone], [email]
-```
+**To:** [journalist]
+**Subject:** Story tip: [specific finding] — [the place / the river]
 
-## 8C. Submission / tangata whenua position (the decisive record)
+I follow your coverage of [beat]. We have something your readers should know, with a clear news hook: [documents] show [quantified finding — e.g. "a mine was consented without public notification above a river the hapū was never properly consulted about, on an assessment that understated the risk, with works due [date]"]. It is specific, verified, and it echoes Save Manapōuri and the seabed-mining case. I can share the full file and — where the mana whenua wish to speak — connect you with affected people and a scientist. Could we talk this week?
 
-```
-PART A — SUBMISSION (on the notified application)
-To: [the council / the EPA], re [project], consent [ref]
+## Using the Templates Well
 
-Submission opposing the [project].
-1. Who I am: [name], [address], [interest]. I [do/do not] wish to be heard.
-2. Grounds (with evidence):
-   a. [Misleading AEE] — the assessment omits [effect], understates [effect], and
-      relies on uncertain information about [effect].
-   b. [Precautionary approach] — because the information is uncertain, the decision-
-      maker should favour caution and environmental protection.
-   c. [Treaty / kaitiakitanga] — the relationship of [iwi/hapū] with [awa/moana/
-      maunga] has not been given effect.
-3. Decision sought: that the consent be DECLINED; alternatively, [strict conditions
-   and a redesign].
-[Name] — [contact] — Attachments: [baseline / impact / health report]
-
-PART B — TANGATA WHENUA POSITION (led by the iwi/hapū, in their words)
-[The iwi/hapū record, through their own processes, their relationship with the place,
-their kaitiakitanga, the wāhi tapu and mahinga kai affected, and their position on the
-project. This is prepared and lodged by them, on their terms — not by others.]
-```
-
-## 8D. Coalition outreach email (to an organisation)
-
-```
-Subject: [Organisation] + [project] — a specific ask that fits your work
-
-Kia ora [Name],
-
-I'm [name] with [organisation] in [place]. We're working on [project], which
-[one-line stake]. I'm getting in touch because this connects directly to
-[organisation]'s work on [their aim].
-
-We're not asking you to adopt our whole campaign — just one concrete thing that
-serves your aims: [tailored ask — e.g. "help us with submissions and, if it's
-granted, an Environment Court appeal," or "support the iwi's Treaty and kaitiakitanga
-case, on their terms," or "have your researchers assess the marine effects
-independently"].
-
-If helpful, I can send a one-page brief and arrange a short call.
-
-Ngā mihi,
-[Name] — [Organisation] — [contact]
-```
-
-## 8E. Official-information request (the transparency tool)
-
-```
-To: [the council / the EPA / the agency]
-
-Request under the Official Information Act 1982 [for a Government agency/EPA] /
-Local Government Official Information and Meetings Act 1987 [for a council]
-
-Please provide the following concerning [project] (ref [ref]):
-1. The application, the Assessment of Environmental Effects (AEE), and any conditions.
-2. The notification decision and the reasons for it, and the submissions received.
-3. The council/EPA officers' reports and any peer reviews or expert advice.
-4. The correspondence between [the council/EPA] and [the applicant], [dates].
-5. [For offshore] the marine-consent application and the DMC/EPA material.
-
-Please respond within the statutory timeframe. If any information is withheld, please
-state the section relied on; I may complain to the Ombudsman.
-
-[Name] — [address] — [date]
-```
-
-## 8F. Legal challenge — Environment Court / judicial review (get current advice)
-
-```
-NOTE: Generally you must have SUBMITTED to appeal to the Environment Court. A wrong
-NON-NOTIFICATION or a flawed EPA/fast-track decision is challenged by JUDICIAL REVIEW
-in the High Court. The Environment Court can AWARD COSTS. The reforms are changing
-notification and appeal rights — CONFIRM YOUR RIGHTS with a resource-management lawyer
-(or EDS/Forest & Bird) FIRST.
-
-[NOTICE OF APPEAL / APPLICATION — form as advised by counsel]
-[Date]
-
-Appellant/Applicant: [submitter / community society / iwi entity], [address].
-Decision appealed/reviewed: [consent [ref], granted [date], by [council/EPA]].
-
-1. Grounds:
-   Ground 1 — [the effects are unacceptable / the AEE was misleading].
-   Ground 2 — [the precautionary approach was not applied to uncertain information].
-   Ground 3 — [the Treaty and kaitiakitanga relationship was not given effect].
-   [Ground 4 — the application was wrongly non-notified (judicial review).]
-2. Relief sought: that the consent be DECLINED / QUASHED / the conditions changed.
-
-[Name / counsel] — [contact]
-```
-
-## 8G. Press release (effective)
-
-```
-FOR IMMEDIATE RELEASE
-
-[HEADLINE: make it NEWS, not opinion]
-[Subtitle: consequence + timeliness]
-
-[DATELINE: Place / Date]
-
-[LEAD — answer "why now?"]
-[Local organisation] released [study / OIA documents / the tangata whenua position]
-today showing [specific finding] affecting [# of people / hectares / an iwi's
-relationship with the place].
-
-KEY FINDINGS
-• [Quantified effect with citation]
-• [Quantified effect with citation]
-• [Quantified effect with citation]
-
-[DIRECT QUOTE — specific, from a credible voice, not a slogan]
-"[What the finding means]," said [Name, Title].
-
-[CONTEXT — why it matters; reference a documented case where relevant]
-
-[DECISION POINT — create urgency]
-[The council / the EPA / the Environment Court] decides on [date].
-
-[CALL TO ACTION] To support or make a submission: [how].
-For more: [contact].
-
-CONTACT: [Name / Organisation / Phone / Email]
-ATTACHMENTS: full report, OIA documents, the tangata whenua position, maps, Q&A
-```
-
-## 8H. Legal strategy decision tree
-See Step 4 for the full decision tree — Tracks 1-3, submissions, the Environment Court merits appeal, judicial review, the precautionary approach, the Treaty and kaitiakitanga, legal personhood, the costs and reform cautions, and the budget branches.
-
----
+Send important communications so that receipt is provable, and log every one in your timeline — above all the notification and submission windows and the short appeal deadline. Keep them factual, specific, and grounded in the law and the evidence; attach your documentation and expert reports; and route them, where you can, through or with the affected iwi or hapū (following their lead), the Environmental Defence Society or your lawyer, and your national and market-facing allies. The reply — or the silence — becomes part of your record, and in Aotearoa that record feeds the levers that matter most: notification and submissions, Te Tiriti, the precautionary principle, the Environment Court, and the public.
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
-Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+Not everyone can run a long campaign. With a few hours a week you can still do real damage to a bad project. In rough order of impact for the effort:
 
-1. **Lodge a submission on the notified consent, before the deadline. One page naming one or two concrete effects (water, ecology, the plan). It goes on the record and gives you the right to be heard and to appeal.**
-2. **Get the assessment of environmental effects (AEE) and quote its worst admission back to the consent authority.** The developer's own words carry the most weight.
-3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
-4. **File one OIA / LGOIMA request** (Section 8E) — even if someone else uses it later.
-5. **Point one environmental organisation at the fight.** EDS or Forest & Bird may take it from there — you hand off, you don't have to lead.
-6. **Make sure the affected iwi or hapū know the timeline** — Treaty and Māori interests are a strong lever, and they are theirs to assert.
-7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+**1. Find out if it's notified — and push for notification.** Establish whether the consent is publicly notified, and if not, press hard for it (8B): a notified consent opens submissions, hearings, and appeal rights; a non-notified one shuts you out. This is the hinge everything else turns on.
 
-Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+**2. Check whether Māori interests are engaged.** Establish whether the project affects the whenua, awa, or moana of iwi or hapū, and reach out respectfully to understand their position. Where it is engaged, Te Tiriti is among the strongest levers — led by the mana whenua.
 
-# SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
+**3. Make a substantive submission and ask to be heard.** One evidenced submission (8A) puts your case on the record, can win conditions or a refusal, and secures your right to appeal — but the window is short, so act now.
 
-**What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because councils want development and rates, because central government is pushing growth, or because the applicant's own consultants prepare the assessment. It rarely means anyone broke the law. In New Zealand this tilt has recently been **sharpened by reform** — a **fast-track** regime and a rewrite of the resource-management law that reduces public notification. Here is how the tilt works — and how communities win anyway.
+**4. Get the documents.** The application and assessment are public once notified; the rest comes under the official-information laws (8C), with the Ombudsman behind you. The gap between the assessment and the law is usually the case.
 
-## Important Caveat
-This section describes patterns from documented New Zealand dynamics and public policy — pro-development councils, applicant-funded **AEE** studies, most applications granted, and the fast-track and RMA-reform changes. It is not a statistical claim about "X% of all decisions." Read it as: "where these patterns appear, here is what happens and what it means for opposition."
+**5. Line up an Environment Court appeal.** The moment a consent is granted, the Environmental Defence Society or a lawyer can advise on a merits appeal (8D) — but the deadline is short, so do not wait.
 
-## What This Tilt DOES (and DOESN'T DO)
-**DOES:** create financial and political incentive to approve (rates, development, jobs, growth targets); bias information (the **AEE** is commissioned by the applicant, and reads optimistically); advantage well-resourced developers; and — through the **fast-track** regime and the RMA rewrite — reduce public notification and participation.
-**DOESN'T:** guarantee approval; make opposition impossible; remove the **effects** test or the **precautionary approach**; remove the **Treaty** and **kaitiakitanga** obligations or **legal personhood**; or prevent declines, conditions, and delay.
+**6. Name the precautionary risk.** If the effects are uncertain and potentially serious, say so plainly and early — it is the ground the seabed mine was refused on.
 
-**The reforms, specifically.** The **Fast-track Approvals Act 2024** lets ministers and expert panels approve listed projects with limited public input, and the government's **RMA replacement** (the Natural Environment and Planning Bills) is designed to remove a large share of consents and to **narrow public notification**. The practical lesson: participation rights are being reduced, so act **early**, lead with the cleanest ground (unacceptable effects, uncertain information and precaution, the Treaty), and get **current advice** on what rights apply to your project.
+**7. Tell the story.** A river, a coast, or a hapū's stand is a powerful story; one accurate tip (8H) can reach ministers and buyers a submission never will.
 
-**Analogy:** a tilted system is like playing on a pitch sloped against you. It makes winning harder, not impossible — so your strategy has to be sharper and more visible, your legal grounds cleaner, and your information paper trail solid.
+Do only the first three and you will have fought for the public's place in the process, identified your strongest lever, and put your evidence on the record while it counts — the exact foundation a bigger fight is built on. Then come back and read the rest. Even the shortest version has a spine: push for notification, check the Treaty lever, make the submission. Everything else in this guide amplifies those three moves. A community that does only them has already done more than most projects' opponents ever manage — and has often done enough to force notification, build the record, and put the decision-maker on notice that this consent will be submitted on, appealed, and fought.
 
-## Assessment Framework — Determine Your Situation
-**GREEN FLAG (low tilt):** an ordinary, **notified** consent with genuine scrutiny; not fast-tracked; a clear legal defect; tangata whenua relationship or a documented water body engaged. → 65-75% with all 5 steps. Proceed with standard opposition.
+# WHEN THE SYSTEM IS TILTED
 
-**YELLOW FLAG (moderate tilt):** a pro-development council and an applicant-funded **AEE**, but the application is notified, independent evidence is possible, and a legal ground (effects, precaution, Treaty) is arguable. → 40-45% with all 5 steps; often win conditions and delay even if not a decline. Proceed; prioritise the effects and Treaty grounds.
+Aotearoa's system is tilted in specific ways you must understand, so you neither waste effort nor miss the levers that still work.
 
-**RED FLAG (high tilt):** a **fast-tracked** project, applicant-only studies, heavy political backing, and limited notification. → 25-30% to stop; 50-60% to modify/delay. Decide whether delay/conditions justify the investment; lead with the cleanest ground; build power and a record for the next round.
+## Where the Tilt Shows
 
-## Direct Action and Safety: Factual Information (Descriptive, Not Prescriptive)
-When submission and legal routes are exhausted, some New Zealand communities have used non-violent direct action — marches, occupations, and blockades. This is descriptive of what has occurred, not guidance.
+The tilt runs, right now, through a deliberate push toward development. The **Fast-track Approvals Act 2024** routes major projects — including mining and the very seabed proposal the Supreme Court refused — to ministerial panels with **narrowed public input and constrained appeal rights**, and a senior minister has called it among the most permissive regimes in Australasia. Under the fast-track pathway, a project referred into it is assessed by an expert panel and decided by ministers, with the scope for public submissions and for appeals to the Environment Court sharply reduced compared with the ordinary consent process. That does not make such projects untouchable — the referral and the decision can still be tested by judicial review, Te Tiriti and the precautionary principle still bear on them, and the political cost of a controversial ministerial approval is real — but it does mean a fast-tracked project demands a different emphasis: less on the consent hearing you may not get, and more on the courts, the Treaty, the market, and the public. The **Resource Management Act is being replaced**, and its successor is still taking shape, so the ground is genuinely shifting. The resource-management system that has governed New Zealand's environment for a generation — built around the sustainable-management purpose, resource consents, notification, and the Environment Court — is mid-way through the most significant overhaul of its life, and exactly what the replacement will preserve of public participation and appeal rights is still being decided. Treat the enduring structure in this guide as the concepts to master, but confirm the current statute and its participation and appeal rights for your specific project before you rely on any timeline. Many consents are decided **without public notification**, shutting the community out before it can speak. And Te Tiriti, though powerful, is **not an absolute veto** — the Crown can still proceed, and proposed reforms may seek to narrow environmental and Treaty protections further. Where this tilt bites, the formal process gives less than it should — but real levers still reach past it.
 
-**On safety, New Zealand is, by international standards, a relatively safe place to organise** — it consistently ranks among the least corrupt and most rights-respecting countries, and violence against environmental campaigners is rare. The real risks here are usually different: **costs** (the Environment Court can award them against you — get advice), the occasional **defamation or SLAPP-type civil claim** (see Section 11), the drain of a long fight, and the **narrowing of participation rights** under the reforms. Still, take the ordinary precautions: keep actions non-violent and lawful (arrest for trespass or obstruction is a real possibility); don't act alone; line up **legal support** in advance; keep decisions transparent and collective so a developer cannot split the community or deal separately to manufacture "support"; and respect that iwi and hapū make their own decisions by their own tikanga. Direct action has produced delay and attention in documented cases, but on its own rarely stops a project permanently; combined with documentation, the Treaty case, the Environment Court, and media, it is more consequential.
+## What Still Works — And Some Is Distinctive
 
-## Honest Assessment
-Where the system is tilted, opposition using submission and legal methods has lower odds of an outright stop — but still reliably wins declines or conditions, forces delay, imposes political cost, builds durable community power, and creates a record for the courts. And New Zealand offers genuine equalisers: the **Environment Court**'s merits reconsideration; the **effects** test and the **precautionary approach**; the **Treaty**, **kaitiakitanga**, and **legal personhood**; and an unusually effective **official-information** regime. Neither scenario makes opposition futile.
+The decisive point is that even where the system tilts, real and distinctive levers reach past it.
 
----
+**Te Tiriti and tikanga cannot be legislated into silence.** The Treaty and Māori customary interests remain woven through the law and read generously by the courts, and they belong to iwi and hapū whatever a government prefers — the lever that helped stop the seabed mine.
+
+**The courts test every decision.** Judicial review reaches the legality of a consent — including a wrongful refusal to notify, or a fast-track decision that oversteps its bounds — and the higher courts have quashed major approvals.
+
+**The precautionary bottom line endures.** Where effects are uncertain and potentially serious, the requirement to favour caution is a hard line a proponent must clear.
+
+**The public record survives.** What you enter into the record, and into the official-information trail, powers a later challenge whatever the immediate decision.
+
+**Mobilization is irreducible.** The Save Manapōuri tradition — nationwide, credible, sustained public pressure — is a political force no fast-track statute can dissolve, and it works on ministers who must still face voters.
+
+## The Honest Frame
+
+So the honest frame for Aotearoa is real but, at this moment, demanding. Te Tiriti, the precautionary principle, the Environment Court, the higher courts, and a deep mobilization tradition give a community genuine — in places distinctive — power, as Save Manapōuri and the seabed decision proved. But the fast-track regime narrows the doors, the RMA is in flux, non-notified consents shut the public out, and the Treaty is not an absolute veto. So diagnose the tilt honestly: lean on Te Tiriti (led by mana whenua), the courts, the precautionary principle, and the mobilization, not on a friendly consent process; document every defect and uncertainty; protect your people and get legal advice before any risky action; treat a win as something to be defended, not banked; and think in terms of delay, conditions, exposure, and a proponent worn down as much as an outright, permanent stop. Against a fast-tracked project the government wants, that is often what winning looks like — and it is real.
 
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
+Sometimes a project advances not despite the evidence but because someone is being improperly favoured, pressured, or paid. Undue influence changes your strategy: you stop trying to persuade a captured decision-maker and start exposing and going around them.
 
-**Councillors and council planners.** The most common pressure point: a council keen on the rates and growth, or a councillor with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the members' code of conduct and interest rules — a member who should have declared and stood aside but voted can taint the decision.
+## How to Tell
 
-**The councils and the Environmental Protection Authority.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: an Environment Court appeal or judicial review.
+Look for the signatures of capture. A **consent granted against the evidence**, over strong documented objections and Māori opposition, without addressing them, suggests more than error. A **refusal to notify** a plainly significant project; **undisclosed interests, donations, or revolving-door ties** between the proponent and the deciders; an **assessment curtailed** or a fast-track pathway used to dodge scrutiny; **conditions never enforced**; and **decisions timed to avoid attention** all point the same way. And **pressure or legal threats aimed at the campaign's or the mana whenua's leaders** are themselves a signature of something wrong. One anomaly may be error; a pattern is capture. Corruption tends to leave its fingerprints in the sequence of events — lay your timeline beside the official one and watch for approvals that cluster around a donation, a meeting, or a change of decision-maker.
 
-**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the Companies Register, LINZ, and donation records surface the timeline a journalist needs.
+## Who Can Be Captured — and Who Is Harder
 
-**The courts.** New Zealand has an independent, specialist Environment Court — a real advantage, since it can hear the merits, not just legality. The constraint is cost and time; where work could start, seek interim orders rather than relying on a slow final hearing.
+Be clear-eyed about where undue influence reaches. A **council decision, a non-notification, or a single official** can be pressured or captured. But the New Zealand system has bodies harder to reach that a captured local arrangement cannot easily control: the **Environment Court and the higher courts, up to the Supreme Court**; **Te Tiriti and the Waitangi Tribunal**; the **Ombudsman** and the **Auditor-General**; the **Parliamentary Commissioner for the Environment**; and the national and Māori press. Undue influence thrives on darkness and on staying local; your task is to lift the matter out of the captured node and into the light and the higher, cleaner fora.
 
-**Ministers and MPs and priority projects.** Where a project is a stated national priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
+## What to Do
 
-**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Office of the Auditor-General, the Ombudsman, the Serious Fraud Office, and the police for crimes — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
+Do not confront and tip off the captured decision-maker. Instead, **document the anomaly precisely** — the dates, the interests, the ignored objections, the non-notification, the missing enforcement — and refer it, with evidence, to the bodies above: the Ombudsman, the Auditor-General, the courts, the Waitangi Tribunal, and the press. Pair the referral with the appeal, the judicial review, and the market pressure, so the wrongdoing and the harm are exposed together. Exposure has its own momentum: an Ombudsman finding or a court's attention creates a record other bodies must reckon with, and a non-notification shown to be indefensible collapses the process the consent stood on. And protect yourself above all — get legal advice, coordinate with your lawyer and the mana whenua, keep the work collective and documented, and never carry it alone.
 
-# INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
+# INTEGRATION & TIMELINE
 
-## Realistic 12-Month Campaign Timeline
+The five steps win when they run together. Here is how they fit across the life of a fight.
 
-**Months 1-2 — Foundation + Documentation:** identify the target and decision-maker (Step 1); begin baseline surveys, and — led by the iwi/hapū — the cultural relationship, water bodies, and use (Step 2); convene the community and work with tangata whenua and form or partner with a society/trust (Step 3); file first **OIA/LGOIMA** requests, prepare to submit, and make first reporter contacts (Steps 4-5). *Outcome:* structure forming, the record and paper trail beginning.
+## Early (Weeks 0–8): Identify, Connect, and Document
 
-**Months 2-3 — Public Launch:** baseline complete; public hui + **submissions** + the **tangata whenua position** (Steps 3-4); media event (Step 5). *Outcome:* opposition visible, submissions and position on the record, 3-5 stories.
+Pin down the project, the consent, and the stage (Step 1), and, where Māori interests are engaged, reach out respectfully to understand the mana whenua's position and follow their lead (Step 3). Begin the file — get the application and assessment, and request records under the official-information laws (Step 2 and What to Gather). And move fast on what will not wait: **push for public notification**, **make submissions and ask to be heard**, and **flag the precautionary risk**. Line up the Environmental Defence Society or a lawyer now, before the short appeal deadline. This early phase is cheap, and it sets up everything else.
 
-**Months 3-4 — Coalition + Impact Analysis:** complete impact analysis testing the **AEE** and pinpointing uncertainty (Step 2); expand the coalition and bring in a law group and (as partners) the iwi/hapū (Step 3); prepare the **appeal / review** grounds — with current advice on rights (Step 4); data-release press event (Step 5). *Outcome:* broad coalition, legal grounds identified, coverage expanding.
+## Middle (Months 2–24): Escalate on Every Front
 
-**Months 4-6 — Expansion + Health/Cultural Data:** health/cultural/economic report (Step 2); sustained rallies (Step 3); the consent decision (Step 4); expert press events (Step 5). *Outcome:* possible decline or strict conditions, quantified effects, regional media.
+Grow the movement and coalition (Step 3). Turn your evidence into arguments for each audience (Turning Evidence). Escalate legally as the facts warrant — an Environment Court appeal, judicial review, and, led by the iwi or hapū, Treaty and tikanga arguments and a Waitangi Tribunal claim (Step 4). Refer any capture to the Ombudsman and Auditor-General. Press the proponent's buyers and funders (8G). Build the media drumbeat from local to national to market (Step 5). Each front feeds the others: an appeal is a headline, a headline is pressure, pressure moves a minister or a buyer, and a disclosed document strengthens the case. Do the cheap, time-sensitive things first, because a missed submission window or a lapsed appeal deadline cannot be recovered. And sequence the legal moves with your lawyer and the mana whenua so they land when they bite hardest — the submission built on the fullest evidence, the Environment Court appeal filed within its short window, the Treaty and tikanga arguments led by the iwi or hapū when their case is strongest — because a well-timed appeal can do more to stop a project than a stronger argument filed too late.
 
-**Months 6-9 — Escalation + Appeal:** rallies escalating (Step 3); file the **Environment Court appeal** (or **judicial review**) (Step 4); ongoing monthly media (Step 5). *Outcome:* sustained pressure, case live.
+## Later (Months 6–48+): Sustain, Win the Line, and Redefine the Win
 
-**Months 9-12 — Peak Pressure + Positioning:** maintain opposition (Step 3); hearing / positioning, and watch for a **re-granted consent** after any quashing (Step 4); media momentum (Step 5). *Outcome:* consent + opposition + media + law compound; decline, conditions, or the project shelved.
+Sustain the movement against burnout; protect your people; keep the record and the coverage alive. Pursue the durable prizes — a **refused or heavily conditioned consent**, a **quashed decision**, a **buyer or funder walking away**, an **abandonment**. And judge success honestly. Sometimes it is an outright, permanent stop — a project abandoned, a lake saved, as Manapōuri was. More often, in a fight against a fast-tracked project, it is a project **delayed for years, shrunk, conditioned, stripped of finance, or so exposed and legally besieged that the proponent walks away**. That is not a lesser victory. It is what winning usually looks like, and it is worth every effort it takes.
 
-## Key Principles (What Separates Winning Campaigns from Losing Ones)
-1. **Specificity** — "the AEE never assessed the discharge into the harbour the community gathers kaimoana from," not "we oppose the project."
-2. **Multi-tactic pressure** — submissions + tangata whenua position + opposition + media + Environment Court, together.
-3. **Long-term organising** — sustain 12+ months; prevent burnout.
-4. **Documentation first** — build the evidence (including use, the cultural relationship, and the applicant's uncertainty), then submit and litigate on it.
-5. **Coalition building** — 5-10 diverse groups; work with tangata whenua as partners, led by them, and guard against co-option.
-6. **Use the Treaty, kaitiakitanga, the precautionary approach, and legal personhood** — the Treaty relationship, the environmental bottom line, and the personhood settlements are distinctively strong New Zealand levers.
-7. **Submit, and act early** — you generally must submit to appeal, and the reforms are narrowing rights; move fast and get current advice.
-8. **Realistic expectations** — expect conditions/modifications/delay; a decline or quashing is the bonus; expect fast-tracking and possible re-granting.
-9. **Persistence** — plan for 12-24 months, keep momentum, and mind the costs risk.
+## The Shape of a Campaign
 
-## Warning Signs — Act Early
-Watch for these and respond fast: attendance declining around months 4-5 (burnout); coalition members leaving or being co-opted; no media coverage for 2-3 months; the case stalling or a consent re-granted after a quashing; fundraising below half your target by month 6; a core organiser leaving without a successor; an application quietly **non-notified**; or someone new pushing unlawful or reckless tactics. Each has a fix earlier in this guide — catch it early and the campaign holds.
+```
+WEEKS 0-8      Identify | Connect with mana whenua | Document | Push for notification | Submit | Get counsel
+MONTHS 2-24    Grow the movement | Arguments | Environment Court + judicial review + Te Tiriti | Market pressure | Media
+MONTHS 6-48+   Sustain | Protect people | Win the refusal / conditions / abandonment | Redefine the win
+```
 
----
+# FINAL ASSESSMENT
 
-# FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
+Aotearoa New Zealand gives communities a genuinely powerful — and, in places, distinctive — set of tools, and the honest measure of this guide is how squarely it faces both their strength and their limits.
 
-## Real Outcomes: What Winning Looks Like
-- **Consent declined / project shelved** (rarer): usually needs overwhelming opposition + a strong effects or Treaty case + heavy media + lower tilt. The seabed case (consents quashed by the Supreme Court) shows it happens — and also shows a win can be re-fought.
-- **Consent modified** (most common victory): strict conditions, genuine mitigation and monitoring, buffers, cultural conditions, redesign — often via the council or the Environment Court.
-- **Delay / attrition:** tied up for years while the case runs; costs mount and financiers lose confidence; the developer sometimes walks away.
-- **Defeat:** the project proceeds (sometimes after a re-granted or fast-tracked consent). Focus then shifts to enforcing conditions and monitoring compliance, and the next opening.
+The strengths are real and distinctive. Where a project affects Māori interests, **Te Tiriti o Waitangi and tikanga Māori** — read generously by the courts, and central to the decision that stopped the seabed mine — are among the most powerful community levers anywhere, and they belong to iwi and hapū. A community can insist on **public notification**, make a **submission**, be heard, and **appeal to the Environment Court on the merits**, which re-decides the project itself. It can hold a proponent to the **precautionary bottom line** — no proof of no material harm, no consent. It can ask the **higher courts** to quash an unlawful decision, and the **Waitangi Tribunal** to expose a Treaty breach. And it can draw on the **Save Manapōuri tradition** of nationwide mobilization that once beat a government scheme at the ballot box.
 
-## Decision Point: Continue, Modify, or Reassess
-**Continue** if the legal grounds are live, the Treaty and information record is strong, opposition is holding or growing, media is at least monthly, the coalition is stable, and the costs risk is managed.
-**Modify** if attendance is falling, coverage has dropped for 2+ months, coalition members are leaving, the legal position has weakened, or you discover the system is more tilted (or more fast-tracked) than assessed.
-**Reassess** if, after ~12 months (and perhaps an Environment Court appeal) submission and legal options are exhausted, the decision looks settled despite real effort, the community is exhausted, the costs exposure is too high, or resources are gone. Ask: has opposition already won partial victory (conditions, mitigation, delay)? Would more effort win more, or just prolong the fight? Should energy shift to enforcing conditions, to the next project, or to the reform debate itself?
+The limits are just as real. The Fast-track Approvals Act narrows public input and appeals — the seabed project is back under it; the RMA is being replaced and the ground is shifting; many consents are non-notified; and the Treaty is not an absolute veto. No guide should pretend otherwise. The very seabed mine the Supreme Court refused has returned by another door; that is the condition of this fight, not its exception.
 
----
+So the realistic promise is this: **push for notification, engage and support the mana whenua, document every defect and uncertainty, use submissions, the Environment Court, Te Tiriti, and the precautionary principle, reach the market, and mobilize the public — and run all of it together, protecting your people, getting early legal advice, and following the mana whenua's lead.** Do that, and even against a fast-tracked, government-backed project you can force delay, conditions, exposure, lost finance, a quashed consent, and a proponent worn down — and sometimes an outright stop. Do it as Save Manapōuri did, with credible evidence and a nationwide movement, and as the seabed campaigners did, with Te Tiriti and the precautionary principle, and you can win a victory that protects not only your own awa or coast but sets a precedent others will stand on.
 
-## The Bottom Line
+A last word on endurance. These fights are won in years, not weeks, and the proponent is counting on your exhaustion. Its advantage is money and patience; yours is legitimacy, the strength of Te Tiriti, the precautionary bottom line, and the fact that you are defending your home, your awa, and your moana while it is merely pursuing a return. Play to that. Keep the file, keep the movement, keep the record and the coverage alive, protect your people, and treat every delay, every quashed consent, every buyer that walks, every disclosed document, and every headline as a brick in a wall that grows too high and too costly for the project to climb.
 
-Opposition work can stop or significantly modify destructive projects in Aotearoa New Zealand — even where development pressure, growth targets, and now a fast-track regime point toward approval. Opposition creates multiple, compounding forms of pressure: on the record, politically, in the press, and in the courts. Where the system is tilted, an outright stop is less likely, but opposition still delivers declines, conditions, mitigation, delay, and durable power.
-
-And New Zealand offers genuine equalisers: the **Environment Court**, which reconsiders the merits and can decline or quash a consent — as with the **South Taranaki seabed**; the **effects** test and the **precautionary approach** — the "environmental bottom line" when information is uncertain; the **Treaty of Waitangi**, **kaitiakitanga**, and the world-first **legal personhood** of the Whanganui River, Te Urewera, and Taranaki Maunga; and an unusually effective **official-information** regime. When a project truly cannot lawfully proceed, a court can decline or quash it — remembering that such a win must then be defended.
-
-Know your situation. Assess how tilted the system is — and whether it's being fast-tracked — honestly, and get current advice on your rights as the law changes. Watch for genuine conflicts of interest and refer them to the integrity bodies. Work with tangata whenua as partners, on their terms. Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers.
-
----
+The tools are here, and Aotearoa's history proves they work: a lake a government meant to raise still lies at its natural level, because nearly a tenth of the country signed their names and would not back down — and a seabed a company meant to mine still lies undisturbed, because iwi, fishers, and scientists carried the fight to the highest court and won. What decides the outcome is method, endurance, and courage — and those you supply. Begin today, begin cheaply, and build from there. Communities before you have stopped what looked unstoppable — a lake saved by a petition, a seabed saved in court, a river given a legal voice of its own, a scheme a government finally let go. The tools are proven and, even as the ground shifts, the strongest of them endure; what has ever been missing in the fights that were lost was not the law but the organisation and the endurance to use it. So can yours.

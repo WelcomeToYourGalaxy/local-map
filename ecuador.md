@@ -1,1029 +1,466 @@
-
 # HOW COMMUNITIES CAN STOP DESTRUCTIVE DEVELOPMENT PROJECTS IN ECUADOR
 
-**Complete Community Opposition How-To**
-
-A practical guide for communities facing destructive development projects in Ecuador, grounded in the constitutional rights of nature, the licensing system, and documented campaigns
-
-*This guide uses the Ecuadorian legal terms you will actually encounter (los derechos de la naturaleza, la acción de protección, la consulta previa, la consulta popular, and so on), each explained in plain language where it first comes up. It describes the national framework; the decentralized governments (GADs) at the provincial, cantonal, and parish levels have their own roles — check locally.*
-
-> **A note on terms.** Important terms are shown in **bold** the first time they appear, with a plain-language explanation right where they come up.
->
-> **A note on money.** Ecuador uses the **US dollar** as its currency, so all budgets in this guide are in US dollars (USD, $).
-
----
-
-## TABLE OF CONTENTS
-
-1. **INTRODUCTION & FRAMEWORK** — Why this matters, how this works, what to realistically expect
-2. **HOW THE SYSTEM WORKS** — Who decides, how a decision is made, and the words you'll need
-3. **QUICK REFERENCE: SUCCESS RATES** — Effectiveness by step and combined, with real-world grounding
-4. **STEP 1: TARGET IDENTIFICATION** — What you're fighting, who controls it, when the decision is final
-5. **STEP 2: DOCUMENTATION** — How to prove harm (three documentation layers)
-6. **WHAT TO GATHER, AND WHERE TO FIND IT** — The records that win cases, and how to get them
-7. **STEP 3: BUILDING LOCAL OPPOSITION** — How to organize (Foundation → Public Launch → Coalition → Escalation)
-8. **STEP 4: LEGAL CHALLENGES** — Participation, rights-of-nature actions, and constitutional review
-9. **TURNING YOUR EVIDENCE INTO ARGUMENTS** — Matching each fact to the ground that wins
-10. **STEP 5: MEDIA STRATEGY** — How to generate coverage
-11. **EMAILS & LETTERS** — Ready-to-use messages communities can copy and send
-12. **IF YOU HAVE LITTLE TIME OR FEW RESOURCES** — The rapid-fire version
-13. **WHEN THE SYSTEM IS TILTED** — When opposition faces systemic barriers
-14. **WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED** — Reading capture actor by actor
-15. **INTEGRATION & TIMELINE** — How all five steps work together over a 12-month campaign
-16. **FINAL ASSESSMENT** — Realistic outcomes, when to continue, when to reassess
-
----
+*Complete Community Opposition How-To*
 
 # INTRODUCTION & FRAMEWORK
 
-## Why This Matters
+Community action decides project outcomes in Ecuador. Projects with the backing of the national government and a state mining company still fall when the people who live where they are proposed organise, document the harm, and press every lever the country's remarkable constitution offers. In 2021, the Constitutional Court ruled in the **Los Cedros** case that mining concessions granted to the state miner ENAMI EP and its Canadian partner Cornerstone in a cloud forest of extraordinary biodiversity violated the **rights of nature** — and it revoked the environmental permits and prohibited the mining. The case had begun as a humble constitutional protective action filed by the local municipal government of Santa Ana de Cotacachi. It ended as one of the most cited environmental rulings of the century, and it established that in Ecuador, nature itself holds enforceable rights that a project must respect, anywhere in the country.
 
-Community action directly determines project outcomes in Ecuador. Projects that clear every political and commercial hurdle still fall when opposition is organised, documented, and legally sharp. When mining permits were granted in the **Los Cedros** cloud forest, a nearby municipality went to the **Constitutional Court** — and in 2021 the Court ruled that the permits violated the **rights of nature**, prohibited mining, and ordered the authorizations revoked. Two years later, in a national referendum, Ecuadorians voted to **keep the oil in the ground** in a block of the Amazon's Yasuní National Park. Across the country, communities, Indigenous peoples, and campaigners using the **rights of nature**, the **protection action (acción de protección)**, **consultation**, and **popular referendums** have forced projects to be refused, revoked, redesigned, or abandoned. These outcomes were not inevitable; communities made them happen.
+Two years later, on 20 August 2023, Ecuadorians did the same thing at the ballot box. After a decade of campaigning by the collective Yasunidos, a national referendum asked whether the oil in Block 43 — the ITT, inside Yasuní National Park, one of the most biodiverse places on earth and home to peoples living in voluntary isolation — should stay in the ground. Nearly 59% said yes: leave it underground, and dismantle the operations already there. The same day, in a regional vote, close to 68% of Quito's electorate rejected mining in the Chocó Andino. Two treasured places, defended not by a minister but by ordinary citizens who organised, gathered signatures, and voted.
 
-But most communities don't know HOW to make opposition effective. They attend one meeting, then give up. They assume "the Ministry will refuse it" without building public pressure, documenting the harm, or filing a protection action. They generate coverage without a strategy. They organise people and then lose them to burnout — or to fear — after a few months.
+These outcomes were not inevitable. People made them happen — through the courts and through the ballot, the two great levers Ecuador hands its communities. But most communities do not know HOW to make opposition effective. They attend a single hearing and go home. They assume the environment ministry "will never approve it," and so they never file an objection, never request the file, never build the public pressure that changes a decision. They generate a burst of coverage without a plan to sustain it. They gather a crowd and lose it to exhaustion. The gap between a community that stops a project and one that watches it get built is rarely courage or numbers. It is method.
 
-**This guide shows what actually works — in the Ecuadorian system. It also takes seriously that opposing extraction in Ecuador can carry real risks, including criminalisation (Section 9).**
+**This guide shows what actually works — inside the Ecuadorian system.**
 
 ## The Strategic Framework
 
-Successful opposition campaigns follow the same basic pattern:
+Effective opposition campaigns follow the same underlying pattern, whichever project they face:
 
 ```
-STEP 1: TARGET IDENTIFICATION
-↓
-STEP 2: DOCUMENTATION (proof of harm)
-↓
-STEP 3: LOCAL OPPOSITION BUILD (organised community)
-↓
-STEP 4: LEGAL CHALLENGES (rights of nature / protection action)
-↓
-STEP 5: MEDIA STRATEGY (public visibility)
-
-These operate SIMULTANEOUSLY (not sequentially)
-Each step amplifies the others
-Multi-tactic pressure compounds toward victory
+STEP 1: TARGET IDENTIFICATION  (find the decision and its weak point)
+        |
+STEP 2: DOCUMENTATION          (build proof of harm and of every defect)
+        |
+STEP 3: LOCAL OPPOSITION        (organise a community that lasts)
+        |
+STEP 4: LEGAL CHALLENGES        (rights of nature, protective action, consultation)
+        |
+STEP 5: MEDIA STRATEGY          (make the fight visible, at home and abroad)
 ```
 
-**Why the legal step matters so much here:** Ecuador gives communities a lever found almost nowhere else. In 2008 it became the **first country in the world to enshrine the rights of nature in its Constitution** — nature, or **Pachamama**, has the constitutional right to exist and to maintain and regenerate its cycles, and **any person, community, people, or nationality can go to court to defend nature's rights**, without having to show personal harm. The fast **protection action (acción de protección)** is the vehicle — it is what stopped mining at **Los Cedros**. Add the **precautionary principle** (in dubio pro natura — when in doubt, favour nature), the right to **consultation**, and the **popular referendum** that stopped drilling in **Yasuní**, and Ecuador's toolkit is distinctive and powerful. No Ecuadorian campaign should be planned without understanding these.
+These steps operate **simultaneously, not in sequence**. Documentation feeds the legal case and the media story at once; organising sustains the pressure the courts and the press respond to; a lawsuit is a headline and a headline strengthens a lawsuit. The community that runs all five together, each reinforcing the others, is the one that wins. Los Cedros and Yasuní both did exactly this: they documented the biodiversity and the threat, organised across communities and the country, allied with lawyers and scientists, pursued the legal and the electoral routes, and made their fight a national and international story — all at the same time.
 
-## Critical Caveat: A Tilted System Can Make Opposition Harder (But Doesn't Make It Impossible)
+## The Levers That Are Distinctly Strong Here
 
-**Before you invest time, money, and emotional energy, understand this:**
+Every country's system has its own pressure points. Ecuador's 2008 Constitution gives communities a set that is, in places, unique in the world:
 
-**First, a definition.** This guide calls it a **system tilted toward approval** (sometimes called *institutional bias*). It does not mean anything illegal. It means the bodies that decide on a project lean toward approving it — because Ecuador depends heavily on oil and mining revenue, because **the state itself is often the developer** (through the state mining and oil companies), or because the developer's own consultants prepare the environmental study.
+- **The rights of nature.** Ecuador was the first country on earth to give nature itself enforceable constitutional rights (Articles 71–74). A forest, a river, a páramo, a mangrove has the right to exist and to have its cycles respected — and, as Los Cedros held, these rights are self-executing and apply across the whole national territory, not only in protected areas. This is a lever found almost nowhere else. And because it protects nature for its own sake, it does not depend on you owning the land or proving personal harm — a forest's right to exist can be defended by anyone who will speak for it, which puts a powerful tool in the hands of communities and allies who would have no standing in an ordinary lawsuit.
+- **The acción de protección.** Article 88 gives anyone a fast constitutional action to protect a violated right — including the rights of nature — decided by a judge, with the power to order a project stopped. Paired with precautionary measures (Article 87), it can freeze a project quickly.
+- **Environmental consultation.** Article 398 guarantees the community's right to be consulted on decisions that may affect the environment; Article 57(7) and the Inter-American Court's Sarayaku judgment guarantee Indigenous peoples' right to prior consultation on projects in their territories.
+- **The popular consultation (consulta popular).** Citizens can put a binding question to the vote — the tool that saved Yasuní and the Chocó Andino. It is demanding to organise, but it is real, and it has stopped megaprojects the government wanted.
+- **The precautionary principle and a reversed burden of proof.** Where serious or irreversible harm is possible, uncertainty is resolved for nature, and it falls to the State and the developer to prove their activity will not cause harm — not to the community to prove it will.
+- **Protected areas and a treasured land.** The national protected-areas system and the constitutional bar on extraction in protected areas and intangible zones (Article 407) close ground to projects; and Ecuador's place in the global imagination — the Amazon, the Galápagos, the Chocó, the páramos — draws international attention and reaches the financiers and buyers a company depends on.
 
-When these factors are present, opposition becomes harder. It does not become impossible. It becomes slower and more expensive and has a lower chance of stopping a project outright — but it still routinely wins revocations, conditions, redesigns, and delay. Where there is genuine misconduct — bribery, an undisclosed conflict of interest, the offences the oversight bodies handle — that is a different and more serious problem, covered in Section 11.
+## What This Guide Will Not Pretend
 
-**This is covered in Sections 10 and 11. Read them — and read Section 9 on safety — before committing resources.**
+It would be dishonest to promise that these levers always prevail. Ecuador's economy leans heavily on oil and, increasingly, mining, and successive governments have promoted both; a rights-of-nature ruling or a referendum result can be slow-walked in its implementation, as the delays over dismantling the Yasuní operations have shown. Environmental consultation in the Constitution is consultation, not a veto, and prior consultation has too often been a formality. Enforcement of even landmark rulings is uneven, and Ecuador can be dangerous for those who defend land and water. This guide takes those facts seriously, names them plainly, and shows you how to win anyway — and, where an outright, permanent stop is not realistic, how to secure the delay, the exposure, the rights asserted, and the worn-down proponent that, in a hard fight, are what winning actually looks like.
 
----
+# HOW THE SYSTEM WORKS
 
-# HOW THE SYSTEM WORKS: WHO DECIDES, AND HOW
+You cannot pull a lever you cannot see. Before you spend a single afternoon, map who actually decides your project's fate, at which level, and where along that path the decision is weakest.
 
-If you've never dealt with how projects get approved, read this section first. It explains, in plain terms, who holds power over a development in Ecuador, how a decision gets made, why the money so often points toward "yes," and the handful of words you'll need. Every term is defined here on first use. The rest of the guide assumes you know this map.
+## The Levels of Decision
 
-## The levels of government — and what each one controls
+An Ecuadorian development project runs a gauntlet of approvals, and each is a place to intervene.
 
-Ecuador is a unitary state with a national government and **decentralized autonomous governments (GADs)** at the provincial, cantonal (municipal), and parish levels.
+**National.** Most large or damaging projects need an **environmental permit** — an *registro ambiental* or a full **environmental licence** (*licencia ambiental*) — from the **Ministry of Environment, Water and Ecological Transition (MAATE)**, under the Organic Environmental Code (COA). Mining runs through the mining regulator and the state miner **ENAMI EP**; oil through **Petroecuador**. Each permit has conditions, obligations, and a paper trail — and each is only as valid as the process that produced it, including the environmental consultation the Constitution requires.
 
-- **National government** — the **Ministry of Environment, Water and Ecological Transition (MAATE)** issues the **environmental permit** that projects need; the mining and energy ministries and the mining regulator grant concessions; and — distinctively — the **state companies** (the state miner and the state oil company) are often the developers themselves.
-- **Decentralized governments (GADs)** — provinces, cantons (municipalities), and parishes — have environmental and land-use competences, run local planning, and **can themselves defend the rights of nature in court** (a municipality brought the **Los Cedros** case).
+**Provincial and cantonal.** The **provincial governments** and the **municipalities (Gobiernos Autónomos Descentralizados, GADs)** hold real powers — over land use and territorial ordering, water and watershed protection, and local permits. A GAD can act for its community, as the municipality of Cotacachi did in Los Cedros, and can call or support a local **consulta popular**.
 
-**So which body decides *your* project?**
-- A mine, oil project, dam, road, or major development → an **environmental permit** from **MAATE**, based on an **environmental impact study (EIA)** — plus a concession from the mining or energy authority.
-- Anything affecting an **Indigenous or Afro-Ecuadorian people or nationality** → their **prior consultation (consulta previa)**, under the Constitution and **ILO Convention 169**.
-- Anything in a **protected area, an intangible zone, or a protected forest** → the strict constitutional limits on extraction there (Article 407) — the Los Cedros ground.
+**Parish and community.** The **parish councils (juntas parroquiales)** and community assemblies are the closest level, and their voice and endorsement carry weight in consultation and in the political calculus.
 
-## The expert and decision bodies
+**Indigenous and collective territories.** Cutting across all of these: where a project affects an **Indigenous, Afro-Ecuadorian or Montubio people's territory**, their right to **prior consultation** applies, strengthened by the Inter-American Court's Sarayaku ruling. In much of the Amazon and the highlands this is a decisive gate.
 
-- **MAATE** — evaluates the environmental study and decides the permit.
-- **The mining/energy authorities and independent experts** — grant concessions and assess effects.
-- **The Constitutional Court, the ordinary courts, and the oversight bodies** — the accountability bodies (see the overseers, below, and Section 11).
+**Nature itself.** And uniquely, standing above all of these: the **rights of nature**. A project that threatens the existence or the ecological cycles of a forest, a river, or a species can be challenged directly on nature's behalf, by anyone, anywhere in the country — the lever Los Cedros made real.
 
-## How a decision is actually made — the permit journey
+## The Journey of a Project
 
-For a project that may affect the environment, the developer must obtain an **environmental permit** from **MAATE** under the **Environmental Code (Código Orgánico del Ambiente)**:
+A typical project moves from concession or contract, to an environmental study, to the environmental permit and its conditions, through environmental and (where relevant) prior consultation, to local land-use and water questions, and only then to construction. **Every one of those stages is a door you can put your foot in.** The earliest doors are the cheapest and the widest: an objection during the study, a demand that it address a risk it ignored, an environmental consultation asserted. The later doors — an acción de protección against a granted licence, a referendum to overturn a project, a rights-of-nature challenge to an operating mine — are more demanding but real, and communities walk through them and win. Find out exactly where your project stands on this path today; that tells you which door is open now. Watch in particular for the **environmental consultation** window and the **information stages** of the study: a project that raced past these, or held them as a formality, has handed you both an argument and an entry point, and the record of who asked to participate and how they were answered is among the most useful early documents you can gather.
 
-1. **Study and application** — the developer files the **EIA**.
-2. **Participation and consultation** — an **environmental consultation (consulta ambiental)** of the affected community is required, and, where Indigenous peoples are affected, a **prior consultation (consulta previa)**. Attend, speak, submit comments, and record who was (and wasn't) consulted.
-3. **Decision** — MAATE **grants, conditions, or denies** the permit.
-4. **Challenge** — the permit can be challenged by a **protection action (acción de protección)** — the fast constitutional route, and the rights-of-nature vehicle — and by administrative routes.
+## Follow the Money and the Rights
 
-A **defective EIA, a skipped or flawed consultation, harm to a protected area or forest, or a violation of the rights of nature** are among the strongest grounds to stop or revoke a project.
+Behind the permits stand a proponent, its financiers, its buyers, and the officials who signed off. A mining firm may be a state company or the subsidiary of a listed foreign one — Cornerstone, at Los Cedros, is Canadian — answerable to shareholders, lenders, and markets that a reputational blow can reach. Trace who owns the proponent, who funds it, who buys its output, and which officials granted its permits. Two questions unlock most Ecuadorian fights: **Were the rights — of nature, of the community to be consulted — respected?** and **Who benefits from pretending they were?**
 
-## The rulebook — the laws that decide the outcome
+## The Overseers## The Legal Foundations
 
-- **The 2008 Constitution** — the **rights of nature** (Pachamama) (Articles 71-74), enforceable by **anyone** (Article 71); the right to a **healthy environment** and **buen vivir / sumak kawsay** (Articles 14 and 66); the **precautionary principle** and **in dubio pro natura** (Articles 395-397); the ban on extraction in **protected areas and intangible zones** (Article 407); **prior consultation** (Article 57) and **environmental consultation** (Article 398); the **protection action** (Article 88); the **popular referendum** (Article 104); and the right to **information** (Article 18).
-- **The Environmental Code (Código Orgánico del Ambiente, COA)** and its regulations — the permit and EIA system.
-- **The Mining Law and the Water Law**; **ILO Convention 169**.
-- **The Transparency and Access to Information Law (LOTAIP)** — the right to information.
-- **The Escazú Agreement** — access to information, participation, justice, and protection of defenders — which Ecuador has ratified.
+A handful of provisions recur in almost every Ecuadorian fight, and knowing which one your project offends tells you which door to use. The **2008 Constitution** anchors everything and is unusually generous: Article 10 makes nature a subject of rights; Articles 71–74 set out the **rights of nature** — to exist, to have its cycles respected (Art. 71), to restoration (Art. 72), and the State's duty of precautionary and restrictive measures against extinction and ecosystem destruction (Art. 73); Article 14 guarantees a healthy environment and *sumak kawsay* (buen vivir); Articles 12 and 318 protect water as a human right and strategic patrimony; Article 88 gives the **acción de protección** and Article 87 **precautionary measures**; Article 398 guarantees **environmental consultation**; Article 57(7) guarantees Indigenous **prior consultation**; Article 407 bars extraction in protected areas and intangible zones save by exceptional decision of the National Assembly; and Articles 104 and 441 provide the **popular consultation**. Beneath the Constitution, the **Organic Environmental Code (COA)** governs environmental permits and licensing; the **Mining Law** and the hydrocarbons framework govern concessions and blocks; **LOTAIP** and the right of petition open the records; and the **Escazú Agreement**, ratified by Ecuador, binds the State to guarantee information, participation, justice, and the protection of defenders. Internationally, the **Inter-American Court's Sarayaku judgment (2012)** binds Ecuador on prior consultation. You do not need to master them all; you need to find the one your project breaches, and build on it.
 
-## Follow the money — why the system often leans toward "yes"
 
-- **Ecuador depends heavily on oil and mining revenue** — crude oil has long been the country's largest export — so there is strong central pressure to extract.
-- **The state itself is often the developer**, through the state mining and oil companies — a distinctive tilt, because the government has a direct financial stake in the project it is also meant to regulate.
-- **GADs** compete for investment and jobs.
-- The **environmental study is prepared by the developer's own consultants**, so it tends to read in the project's favour.
-- Refusals are relatively rare; most projects that reach a decision are permitted, with conditions.
 
-None of this makes a decision inevitable. It explains why a decision rarely tips your way on its own — it takes organised, evidenced pressure.
+Finally, know the bodies that watch the deciders, because they are levers too. The **Constitutional Court** is the guardian of the rights of nature and can select a case to set binding, nationwide precedent — as it did with Los Cedros. The **Defensoría del Pueblo** defends rights and accompanies threatened communities and defenders. The **Contraloría** audits public money. The **Fiscalía** prosecutes environmental crimes. And the **Escazú Agreement**, which Ecuador ratified, binds the State to guarantee access to information, participation, and justice, and to protect environmental defenders. Each overseer is a separate front, reachable with the same evidence, and a project rarely survives pressure on several at once.
 
-## The overseers — who watches the decision-makers
+# QUICK REFERENCE: SUCCESS RATES
 
-- **The Constitutional Court (Corte Constitucional)** — which has built the world's leading **rights-of-nature** case law (Los Cedros, and others); the ordinary and contentious-administrative courts.
-- **The Function of Transparency and Social Control** — a distinctive branch of the Ecuadorian state that includes the **Comptroller (Contraloría General del Estado)** (fiscal control), the **Ombudsman (Defensoría del Pueblo)**, and the citizen-participation council; and the **Attorney-General / Fiscalía** (criminal prosecution) (see Section 11).
-- **MAATE** — which can also review and revoke permits.
-
----
-
-# QUICK REFERENCE: SUCCESS RATES BY STEP & COMBINATION
-
-These ranges describe the general effectiveness of each tactic drawn from documented opposition campaigns. They are patterns, not guarantees. In Ecuador, the variable most likely to push a campaign above these ranges is a well-founded challenge on a real defect — a violation of the **rights of nature**, a defective **EIA**, a missing **consultation**, or harm to a **protected forest** — carried through the **protection action** (Step 4).
+Before you commit months of effort, calibrate honestly. These figures are **directional, not guarantees** — patterns drawn from how Ecuadorian and comparable campaigns tend to go, not a controlled study. The decisive variables are whether the project threatens the rights of nature or an Indigenous territory, whether it sits in or overlaps a protected area or an intangible zone, whether its environmental licence has a real defect, how firmly the national government backs it, and whether the world is watching. Where nature's rights or a treasured place are at stake, Ecuador's levers are exceptional; where the government champions the project and enforcement lags, discount the figures and think in terms of rights asserted, delay, exposure, and outside pressure.
 
 ## Individual Step Success Rates
 
-| Step | Success Rate | Timeline | Cost (USD) | What "Success" Means |
-|------|--------------|----------|------|---------------------|
-| **Documentation Only** | 5-10% | 3-4 months | $35,000 | Project slowed, public awareness only |
-| **Opposition Only** | 15-20% | 6-12 months | $95,000 | Public pressure, minor modifications |
-| **Legal Only** | 20-30% | 12-24 months | $5,000-30,000 | Slow; strong if the defect is real |
-| **Media Only** | 10-15% | 3-6 months | $35,000 | Public knows, but no action |
-| **Docs + Opposition** | 25-35% | 12 months | $120,000 | Slowed, some modifications |
-| **Docs + Legal** | 30-40% | 12-18 months | $150,000 | Stronger legal arguments |
-| **Opposition + Legal** | 35-45% | 12-18 months | $180,000 | Political pressure strengthens the case |
-| **Opposition + Media** | 30-40% | 9-12 months | $120,000 | Visibility creates political pressure |
-| **All 5 Steps Combined** | 60-75% | 12-24 months | $200,000 | Permit revoked/refused/modified or project halted |
+| Approach | Success Rate | Timeline | Cost | What "Success" Means |
+|----------|--------------|----------|------|----------------------|
+| **Documentation only** | 5–10% | 1–3 months | low | Basis for every other step |
+| **Participation in the environmental study / consultation** | 15–35% | during review | low | On record; conditions or a redo |
+| **Rights-of-nature / protective action (courts)** | 30–55% | 6–30 months | low–moderate | Permits revoked; activity prohibited; precedent |
+| **Prior consultation (Indigenous territory)** | 30–55% | ongoing | low | No lawful process; project stalled or void |
+| **Protected-area / intangible-zone exclusion** | 35–55% | 6–30 months | low–moderate | Project excluded from closed ground |
+| **Popular consultation (referendum)** | 25–50% | 12–36 months | moderate | Binding ban at the ballot; project stopped |
+| **Defensoría / Contraloría / Fiscalía referral** | 15–40% | 6–24 months | low | Findings; scrutiny; prosecution |
+| **International attention / IACtHR / financier pressure** | 30–55% | 6–48 months | low | Reputational and legal pressure; proponent falters |
+| **Documenting a legal violation (illegal work, licence breach)** | 30–50% | 3–18 months | low | Breach exposed; sanction; leverage |
+| **Local (GAD) land-use / water action** | 20–45% | 6–24 months | low–moderate | Local restriction; project constrained |
+| **All steps combined (rights at stake, world watching)** | 45–65% | 12–36 months | low–moderate | Stalled, delayed, voided, or forced to change |
+| **All steps combined (government-backed, enforcement weak)** | 25–45% | 12–48 months | low–moderate | Delayed, exposed, conditioned; sometimes stopped |
 
-**Key insight:** All five steps together = 3-4x more effective than any single step.
+**Key insight:** every step together beats any single one, and Ecuador's real strengths are, in places, unique — the **rights of nature**, the fast **acción de protección**, a genuine **prior-consultation right** strengthened at the Inter-American Court, hard **protected-area and intangible-zone closures**, the **popular consultation** that has stopped megaprojects at the ballot, a **precautionary principle with the burden reversed onto the developer**, a **free press**, and an **international spotlight** on the Amazon, the Chocó and the Galápagos that reaches a company's investors and buyers. Its constraints are a **government that backs oil and mining**, **uneven enforcement even of landmark rulings**, a consultation right that is **consultation, not consent**, and real **danger to defenders**.
 
-*A note on legal cost: the **protection action** is meant to be fast, accessible, and requires no special standing — **anyone** can bring it to defend nature's rights — and public-interest organisations (such as Acción Ecológica, INREDH, and university legal clinics) take these cases, often at no charge. So the "Legal" figures are not a hard floor. The main cost is expert evidence.*
-
----
+*A note on cost: participating, documenting, organising, and asserting rights are inexpensive, and public-interest lawyers and networks — those who carried Los Cedros and Sarayaku among them — have taken community cases. A referendum is the most demanding path, needing signatures and a national or local campaign. The expenditure that most changes outcomes is committed **legal support** and the reach of the **media campaign** — both of which Los Cedros and Yasuní marshalled.*
 
 ## Effectiveness Visualization
 
 ```
-SUCCESS PROBABILITY (Permit Revoked/Refused/Modified/Project Halted)
+SUCCESS PROBABILITY (stalled, delayed, voided, forced to change, or stopped)
 
-CLEAN DECISION SCENARIO:
-All 5 Steps Combined:  ████████████████ 65-75%
-Same chance as: a coin coming up heads twice (75%)
+RIGHTS AT STAKE, WORLD WATCHING -- nature / Indigenous territory / protected area:
+All steps combined:          █████████████   45-65%
+Protected-area / intangible: ████████████    35-55%
+Rights of nature / protection:████████████   30-55%
+International pressure:      ████████████    30-55%
+Single step:                 ██              5-55%
 
-4 Steps Combined:      ███████████████ 55-65%
-Same chance as: a forecast of 60% rain being correct
-
-3 Steps Combined:      ██████████ 45-55%
-Same chance as: a single coin flip (50%)
-
-2 Steps Combined:      ████████ 30-40%
-Same chance as: drawing a face card from a deck
-
-Single Step:           ██ 5-20%
-Same chance as: rolling a specific number on one die
-
-WITH MODERATE TILT FACTORS:
-(Strong extraction-revenue push, or a developer-funded study)
-
-All 5 Steps Combined:  ██████████ 40-45%
-4 Steps Combined:      ████████ 30-40%
-3 Steps Combined:      ██████ 20-30%
-2 Steps Combined:      ████ 15-25%
-Single Step:           ██ 3-12%
-
-WITH SEVERE TILT FACTORS:
-(A state-run extraction project of "strategic" priority, developer-only studies)
-
-All 5 Steps Combined:  ████ 25-30%
-4 Steps Combined:      ███ 18-24%
-3 Steps Combined:      ██ 12-18%
-2 Steps Combined:      █ 8-15%
-Single Step:           █ 2-8%
+GOVERNMENT-BACKED PROJECT -- state champions it, enforcement weak:
+All steps combined:          █████████       25-45%
+Rights + intl. + exposure:   ███████████     the strongest combination
+Delay / documented breach:   ████████████    more achievable than an outright stop
+Single step:                 ██              5-35%
 ```
 
-**One important point:** a single clear legal defect — most powerfully a **violation of the rights of nature** in a fragile or protected ecosystem, a defective **EIA**, or a missing **consultation** — can lead the **Constitutional Court** (through a protection action) to revoke a permit and halt a project even where the politics favour it, because it is applying a constitutional standard the authorities cannot ignore. That is exactly what happened at **Los Cedros**. (A revoked permit and even a national referendum can be resisted or slow-walked by the authorities — as the delayed compliance with the Yasuní vote shows — so an early win may need defending and enforcing.)
-
----
+**How to read this honestly.** The levers that most change outcomes in Ecuador are **the rights of nature and the courts**, reinforced by protected-area closures, prior and environmental consultation, the popular consultation, international pressure, and documented violations. Los Cedros shows the ceiling: a municipality and its allies documented the biodiversity and the threat, filed a protective action, and won a ruling that revoked the permits and made new law. Yasuní shows the other ceiling — a decade-long campaign that stopped an oil project at the ballot. The floor is set by a government that backs extraction and by the slow, uneven enforcement of even famous wins. Most Ecuadorian fights sit between them, and the honest lesson is that nature's rights, the courts, and the vote are powerful, genuine levers — but against a government-backed project the realistic win is often rights asserted, delay, exposure, and a proponent worn down, as much as an outright, permanent stop.
 
 ## Step Importance Ranking (When All Combined)
 
-```
-1. OPPOSITION BUILDING (Step 3)     ████████████████ 25%
-   Why: creates political pressure, visible to decision-makers, enables other steps
-
-2. DOCUMENTATION (Step 2)           ███████████████ 22%
-   Why: provides ammunition for the courts and media; grounds opposition in facts
-
-3. MEDIA STRATEGY (Step 5)          ████████████ 20%
-   Why: makes opposition/legal/documentation visible, creates political cost
-
-4. LEGAL CHALLENGES (Step 4)        ███████████ 18%
-   Why: the protection action can revoke a permit — and holds the rights-of-nature and consultation levers
-
-5. TARGET ID (Step 1)               ██████ 15%
-   Why: foundation — if wrong, everything fails
-```
-
-**Real insight:** a large, organised, visible community that has also documented the harm to a fragile ecosystem and turned out for the **consultation** is far more powerful than perfect documentation or a brilliant legal argument standing alone.
-
----
+1. **The rights of nature and the acción de protección** — the country's distinctive, world-first lever and the fast action that carries it to court; the ground on which Los Cedros was won.
+2. **Prior consultation and the closed ground** — the Indigenous consultation right (strengthened by Sarayaku) and the protected-area and intangible-zone exclusions a project cannot lawfully occupy.
+3. **The popular consultation** — the ballot-box power that stopped Yasuní and Chocó Andino, demanding but decisive.
+4. **The international spotlight and financier pressure** — the global attention a megadiverse country and a listed company cannot escape, reaching investors and buyers.
+5. **Participation, local power, the overseers, and mobilisation** — the study objections, the GAD land-use and water powers, the Defensoría and Contraloría referrals, and the sustained public pressure that expose and hold.
 
 ## What Ecuadorian Campaigns Actually Show
 
-A few patterns recur. **Organised opposition and documentation are the base**, and Ecuador's distinctive lever is constitutional and world-leading: the **protection action (*acción de protección*)** and the enforceable **rights of nature**, through which courts have revoked permits and halted projects. **Prior consultation** of Indigenous peoples and communities adds a second front. **A durable coalition and sustained media** supply the political weight. **The ceiling turns on the project's backing and the courts' will** — a favoured project may be delayed or conditioned, while one that violates the rights of nature or a consultation is genuinely vulnerable. The through-line: **build the file, invoke the rights of nature and the protection action, assert consultation, and hold the coalition and coverage.**
+A few patterns recur. **Nature has rights, and they bite** — the Constitutional Court revoked mining permits to protect a forest's right to exist, and said those rights apply everywhere. **The ballot can stop a megaproject** — a national referendum ordered oil left in the ground in Yasuní, and a regional one banned mining in the Chocó Andino. **Consultation is real** — prior consultation, strengthened at the Inter-American Court in Sarayaku, and environmental consultation under Article 398 are requirements a project can be held to. **Closed ground stays closed** — protected areas and intangible zones bar extraction. **Documented violations bite** — illegal work or a breached licence becomes the spine of a case. **The world can be reached** — the Amazon and the Chocó draw coverage a company's backers cannot ignore. **But the government backs extraction**, and even landmark wins are enforced slowly. The through-line: **assert the rights of nature and of consultation; prove every violation and defect; use the courts, the closed ground, and the vote; reach the world — and expect a long fight measured in rights asserted, delay, exposure, and a company worn down as much as an outright stop.** And remember that Ecuadorian jurisprudence keeps opening ground: Los Cedros held nature's rights self-executing and nationwide, and later cases have extended similar protection to rivers and mangroves — so the legal tools available to a community today are broader than they were a few years ago, a trend that rewards the community willing to reach for them.The through-line: **assert the rights of nature and of consultation; prove every violation and defect; use the courts, the closed ground, and the vote; reach the world — and expect a long fight measured in rights asserted, delay, exposure, and a company worn down as much as an outright stop.**
 
 # STEP 1: TARGET IDENTIFICATION
 
-**Time to complete:** Weeks 1-4
-**Cost:** $0
-**Outcome:** A clear picture of what you're fighting, who decides, and when the decision is final
+Every effective campaign begins by finding the exact decision that governs the project — and its weakest point. Vague opposition to "the mine" goes nowhere; opposition to "the environmental licence granted without the environmental consultation Article 398 requires, for a project that threatens the rights of a protected cloud forest closed to mining" is a case. Answer five questions.
 
-## Core Questions You Must Answer
+## The Five Core Questions
 
-Before you organise a single person, answer these precisely.
+**1. What exactly is proposed, and under what permit?** Name the project, the proponent, and the specific approval it needs or holds — the environmental *registro* or *licencia* and its conditions, the mining concession or oil block, the water authorisation. A project lives or dies by these instruments, and each has a defect waiting to be found.
 
-### Question 1: What Exactly Will Be Destroyed?
+**2. What stage is it at?** Concession granted? Environmental study under way? Licence granted? Under construction? Operating? The stage dictates the door. If the licence is not yet issued, your objection during the study is cheap and powerful. If it is operating, a breached condition or a rights-of-nature harm may hand you a protective action.
 
-Not: "Environmental damage"
-But: "The mine threatens a cloud forest that is home to [named endangered species] and the water sources that supply [number] families — a fragile ecosystem the rights of nature protect."
+**3. Does it threaten the rights of nature or an Indigenous territory?** This is the pivotal, distinctive question. Identify the forest, river, páramo, mangrove, or species at risk — because nature's own rights can be asserted on its behalf. And identify whether the ground is an Indigenous, Afro-Ecuadorian or Montubio territory whose prior consultation is required. Either can be the strongest lever there is.
 
-Not: "Pollution"
-But: "The project will discharge [X] into the [named] river, over the farming and fishing that [community] depends on."
+**4. Is the ground closed or specially protected?** Is it inside the national protected-areas system, a bosque protector, an intangible zone (like the Tagaeri-Taromenane zone in Yasuní), a páramo, or a watershed? Closed ground the project cannot lawfully occupy is a case that can win on the documents alone.
 
-Not: "Community harm"
-But: "The project crosses the territory of the [Indigenous nationality] without the **prior consultation** the Constitution requires."
+**5. Who decides, who benefits, and who is watching?** Which authority and which officials granted the permits (MAATE, the mining or oil regulator); who owns and funds the proponent and buys its output; which GAD's land use and which community's consultation are engaged; and which press, allies, and international bodies can be reached. This maps your levers and your audiences at once. It is worth writing the answers down as a one-page brief: the project and its permit, the stage, the rights-and-consultation status, the closed-ground status, and the deciders, beneficiaries, and watchers. That page becomes the shared reference for your whole campaign — the thing a new volunteer, a lawyer, or a reporter reads first — and it keeps everyone aimed at the same decision and the same weak point, instead of scattering effort across grievances that do not move the outcome.
 
-**Why this matters:** specific harms are easier to document, litigate, and organise around. Vague opposition dies; specific opposition survives. Harm to a **fragile or protected ecosystem**, an **endangered species**, a **water source**, or an **Indigenous territory** also opens a **specific legal front** — and the **rights of nature** are strongest exactly where extinction or ecosystem destruction is at stake (Article 73).
+## A Worked Example
 
-### Question 2: Who Decides?
+Suppose a company proposes an open-pit mine on a forested mountain that feeds a community's water, partly overlapping a *bosque protector* and the ancestral territory of an Indigenous community, and it has obtained an environmental licence.
 
-You cannot pressure an abstraction. Identify the decision-maker precisely — it is usually one of these:
+Working the five questions: the project needs an **environmental licence** (obtained — request it and its conditions), a **mining concession**, and, because it affects an Indigenous territory and the environment, **prior and environmental consultation** (were they genuinely done?). It is **operating or about to** — so a protective action and precautionary measures are the live route. The mountain and forest carry **rights of nature**, and the *bosque protector* may be **closed ground**. The **GAD's land-use and water powers** are engaged, and the community's water and the forest's biodiversity give a **media and international** hook.
 
-- **MAATE** — for the **environmental permit**.
-- **The mining/energy authority** — for the concession.
-- **The affected community / Indigenous people** — whose **consultation** is required, and the **GAD** for local competences.
-
-Write it down concretely: "MAATE will decide the environmental permit after the EIA and the consultation. The project sits in a protected forest and affects an Indigenous territory, so Article 407 and prior consultation apply — and any permit can be challenged by a protection action on rights-of-nature grounds."
-
-### Question 3: What Specific Action Stops It?
-
-Not: "Stop the project"
-But: "Persuade MAATE to deny the permit, or win a revocation through a protection action on rights-of-nature grounds" — or, if refusal is unrealistic, "obtain strict conditions, real restoration, and a redesign."
-
-Not: "Protect the environment"
-But: "Show the project violates the **rights of nature** of [the forest/river], the **EIA** is defective, or the **consultation** was skipped, and file a protection action."
-
-**Why this matters:** you can demand something achievable. Vague demands are easy to ignore; specific ones create measurable pressure and, if the process is unlawful, become the ground for a court to act.
-
-### Question 4: When Is the Decision Final?
-
-Timeline tells you how much time you have. Map every date: when the **EIA** is filed, the **consultation**, and the permit decision. Don't wait: turn people out for the consultation (and record its gaps), request the documents early (use the **information law**), and be ready to move — a **protection action** can be filed whenever a constitutional right (including the rights of nature) is threatened, and is meant to be fast.
-
-### Question 5: Are There Documented Financial or Policy Pressures?
-
-This is the tilted-system assessment question. Know it BEFORE you organise:
-- Is the project a **state-run** oil or mining project, or a "strategic" priority, hardening its backing?
-- Is the **EIA** prepared and paid for by the developer's own consultants only?
-- Does the government depend on the project for revenue, and the GAD for jobs?
-- Is the developer a state company or a large multinational with deep resources?
-- Is there a security or **criminalisation** risk to organisers (see Section 9)?
-
-**Why this matters:** if strong extraction-revenue backing, state ownership, or developer-controlled studies are present, opposition must overcome different barriers (Section 10) — and, in Ecuador, you must also weigh the **safety and criminalisation** risks (Section 9). It doesn't mean opposition can't work — Los Cedros and Yasuní both fell against state-backed extraction — it means realistic expectations and a focus on the **rights of nature**, the **EIA**, and the **consultation** defects, on conditions, and on the **courts** and, where available, a **referendum**.
-
----
+Within an afternoon you have moved from "we oppose the mine" to a target list: request and scrutinise the licence and the study; establish whether prior and environmental consultation were genuinely done, and assert them if not; check the *bosque protector*, intangible-zone, and watershed status; file a protective action on the rights of nature and the community's rights, with precautionary measures; engage the GAD; and prepare the forest-and-water story for the press. That is a campaign, not a complaint.
 
 # STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
 
-**Time to complete:** Months 1-4
-**Cost:** $35,000-55,000 (USD)
-**Outcome:** Three polished reports (30+ pages total) showing specific, quantified harms
+Documentation is the foundation everything else stands on. A judge, the Defensoría, a journalist, and a company's financiers all move on evidence, not indignation. Build your file in three layers.
 
-**Success Rate (Documentation Alone):** 5-10%
-**Success Rate (Documentation + Opposition):** 25-35%
-**Success Rate (Documentation + Opposition + Legal + Media):** 60-75%
+## Layer 1: The Official Record
 
-## The Three Documentation Layers
+Get the documents the decision rests on. Request the **environmental licence or registro and its conditions**; the **environmental-impact study** and its annexes; the **mining concession or oil contract**; the **consultation records** — the environmental consultation under Article 398 and any prior consultation; the **water authorisation**; and the minutes of any public process. Ecuador's transparency law (LOTAIP) and the constitutional right to petition make these obtainable, and the gap between what they promise and what is happening on the ground is where cases are won. The Los Cedros case rested on exactly such records — permits granted over a protected forest, with the environmental consultation the Constitution required not properly done. Read the impact study not only for what it says but for what it assumes: a study that treats a biodiverse cloud forest as ordinary woodland, that counts only the pit and ignores the roads, tailings, and water it will need, or that never mentions the endangered species everyone in the area can name, is a study with a hole in it — and that hole is your opening. The strongest cases are often built not on a dramatic new fact but on the quiet gap between the official paper and the living forest it claims to describe.
 
-Documentation turns vague opposition ("This is bad") into undeniable evidence ("This specific harm will occur to these specific people/places at these specific costs"). Success comes from three layers working together — and, in Ecuador, documenting harm to a **fragile ecosystem or an endangered species** is doubly powerful, because it triggers the **rights of nature** and the **precautionary principle**.
+## Layer 2: The Ground Truth
 
----
+Document the reality the paper hides. Photograph and date the **actual footprint** — cleared forest, drill platforms, silted rivers, muddied water sources — and geotag it. Log **incidents**: an oil spill, a fish kill, a spring gone dry, sediment in the river. Capture **before-and-after** with your own photos and with freely available satellite imagery, which can show deforestation and encroachment over time. Record **testimony**: elders on the territory's history and use, farmers on the water and the crops, and, crucially in Ecuador, evidence of the **biodiversity and the species** at risk — the endangered animals and plants whose presence gives nature's rights their teeth. In Los Cedros, the documented presence of threatened species was central to the ruling.
 
-## LAYER 1: BASELINE CONDITIONS DOCUMENTATION
+## Layer 3: The Defects and the Rights
 
-**What it is:** documentation of existing conditions BEFORE the project begins — including the species and ecosystems present, and who lives on and uses the land and waters.
-
-**Why it matters:** developers claim "the land is unproductive" or "the impact is minor." Baseline documentation proves what was there — and in Ecuador, proving the presence of **endangered species or a fragile ecosystem** engages the strongest constitutional protection there is.
-
-**Documented case — Los Cedros and the rights of a cloud forest**
-
-Ecuador's Ministry of Environment granted mining-exploration permits to the **state mining company** and its foreign partner across two-thirds of the **Los Cedros Protected Forest** — thousands of hectares of Chocó-Andean cloud forest, home to the endangered brown-headed spider monkey, the spectacled bear, rare frogs, and dozens of orchid species. Its backers treated it as a copper-and-gold prospect. The opposition made that impossible. Working with the nearby municipality of **Cotacachi**, and with scientists and campaigners, the community documented what the forest held — the endangered and endemic species, the water sources, the ecological value — and argued the permits violated the constitutional **rights of nature**, the right to **water**, a **healthy environment**, and **consultation**.
-
-It changed the outcome. On 1 December 2021, the **Constitutional Court** ruled the permits **unconstitutional**, **prohibited mining** and all extraction in Los Cedros, and ordered the **authorizations revoked** — holding that nature's rights are self-executing guarantees across the whole country, and that where an activity risks severe or irreversible harm to species and ecosystems, **the precautionary principle means nature prevails**. The documented presence of endangered species in a fragile forest was the hinge. (Honesty matters here: the state company sought to narrow the ruling, and enforcing these victories on the ground is an ongoing struggle — a win must be defended.)
-
-**Why it matters for you:** the documentation of Los Cedros's species and ecosystems — tied to the constitutional rights of nature — was decisive. Documenting existing conditions, especially endangered species, fragile ecosystems, and water sources, is the foundation of everything that follows.
-
-**Building your own baseline (typical process).** Document existing conditions before the project starts, because a developer will claim the impact is minor and baseline cannot be reconstructed later. A workable approach: surveys across a season cycle of the project area plus reference sites; a **species and ecosystem inventory** with GPS locations, flagging anything **endangered, endemic, or in a fragile/protected ecosystem** that the developer's **EIA** omitted — this is the sharpest lever, because it engages the rights of nature and the precautionary principle; a record of who occupies and uses the land — farming, and whether it is an **Indigenous territory** (the basis of a **consultation** right); the **water sources** the community depends on; proximity to any protected area, forest, or intangible zone (Article 407); and water and air baselines. Typical cost is around $30,000-45,000 for a qualified ecologist/biologist, GPS, and testing — reducible with knowledgeable community members, university researchers, and naturalists. Dated, same-spot photographs and geo-referenced maps make it credible.
-
----
-
-## LAYER 2: IMPACT ANALYSIS
-
-**What it is:** detailed analysis of what specific harms will occur, based on the project description plus your baseline.
-
-**Why it matters:** it shows not just "something bad" but "specifically THIS BAD in THIS WAY" — and it maps directly onto what the **rights of nature**, the **EIA**, and the consultation rules require.
-
-**Use the developer's own words and the legal tests.** Powerful, documentable weak points in Ecuadorian assessments include:
-- **A violation of the rights of nature.** Where the project would cause severe or irreversible harm to a species or ecosystem, the **rights of nature** and the **precautionary principle** (in dubio pro natura) are the strongest ground — as at **Los Cedros**.
-- **A defective EIA.** The study must genuinely assess the significant impacts, alternatives, and mitigation. Omissions or understatements are strong grounds.
-- **A missing or flawed consultation.** For an **Indigenous people**, a genuine **prior consultation** is required; for an affected community, an **environmental consultation**. Their absence is a strong ground.
-
-Convert each of the developer's admissions ("temporary disturbance," "limited effect") into a quantified prediction against your baseline.
-
-**Outcome (illustrative):** a **rights-of-nature** violation, a defective **EIA**, or a missing **consultation** can lead a court to revoke the permit and halt the project.
-
----
-
-## LAYER 3: HEALTH & ECONOMIC IMPACT DOCUMENTATION
-
-**What it is:** quantification of the human-health and economic costs to the community.
-
-**Why it matters:** decision-makers and the public respond to human cost. "X hectares affected" matters less than "an estimated 45 additional respiratory cases a year, and $X of health cost" — or "the water and farming that sustain [number] families destroyed."
-
-**Method:** use recognised air-quality or water modelling and the public-health literature to translate emissions or resource loss into health and livelihood outcomes, then attach costs — additional respiratory and gastrointestinal cases, lost farming and fishing income, and total annual and lifetime cost for the affected population.
-
-**Outcome (illustrative):** an independent health-and-livelihood analysis can move a GAD or the national government, feed the court case, and force conditions the original design lacked.
-
----
-
-## How to Structure Your Documentation
-
-### Phase 1: Baseline Conditions (Months 1-2)
-Engage a qualified ecologist/biologist (or use knowledgeable community members, university researchers, and naturalists); document conditions AND species/ecosystems, human occupation, Indigenous-territory status, and water sources. **Deliverable:** a 20-30 page baseline report with species/ecosystem inventory, a record of use and rights, water/air data, dated photographs, and geo-referenced maps.
-
-### Phase 2: Impact Analysis (Months 2-3)
-Obtain the **EIA** and the permit file (use the **information law**); identify specific impacts; test the study against the rights of nature, the EIA rules, and the consultation. **Deliverable:** a 20-30 page impact analysis with quantified predicted impacts, comparison to baseline, and the developer's own admissions quoted back.
-
-### Phase 3: Health/Economic Analysis (Months 3-4)
-Identify affected populations; estimate health and livelihood impacts and costs. **Deliverable:** a 15-20 page report written for the public and press.
-
----
-
-## Common Documentation Pitfalls (What Fails)
-- **Waiting for perfect data.** Documented data beats perfect data that arrives after the permit.
-- **Only environmental data.** Add health, livelihood, and human-occupation impacts — the arguments that move decision-makers, the courts, and the public.
-- **No independent check.** A report the authority can dismiss as "activist material" is far stronger after an independent expert or a university reviews it.
-- **Missing the species/ecosystem angle.** The endangered-species and fragile-ecosystem grounds are the sharpest in Ecuador — they engage the rights of nature — so look hard for them.
-- **Ignoring the developer's own admissions.** Their **EIA** is your best source; quote it against itself. Use the **information law** to get it and the file.
-
----
-
-## Documentation Budget Breakdown (USD)
-
-| Item | Cost | Notes |
-|------|------|-------|
-| Ecologist / biologist (baseline + species ID) | $30,000 | Endangered-species and ecosystem survey — the key lever |
-| GPS / survey equipment | $2,500 | Mapping/documentation |
-| Water/air testing | $5,000 | Sampling across seasons |
-| Independent / university expert review | $4,500 | Credibility |
-| Printing / information requests / translation | $2,000 | Copies (and Kichwa/Shuar translation where relevant) |
-| **TOTAL** | **$44,000** | Reducible with university partners and community members |
-
----
+Finally, document the failures of process and the rights at stake that turn harm into an unlawful act. Was the **environmental consultation (Article 398) or a required prior consultation skipped or faked**? Does the footprint **overlap closed ground** — a protected area, an intangible zone, a *bosque protector*, a watershed? Does the project **threaten the existence or the ecological cycles of a forest, river, or species** — the rights of nature themselves? Was the **precautionary principle ignored** in the face of serious risk? Each defect is a separate ground — for an objection, a protective action, a referral, or a referendum — and together they make a case that is hard to wave away. This is the layer that most often decides Ecuadorian fights, because here a project that looked licensed is revealed to be violating the rights of nature, of consultation, or of a community that the Constitution places above the permit. As you work, keep a running list of the specific defects, because each is a separate lever: an **environmental or prior consultation skipped or faked**; a **footprint overlapping a protected area, an intangible zone, a *bosque protector*, or a watershed**; a **threat to the existence or cycles of a forest, river, or species** — the rights of nature themselves; a **precautionary principle ignored** in the face of serious risk; a **licence condition breached in practice**; and a **required permit never obtained**. A project rarely has just one of these, and it is the accumulation — a protected-forest overlap and a skipped consultation and a threatened species together — that made Los Cedros so hard to answer.
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
-Most of what wins a case already exists in public records. The job is knowing which record holds which fact, and pulling it before you need it. This section is the shopping list; it also points you to the sources this map links.
+This is the practical companion to Step 2: the specific records that decide Ecuadorian cases, and where to obtain them. You will not need every item; you will need the few that expose your project's particular defect.
 
-**Start at the deciding body's register and the GAD municipal's own website.** In Ecuador the official documents for a project — the Estudio de Impacto Ambiental, the participation notices, the licencia ambiental and its conditions — are posted by the body running the review: the Ministerio del Ambiente (MAATE) for the licencia ambiental, and the municipal GAD for land use. The official documents for most local projects live on the GAD municipal's own website (planning applications, notices, agendas), so check those pages weekly. The legal clock often runs from what is posted there.
+## The Permits and Their Paper Trail
 
-**The project file and the Estudio de Impacto Ambiental.** Get the developer's Estudio de Impacto Ambiental as soon as it is posted — it is public, and it is where the developer admits harm in its own words.
+- **The environmental licence or *registro ambiental***, with its conditions and obligations. Held by **MAATE**. The permit's conditions are frequently where a project is vulnerable — a licence operated in breach of a condition is an enforcement case, and one granted without proper consultation is a constitutional one.
+- **The environmental-impact study** and its annexes, and the record of any public process. Also with MAATE, and increasingly on the SUIA environmental information system. Read it for what it omits or understates — the species at risk, the water, the protected-area overlap, the cumulative effect.
+- **The mining concession or oil contract**, from the mining regulator or the hydrocarbons authority. Check the area and whether it overlaps closed ground.
+- **The consultation records** — the environmental consultation under Article 398 and any Indigenous prior consultation. These reveal whether the community's rights were respected, and are where many Ecuadorian cases turn.
+- **Local instruments** — the GAD's land-use (*ordenamiento territorial*) plan, water ordinances, and any local *consulta popular* result.
+- **The water authorisation**, from the water authority — its absence or breach is a live ground.
 
-**Baseline environmental data.** Ministry environmental data; protected-area (SNAP) and species records; and the developer's own EIA baseline studies.
+## How to Get Them
 
-**Ownership and money.** Company ownership from the Superintendencia de Compañías; land from the Registro de la Propiedad; and officials' asset declarations.
+Most of these are public. Use the **right of petition** and the transparency law (**LOTAIP**): a written request naming the documents obliges a timely answer. Request at MAATE, the mining or oil regulator, the GAD, and the water authority; check the SUIA system for environmental files. When an authority stalls, a follow-up citing LOTAIP usually moves it; persistent refusal is itself a rights violation you can take to court. Move early: the environmental study and any consultation have real windows, and an objection or evidence entered while a window is open carries far more weight — and preserves far more of your rights — than the same point raised after a decision is made.
 
-**Case law and precedent.** Constitutional Court decisions are published; rights-of-nature rulings (Los Cedros and others) are directly relevant.
+## The Ground Evidence
 
-**How to force a document open.** A request under the transparency law (**LOTAIP**) and a constitutional acceso a la información compel disclosure of records a public body holds. Use the request wording in Section 8E.
+- **Dated, geotagged photographs and video** of the footprint, the clearing, the discharge, the drying water source.
+- **Satellite before-and-after** from freely available imagery, to show deforestation, encroachment into closed ground, or the true extent of operations.
+- **Biodiversity evidence** — records, photographs, camera-trap images, and expert notes on the threatened species present. In a rights-of-nature case this is not optional colour; it is the heart of the claim, as it was in Los Cedros.
+- **Maps** overlaying the project footprint on the Indigenous territory, the protected area or *bosque protector*, the intangible zone, and the watershed — a single map showing a mine inside a protected cloud forest is worth pages of argument. Community mapping is within reach with free imagery and open tools, or a partner university or NGO; a participatory map made with the community doubles as evidence of its territory and use.
+- **Sworn statements** from elders, farmers, and community authorities, on use, history, consultation, and harm.
+- **Independent technical readings** — a water sample, a biologist's or hydrologist's note. Community monitoring and university partners can supply these cheaply. Gather it early and gather it dated, because timing decides its weight: the environmental study and any consultation have real windows, and evidence entered while a window is open shapes the decision, while the same evidence produced afterward only supports a challenge to a decision already made.
 
-**Free and low-cost help.** **Acción Ecológica**, YASunidos, and environmental lawyers litigate; Ecuador's rights of nature give communities a distinctive constitutional tool.
+## Organise It So It Persuades
 
-**Tie it to the map.** The dots and layers here are your starting index — a mapped project points you to the deciding authority, and the local-ally entries point you to the organisations and legal help already working nearby. Pull that thread first, then follow it into the registers above.
+Keep a **master timeline** of every permit date, consultation, incident, objection, and deadline — the spine of any action. Keep a **document index** so any fact can be sourced in seconds. And keep an **argument bank** (developed in a later section) that pairs each fact with what it proves, to whom. A well-ordered file is not bureaucracy; it is what lets a volunteer, a lawyer, a reporter, and a judge all see the same clear picture fast — and it guards against the campaign's own worst enemy, a claim that cannot be sourced when the other side challenges it. In a fight this long, the community with the better-kept file is very often the one that prevails, because it is the one whose every assertion — every date, every permit number, every species record — holds when tested, while the proponent's looser story frays. Treat the file as the campaign's memory: people burn out and move on, but a well-ordered archive lets whoever picks up the work carry it forward without starting over.
 
-## Researchers for Hire, and Everyday Research Tools
+# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT LAST
 
-If digging through corporate filings, agency files and environmental records is beyond a few volunteers, you can hire it out — and this lifts a real weight off novice activists. The field is **opposition research** (or, on the labour side, **corporate-campaign research** — the same methods unions use to expose an employer's finances and record, turned on a developer). For your side, seek **opposition-research firms**, **licensed private investigators** with paid records access, **investigative journalists and freelancers** (often the cheapest, and they publish what they find), **environmental-compliance auditors** to dissect a developer's regulatory record, and **public-records / freedom-of-information specialists** to pry files loose. The investigative tools they use — and that a determined activist can use directly — include **OpenCorporates** and **OCCRP Aleph** (company ownership and cross-border links, worldwide) and **DocumentCloud** (search and OCR large document dumps), with **SEC EDGAR**, **LittleSis** and **MuckRock** as United States examples; most countries have their own equivalents.
+Evidence and law do not stop projects on their own. Organised people do — sustained, visible, and credible over the months or years a fight takes. This is the step communities most often get wrong, and both Ecuadorian landmarks rest on getting it right: Los Cedros through a municipality and a coalition of scientists and lawyers, Yasuní through a decade of patient, nationwide organising by Yasunidos.
 
-For everyday, subject-agnostic research, a small kit goes far: **AI assistants** — Claude.ai, ChatGPT, Google Gemini, and Perplexity for sourced answers — are excellent for explaining a law, summarising a document, or drafting, so long as you **always verify** what they tell you, because they can invent citations; **Google Scholar** and Google's advanced search operators for studies and buried files; and the **Wayback Machine** for pages a developer or agency has quietly deleted.
+## Phase 1: The Core
 
-# STEP 3: BUILDING LOCAL OPPOSITION — HOW TO ORGANISE COMMUNITIES THAT HOLD
+Start with a small, committed core — five to fifteen people who will carry the work. Where an Indigenous territory is involved, include the **legitimate community authorities** — the *comuna*, the nationality's organisation — from the start, because their consultation and their voice are the campaign's legal and moral spine; a captured or bypassed authority is the proponent's favourite tool, and an authentic one is your strongest asset. Assign roles: documentation, legal liaison, media, community liaison, and coordination. Agree on the goal — refusal, a revoked licence, a redesign, a referendum — and on what you will and will not accept.
 
-**Time to complete:** Months 2-6 (foundation), 6-12 (sustained)
-**Cost:** ~$95,000 (USD) for a full year
-**Outcome:** 50-100 core people, 5-10 organisations, sustained organisation
+## Phase 2: The Coalition
 
-**Success Rate (Opposition Alone):** 15-20%
-**Success Rate (Opposition + Documentation + Legal + Media):** 60-75%
+Widen deliberately. Map who shares the stake — farmers' and water-user associations, the parish councils, the church networks, teachers and health workers, students, and the diaspora. Reach the **allies with capacity**: public-interest lawyers and legal-aid groups, national environmental and Indigenous organisations (CONAIE and its regional affiliates carry real weight), scientists and academics who can document the biodiversity, and international networks. Los Cedros united a municipality, biologists, and constitutional lawyers; Yasuní united a national collective, Indigenous nationalities, and a broad public — each bringing something the others could not.
 
-## Critical Insight About Organising
+**A worked coalition example.** Facing a mine that threatens a forest and a water source, a farmers' association, an Indigenous *comuna*, the parish council, and a handful of teachers form a core; they bring in a legal-aid lawyer and a biologist from a nearby university to document the species; the GAD passes a resolution; a national environmental network amplifies the story. No single group could have carried it; together they cover documentation, law, science, faith, local legitimacy, and reach — the full spread a winning campaign needs. And in Ecuador one specialist matters more than almost anywhere: the **biologist or ecologist** who can name and document the species at risk. A rights-of-nature case rises or falls on that evidence, so a university partner or a conservation scientist is not a nice-to-have but a core member of the coalition — recruit one early, and give them the access and the time to build a proper record of what the forest holds.
 
-**Most opposition campaigns fail not because they can't build opposition, but because opposition burns out — or is frightened into silence — after 4-8 months.** You need structures that prevent it, and (in Ecuador) that protect people. The Yasuní campaign held together for over a decade — that endurance is what won. Read Section 9 on safety alongside this step.
+## Phase 3: Sustaining It
 
----
+Campaigns die of burnout, not defeat. Meet on a rhythm. Give people concrete, finishable tasks. Mark small wins — a resolution passed, a document pried loose, a hearing attended in force. Rotate the exhausting roles. And protect people, because Ecuador can be dangerous for defenders: keep leadership collective and visible rather than resting the campaign on one exposed individual; document every threat, surveillance, or act of intimidation, which protects the person and becomes evidence for the Defensoría or a court; build outside links to national networks, the Church, and international allies; and report threats at once. A campaign that protects its people is a campaign that can last — and lasting, as Yasuní's decade shows, is how these fights are won.
 
-## PHASE 1: FOUNDATION (Months 1-2)
+## Phase 4: Showing Strength
 
-**Goal:** a core group of 15-20 motivated people and a clear picture of their concerns.
+Numbers and legitimacy must be seen. Turn people out for hearings and consultations. Gather signatures — the currency of a *consulta popular*, and Yasunidos gathered them for years. Hold peaceful, well-documented actions — marches, forest walks, water forums. The point is not spectacle; it is to demonstrate, to officials, to judges, and to the press, that the opposition is broad, rooted, and not going away. Throughout, guard the authenticity of your leadership and your consultation, because it is exactly what a proponent will try to fake: insist that Indigenous communities speak through their legitimate authorities and their own decision-making, and put that legitimacy on the record. A campaign whose leadership is unmistakably the community's own — its *comuna*, its nationality's organisation, its assembly — is one that neither a company nor an authority can quietly substitute with a more agreeable stand-in of its choosing; and that authenticity, documented from the start, becomes decisive when the consultation records are later examined.
 
-### Step 1a: One-to-One Conversations
-People don't join movements from pamphlets; they join from relationships. Identify the 15-20 people most affected or interested. **Talk to** each in person for an hour. Ask: "What's your biggest concern about this project?" Listen — don't pitch. Ask what they'd be willing to do. Each person has a different concern (land, water, farming, health, the forest, a way of life). Opposition organised around each shared concern is stronger than one generic message.
+# STEP 4: LEGAL CHALLENGES — THE RIGHTS OF NATURE, THE PROTECTIVE ACTION, AND THE VOTE
 
-### Step 1b: Affinity Groups by Concern
-Organise small groups (3-8 people) around a shared concern, not around "opposition":
-- **Land/livelihood group** — farming, displacement and compensation
-- **Water group** — the rivers, springs, and watersheds, contamination
-- **Health group** — air quality, water quality, disease
-- **Nature/rights group** — endangered species, the forest, and the **rights-of-nature** case (with the community and any Indigenous authorities)
-Each group meets regularly and works out how opposition serves *their* interest, coordinating while keeping its own framing.
+Ecuadorian law gives communities an arsenal found almost nowhere else, and you do not need a final ruling to win with it: a filing freezes a project, forces disclosure, and creates leverage and headlines. Engage a lawyer or a legal-aid group early — but understand the tools yourself.
 
-### Step 1c: Use the Community's Own Structures and Register a Vehicle
-Two things matter. First, Ecuadorian communities have strong structures — the **comuna** and the community assembly, the **junta de agua** (water board), campesino associations, and, for Indigenous peoples, their **nationalities and communes** and organisations (locally and through **CONAIE/CONFENIAE**), whose authorities carry weight and hold the **consultation** right; a clear, recorded community position carries weight. Second, a registered organisation (a **fundación** or **corporación**) can speak publicly, receive donations, and support litigation; partner with established organisations (such as Acción Ecológica, INREDH, or YASunidos) early. And remember: **the GAD (your municipality or province) can itself bring a rights-of-nature case** — Cotacachi did at Los Cedros — so winning over a sympathetic local government is powerful.
+## The Rights of Nature
 
----
+Ecuador's signature lever is the **rights of nature** (Articles 71–74). Nature — a forest, a river, a páramo, a species — has the right to exist and to maintain its cycles, and **anyone may go to court to defend those rights**, on nature's behalf, without needing to show a personal injury. Article 73 obliges the State to apply precautionary and restrictive measures against activities that could drive species to extinction or destroy ecosystems. Los Cedros established that these rights are **self-executing and apply throughout the country**, protected areas or not, and that where an activity risks serious or irreversible harm, the burden falls on the State and the developer to prove it will not. This is your most distinctive and powerful ground.
 
-## PHASE 2: PUBLIC LAUNCH (Months 2-3)
+## The Acción de Protección and Precautionary Measures
 
-**Goal:** announce opposition to the public, the media, and decision-makers.
+The vehicle is the **acción de protección** (Article 88) — a fast constitutional action, filed before any judge, to protect a violated right, including the rights of nature and the community's rights to consultation, water, and a healthy environment. It can order the activity suspended and the permits reviewed. Paired with **precautionary measures** (Article 87), it can **freeze a project immediately**, before the merits are decided, so irreversible damage is not done while the case runs. A case that fails below can be taken further, and the **Constitutional Court** may select it for review and turn it into binding, nationwide precedent — which is exactly how Los Cedros was made. A protective action is meant to be swift: the judge sets a hearing within days, and may grant the precautionary measures at once, before deciding the merits, so that a forest is not felled while the case runs. The judge can order the authority or the company to cease, to restore, and to submit to monitoring, and can reverse a permit. Because the remedy is constitutional, a general denial is not enough for the respondents — they must engage the specific rights alleged. This is why the filing alone can halt work, compel disclosure, and put the proponent and the ministry on the defensive long before any final word.
 
-### Step 2a: Public Meeting (community assembly / asamblea)
-Hold a community assembly (**asamblea**) where people set out their concerns to themselves, to the GAD authorities, and to press. A serious, informational meeting carries weight. Typical shape: welcome → project explanation → community concerns (each person a few minutes) → expert Q&A (an ecologist, a health voice, a lawyer) → next steps.
+## Consultation — Environmental and Prior
 
-### Step 2b: Opposition Materials (Factsheets)
-One page, in plain Spanish (and Kichwa or the relevant language). Decision-makers and neighbours won't read 30 pages; one page gets read. Structure: a headline stating the problem → quick quantified facts → the specific impact → **what you're asking for** → the evidence base → contact/resources. Print widely; distribute at markets, the parish office, churches, health posts; post a digital version. Cost: ~$2,500.
+Two consultation rights are levers in their own right. **Environmental consultation (Article 398)** requires the State to consult the community on decisions that may affect the environment. **Prior consultation** for Indigenous peoples (Article 57(7)), strengthened by the Inter-American Court's judgment in **Sarayaku v. Ecuador (2012)**, requires a genuine, good-faith, informed process before a project proceeds on their territory. Be clear-eyed: the Constitution frames these as consultation, not a veto, and they have too often been treated as a formality — but a consultation skipped or faked is a defect the courts have acted on, and Sarayaku set a binding standard the State must meet.
 
-### Step 2c: Consultation, the Recorded Community Position, and the Rights-of-Nature Frame (the decisive record)
-Two things matter most here. First, when the **environmental consultation** (and, for Indigenous peoples, the **prior consultation**) is held, **turn people out to attend, speak, and submit comments**, each raising real grounds — a violation of the rights of nature, harm to species/water, a defective EIA — and **document the process** (who was invited, what information was shared, who was left out). Second, secure a clear, formally **recorded community position** against the project, and frame the harm in **rights-of-nature** terms (the forest, the river, the species have rights). Together these build the record a court takes seriously. Cost: ~$2,000.
+## The Popular Consultation
 
-### Step 2d: Media Coverage at Launch
-Release data + concerns + the recorded position = a story. (Full press-release example is in Section 9, 9G.) Contact reporters, then send the study. Expect 1-3 local stories.
+The most demanding and most decisive tool is the **popular consultation (consulta popular)** — a binding referendum, national or local, on whether a project or an activity may proceed. It is what stopped oil in Yasuní and mining in the Chocó Andino. It requires organising: gathering the signatures, winning the Constitutional Court's approval of the question, and running a campaign. It is a years-long undertaking, not a quick move — but where the political will and the public are with you, nothing else carries the same finality. Plan it with counsel and a broad coalition, and treat it as the culmination of a campaign, not its opening. The mechanics reward preparation: a local consultation, called by a GAD or by citizens' signatures, decides a question within that jurisdiction's competence; a national one, as with Yasuní, reaches the whole country but demands a national coalition and years of persistence. In both, the Constitutional Court must first approve the wording of the question, so the drafting matters as much as the campaign — a question framed too broadly or outside the proper competence can be struck before a single vote is cast. Get that drafting right, with counsel, before you spend a year gathering signatures behind it.
 
----
+## Where to File and With Whom
 
-## PHASE 3: COALITION EXPANSION (Months 3-6)
+Environmental and constitutional cases run before ordinary judges (for protective actions) and up to the **Constitutional Court**. Get counsel early: the public-interest law groups and environmental-law networks that carried Los Cedros and Sarayaku, university legal clinics, and Indigenous peoples' legal teams have the experience and can advise on standing, the right action, and the safety risks before you file. A lawyer contacted while objections are still live and evidence is fresh — above all the biodiversity evidence a rights-of-nature case needs — is worth far more than one contacted after the machinery arrives.
 
-**Goal:** grow from 20 core people to 50+ core plus 5-10 organisations.
+## Standing: Who May Sue for Nature
 
-### Step 3a: Organisation Outreach
-Approach environmental and rights organisations — **Acción Ecológica**, **INREDH**, **YASunidos**, the **Observatorio de Derechos de la Naturaleza**, Amazon and Indigenous organisations (**CONAIE**, **CONFENIAE**, and local nationalities), university science and law departments, the church (which carries real weight), water boards and campesino associations, and businesses that lose from the project — and a **sympathetic GAD**. Research each; contact the right person; explain how opposition serves *their* aims; make a specific, tailored ask.
-
-Tailored asks:
-- **Acción Ecológica / INREDH / a legal clinic:** "Help us prepare a protection action on rights-of-nature grounds — can you assist?"
-- **A university group:** "Would your biologists document the endangered species independently?"
-- **An Indigenous organisation:** "Help us insist on a genuine prior consultation and record the community's position."
-- **A sympathetic GAD:** "Would the municipality bring a rights-of-nature case, as Cotacachi did for Los Cedros?"
-
-### Step 3b: Coalition Agreements (Written)
-A written agreement — who's in, how decisions are made, meeting frequency, the public message, who may speak for the coalition, conflict resolution, money, security protocols, and an exit clause — prevents later conflict. Consensus is stronger but slower; voting is faster but can fracture.
-
-### Step 3c: Coordinated Public Work
-Assign leadership by strength: the species/ecosystem and rights-of-nature analysis to the NGO/university; the Indigenous territory and consultation to the community and its organisations; livelihood to the campesino and water groups; media to whoever has the contacts; the legal track to the law group and a sympathetic GAD. Sequence activities so each builds momentum (coalition launch → data release → recorded position → protection action).
-
----
-
-## PHASE 4: SUSTAINED PRESSURE (Months 6-12)
-
-**Goal:** maintain organised opposition across a 12+ month timeline — safely.
-
-### Step 4a: Public Demonstrations (marches / plantones)
-Regular, same time and place, growing attendance — outside MAATE, the GAD, or in the town square. Handle logistics and **safety**: any required notice, marshals, accessibility, a sound system, and a security and legal-support protocol (Section 9 — criminalisation is a real risk in Ecuador). Momentum matters: "50 gather" becomes "gathering grows to 500."
-
-### Step 4b: Media Campaign (Ongoing)
-Monthly rhythm: week 1 a release tied to an event/data; weeks 2-3 social media 3x/week; week 4 a reporter check-in. Rotate themes (recorded position → the endangered-species finding → coalition growth → march → protection action filed).
-
-### Step 4c: Common Opposition Failure Points (How to Prevent)
-
-**Failure Point 1: Burnout and fear (Months 4-8).** Prevent burnout: regular (not constant) meetings; celebrate milestones; fund one part-time coordinator; schedule breaks; keep a public progress tracker. And take **fear** seriously — criminalisation and intimidation are real in Ecuador; a shared security and legal-support protocol, collective decision-making, and links to human-rights organisations (Section 9) keep people safe and in the fight.
-
-**Failure Point 2: Coalition Conflict.** Prevent it with a written agreement and decision process, a clear escalation path (discuss → mediator), an explicit exit clause, and rotating leadership. Respect that Indigenous peoples decide by their own authorities — and be alert to developers trying to split a community with jobs, "development" offers, or by co-opting some leaders; keep decisions transparent and collective.
-
-**Failure Point 3: Competing Funding.** Grants with conflicting conditions can pull groups off shared work. Coordinate grants up front and agree no group commits coalition resources without a coalition decision.
-
-**Failure Point 4: No Clear Wins.** Name milestones as victories (coalition launched, community position recorded, a large asamblea, a sympathetic GAD on board, the protection action filed) and publicise cumulative progress.
-
----
-
-## Opposition Building Budget: Year-Long Campaign (USD)
-
-| Item | Cost |
-|------|------|
-| Factsheet printing | $4,000 |
-| Website/phone/data (annual) | $3,000 |
-| Meeting / venue costs | $5,000 |
-| Outreach travel (often remote, difficult terrain) | $8,000 |
-| Consultation / recording materials | $2,000 |
-| Demonstration supplies (banners, sound) | $7,000 |
-| Coalition meeting costs | $5,000 |
-| Part-time coordinator (12 months) | $48,000 |
-| Social-media / content (part-time, 3 months) | $10,000 |
-| Fundraiser/event / security costs | $5,000 |
-| **TOTAL** | **$97,000** |
-
-**Funding the campaign.** Money typically comes from four places: individual donations (local collections and online fundraisers, plus dedicated legal-cost appeals); grants from environmental and rights funders (long lead times — apply early); benefit events; and in-kind support from coalition organisations (expertise, meeting space, volunteer time). A registered organisation can receive donations and, where eligible, grants. Aim to raise half the budget by month 6 and the rest by month 12. **Reductions:** use a volunteer coordinator, or run a shorter 6-month campaign, to cut ~$48,000; and the **protection action** requires no special standing and public-interest organisations often act at no charge.
-
----
-
-## Hiring Help to Run the Campaign
-
-You need not carry the whole campaign yourselves. A whole industry runs opposition campaigns for hire — the visible turnout at hearings, the public comment, the messaging and the media — known as **grassroots-for-hire** or **public-affairs / grassroots-advocacy** consulting. It usually serves whoever pays, most often the deep-pocketed side, but you can hire the same muscle for yours: **public-interest communications and PR firms**, **campaign and field-organising firms** that run turnout and canvassing, and, if the fight becomes a local vote, **ballot-measure consultants**. People outside that niche can carry a piece too — a **PR or crisis-communications firm**, a **campaign consultant**, a **digital-advocacy shop**, or a seasoned **community organiser** — taking weight off exhausted volunteers who feel they are carrying the opposition alone. Two rules hold. Hire them **transparently**, and never let anyone fake a grassroots front: that is *astroturfing* — dishonest, and ruinous if exposed; the aim is to amplify a real community, not fabricate one. And mind your **setting** — where public campaigning is repressed or dangerous this market may be absent and a visible "show" perilous, so favour trusted journalists and international allies over hired campaigners, and never let paid help expose your people.
-
-# STEP 4: LEGAL CHALLENGES — THE RIGHTS OF NATURE, THE PROTECTION ACTION, AND CONSULTATION
-
-**Time to complete:** the protection action is meant to be fast; cases run 3-24 months, and reaching the Constitutional Court can take longer
-**Cost:** $5,000-30,000 (USD; the protection action needs no special standing and can be low-cost)
-**Outcome:** a permit revoked or refused, a project halted, conditions, or a project shelved
-
-**Representation impact:**
-- Experienced constitutional/environmental lawyers or a public-interest law group: 35-45% favourable-outcome likelihood
-- General or less specialised representation: 25-35%
-- Self-representation: 5-15%
-- **A key advantage:** the **protection action** requires **no special standing** — **anyone** can bring it to defend nature's rights — and public-interest organisations (Acción Ecológica, INREDH, university clinics) take these cases, often at no charge. A **sympathetic GAD** can also bring the case, as Cotacachi did at Los Cedros.
-
-**Success Rate (Legal Only):** 20-30%
-**Success Rate (Legal + Opposition + Media):** 60-70%
-
-Ecuadorian legal strategy has three tracks, and its constitutional toolkit — led by the **rights of nature** — is distinctive and powerful.
-
----
-
-## TRACK 1: PARTICIPATION AND THE PAPER TRAIL (the front door)
-
-Most fights are shaped here, on the record, before the courts.
-
-- **Turn out for the consultation.** Attend the **environmental consultation (consulta ambiental)** and, for Indigenous peoples, insist on a genuine **prior consultation (consulta previa)**; speak, submit comments, and **document the process** (who was invited, what information was shared, who was left out).
-- **Use the information law.** Request the **EIA**, the permit, and the file from MAATE under the **Transparency and Access to Information Law (LOTAIP)** — and, if refused, the constitutional **information-access action**.
-- **Record the community's position.** A clear, formally recorded **community position** — and, for a comuna or nationality, its assembly's decision — carries weight.
-
-**Why this track matters:** using the consultation and the information law well — specific, recorded, grounded in the law and the evidence — often does more than any amount of noise, and it builds the case you'll need for Tracks 2 and 3.
-
----
-
-## TRACK 2: THE RIGHTS OF NATURE, THE EIA, AND CONSULTATION (the strongest cards)
-
-Several grounds make this powerful.
-
-**1. The rights of nature (and the precautionary principle).** This is Ecuador's signature ground. Nature has the **constitutional right** to exist and regenerate (Articles 71-74), and **anyone** can defend it. Where a project would cause **severe or irreversible harm to a species or ecosystem** — especially in a fragile or protected forest — the rights of nature and the **precautionary principle (in dubio pro natura)** mean nature can prevail, and the **burden shifts** toward the developer to prove no serious harm. This is the ground that stopped **Los Cedros**.
-
-**2. A defective EIA, or harm to a protected area (Article 407).** The **environmental study** must genuinely assess impacts and alternatives; and extraction in **protected areas and intangible zones is constitutionally restricted** (Article 407). Documenting these is powerful.
-
-**3. A missing or flawed consultation.** For an **Indigenous people**, a genuine **prior consultation** is required (Article 57, ILO 169); for an affected community, an **environmental consultation** (Article 398). Their absence is a strong ground.
-
----
-
-## TRACK 3: THE PROTECTION ACTION, INTERIM MEASURES, AND THE REFERENDUM
-
-Match the tool to the goal:
-- **The protection action (acción de protección)** — the **fast, accessible constitutional action** (Article 88) to protect constitutional rights, including the **rights of nature**; **no special standing** is needed, and the **Constitutional Court** can select and review cases, as it did in **Los Cedros**. This is the primary route.
-- **Interim measures (medidas cautelares).** Where harm is imminent, ask the court for **precautionary measures** to **halt the works** while the case runs — often the most urgent step.
-- **The Constitutional Court (Corte Constitucional)** — the ultimate forum for the rights of nature, with a growing body of protective case law.
-- **The popular referendum (consulta popular).** Distinctively, Ecuadorians can — through a citizen- or authority-initiated **referendum** — vote directly to stop extraction, as they did for **Yasuní** and the **Chocó Andino** in 2023. This is a long, demanding route (signature drives and legal battles over the question), but a uniquely powerful one where a project has national resonance.
-
-**Be realistic about three things.** First, **the state is often the developer**, so a project can have the full weight of the government behind it — lead with the cleanest constitutional ground (the **rights of nature**). Second, **enforcement is uneven**: even a won case or a binding referendum can be resisted or slow-walked — the **Yasuní** vote was won in 2023 but only partly implemented years later — so a victory must be **defended and enforced**, keeping opposition and media pressure alive. Third, the **constitutional framework itself is politically contested**: there have been moves to rewrite the Constitution that campaigners fear could weaken the rights of nature — so get **current advice** on the state of the law.
-
----
-
-## Legal Strategy Decision Tree
-
-```
-START: Is an EIA in process, or a permit issued?
-├─ IN PROCESS → Turn out for the CONSULTATION and DOCUMENT THE GAPS (Track 1).
-│              Use the information law. Record the community position.
-└─ ISSUED    → A PROTECTION ACTION can be filed whenever a constitutional right (incl. the
-               rights of nature) is threatened, and is meant to be fast.
-
-Q1: What is the defect?
-├─ Severe/irreversible harm to a species or fragile ecosystem → RIGHTS OF NATURE +
-│      precautionary principle (strongest ground — the Los Cedros ground).
-├─ Extraction in a protected area / intangible zone → ARTICLE 407.
-├─ Missing/flawed prior consultation (Indigenous) or environmental consultation → that ground.
-├─ Defective EIA → that ground.
-└─ No real defect (lawful process, you just disagree) → focus on opposition + media.
-
-Q2: Who can bring it?
-└─ ANYONE — the protection action needs no special standing; a person, a community, an
-   Indigenous people, an NGO, or a sympathetic GAD (as at Los Cedros).
-
-Q3: Is harm imminent?
-└─ YES → seek INTERIM MEASURES (medidas cautelares) to halt the works.
-
-Q4: Does the project have national resonance and no legal defect?
-└─ Consider the long road of a POPULAR REFERENDUM (as at Yasuní) — demanding but powerful.
-
-RECOMMENDED PATHS
-Path A — Clear rights-of-nature/consultation defect: protection action + interim measures +
-  Track 1 record + information-law file + media. Highest ceiling.
-Path B — Arguable but not clear-cut: build opposition + media; take advice; litigate if a
-  defect crystallises.
-Path C — No legal defect but national resonance: opposition + media + (potentially) a referendum.
-```
-
----
-
-## Litigation Success Factors
-Litigation succeeds when **combined** with the other steps:
-- Litigation alone: 20-30%
-- Litigation + opposition: 35-45%
-- Litigation + opposition + media: 50-70%
-- A clear defect — a **rights-of-nature** violation in a fragile ecosystem, or a missing **consultation** — can exceed these (as at Los Cedros), though enforcement must then be pressed.
-
-A court that sees a genuine constitutional defect, plus visible organised opposition, plus press coverage, treats the matter as serious.
-
-## What to Avoid: Legal Failures
-- **Litigating instead of organising.** A lone technical point with no visible opposition reads as a niche dispute. Build opposition; litigate with it visible.
-- **Underusing the rights of nature.** In a fragile or protected ecosystem, it is the strongest ground there is — document the species and lead with it.
-- **Not seeking interim measures.** Without them, the works may be done before the case ends.
-- **Assuming a win enforces itself.** In Ecuador it often doesn't — plan to defend and enforce it.
-- **Weak grounds.** "This project is harmful" is an opinion, not a legal ground. "The permits violate the rights of nature of this forest and its endangered species" is a ground a court can act on — it stopped Los Cedros.
-
----
+One reason these tools are so powerful is that Ecuadorian law is generous about who may use them. Because nature is a subject of rights, **any person, community, or people may go to court to defend those rights** — you do not have to prove a private injury; it is enough that a forest, a river, or a species is threatened. The municipality of Cotacachi brought Los Cedros on behalf of a forest, not on behalf of a landowner. This breadth is a gift: it means a rights-of-nature claim does not depend on owning the land or living beside it, only on the harm to nature and your willingness to speak for it. And where an Indigenous people's territory is at stake, the **Sarayaku** standard obliges the State to a prior consultation that is genuine, informed, culturally appropriate, and conducted in good faith and in advance — not a box-ticking exercise held after the decision is made. Cite it: it is binding on Ecuador, and it raises the bar every consultation must clear.
 
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
-Evidence only counts when it is aimed at a specific legal ground. Here is how the records you gathered map onto the arguments that most often succeed in Ecuador — so you file the right fact against the right rule.
+You have a file of evidence. Now you must turn it into arguments — because the same fact persuades a judge, the Defensoría, a journalist, an international conservation group, an investor, and the community itself in different ways. Learning to translate your evidence for each audience is what lets a community reach every lever at once.
 
-**Rights of nature (derechos de la naturaleza) → a distinctive, powerful ground.** Ecuador's Constitution grants nature enforceable rights; courts have halted projects (Los Cedros) on this basis. Feed it with: the ecosystem harm and the rights-of-nature breach.
+## One Fact, Many Arguments
 
-**A defective ambient consultation → challenge.** Where the consulta ambiental was skipped or deficient. Feed it with: the consultation record and its gaps.
+Take a single documented fact — say, that a mining licence was granted over a protected cloud forest that shelters an endangered species, on Indigenous territory, without the environmental consultation the Constitution requires. That one fact becomes:
 
-**A licencia issued without proper EIA → nullity.** Feed it with: the study's gaps and your expert critique.
+- **A rights-of-nature argument:** the project threatens the existence and the ecological cycles of the forest and its species — a violation of Articles 71–73, and grounds for a protective action and precautionary measures.
+- **A consultation argument:** the community's environmental and prior consultation rights were denied — the process was unlawful.
+- **A rights-and-dignity argument:** a people and a sacred forest were bypassed and put at risk, in violation of the Constitution's promise of buen vivir.
+- **An international argument:** a mining company destroying a globally significant cloud forest, on Indigenous land, without consultation — a story that reaches global media, conservation groups, and the company's financiers and buyers.
+- **A financier-and-buyer argument:** a company that violates the host country's constitution and mines a protected forest is a legal, reputational, and supply-chain risk to those who fund and buy from it.
 
-**Prior consultation with communities/comunas skipped → strong ground.** Feed it with: the affected community's position and the absence of consultation.
+Same fact, five arguments, five audiences. Go through your strongest facts and, for each, ask what it proves to each audience. That table is your campaign's argument bank — and in Ecuador the rights-of-nature argument, tied to a treasured forest and its species, is often the one that moves both the courts and the world. Keep the arguments anchored to the same documented facts, so a claim made to a reporter can be backed in a sworn statement and a claim made to the court can be spoken plainly to the community; consistency across audiences is itself persuasive. When the legal filing, the press statement, the referral, and the community's own account all rest on the identical, verifiable record, the proponent's contrary story starts to look like the invention it is — and a judge, a journalist, and a financier, comparing your account with the company's, will notice which one the documents and the biology support.
 
-**Licence conditions breached → enforcement.** Feed it with: the conditions and dated evidence of breach.
+## Match the Argument to the Audience
 
-The pattern: match one clean, documented defect to one clear ground, and lead with the procedural ones — they can undo an approval without your having to win the argument about whether the project is "good." Ecuador's rights of nature are a distinctive lever; an environmental lawyer can tell you fast how to plead them.
+**The courts and the Defensoría** want the breach framed precisely against the specific right — Articles 71–73 on nature, Article 398 on consultation, the licence's conditions — with the documents and the biodiversity evidence that prove it, and the timeline that dates it.
+
+**Local officials (the GAD)** respond to their own community's clear voice and to legal and political risk — the resolution, the land-use argument, the liability of backing an unlawful project.
+
+**Journalists** need a specific, verified, human — and, in Ecuador, often a natural — story with a hook: a named forest, a threatened species, a documented violation, an imminent decision.
+
+**International allies, financiers, and buyers** respond to reputational and legal exposure — an illegal operation in a globally significant ecosystem, tied to a named company they are connected to.
+
+**The community itself** needs to see that the fight is winnable and shared — the small wins, the allies gained, the pressure mounting — so it lasts.
 
 # STEP 5: MEDIA STRATEGY — HOW PRESS COVERAGE SHIFTS OUTCOMES
 
-**Time to complete:** the full 12-month campaign
-**Cost:** ~$35,000 (USD) for trained spokespeople + ongoing support
-**Outcome:** regular coverage reaching a large audience, political pressure on decision-makers
+Media is not vanity; it is a lever. Coverage raises the political cost of approval, reaches officials and financiers your letters cannot, protects defenders by making them visible, and can turn a local fight into a national or international cause. In Ecuador, with its combative press and its globally treasured ecosystems, this lever is unusually strong.
 
-**Success Rate (Media Only):** 10-15%
-**Success Rate (Media + Opposition + Documentation + Legal):** 60-75%
+## Build the Story
 
-Ecuador has a national press, a growing independent and investigative sector, strong Indigenous and community media, and very heavy social-media use, that cover exactly these fights — and a record of that coverage shifting outcomes. The Los Cedros and Yasuní fights became national and international stories, and that visibility raised the political cost of the projects. (A safety note: journalists and communicators covering extraction conflicts face risks in Ecuador — see Section 9.)
+Reporters need specifics: a named place and people (and often a species), a dated and documented violation, a clear stake, and a live decision or deadline. "A mine threatens our forest" is not a story; "a mining company holds a licence to open a pit in a protected cloud forest that shelters an endangered monkey and feeds a community's water, on Indigenous land, without consultation, and a court will rule next month" is. Lead with your strongest verified fact, attach the map and the imagery, and offer a human voice — an elder, a mother, a community authority — and an expert biologist.
 
-## How Journalists Actually Work
-What reporters care about, in order: (1) **news** (something new happened), (2) **consequence** (someone is affected), (3) **timeliness** (it's happening now), (4) **conflict** (a real dispute), (5) **new information**. What they don't care about: your opinion, how angry you are, vague statements, or meetings with no hook.
+## Reach the Right Outlets
 
-## The Newsworthiness Formula
-**NEWS = DATA + CONSEQUENCE + TIMELINESS + NEW INFORMATION**
-- **Bad:** "Residents oppose the project." (no data, no specific consequence, nothing new) → ignored.
-- **Good:** "Biologists documented an endangered spider monkey and rare frogs in the forest the mine would clear; the community has filed a protection action on rights-of-nature grounds; the court decides soon." → covered.
+Work outward in rings. **Local and regional press** first, where the story is felt and officials read it. Then **national outlets** — the newspapers, broadcasters, and the strong Ecuadorian online and investigative press — which carry political weight. Then, for a project touching a globally significant place or a listed or foreign company, **international media and specialist environmental outlets**, which reach financiers and buyers. Feed each ring what it needs, and let coverage in one pull in the next. Pay particular attention to the ring that reaches the **money**: a listed proponent depends on shareholders, lenders, and buyers, and coverage in international and financial outlets — and briefings to responsible-investment bodies — can reach a company where domestic politics cannot, turning its own backers into a source of pressure on it. Coverage does a second job that matters as much in Ecuador: it protects people. A community leader whose name and face are known to the national press, whose fight is followed abroad, and whose threats have been reported is harder to silence quietly than one who works in obscurity. Visibility, deployed carefully, is not only a lever against the project; it is a shield for the people carrying the fight.
 
-The difference is roughly a 4-5x change in the likelihood of coverage.
+## Sustain It, Make It Safe and True
 
-## Know the Outlets That Cover This Beat
-- **Local and community media** and **Indigenous/community radio** — the audience that reaches your GAD and national officials.
-- **National outlets** — *El Universo*, *El Comercio*, and *Primicias* — for projects with wider significance.
-- **Investigative and independent outlets** — *Plan V*, *GK*, *La Barra Espaciadora*, *Wambra*, and **Mongabay Latam** — for deeper reporting on permits, extraction, and Indigenous rights.
-- **Social media** — powerful in Ecuador — plus international outlets for landmark cases (as at Los Cedros and Yasuní).
+A single article changes little; a drumbeat changes decisions. Plan a sequence — the filing, the hearing, the new document, the community action, the referendum campaign — so there is always a next hook, and build your own record (a simple page, a social feed, a growing album of dated photographs and video) so the story exists in a form journalists can pick up and that survives if posts are removed. Keep messaging disciplined, accurate, and consistent; one exaggeration handed to the other side can cost you credibility you cannot rebuild. And in a country where defenders can be at risk, weigh how and whom you expose: centre the collective and the documented facts rather than isolated individuals, coordinate with your legal and community leads, and never publish what you cannot stand behind. Verified, specific, human, and relentless — that is the coverage that shifts outcomes.
 
-## Building Reporter Relationships (The Key)
-Reporters don't ring campaigners for comment; campaigners ring reporters with tips. Identify 5-10 local, regional, and specialist reporters (environment, mining/oil, Indigenous-rights beats). **Contact** them first: "I saw your piece on [similar story]. We've got a similar situation in [place] and I think your readers should know." Then keep the relationship warm over months — a relevant article, an information-law document, a milestone — so that when the big story lands, they already know you.
+# EMAILS & LETTERS
 
-## Sample Media Timeline
-- Month 1: build relationships (contact five reporters)
-- Month 2: first story (the recorded community position / the species finding)
-- Month 3: press event releasing the survey/information findings; expert available
-- Month 4: coalition announcement
-- Month 5: march coverage
-- Month 6: court-date coverage
+Written communications are how you enter objections, create a record, and reach the bodies that can act. Each does double duty: it asks for something and it documents that you asked. Keep copies of everything, and send important items so that receipt is provable. Below are adaptable templates for the situations you will meet most often. Keep them factual, specific, and grounded in the law and the evidence.
 
-## Real Media Dynamics (Ecuadorian grounding)
-- **Coverage plus mobilisation shifts outcomes:** the Yasuní fight combined a decade of Indigenous and youth organising and documentation with sustained national and international coverage that helped carry a national referendum; the Los Cedros case drew global attention to the rights of nature.
-- **Information documents make stories:** a disclosure that contradicts the developer's claims — an EIA that ignored endangered species, a "consultation" no one attended — is a gift to a reporter and a court.
-- **Independent evidence beats the developer's study:** independent biological or health analysis that contradicts an optimistic **EIA** lets the press write "experts dispute the developer's figures," and decision-makers take notice.
+## 8A. Objection During the Environmental-Licensing Process
 
-## Media Measurement
-Track cumulative stories and reach month over month. **Success indicators:** regular (at least monthly) coverage that carries your message and specific data, and visible decision-maker response. **Failure indicators:** no coverage for 2+ months, superficial coverage that drops your argument, or no response from decision-makers.
+**To:** the Ministry of Environment, Water and Ecological Transition (MAATE)
+**Subject:** Objection — [project], environmental licence [file no.]
 
----
+As a person affected by [project] at [location], I object during the environmental-licensing process. My grounds, with evidence: (1) the environmental-impact study [omits / understates] [effect — e.g. the threat to an endangered species and to the forest's ecological cycles]; (2) the environmental consultation required by Article 398 was not genuinely carried out; (3) [the project overlaps a protected forest / an intangible zone / Indigenous territory]. I request that the licence be DENIED, or that [strict conditions and genuine consultation] be required, and that this objection be entered on the record. [Attachments.]
 
-## Amplifying at Scale — Media Help for Hire
+## 8B. Request for Information (Right of Petition / LOTAIP)
 
-Beyond pitching reporters yourselves, you can pay to spread the story at scale — different from a single advert or one call to a local outlet, and available at any reach from local to global. **Public-relations and communications firms** run earned-media campaigns — placing op-eds, orchestrating coverage, staging the media push; for the cause side, public-interest firms such as Fenton, BerlinRosen and M+R work for advocacy groups and unions, not only corporations. **Press-release / newswire distribution services** send a release across a wide network of journalists and outlets — PR Newswire, Business Wire and GlobeNewswire at the global, higher-budget end; EIN Presswire, PRWeb and eReleases far cheaper and nonprofit-friendly, some with cause-specific wires. And **digital and social amplification** shops run targeted paid campaigns and creator partnerships. Two rules: amplify a *true* story from a *real* community — never manufacture fake outrage; and where public visibility is dangerous, favour trusted journalists and international allies over paid amplification.
+**To:** [MAATE / the mining or oil regulator / the GAD / the water authority]
+**Subject:** Request for public information — [project]
 
-# SECTION 8: EMAILS & LETTERS YOU CAN COPY
+Under the right of petition and the Organic Law on Transparency and Access to Public Information (LOTAIP), I request copies of: the environmental licence or registro and its conditions and obligations; the environmental-impact study and the record of public participation; [the mining concession / oil contract]; [the environmental and prior consultation records]; [the water authorisation and the GAD land-use plan provisions]. As a member of an affected community, I ask that these be provided within the legal term.
 
-These are ready-to-use messages. Adapt the bracketed parts and send them. Keep them short, specific, and grounded in the law and the evidence — that is what gets read and acted on. The **information request (8E)** and the press release (8G) are among the highest-leverage messages here.
+## 8C. Statement Asserting the Rights of Nature and to Consultation
 
-## 8A. Email to a reporter (story pitch)
+**To:** MAATE [and the company / the relevant authority]
+**Subject:** [Project] — rights of nature and consultation, [forest / territory]
 
-```
-Subject: Story tip: [specific finding] — [MAATE / the court] decides [date]
+[Project] threatens the existence and ecological cycles of [the forest / river / species] and proceeds on the territory of [Indigenous community], through its legitimate authorities. Under Articles 71–74 of the Constitution, nature holds the right to exist and to maintain its cycles; under Articles 398 and 57(7) and the Inter-American Court's Sarayaku judgment, our environmental and prior consultation is required. These rights have been violated. We require that all activity cease until they are respected, and reserve the right to bring an acción de protección with precautionary measures. [Signed by the legitimate authorities / affected residents.]
 
-Estimado/a [Reporter],
+## 8D. Acción de Protección with Precautionary Measures (via counsel)
 
-I follow your coverage of [beat / recent story]. We have something in [place]
-your readers should know about, and there's a clear news hook.
+**To:** the competent judge, via counsel
+**Subject:** Acción de protección and precautionary measures — [project]
 
-In one line: [information-law documents / the community's recorded position / an
-independent survey] show [quantified finding — e.g. "the EIA never recorded the
-endangered spider monkey in the forest the mine would clear"], and [MAATE / the
-court] decides on [date].
+As [affected residents / an Indigenous community / any person acting for the rights of nature], we bring an acción de protección (Art. 88) with precautionary measures (Art. 87) against [the authority and the company], on the grounds that [the project violates the rights of nature under Arts. 71–73 by threatening a protected forest and its species / the environmental and prior consultation rights were denied / the precautionary principle was ignored]. We seek [the immediate suspension of the activity, the review and revocation of the licence, and measures to prevent and repair the harm]. [Grounds, timeline, biodiversity evidence, and maps attached.]
 
-Why it's newsworthy: it's new (just obtained), specific (affects [# people /
-hectares / an endangered species]), and time-sensitive (decision [date]).
+## 8E. Referral to the Defensoría / Contraloría / Fiscalía
 
-I can share the full report and the documents and connect you with [one named
-expert] for an interview. Would a quick call this week work?
+**To:** the Defensoría del Pueblo [or the Contraloría / the Fiscalía]
+**Subject:** Referral — [rights violation / harm / irregularity], [project], [location]
 
-Saludos,
-[Name] — [Organisation] — [phone] — [email]
-```
+We bring to your attention [the failures and the harm] connected with [project]: [sourced facts — a licence granted over unaddressed objections, a consultation skipped, a protected-forest overlap, officials who acted or failed to act, threats against community members]. We request that you [investigate and defend the affected rights / protect the threatened community / audit the public funds involved / open a criminal inquiry into the environmental damage], and we attach the documentation.
 
-## 8B. Letter to MAATE, the GAD, or an Assembly member
+## 8F. Letter to the GAD (Municipality / Province)
 
-```
-Subject: [Deny / revoke] the permit for [project] — file [ref]
+**To:** [the Mayor / the Prefect / the GAD council]
+**Subject:** [Land use / a resolution / a hearing] — [project]
 
-To [the Minister of Environment (MAATE) / the Mayor or Prefect (GAD) / the Assembly
-member],
+We are residents of [place] writing about [project]. Our concern, briefly: [one or two specific grounds — a threat to our water and forest, an overlap with closed ground, a consultation skipped]. Within your competence over land use, water, and territorial ordering, we ask you to [regulate the land use accordingly / pass a resolution of opposition / support a consulta popular / address the national authorities]. [If true:] [#] residents, [#] communities and organisations share this concern, and the matter carries constitutional risk. We welcome a meeting and can share our full evidence.
 
-I am a resident of [place] writing about the [project], on which a decision (the
-environmental permit) is expected around [date].
+## 8G. Coalition Outreach (to a legal-aid group or national/international ally)
 
-The concern, briefly: [one or two specific grounds — e.g. "the project would cause
-severe, irreversible harm to a protected cloud forest and its endangered species,
-violating the rights of nature, and the community was never properly consulted"].
+**To:** [a public-interest law group / a national environmental or Indigenous network / an international conservation organisation]
+**Subject:** [Project] — would you support our community's case?
 
-I am asking you to [specific, achievable action — e.g. "deny the permit," or "require
-strict conditions, real restoration, and a redesign"] — and, [to the GAD:] to
-consider defending the rights of nature in court, as Cotacachi did for Los Cedros.
+We are a community group [and Indigenous community] in [place] facing [project], which [one-line stake — e.g. "would mine a protected cloud forest that shelters endangered species and gives us our water, on our territory, without consultation"]. We are getting in touch because [your organisation has carried rights-of-nature or consultation cases here / your reach can carry this story to those who fund and buy from the company]. We are not asking you to adopt our whole campaign — only to consider [taking or advising on a case / documenting the biodiversity / amplifying our fight]. We have documented evidence and community backing, and can send a brief and arrange a call.
 
-[If true:] The affected community has recorded its opposition; [#] organisations
-share the concern.
+## 8H. Email to a Reporter (National or International)
 
-I would welcome a meeting and can share our full evidence.
-
-Atentamente,
-[Name], [address], [phone], [email]
-```
-
-## 8C. Consultation submission + recorded community position (rights-of-nature frame)
+**To:** [journalist]
+**Subject:** Story tip: [specific finding] — [the forest / the community]
 
-```
-PART A — WRITTEN SUBMISSION (environmental consultation)
-To: [MAATE / the EIA consultant], re [project]
+I follow your coverage of [beat]. We have something your readers should know, with a clear news hook: [documents] show [quantified finding — e.g. "a mining company holds a licence to open a pit in a protected cloud forest that shelters an endangered species and feeds our water, on Indigenous land, without the consultation the Constitution requires"], and [a decision / hearing] is due [date]. It is specific, verified, and it concerns a place of national and global significance. I can share the full file and connect you with affected community members and [a biologist]. Could we talk this week?
 
-Submission on the [project]. Consultation held/requested [date].
-1. Who I am: [name], [community], [interest].
-2. Grounds (with evidence):
-   a. [Rights of nature] — the project would cause severe/irreversible harm to
-      [ecosystem/species], violating the rights of nature; the precautionary principle
-      applies. (Attach the species/ecosystem evidence.)
-   b. [Defective EIA] — the study omits [impact], understates [impact], ignores [the
-      forest/water source] documented here.
-   c. [Consultation / Article 407] — [no prior consultation of the [people]] / [the
-      project lies in a protected area or forest].
-3. What I ask: that the permit be DENIED; alternatively, [strict conditions and a
-   redesign].
-[Name] — [contact] — Attachments: [baseline / impact / health report]
+## Using the Templates Well
 
-PART B — RECORDED COMMUNITY POSITION (assembly / comuna / nationality)
-"The [community/comuna/nationality], through its assembly, records that it OPPOSES the
-[project] and does not consent to it, because it violates the rights of nature of
-[the forest/river] and threatens [water/livelihood/territory]. Recorded [date], [who
-was present / how decided]."
-```
-
-## 8D. Coalition outreach email (to an organisation or a sympathetic GAD)
-
-```
-Subject: [Organisation/GAD] + [project] — a specific ask that fits your work
-
-Estimado/a [Name],
-
-I'm [name] with [organisation] in [place]. We're working on [project], which
-[one-line stake — e.g. "would clear a protected cloud forest home to endangered
-species, violating the rights of nature"]. I'm getting in touch because this connects
-directly to [your work / your community's territory].
-
-We're not asking you to adopt our whole campaign — just one concrete thing that
-serves your aims: [tailored ask — e.g. "help us prepare a protection action on
-rights-of-nature grounds," or "have your biologists document the endangered species,"
-or — to a GAD — "consider bringing a rights-of-nature case, as Cotacachi did for Los
-Cedros"].
-
-If helpful, I can send a one-page brief and arrange a short call.
-
-Con gratitud,
-[Name] — [Organisation] — [contact]
-```
-
-## 8E. Public-information request (the transparency tool)
-
-```
-To: [MAATE / the authority], Attn: the Public Information Unit
-
-REQUEST UNDER THE TRANSPARENCY AND ACCESS TO INFORMATION LAW (LOTAIP)
-
-Under the LOTAIP and Article 18 of the Constitution, I request the following
-concerning [project] (ref [ref]):
-1. The environmental impact study (EIA) and the environmental permit (with conditions).
-2. The record of the environmental consultation and, for an Indigenous people, the
-   prior-consultation record.
-3. The technical/expert reports and MAATE's reasons for its decision.
-4. For mining/oil: the concession title and any protected-area/forest overlap.
-5. The correspondence between [the authority] and [the developer/state company], [dates].
-
-Please respond within the legal timeframe. If any information is refused, please state
-the legal basis; I may pursue the constitutional information-access action.
-
-[Name] — [address] — [date]
-```
-
-## 8F. Legal challenge — protection action / interim measures (anyone can bring it; get advice)
-
-```
-NOTE: The PROTECTION ACTION (acción de protección) needs NO special standing — ANYONE
-can bring it to defend the rights of nature — and is meant to be fast. Seek INTERIM
-MEASURES (medidas cautelares) to halt works if harm is imminent. Be ready to DEFEND
-and ENFORCE any win. Get current advice — the constitutional framework is contested.
-
-[PROTECTION ACTION — heading/form as advised; keep it accessible]
-[Date]
-
-Petitioner(s): [any person / community / Indigenous people / NGO / GAD], [address].
-Against: [MAATE / the state company / the authority] — for [the permit [ref] / the act].
-
-1. Constitutional rights violated or threatened:
-   - The RIGHTS OF NATURE (Arts. 71-74) of [the forest/river/ecosystem] — severe/
-     irreversible harm; the precautionary principle (in dubio pro natura) applies.
-   - The right to a healthy environment / water / prior consultation.
-   - [Article 407 — extraction in a protected area/forest.]
-2. Relief: protection of the rights; REVOCATION of the permit; and INTERIM MEASURES
-   (medidas cautelares) to halt the works meanwhile.
-
-[Name / counsel] — [contact]
-```
-
-## 8G. Press release (effective)
-
-```
-FOR IMMEDIATE RELEASE
-
-[HEADLINE: make it NEWS, not opinion]
-[Subtitle: consequence + timeliness]
-
-[DATELINE: Place / Date]
-
-[LEAD — answer "why now?"]
-[Local organisation] released [study / information-law documents / the community's
-recorded position] today showing [specific finding] affecting [# of people /
-hectares / an endangered species / a protected forest].
-
-KEY FINDINGS
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-• [Quantified impact with citation]
-
-[DIRECT QUOTE — specific, from a credible voice, not a slogan]
-"[What the finding means]," said [Name, Title].
-
-[CONTEXT — why it matters; reference a documented case where relevant]
-
-[DECISION POINT — create urgency]
-[MAATE / the court] decides on [date].
-
-[CALL TO ACTION] To support or add your submission: [how].
-For more: [contact].
-
-CONTACT: [Name / Organisation / Phone / Email]
-ATTACHMENTS: full report, information-law documents, the community's recorded position, maps, Q&A
-```
-
-## 8H. Legal strategy decision tree
-See Step 4 for the full decision tree — Tracks 1-3, the protection action, the rights of nature and standing, consultation, interim measures, the referendum route, and the budget branches.
-
----
+Send important communications so that receipt is provable, and log every one in your timeline — above all the licence dates, the consultation records, and any court or comment deadlines. Keep them factual, specific, and grounded in the law and the evidence; attach your documentation and your biodiversity evidence; and route them, where you can, through or with the legitimate community authorities, your legal-aid partner, and your allies. The reply — or the silence — becomes part of your record, and in Ecuador that record feeds the levers that matter most: the rights of nature, consultation, the closed ground, the courts, and the spotlight.
 
 # IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
-Not everyone can run a year-long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
+Not everyone can run a long campaign. With an afternoon a week you can still do real damage to a bad project. In rough order of impact for the effort:
 
-1. **Take part in the consulta ambiental and submit written objections before the deadline. Name one or two concrete grounds (water, a protected area, rights of nature). It enters the record.**
-2. **Get the Estudio de Impacto Ambiental and quote its worst admission back to the autoridad ambiental.** The developer's own words carry the most weight.
-3. **Send one accurate email to a local reporter** (Section 8A). A single story raises the political cost and can reach a lawyer or expert.
-4. **File one LOTAIP request** (Section 8E) — even if someone else uses it later.
-5. **Point one environmental organisation at the fight.** Acción Ecológica or an environmental lawyer may take it from there — you hand off, you don't have to lead.
-6. **Consider pleading the rights of nature** — a distinctive constitutional lever that has stopped projects in Ecuador.
-7. **Tell your neighbours the deadline.** Ten individual submissions beat your one.
+**1. Establish what nature and what consultation are at stake — today.** Identify the forest, river, or species the project threatens (the basis of a rights-of-nature claim) and whether an Indigenous territory and its prior consultation are involved. If consultation was skipped or the harm to nature is clear, you may hold the strongest lever there is.
 
-Do only the first three and you've preserved the record, put the project in the press, and left a trail others can pick up.
+**2. Assert the rights of nature and consultation, in writing.** One clear statement (8C) that the project violates Articles 71–73 and the consultation rights puts its legality in doubt and creates a powerful record — and sets up the protective action.
 
-# SECTION 9: WHEN THE SYSTEM IS TILTED TOWARD APPROVAL (HONEST MECHANICS)
+**3. Check whether the ground is closed.** Establish whether the footprint sits in a protected area, a *bosque protector*, an intangible zone, or a watershed. A project on closed ground is defective on the documents, and a single overlay map can prove it.
 
-**What this means.** A system is **tilted toward approval** when the bodies that decide on a project lean, in practice, toward approving it — because Ecuador depends heavily on oil and mining revenue, because **the state itself is often the developer**, or because the developer's own consultants prepare the environmental study. It rarely means anyone broke the law. Here is how the tilt works — and how communities win anyway. **In Ecuador, this section also carries an important safety warning, above all about criminalisation.**
+**4. Request the licence and the file.** One petition (8B) forces out the environmental licence, the study, and the conditions — often revealing the missing consultation, the breached condition, or the protected-forest overlap that becomes your case.
 
-## Important Caveat
-This section describes patterns from documented Ecuadorian dynamics and public policy — extraction-revenue pressure, state-owned developers, developer-funded studies, rarely-refused permits, and uneven enforcement of victories. It is not a statistical claim about "X% of all decisions." Read it as: "where these patterns appear, here is what happens and what it means for opposition."
+**5. File an acción de protección with precautionary measures.** The protective action (8D) is fast and, with precautionary measures, can suspend the activity within days where the rights of nature or consultation are being violated. Reach a legal-aid group first if you can.
 
-## What This Tilt DOES (and DOESN'T DO)
-**DOES:** create financial and political incentive to approve (oil and mining revenue, jobs, "strategic" priorities); put the **state on both sides** — as developer and regulator; bias information (the **EIA** is commissioned by the developer); advantage well-resourced developers; and make **enforcement of victories uneven** (a won case or referendum can be slow-walked, as with Yasuní).
-**DOESN'T:** guarantee approval; make opposition impossible; remove the **rights of nature** or the **protection action**; remove **consultation** rights or the **referendum** route; or prevent revocations, conditions, and delay. **Los Cedros and Yasuní both went against state-backed extraction — and both were won.**
+**6. Tell the world.** A threat to a cloud forest, an Amazon reserve, or an endangered species reaches the national and international press; a single accurate tip (8H) can turn a local fight into a cause and reach the company's financiers and buyers.
 
-**Two honest, current cautions.** First, **enforcement**: winning is not the end — the **Yasuní** referendum was won in 2023 but only partly implemented years later, so plan to **defend and enforce** any victory. Second, **the framework is contested**: there have been political moves to rewrite the Constitution that campaigners fear could weaken the rights of nature — so get **current advice** on the state of the law before you rely on it.
+**7. Refer it to the Defensoría.** A referral (8E) brings scrutiny — and, if defenders are threatened, protection — without the cost of a full case.
 
-**Analogy:** a tilted system is like playing on a pitch sloped against you. It makes winning harder, not impossible — so your strategy has to be sharper and more visible, your legal grounds cleaner (lead with the **rights of nature**), and your information paper trail solid.
+Do only the first three and you will have cast doubt on the project's legality, asserted nature's rights and your own, and shown the ground is closed — the exact combination that has most tested Ecuadorian projects. Then come back and read the rest. And do not underestimate how far these three cheap moves reach: a written assertion of the rights of nature, an overlay map showing the project on closed ground, and a petition that forces out the file have, between them, started more than one case that ended at the Constitutional Court. The distance from an afternoon's work to a landmark ruling is shorter here than almost anywhere.
 
-## Assessment Framework — Determine Your Situation
-**GREEN FLAG (low tilt):** an ordinary permit with genuine scrutiny; no "strategic" label; a clear defect; an endangered species, a fragile ecosystem, a protected area, or an Indigenous territory engaged. → 65-75% with all 5 steps. Proceed with standard opposition — mindful of safety.
+# WHEN THE SYSTEM IS TILTED
 
-**YELLOW FLAG (moderate tilt):** an extraction-revenue push and a developer-funded **EIA**, but independent evidence is possible and a legal ground (rights of nature, consultation, EIA) is arguable. → 40-45% with all 5 steps; often win conditions and delay even if not a refusal. Proceed; prioritise the rights-of-nature and consultation grounds.
+Ecuador's system is tilted in specific ways you must understand, so you neither waste effort nor miss the levers that still work.
 
-**RED FLAG (high tilt):** a **state-run** oil or mining project of "strategic" priority, developer-only studies, heavy backing. → 25-30% to stop; 50-60% to modify/delay. Weigh whether delay/conditions justify the investment **and the risk**; lead with the cleanest ground; build power and a record for the next round. (Los Cedros was red-flag — state miner, national priority — and it fell.)
+## Where the Tilt Shows
 
-## Direct Action and Safety: The Criminalisation Warning
-When permit and legal routes are exhausted, some Ecuadorian communities have used non-violent direct action — marches, blockades, and occupations. This is descriptive of what has occurred, not guidance — and in Ecuador it comes with a serious safety warning, the sharpest edge of which is **criminalisation**.
+The tilt runs toward oil and mining, on which the national budget leans, and which successive governments have promoted — even against referendum results. The **environmental authority** has granted and defended licences over community objections. **Consultation is framed as consultation, not consent**, and prior and environmental consultation have too often been treated as a formality to be checked off. Even **landmark wins are enforced slowly**: after the Yasuní vote the government said it needed far longer than the one year ordered to dismantle the ITT operations, and rights-of-nature rulings can meet foot-dragging in the field. And Ecuador can be **dangerous for defenders**, especially in the Amazon and mining zones. Where this tilt bites, the formal process gives less than it should — but real levers still reach past it.
 
-**Ecuador has a well-documented record of criminalising environmental and Indigenous defenders.** Organisers and community leaders — especially those opposing mining and oil, and Indigenous leaders during national protests — have been **prosecuted on serious charges** such as sabotage, terrorism, obstruction, or organised crime, often on thin evidence, in ways that drain, intimidate, and stigmatise movements. On top of this, defenders face **threats and intimidation**, and Ecuador's **general security situation has deteriorated sharply** in recent years. This danger must shape everything. Anyone considering organising or direct action should treat safety as a priority: **keep everything strictly non-violent and lawful; never act alone; agree a security and legal-support protocol from the start; document everything; line up criminal-defence lawyers in advance** (criminalisation is the likeliest legal threat you face); **connect early to human-rights organisations** — such as **INREDH** and the **Alianza por los Derechos Humanos** — and to the **Ombudsman (Defensoría del Pueblo)**, who can provide legal aid and rapid response if organisers are charged or threatened; and use the protections of the **Escazú Agreement**, which Ecuador has ratified and which obliges the state to protect defenders. **If you are charged, threatened, or detained, treat it as urgent: contact a lawyer and your human-rights networks immediately, and document everything.** Direct action has drawn attention and delay in documented cases, but on its own rarely stops a project permanently; combined with documentation, the rights-of-nature case, the protection action, and media, it is far more consequential — and safer.
+## What Still Works — And Some Is Distinctive
 
-## Honest Assessment
-Where the system is tilted, opposition using permit and legal methods has lower odds of an outright stop — but still reliably wins revocations or conditions, forces delay (often long), imposes political cost, builds durable community power, and creates a record for the courts. And Ecuador offers a genuinely world-leading equaliser: **constitutional rights of nature** that **anyone** can enforce, the fast **protection action**, the **precautionary principle**, the right to **consultation**, and — uniquely — the **referendum** that stopped drilling in Yasuní. Los Cedros and Yasuní prove that even state-backed extraction can be stopped. Neither scenario makes opposition futile — but in Ecuador, do it safely, and plan to enforce your win.
+The decisive point is that even where the system tilts, real and distinctive levers reach past it.
 
----
+**The rights of nature are genuine and court-enforced.** A forest or river's right to exist is a constitutional guarantee the Court has upheld against the government and companies alike, self-executing and nationwide. This is your firmest and most distinctive ground, and no minister can erase it.
+
+**Closed ground stays closed.** Protected areas, *bosques protectores*, and intangible zones bar extraction regardless of the proponent's connections — and an overlap is provable on a map.
+
+**The protective action reaches the Constitutional Court.** The acción de protección puts a community before a judge fast, precautionary measures can freeze the work, and the Constitutional Court can turn a single case into binding, nationwide law — as Los Cedros shows. And a filing does not have to end in a final victory to work: even where enforcement later lags, the protective action, the precautionary measures, and the disclosure they force buy time, expose the record, and shift the political and reputational calculus — which is often what turns a determined proponent, or a wavering financier, away.
+
+**The ballot can override the government.** The popular consultation stopped oil and mining the government wanted; it is demanding, but it is the ultimate lever, and it belongs to the people, not the ministry.
+
+**The press and the world cannot be switched off.** A combative domestic media and intense international interest in the Amazon, the Chocó, and the Galápagos reach past domestic politics to the company's financiers and buyers.
+
+## The Honest Frame
+
+So the honest frame for Ecuador is real but demanding. The rights of nature, the protective action, prior and environmental consultation, protected ground, the popular consultation, a free press, and the international spotlight give a community genuine — in places unique — power, as Los Cedros and Yasuní proved. But the government backs extraction, consultation is not consent, enforcement of even famous wins lags, and defenders face real danger. So diagnose the tilt honestly: lean on nature's rights, the closed ground, and the courts, not on a friendly ministry; document the biodiversity and every violation; protect your people and report threats at once; weigh the long road of a referendum realistically; and think in terms of rights asserted, delay, exposure, and a proponent worn down as much as an outright, permanent stop. In a government-backed fight, that is often what winning looks like — and it is real.
 
 # WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
 
-Most bad decisions are lawful decisions you disagree with. But capture is real, and it looks different in each institution. Read your situation actor by actor — the type of capture changes which lever works, and sometimes tells you a lever is closed. Handle this carefully: the same facts that can sink a project can expose you to a defamation suit if you get them wrong.
+Sometimes a project advances not despite the evidence but because someone is being paid, pressured, or protected. Corruption changes your strategy: you stop trying to persuade a captured decision-maker and start exposing and going around them.
 
-**GAD officials and councillors.** The most common pressure point: a GAD dependent on the project, or an official with a developer tie. Signs: a sudden reclassification or rezoning, a rushed vote, a report that ignores its own evidence. Lever: the conflict-of-interest and public-service rules — misconduct can void acts and sanction officials.
+## How to Tell
 
-**The Ministerio del Ambiente.** Capture here is usually softer — political direction to approve, or reliance on the developer's own consultants. Signs: an assessment that reads as the developer's document. Lever: a rights-of-nature action or a constitutional/administrative challenge.
+Look for the signatures of capture. A **consultation that produces agreement against the community's evident will** — run with outsiders, signed by a few, dissenters excluded, sudden payments — is a classic red flag. A **licence granted or an obligation waived in the teeth of the evidence**, over strong documented objections and without addressing them, suggests more than error. **Officials with undisclosed interests** in the proponent, **permits issued at unusual speed**, **studies that ignore the species and the water everyone can see**, and **enforcement that never comes** despite obvious violations all point the same way. And **threats or intimidation aimed at the leaders asking questions** are themselves a signature of something rotten. One anomaly may be incompetence; a pattern is capture. Corruption tends to leave its fingerprints in the sequence of events rather than in any single document: lay your timeline beside the official one and watch for approvals that cluster around a change of official, an inspection that a complaint should have triggered but never happened, or a study whose damning early draft is quietly softened in its final version. Gather these threads before you act, because a captured actor who senses exposure will move to bury the record.
 
-**The developers.** Watch for land assembled quietly before a project is public, shell companies, and revolving-door hires of former officials or regulators. the Superintendencia de Compañías, the property registry, and asset declarations surface the timeline a journalist needs.
+## Who Can Be Captured — and Who Is Harder
 
-**The courts.** Ecuador's rights of nature and constitutional protections are strong, distinctive levers, and courts have applied them to stop mining and logging. The constraints are enforcement and political pressure; seek precautionary measures (medidas cautelares) where work could start before judgment.
+Be clear-eyed about where capture reaches. A **local office, a hand-picked consultation, or a single official** can be bought or pressured. But the Ecuadorian system has bodies harder to capture and that a corrupt local arrangement cannot easily reach: the **Constitutional Court**, guardian of the rights of nature; the **Defensoría**, which defends rights and defenders; the **Contraloría**, which follows the public money; the **Fiscalía**, which can prosecute environmental crime; the **Inter-American** human-rights system, which found against the State in Sarayaku; and the **free press**. Corruption thrives on darkness and on staying local; your task is to lift the matter out of the captured node and into the light and the higher, cleaner fora.
 
-**National and provincial politicians and priority projects.** Where a project is a stated national priority, expect the whole chain to lean toward yes. That is not corruption, but capture of a kind; the honest path is procedural rigour plus public pressure.
+## What to Do
 
-**How to act on it, safely.** Document from public sources before you speak. Route serious allegations through lawyers and the proper bodies — the Contraloría for public money, the Fiscalía for crimes, and the Defensoría del Pueblo — not social media. A reckless public accusation can expose you to defamation liability and hand the developer a way to change the subject.
+Do not confront and tip off the captured official. Instead, **document the anomaly precisely** — the dates, the signatures, the payments, the missing inspections — and refer it, with evidence, to the bodies above (8E): the Contraloría for the money, the Fiscalía for the crime, the Defensoría for the rights and the threatened, and the press for the daylight. Pair the referral with the rights-of-nature and consultation case, so the corruption and the harm are exposed together. Remember that exposure has its own momentum: a Contraloría finding or a Fiscalía inquiry creates a record other bodies must reckon with, and a consultation shown to be captured collapses the legal ground the approval stood on. You are not asking a captured node to change its mind; you are removing the pieces the project depends on, one clean forum at a time, and letting the daylight do the rest. And in Ecuador the rights of nature give you a forum a corrupt local arrangement cannot reach: a claim brought on the forest's own behalf does not depend on the captured official's goodwill. And protect yourself above all — in Ecuador, exposing corruption can be dangerous, so coordinate with your legal and community leads, involve the Defensoría, keep the work collective and documented, and never carry it alone.
 
-# INTEGRATION: HOW ALL FIVE STEPS WORK TOGETHER
+# INTEGRATION & TIMELINE
 
-## Realistic 12-Month Campaign Timeline
+The five steps win when they run together. Here is how they fit across the life of a fight.
 
-**Months 1-2 — Foundation + Documentation:** identify the target and decision-maker (Step 1); begin baseline surveys, map species/ecosystems, Indigenous territory, and water sources (Step 2); convene the community and form or partner with a vehicle — and **set up a security and legal-support protocol** (Step 3, Section 9); file first **information-law** requests and make first reporter contacts (Steps 4-5). *Outcome:* structure forming, the record and paper trail beginning.
+## Early (Weeks 0–8): Identify, Document, and Assert
 
-**Months 2-3 — Public Launch:** baseline complete; asamblea + turnout for the **consultation** + **recorded community position** in **rights-of-nature** terms (Steps 3-4); media event (Step 5). *Outcome:* opposition visible, position on the record, 3-5 stories.
+Pin down the project, the permit, and the stage (Step 1). Begin the file — request the licence, the study, the consultation records — and start documenting the biodiversity and the threat (Step 2 and What to Gather). Form the core and bring in the legitimate community authorities (Step 3). And move fast on what will not wait: **assert the rights of nature and consultation** in writing, and **file objections while the study is open**. Reach a legal-aid group now, before deadlines close. This early phase is cheap, and it sets up everything else.
 
-**Months 3-4 — Coalition + Impact Analysis:** complete impact analysis testing the **rights of nature**, the **EIA**, and the consultation (Step 2); expand the coalition, bring in a law group and, if possible, a sympathetic **GAD** (Step 3); prepare the **protection action** and interim-measures grounds (Step 4); data-release press event (Step 5). *Outcome:* broad coalition, legal grounds identified, coverage expanding.
+## Middle (Months 2–12): Escalate on Every Front
 
-**Months 4-6 — Expansion + Health Data:** health/livelihood report (Step 2); sustained marches (Step 3, safely); the permit decision (Step 4); expert press events (Step 5). *Outcome:* possible refusal or strict conditions, quantified impacts, regional media.
+Widen the coalition and show strength (Step 3). Turn your evidence into arguments for each audience (Turning Evidence). Escalate legally as the facts warrant — an acción de protección with precautionary measures, a rights-of-nature claim, a demand for lawful consultation (Step 4). Refer the officials and the money to the Contraloría and the Fiscalía, and any threats to the Defensoría (8E). Build the media drumbeat from local to national to international (Step 5). Each front feeds the others: a filing is a headline, a headline is pressure, pressure moves an official, an official's document strengthens the filing. Do the cheap, time-sensitive things first, because a missed comment period or a lost deadline cannot be recovered. A campaign that front-loads the irreversible steps and runs the rest in parallel gets far more from the same effort than one that takes them one at a time; and it keeps the media and the coalition growing throughout, so that when a legal or official decision comes — or a referendum is called — there is a watching public to give it weight.
 
-**Months 6-9 — Escalation + Litigation:** marches escalating, safety maintained (Step 3); file the **protection action** and seek **interim measures** (Step 4); ongoing monthly media (Step 5). *Outcome:* sustained pressure, case live, works possibly halted.
+## Later (Months 6–48+): Sustain, Consider the Vote, and Redefine the Win
 
-**Months 9-12 — Peak Pressure + Positioning:** maintain opposition (Step 3); the ruling / positioning, and — crucially — **press for enforcement** of any win (Step 4); media momentum (Step 5). *Outcome:* rights of nature + opposition + media + law compound; revocation, conditions, or the project shelved.
+Sustain the coalition against burnout; protect your people; keep the record and the coverage alive. Where the political will and the public are with you, weigh the long road of a **popular consultation** — the tool that gave Yasuní its victory. And judge success honestly. Sometimes it is an outright, permanent stop — a licence revoked, a project abandoned, a ban won at the ballot. More often, in a government-backed fight, it is a project **stalled for years, shrunk, re-sited, saddled with conditions, or so delayed and exposed that the proponent walks away** — and nature's rights vindicated and a precedent that protects the next community. That is not a lesser victory. It is what winning usually looks like, and it is worth every effort it takes.
 
-## Key Principles (What Separates Winning Campaigns from Losing Ones)
-1. **Specificity** — "the mine would clear the forest home to the endangered spider monkey, violating its rights of nature," not "we oppose the project."
-2. **Multi-tactic pressure** — consultation + recorded position + rights-of-nature case + opposition + media + protection action, together.
-3. **Long-term organising — safely** — sustain 12+ months; prevent burnout and fear; Yasuní held for over a decade and won.
-4. **Documentation first** — build the evidence (especially endangered species and fragile ecosystems), then use the consultation and litigate on it.
-5. **Coalition building** — 5-10 diverse groups; respect Indigenous authorities; win over a sympathetic GAD (they can sue).
-6. **Lead with the rights of nature** — the world's-first constitutional rights of nature, enforceable by anyone, are your strongest and most distinctive lever.
-7. **Seek interim measures, and plan to enforce** — halt the works meanwhile, and remember a win must be defended and enforced.
-8. **Realistic expectations** — expect conditions/modifications/delay; a refusal or revocation is the bonus; expect state-backed extraction and slow enforcement.
-9. **Persistence and safety** — plan for 12-24 months, keep momentum, and protect organisers from criminalisation.
+## The Shape of a Campaign
 
-## Warning Signs — Act Early
-Watch for these and respond fast: attendance declining around months 4-5 (burnout or fear); coalition members leaving or being co-opted with jobs or "development" offers; no media coverage for 2-3 months; the case stalling or a win left unenforced; fundraising below half your target by month 6; a core organiser leaving without a successor; **charges, threats, or intimidation** against organisers (treat as urgent — see Section 9); or someone new pushing unlawful or reckless tactics. Each has a fix earlier in this guide — catch it early and the campaign holds.
+```
+WEEKS 0-8      Identify | Document biodiversity | Assert rights | Object | Get counsel
+MONTHS 2-12    Coalition | Arguments | Protective action + precautionary measures | Referrals | Media
+MONTHS 6-48+   Sustain | Protect people | Weigh a referendum | Redefine and secure the win
+```
 
----
+# FINAL ASSESSMENT
 
-# FINAL ASSESSMENT: OUTCOMES & WHEN TO REASSESS
+Ecuador gives communities a genuinely powerful — and, in places, unique — set of tools, and the honest measure of this guide is how squarely it faces both their strength and their limits.
 
-## Real Outcomes: What Winning Looks Like
-- **Permit refused / revoked / project shelved** (rarer, but real): usually needs overwhelming opposition + a strong rights-of-nature or consultation case + heavy media + lower tilt. Los Cedros (mining prohibited) and Yasuní (a referendum against drilling) show even state-backed extraction can be stopped — and also show a win can take years and must be enforced.
-- **Permit modified** (most common victory): strict conditions, genuine restoration and compensation, buffers, independent monitoring, redesign — often via MAATE or a court.
-- **Delay / attrition:** stalled for years while the case runs; costs mount and financiers lose confidence; the developer sometimes walks away.
-- **Defeat:** the project proceeds (sometimes despite a court win or a referendum, given weak enforcement). Focus then shifts to enforcing the ruling, monitoring, and the next opening.
+The strengths are real and distinctive. A community can defend **nature's own constitutional rights** — the right of a forest, a river, a species to exist — self-executing and nationwide, the ground on which Los Cedros was won. It can reach a judge fast through the **acción de protección** and freeze a project with **precautionary measures**, with a **Constitutional Court** that turns single cases into binding law. It holds **prior and environmental consultation** rights, strengthened at the Inter-American Court. It stands on **closed ground** — protected areas and intangible zones. It can take a project to **the ballot** and win, as Yasuní and the Chocó Andino did. And it can summon **a combative press and an international spotlight** on the Amazon, the Chocó, and the Galápagos, reaching the financiers and buyers a company depends on.
 
-## Decision Point: Continue, Modify, or Reassess
-**Continue** if the legal grounds are live (especially the rights of nature and consultation), the record is strong, opposition is holding or growing, media is at least monthly, the coalition is stable, and organisers are safe.
-**Modify** if attendance is falling, coverage has dropped for 2+ months, coalition members are leaving, the legal position has weakened, the security or criminalisation risk has risen, or you discover the system is more tilted than assessed.
-**Reassess** if, after ~12 months (and perhaps a protection action) permit and legal options are exhausted, the decision looks settled despite real effort, the community is exhausted, resources are gone — or if the danger to organisers has become unacceptable. Ask: has opposition already won partial victory (conditions, restoration, delay)? Would more effort win more, or just prolong the fight? Should energy shift to **enforcing** a win, to the next project, or to the policy? **And always: is it safe to continue?**
+The limits are just as real. The government backs oil and mining, consultation is not consent, even landmark rulings and referendum results are enforced slowly, and — soberingly — Ecuador can be dangerous for those who defend land and water. No guide should pretend otherwise. The delays over Yasuní and the pressures on Amazon defenders are the condition of this fight, not its exception.
 
----
+So the realistic promise is this: **organise early, assert the rights of nature and of consultation, document the biodiversity and every defect, use the protective action and the closed ground, reach the courts, the ballot, and the world — and run all of it together, protecting your people above all.** Do that, and even against a government-backed project you can force delay, exposure, conditions, rights vindicated, and a proponent worn down — and sometimes an outright stop. Do it as Los Cedros and Yasuní did, over months and years and across communities, with the legitimate authorities at the centre and public-interest lawyers and scientists at your side, and you can win a landmark that protects not only your own forest and water but the next community's too.
 
-## The Bottom Line
+A last word on endurance. These fights are won in years, not weeks, and the proponent is counting on your exhaustion. Its advantage is money and patience; yours is legitimacy, numbers, the rights of nature on your side, and the fact that you are defending your home while it is merely pursuing a return. Play to that. Keep the file, keep the coalition, keep the record and the coverage alive, protect your people, and treat every delay, every disclosure, every referral, and every headline as a brick in a wall that grows too high and too costly for the project to climb.
 
-Opposition work can stop or significantly modify destructive projects in Ecuador — even where oil and mining revenue, and a state that is often the developer, point toward approval. Opposition creates multiple, compounding forms of pressure: on the record, politically, in the press, and in the courts. Where the system is tilted, an outright stop is less likely, but opposition still delivers revocations, conditions, restoration, delay, and durable power.
-
-And Ecuador offers a genuinely world-leading equaliser: it was the **first country on earth to give nature constitutional rights**, and **anyone** can go to court to defend them; the fast **protection action** is the vehicle; the **precautionary principle** shifts the ground toward nature; **consultation** rights protect communities and peoples; and — uniquely — a **popular referendum** can vote extraction down, as it did for **Yasuní**. When a project would cause severe or irreversible harm, a court can revoke the permit and halt it — as at **Los Cedros**, where a state-backed mine was stopped in the name of a forest's rights. Such a win must then be **defended and enforced** — but it can be won.
-
-Know your situation. Assess how tilted the system is, honestly, and get current advice as the law is contested. Watch for genuine corruption and refer it to the oversight bodies. **Above all, keep people safe — criminalisation is a real risk in Ecuador, and no project is worth a life or a wrongful prosecution.** Choose your strategy accordingly. Then organise — with eyes open to both the possibilities and the barriers, and together.
-
----
+The tools are here — some of them found nowhere else on earth. The Constitution and the courts are on your side more than you may think. Above all, remember what the Constitution says plainly and the Court has made real: nature holds rights the State must guarantee, and your participation and consultation are not favours granted but rights owed. A project that trampled them is already on weak ground, whatever its permits say. What decides the outcome is method, endurance, and courage — and those you supply.What decides the outcome is method, endurance, and courage — and those you supply. Begin today, begin cheaply, and build from there. Communities before you have stopped what looked unstoppable. So can yours.

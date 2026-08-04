@@ -1,5 +1,497 @@
 [
  {
+  "name": "Mongabay Latam",
+  "title": "Uno de los peces más consumidos de la Amazonía de Brasil entra en la lista de especies amenazadas y pescadores buscan soluciones",
+  "link": "https://es.mongabay.com/2026/08/peces-mas-consumidos-amazonia-brasil-lista-especies-amenazadas-pescadores-buscan-soluciones/",
+  "date": 1785808590362,
+  "sig": 2,
+  "snippet": "Josué de Castro, pescador amazónico durante 38 años, dijo estar muy sorprendido al enterarse de que el tambaqui –también conocido como cachama o gamitana–, un pez que representa el 20 % de sus ingresos, es ahora una especie amenazada en Brasil y es posible que ya no se permita su",
+  "iso": "GL",
+  "region": ""
+ },
+ {
+  "name": "Mongabay Latam",
+  "title": "Lo más leído | La guerra entre “Calarcá” y “Mordisco en Colombia, una demanda por el muro entre EE.UU. y México, rastreo satelital de ballenas sei en Argentina y más",
+  "link": "https://es.mongabay.com/2026/08/guerra-calarca-mordisco-colombia-demanda-muro-ee-uu-mexico-rastreo-satelital-ballenas-sei-argentina/",
+  "date": 1785808590362,
+  "sig": 2,
+  "snippet": "Esta semana presentamos una investigación que evidencia cómo la disputa entre las disidencias de alias «Iván Mordisco» y de «Calarcá» impulsa la deforestación en los alrededores y dentro del Parque Nacional Natural Serranía de Chiribiquete, en Colombia. Además, documentamos por q",
+  "iso": "GL",
+  "region": ""
+ },
+ {
+  "name": "Mongabay Latam",
+  "title": "Tres tipos de ganadería avanzan sobre el hábitat del jaguar en el bosque seco de Sudamérica | ESTUDIO",
+  "link": "https://es.mongabay.com/2026/08/tres-tipos-ganaderia-avanzan-sobre-habitat-jaguar-bosque-seco-sudamerica-estudio/",
+  "date": 1785808590361,
+  "sig": 2,
+  "snippet": "La expansión de la ganadería es un motor de la deforestación, pero también es un riesgo para la conservación del jaguar (Panthera oca). Un estudio abordó 4.2 millones de kilómetros cuadrados de la Diagonal Seca Sudamericana –que comprende el Chaco, la Chiquitania, el Cerrado y Ca",
+  "iso": "BRA",
+  "region": "Pará"
+ },
+ {
+  "name": "Mongabay Latam",
+  "title": "“Reimaginemos el Golfo de México bajo un modelo de desarrollo que no esté relacionado al petróleo” | ENTREVISTA",
+  "link": "https://es.mongabay.com/2026/08/golfo-de-mexico-modelo-desarrollo-que-no-este-relacionado-petroleo-entrevista/",
+  "date": 1785808590360,
+  "sig": 2,
+  "snippet": "“En los arrecifes de coral del Golfo de México he visto especies que nunca, en diez años, vi en los arrecifes del Caribe”. Eso dice Mariana Reyna Fabián, coordinadora de Ciencia y líder de expediciones en Oceana México. Para ella, los arrecifes no son sólo paisajes coloridos sino",
+  "iso": "BRA",
+  "region": "Pará"
+ },
+ {
+  "name": "Mongabay Latam",
+  "title": "Colombia: la deforestación aumentó un 5.2 % en 2025 y se concentra nuevamente en la Amazonía | INFORME",
+  "link": "https://es.mongabay.com/short-article/2026/08/colombia-deforestacion-aumento-2025-amazonia-informe/",
+  "date": 1785808590359,
+  "sig": 2,
+  "snippet": "La deforestación en Colombia creció un 5.2 % en 2025, con respecto al año anterior, de acuerdo al último informe del Gobierno. El Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam) sostuvo que el pasado año desaparecieron 119 483 hectáreas de bosque natural en e",
+  "iso": "GL",
+  "region": ""
+ },
+ {
+  "name": "United States",
+  "title": "New York Just Pressed Pause On Large Data Center Permitting",
+  "link": "https://www.mondaq.com:443/unitedstates/environmental-law/1825896/new-york-just-pressed-pause-on-large-data-center-permitting",
+  "date": 1785807900000,
+  "sig": 2,
+  "snippet": "mondaq.com",
+  "iso": "USA",
+  "region": "New York",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "Canada",
+  "title": "Manitoba Hydro rejects allegations in Cross Lake outage lawsuit",
+  "link": "https://theturtleislandnews.com/index.php/2026/08/03/manitoba-hydro-rejects-allegations-in-cross-lake-outage-lawsuit/",
+  "date": 1785807900000,
+  "sig": 2,
+  "snippet": "theturtleislandnews.com",
+  "iso": "CAN",
+  "region": "Manitoba",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Argentina",
+  "title": "Una protesta por una medida de Milei para todos los puertos argentinos , incluido Bahía Blanca",
+  "link": "http://www.lanueva.com/nota/2026-8-3-20-13-0-una-protesta-por-una-medida-de-milei-para-todos-los-puertos-argentinos-incluido-bahia-blanca",
+  "date": 1785807900000,
+  "sig": 2,
+  "snippet": "lanueva.com",
+  "iso": "ARG",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "United States",
+  "title": "Wisconsin joins lawsuit over Pres . Trump new tariffs",
+  "link": "https://www.cbs58.com/news/25-states-sue-over-trumps-new-tariffs-calling-them-pretext-to-replace-his-old-ones",
+  "date": 1785807000000,
+  "sig": 2,
+  "snippet": "cbs58.com",
+  "iso": "USA",
+  "region": "Wisconsin",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "United States",
+  "title": "Mexican man gets 3 years for pouring lighter fluid onto CHP vehicle during L . A . protests",
+  "link": "https://bnonews.com/index.php/2026/08/mexican-man-sentenced-to-3-years-for-pouring-lighter-fluid-onto-chp-vehicle-in-l-a/",
+  "date": 1785807000000,
+  "sig": 2,
+  "snippet": "bnonews.com",
+  "iso": "USA",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "Venezuela",
+  "title": "Protestan en Washington contra militarización y violaciones a derechos de los migrantes",
+  "link": "https://www.telesurtv.net/protesta-washington-militarizacion-migrantes/",
+  "date": 1785807000000,
+  "sig": 2,
+  "snippet": "telesurtv.net",
+  "iso": "VEN",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Venezuela",
+  "title": "Oposición y oficialismo se pelean la comisión de Constitución y Justicia",
+  "link": "https://larepublica.pe:443/politica/2026/08/03/oposicion-y-oficialismo-se-pelean-la-comision-de-constitucion-y-justicia-hnews-192309",
+  "date": 1785807000000,
+  "sig": 2,
+  "snippet": "larepublica.pe",
+  "iso": "VEN",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
+  "name": "United Kingdom",
+  "title": "Five charts : How climate change is driving up food prices around the world",
+  "link": "https://www.carbonbrief.org/five-charts-how-climate-change-is-driving-up-food-prices-around-the-world",
+  "date": 1785807000000,
+  "sig": 2,
+  "snippet": "carbonbrief.org",
+  "iso": "GBR",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "Spain",
+  "title": "Polémica en España : una activista de ultraderecha hizo un saludo nazi frente a la Embajada de Marruecos",
+  "link": "https://www.rosario3.com/informaciongeneral/polemica-en-espana-una-activista-de-ultraderecha-hizo-un-saludo-nazi-frente-a-la-embajada-de-marruecos-20260803-0076.html",
+  "date": 1785807000000,
+  "sig": 2,
+  "snippet": "rosario3.com",
+  "iso": "ESP",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Guardian Environment",
+  "title": "Crews building Trump border wall in drought-hit New Mexico ordered to stop drilling wells",
+  "link": "https://www.theguardian.com/us-news/2026/aug/03/trump-border-wall-new-mexico-wells",
+  "date": 1785806742000,
+  "sig": 2,
+  "snippet": "Residents and farmers say contractors have tapped border aquifers that threaten water supply for those nearbyConstruction crews building a border wall in New Mexico were ordered to stop drilling new wells after ranchers said that pumping groundwater to produce concrete could thre",
+  "iso": "USA",
+  "region": "California"
+ },
+ {
+  "name": "Macau",
+  "title": "Macau overhauls telecoms law with unlimited operator licences",
+  "link": "https://macaudailytimes.com.mo/macau-overhauls-telecoms-law-with-unlimited-operator-licences.html",
+  "date": 1785805200000,
+  "sig": 2,
+  "snippet": "macaudailytimes.com.mo",
+  "iso": "MAC",
+  "region": "",
+  "widened": 365,
+  "lang": "English"
+ },
+ {
+  "name": "Canada",
+  "title": "Toronto needs a better plan for Billy Bishop airport",
+  "link": "https://www.niagarafallsreview.ca/opinion/contributors/good-riddance-to-the-ill-considered-billy-bishop-expansion-time-to-finally-face-reality/article_f903588d-f0f5-5cf0-a401-195db423d6ce.html",
+  "date": 1785804300000,
+  "sig": 2,
+  "snippet": "niagarafallsreview.ca",
+  "iso": "CAN",
+  "region": "Ontario",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Argentina",
+  "title": "Toma de protesta de Kurt Alejandro Madrid Romano en GN",
+  "link": "https://pulsoslp.com.mx/slp/toma-de-protesta-de-kurt-alejandro-madrid-romano-en-gn/2072818",
+  "date": 1785804300000,
+  "sig": 2,
+  "snippet": "pulsoslp.com.mx",
+  "iso": "ARG",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Venezuela",
+  "title": "Estados Unidos respaldó los esfuerzos entre el chavismo y la oposición para impulsar una transición en Venezuela",
+  "link": "https://www.infobae.com/estados-unidos/2026/08/04/estados-unidos-respaldo-los-esfuerzos-entre-el-chavismo-y-la-oposicion-para-impulsar-una-transicion-en-venezuela/",
+  "date": 1785803400000,
+  "sig": 2,
+  "snippet": "infobae.com",
+  "iso": "VEN",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Germany",
+  "title": "Wind und Solar vor Fossilen : Was ändert sich für Firmen ?",
+  "link": "https://www.drweb.de/wind-solar-fossile-strommix-deutschland/",
+  "date": 1785803400000,
+  "sig": 2,
+  "snippet": "drweb.de",
+  "iso": "DEU",
+  "region": "",
+  "widened": 30,
+  "lang": "German"
+ },
+ {
+  "name": "Venezuela",
+  "title": "Protestas y presión : el caso de un periodista venezolano detenido por ICE escala en EEUU – EntornoInteligente . com",
+  "link": "https://www.entornointeligente.com/protestas-y-presion-el-caso-de-un-periodista-venezolano-detenido-por-ice-escala-en-eeuu/",
+  "date": 1785802500000,
+  "sig": 2,
+  "snippet": "entornointeligente.com",
+  "iso": "VEN",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Venezuela",
+  "title": "EEUU aplaude los contactos entre la Asamblea y la oposición venezolanas",
+  "link": "https://www.diariosigloxxi.com/texto-ep/mostrar/20260803225053/eeuu-aplaude-contactos-entre-asamblea-oposicion-venezolanas",
+  "date": 1785802500000,
+  "sig": 2,
+  "snippet": "diariosigloxxi.com",
+  "iso": "VEN",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Spain",
+  "title": "España : una activista de ultraderecha realizó un saludo nazi durante una protesta por la crisis migratoria en Ceuta",
+  "link": "https://www.ambito.com/mundo/espana-una-activista-ultraderecha-realizo-un-saludo-nazi-una-protesta-la-crisis-migratoria-ceuta-n6306623",
+  "date": 1785802500000,
+  "sig": 2,
+  "snippet": "ambito.com",
+  "iso": "ESP",
+  "region": "Ceuta",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "United Kingdom",
+  "title": "Bankrupt Britain needs to tap into North Sea oil gold , says Donald Trump",
+  "link": "https://www.newsandstar.co.uk/news/national/26433695.bankrupt-britain-needs-tap-north-sea-oil-gold-says-donald-trump/",
+  "date": 1785801600000,
+  "sig": 2,
+  "snippet": "newsandstar.co.uk",
+  "iso": "GBR",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "Canada",
+  "title": "Diverse crowd of Alberta protesters join forces against data centre",
+  "link": "https://edmontonsun.com/news/local-news/alberta-data-centre-protest",
+  "date": 1785800700000,
+  "sig": 2,
+  "snippet": "edmontonsun.com",
+  "iso": "CAN",
+  "region": "Alberta",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Brazil",
+  "title": "O que é a Quinta Emenda , que permitiu silêncio de Fauci nos EUA",
+  "link": "https://www.gazetadopovo.com.br/ideias/o-que-e-a-quinta-emenda-americana/",
+  "date": 1785800700000,
+  "sig": 2,
+  "snippet": "gazetadopovo.com.br",
+  "iso": "BRA",
+  "region": "",
+  "widened": 30,
+  "lang": "Portuguese"
+ },
+ {
+  "name": "United Kingdom",
+  "title": "España suma otro máximo histórico de turistas en un verano marcado por la protesta contra la masificación",
+  "link": "https://www.elplural.com/sociedad/espana-suma-maximo-historico-turistas-verano-marcado-protesta-contra-masificacion_397188102",
+  "date": 1785800700000,
+  "sig": 2,
+  "snippet": "elplural.com",
+  "iso": "GBR",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Ecuador",
+  "title": "El borrado que hizo un vivo de TikTok mientras River jugaba ante Central",
+  "link": "https://www.ole.com.ar/river-plate/river-plate-kendry-paez_0_yyptOQcSjW.html",
+  "date": 1785798900000,
+  "sig": 2,
+  "snippet": "ole.com.ar",
+  "iso": "ECU",
+  "region": "",
+  "widened": 365,
+  "lang": "Spanish"
+ },
+ {
+  "name": "United Kingdom",
+  "title": "Cum descrie presa străină operațiunea spectaculoasă din România pentru creșterea debitului Dunării",
+  "link": "https://adevarul.ro/stiri-interne/evenimente/cum-descrie-presa-straina-operatiunea-2547522.html",
+  "date": 1785798900000,
+  "sig": 2,
+  "snippet": "adevarul.ro",
+  "iso": "GBR",
+  "region": "",
+  "widened": 90,
+  "lang": "Romanian"
+ },
+ {
+  "name": "Argentina",
+  "title": "Lionel Messi gana batalla legal : justicia de EE . UU . desestima millonaria demanda",
+  "link": "https://www.eluniversal.com.co/deportes/2026/08/03/lionel-messi-gana-batalla-legal-justicia-de-eeuu-desestima-millonaria-demanda/",
+  "date": 1785798000000,
+  "sig": 2,
+  "snippet": "eluniversal.com.co",
+  "iso": "ARG",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Brazil",
+  "title": "MPF processa Banco do Brasil por financiar atividade ilegal em terra indígena de Rondônia",
+  "link": "https://racismoambiental.net.br/2026/08/03/mpf-processa-banco-do-brasil-por-financiar-atividade-ilegal-em-terra-indigena-de-rondonia/",
+  "date": 1785798000000,
+  "sig": 2,
+  "snippet": "racismoambiental.net.br",
+  "iso": "BRA",
+  "region": "Rondônia",
+  "widened": 30,
+  "lang": "Portuguese"
+ },
+ {
+  "name": "Venezuela",
+  "title": "La reacción desde prisión de Nicolás Maduro por el diálogo entre chavismo y oposición",
+  "link": "https://www.eluniverso.com/noticias/internacional/la-reaccion-desde-prision-de-nicolas-maduro-por-el-dialogo-entre-chavismo-y-oposicion-nota/",
+  "date": 1785798000000,
+  "sig": 2,
+  "snippet": "eluniverso.com",
+  "iso": "VEN",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Canada",
+  "title": "Gananoque forest added to protected areas network | The Kingston Whig Standard",
+  "link": "https://www.thewhig.com/news/gananoque-forest-added-to-protected-areas-network",
+  "date": 1785796200000,
+  "sig": 2,
+  "snippet": "thewhig.com",
+  "iso": "CAN",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Chile",
+  "title": "Oposición acusa portazo del gobierno a petición de incluir focalización en platas municipales del megaproyecto",
+  "link": "https://www.latercera.com/politica/noticia/oposicion-acusa-portazo-del-gobierno-a-peticion-de-incluir-focalizacion-en-platas-municipales-del-megaproyecto/",
+  "date": 1785794400000,
+  "sig": 2,
+  "snippet": "latercera.com",
+  "iso": "CHL",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Saudi Arabia",
+  "title": "Saudi oil reroutes hit capacity and security limits",
+  "link": "https://www.oilandgas360.com/saudi-oil-reroutes-hit-capacity-and-security-limits/",
+  "date": 1785793500000,
+  "sig": 2,
+  "snippet": "oilandgas360.com",
+  "iso": "SAU",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "Canada",
+  "title": "Diputados debate las tierras raras en Argentina : minería , tecnología y proyectos en el Congreso",
+  "link": "https://www.parlamentario.com/2026/08/03/debaten-en-diputados-sobre-las-tierras-raras/",
+  "date": 1785793500000,
+  "sig": 2,
+  "snippet": "parlamentario.com",
+  "iso": "CAN",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Argentina",
+  "title": "River le ganó a Flamengo se queda con un refuerzo de Europa",
+  "link": "https://elintransigente.com/2026/08/thiago-almada-river-acuerdo-record/",
+  "date": 1785793500000,
+  "sig": 2,
+  "snippet": "elintransigente.com",
+  "iso": "ARG",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Ireland",
+  "title": "New Bill will support management of Dowth National Park",
+  "link": "https://www.meathchronicle.ie/2026/08/03/new-bill-will-support-management-of-dowth-national-park/",
+  "date": 1785793500000,
+  "sig": 2,
+  "snippet": "meathchronicle.ie",
+  "iso": "IRL",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "Canada",
+  "title": "Hundreds protest Meta plan for massive data centre in northern Alberta",
+  "link": "https://www.cjme.com/2026/08/03/hundreds-protest-metas-plan-for-massive-data-centre-in-northern-alberta/",
+  "date": 1785792600000,
+  "sig": 2,
+  "snippet": "cjme.com",
+  "iso": "CAN",
+  "region": "Alberta",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Argentina",
+  "title": "Desestiman una demanda contra Messi en EE . UU .: de qué lo acusaban",
+  "link": "https://www.rosario3.com/deportes/desestiman-una-demanda-contra-messi-en-ee.uu.-de-que-lo-acusaban-20260803-0060.html",
+  "date": 1785792600000,
+  "sig": 2,
+  "snippet": "rosario3.com",
+  "iso": "ARG",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Venezuela",
+  "title": "EEUU evalúa hidroeléctrica venezolana para modernización 2026",
+  "link": "https://latinopinionbaltimore.com/eeuu-evalua-hidroelectrica-venezolana-para-modernizacion/",
+  "date": 1785792600000,
+  "sig": 2,
+  "snippet": "latinopinionbaltimore.com",
+  "iso": "VEN",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Canada",
+  "title": "AI boom lifts mining while competing for power",
+  "link": "https://www.mining.com/ai-boom-lifts-mining-while-competing-for-power/",
+  "date": 1785791700000,
+  "sig": 2,
+  "snippet": "mining.com",
+  "iso": "CAN",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Peru",
   "title": "Arequipa es el principal destino de las inversiones mineras con US$ 444 millones al cierre de mayo del 2026 - Rumbo Minero",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa1VLMmdLN3Z0UHpGYTRVblI0aE1jZ2RkdzQ1Y1g5VDI0QTY3c0p0OFZseFVueWdXdFI1YVFfY29xbWhDVmNfeHBTSWVvLXFubnI2Y001Y3ZsY3N1dlF0WlNySjYtb0FPa0hEZHM4QnlwcVdydlM1S1V6VDFTSUdtZTN4UzhBZkFfdWNJNnlQT3FTNTg0dkxXOVI1TUVjeUhmSEc4XzVNTzNUeUNHaWFV?oc=5",
@@ -10,6 +502,30 @@
   "region": "Arequipa",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "Canada",
+  "title": "Press Release",
+  "link": "https://www.mining.com/press-release?id=6a70f8184495ef09e13dd752",
+  "date": 1785789900000,
+  "sig": 2,
+  "snippet": "mining.com",
+  "iso": "CAN",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Costa Rica",
+  "title": "Más de 4 , 300 animales y plantas fueron decomisados en aeropuertos de Costa Rica : lanzan campaña para frenar el saqueo de la biodiversidad",
+  "link": "https://www.infobae.com/costa-rica/2026/08/03/mas-de-4300-animales-y-plantas-fueron-decomisados-en-aeropuertos-de-costa-rica-lanzan-campana-para-frenar-el-saqueo-de-la-biodiversidad/",
+  "date": 1785789000000,
+  "sig": 2,
+  "snippet": "infobae.com",
+  "iso": "CRI",
+  "region": "",
+  "widened": 180,
+  "lang": "Spanish"
  },
  {
   "name": "Netherlands",
@@ -56,7 +572,19 @@
   "snippet": "laverdadnoticias.com",
   "iso": "ARG",
   "region": "",
-  "widened": 30,
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Ecuador",
+  "title": "TRIBUNALES EN IBIZA : Condenado a cuatro años y cuatro meses por violar a una amiga de 18 años en Ibiza",
+  "link": "https://www.diariodeibiza.es/ibiza/2026/08/03/condenado-cuatro-anos-violar-amiga-133068284.html",
+  "date": 1785785400000,
+  "sig": 2,
+  "snippet": "diariodeibiza.es",
+  "iso": "ECU",
+  "region": "",
+  "widened": 365,
   "lang": "Spanish"
  },
  {
@@ -70,68 +598,6 @@
   "region": "",
   "widened": 90,
   "lang": "Spanish"
- },
- {
-  "name": "Spain",
-  "title": "Una activista neofascista española realizó un saludo nazi frente a la Embajada de Marruecos",
-  "link": "https://www.lanacion.com.ar/el-mundo/una-activista-neofascista-espanola-realizo-un-saludo-nazi-frente-a-la-embajada-de-marruecos-nid03082026/",
-  "date": 1785785400000,
-  "sig": 2,
-  "snippet": "lanacion.com.ar",
-  "iso": "ESP",
-  "region": "",
-  "widened": 90,
-  "lang": "Spanish"
- },
- {
-  "name": "Mongabay Latam",
-  "title": "Uno de los peces más consumidos de la Amazonía de Brasil entra en la lista de especies amenazadas y pescadores buscan soluciones",
-  "link": "https://es.mongabay.com/2026/08/peces-mas-consumidos-amazonia-brasil-lista-especies-amenazadas-pescadores-buscan-soluciones/",
-  "date": 1785785006093,
-  "sig": 2,
-  "snippet": "Josué de Castro, pescador amazónico durante 38 años, dijo estar muy sorprendido al enterarse de que el tambaqui –también conocido como cachama o gamitana–, un pez que representa el 20 % de sus ingresos, es ahora una especie amenazada en Brasil y es posible que ya no se permita su",
-  "iso": "GL",
-  "region": ""
- },
- {
-  "name": "Mongabay Latam",
-  "title": "Lo más leído | La guerra entre “Calarcá” y “Mordisco en Colombia, una demanda por el muro entre EE.UU. y México, rastreo satelital de ballenas sei en Argentina y más",
-  "link": "https://es.mongabay.com/2026/08/guerra-calarca-mordisco-colombia-demanda-muro-ee-uu-mexico-rastreo-satelital-ballenas-sei-argentina/",
-  "date": 1785785006092,
-  "sig": 2,
-  "snippet": "Esta semana presentamos una investigación que evidencia cómo la disputa entre las disidencias de alias «Iván Mordisco» y de «Calarcá» impulsa la deforestación en los alrededores y dentro del Parque Nacional Natural Serranía de Chiribiquete, en Colombia. Además, documentamos por q",
-  "iso": "GL",
-  "region": ""
- },
- {
-  "name": "Mongabay Latam",
-  "title": "“Reimaginemos el Golfo de México bajo un modelo de desarrollo que no esté relacionado al petróleo” | ENTREVISTA",
-  "link": "https://es.mongabay.com/2026/08/golfo-de-mexico-modelo-desarrollo-que-no-este-relacionado-petroleo-entrevista/",
-  "date": 1785785006091,
-  "sig": 2,
-  "snippet": "“En los arrecifes de coral del Golfo de México he visto especies que nunca, en diez años, vi en los arrecifes del Caribe”. Eso dice Mariana Reyna Fabián, coordinadora de Ciencia y líder de expediciones en Oceana México. Para ella, los arrecifes no son sólo paisajes coloridos sino",
-  "iso": "BRA",
-  "region": "Pará"
- },
- {
-  "name": "Mongabay Latam",
-  "title": "Tres tipos de ganadería avanzan sobre el hábitat del jaguar en el bosque seco de Sudamérica | ESTUDIO",
-  "link": "https://es.mongabay.com/2026/08/tres-tipos-ganaderia-avanzan-sobre-habitat-jaguar-bosque-seco-sudamerica-estudio/",
-  "date": 1785785006089,
-  "sig": 2,
-  "snippet": "La expansión de la ganadería es un motor de la deforestación, pero también es un riesgo para la conservación del jaguar (Panthera oca). Un estudio abordó 4.2 millones de kilómetros cuadrados de la Diagonal Seca Sudamericana –que comprende el Chaco, la Chiquitania, el Cerrado y Ca",
-  "iso": "BRA",
-  "region": "Pará"
- },
- {
-  "name": "Mongabay Latam",
-  "title": "Colombia: la deforestación aumentó un 5.2 % en 2025 y se concentra nuevamente en la Amazonía | INFORME",
-  "link": "https://es.mongabay.com/short-article/2026/08/colombia-deforestacion-aumento-2025-amazonia-informe/",
-  "date": 1785785006088,
-  "sig": 2,
-  "snippet": "La deforestación en Colombia creció un 5.2 % en 2025, con respecto al año anterior, de acuerdo al último informe del Gobierno. El Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam) sostuvo que el pasado año desaparecieron 119 483 hectáreas de bosque natural en e",
-  "iso": "GL",
-  "region": ""
  },
  {
   "name": "India",
@@ -164,7 +630,7 @@
   "snippet": "dca.gob.gt",
   "iso": "ARG",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "Spanish"
  },
  {
@@ -224,7 +690,7 @@
   "snippet": "laverdad.com",
   "iso": "ARG",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "Spanish"
  },
  {
@@ -240,25 +706,13 @@
   "lang": "Spanish"
  },
  {
-  "name": "Spain",
-  "title": "Video : ¿ El precio del petróleo en peligro tras la incursión de Arabia Saudita ? por Diario Gestión",
-  "link": "https://www.deperu.com/tv/WqgGoGZCg28.el-precio-del-petroleo-en-peligro-tras-la-incursion-de-arabia-saudita.UC1FZF46zaC26_CynNc786_g.html",
-  "date": 1785782700000,
-  "sig": 2,
-  "snippet": "deperu.com",
-  "iso": "ESP",
-  "region": "",
-  "widened": 90,
-  "lang": "Spanish"
- },
- {
-  "name": "Colombia",
+  "name": "Ecuador",
   "title": "Así fue como el Pacífico vio morir su selva y sus ríos bajo la codicia de la minería y el narcotráfico",
   "link": "https://www.las2orillas.co/asi-fue-como-el-pacifico-vio-morir-su-selva-y-sus-rios-bajo-la-codicia-de-la-mineria-y-el-narcotrafico/",
   "date": 1785781800000,
   "sig": 2,
   "snippet": "las2orillas.co",
-  "iso": "COL",
+  "iso": "ECU",
   "region": "",
   "widened": 365,
   "lang": "Spanish"
@@ -276,18 +730,6 @@
   "lang": "Spanish"
  },
  {
-  "name": "Colombia",
-  "title": "Petrobras y Ecopetrol confirman nuevo descubrimiento de gas en el Caribe colombiano – Radio Santa Fe 1070 a . m . Noticias de Colombia",
-  "link": "https://www.radiosantafe.com/2026/08/03/petrobras-y-ecopetrol-confirman-nuevo-descubrimiento-de-gas-en-el-caribe-colombiano/",
-  "date": 1785780900000,
-  "sig": 2,
-  "snippet": "radiosantafe.com",
-  "iso": "COL",
-  "region": "",
-  "widened": 365,
-  "lang": "Spanish"
- },
- {
   "name": "Argentina",
   "title": "Video : Mónica Delta :  Oposición no debe obstruir por obstruir  por Latina Noticias",
   "link": "https://www.deperu.com/tv/OfoJxeNIYt8.monica-delta-oposicion-no-debe-obstruir-por-obstruir.UCpSJ5fGhmAME9Kx2D3ZvN3Q.html",
@@ -296,7 +738,7 @@
   "snippet": "deperu.com",
   "iso": "ARG",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "Spanish"
  },
  {
@@ -309,6 +751,18 @@
   "iso": "CHL",
   "region": "",
   "widened": 90,
+  "lang": "Spanish"
+ },
+ {
+  "name": "Colombia",
+  "title": "Petrobras y Ecopetrol confirman nuevo descubrimiento de gas en el Caribe colombiano – Radio Santa Fe 1070 a . m . Noticias de Colombia",
+  "link": "https://www.radiosantafe.com/2026/08/03/petrobras-y-ecopetrol-confirman-nuevo-descubrimiento-de-gas-en-el-caribe-colombiano/",
+  "date": 1785780900000,
+  "sig": 2,
+  "snippet": "radiosantafe.com",
+  "iso": "COL",
+  "region": "",
+  "widened": 365,
   "lang": "Spanish"
  },
  {
@@ -379,6 +833,18 @@
   "sig": 2,
   "snippet": "thehindu.com",
   "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Brazil",
+  "title": "Petrobras and Colombia Ecopetrol Hit Gas Off Caribbean Coast",
+  "link": "https://www.riotimesonline.com/petrobras-ecopetrol-natural-gas-sandia-1-colombia-2026/",
+  "date": 1785779100000,
+  "sig": 2,
+  "snippet": "riotimesonline.com",
+  "iso": "BRA",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -538,13 +1004,13 @@
   "lang": "Spanish"
  },
  {
-  "name": "Pakistan",
+  "name": "Turkmenistan",
   "title": "Turkmenistan reviews progress on TAPI gas pipeline project",
   "link": "https://thefrontierpost.com/turkmenistan-reviews-progress-on-tapi-gas-pipeline-project/",
   "date": 1785776400000,
   "sig": 2,
   "snippet": "thefrontierpost.com",
-  "iso": "PAK",
+  "iso": "TKM",
   "region": "",
   "widened": 90,
   "lang": "English"
@@ -656,6 +1122,30 @@
   "lang": "French"
  },
  {
+  "name": "Greenland",
+  "title": "Presa de stat a Rusiei a anunțat descoperirea unui „ super - mineral  mai valoros decât aurul . Ce este , de fapt , Kola Ashcroftine",
+  "link": "https://www.antena3.ro/externe/presa-de-stat-a-rusiei-a-anuntat-descoperirea-unui-super-mineral-mai-valoros-decat-aurul-ce-este-de-fapt-kola-ashcroftine-798022.html",
+  "date": 1785773700000,
+  "sig": 2,
+  "snippet": "antena3.ro",
+  "iso": "GRL",
+  "region": "",
+  "widened": 90,
+  "lang": "Romanian"
+ },
+ {
+  "name": "Panama",
+  "title": "Ngäbes piden explicar auditoría minera",
+  "link": "https://www.critica.com.pa/nacional/ngabes-piden-explicar-auditoria-minera-513929",
+  "date": 1785773700000,
+  "sig": 2,
+  "snippet": "critica.com.pa",
+  "iso": "PAN",
+  "region": "",
+  "widened": 180,
+  "lang": "Spanish"
+ },
+ {
   "name": "Argentina",
   "title": "Energía , minería , tierras y biocombustibles : los proyectos clave que tratará el Congreso",
   "link": "https://www.ambito.com/energia/mineria-tierras-y-biocombustibles-los-proyectos-clave-que-tratara-el-congreso-n6306433",
@@ -678,42 +1168,6 @@
   "region": "México",
   "widened": 90,
   "lang": "Spanish"
- },
- {
-  "name": "Panama",
-  "title": "Ngäbes piden explicar auditoría minera",
-  "link": "https://www.critica.com.pa/nacional/ngabes-piden-explicar-auditoria-minera-513929",
-  "date": 1785773700000,
-  "sig": 2,
-  "snippet": "critica.com.pa",
-  "iso": "PAN",
-  "region": "",
-  "widened": 180,
-  "lang": "Spanish"
- },
- {
-  "name": "Romania",
-  "title": "Cum a luat Bulgaria fața României în criza energetică . „ 40 % din consum o asigură din stocare . La centrala nucleară au 34 de pompe",
-  "link": "https://www.antena3.ro/economic/cum-a-luat-bulgaria-fata-romaniei-in-criza-energetica-40-din-consum-o-asigura-din-stocare-la-centrala-nucleara-au-34-de-pompe-798035.html",
-  "date": 1785773700000,
-  "sig": 2,
-  "snippet": "antena3.ro",
-  "iso": "ROU",
-  "region": "",
-  "widened": 90,
-  "lang": "Romanian"
- },
- {
-  "name": "Romania",
-  "title": "Presa de stat a Rusiei a anunțat descoperirea unui „ super - mineral  mai valoros decât aurul . Ce este , de fapt , Kola Ashcroftine",
-  "link": "https://www.antena3.ro/externe/presa-de-stat-a-rusiei-a-anuntat-descoperirea-unui-super-mineral-mai-valoros-decat-aurul-ce-este-de-fapt-kola-ashcroftine-798022.html",
-  "date": 1785773700000,
-  "sig": 2,
-  "snippet": "antena3.ro",
-  "iso": "ROU",
-  "region": "",
-  "widened": 90,
-  "lang": "Romanian"
  },
  {
   "name": "Kenya",
@@ -788,6 +1242,42 @@
   "lang": "Unknown"
  },
  {
+  "name": "Saudi Arabia",
+  "title": "KSA Business : Saudi non - oil economy powers next phase of real estate growth",
+  "link": "https://www.gdnonline.com:443/Details/1402400",
+  "date": 1785772800000,
+  "sig": 2,
+  "snippet": "gdnonline.com",
+  "iso": "SAU",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "Afghanistan",
+  "title": "Primăria Chișinău : Apa din Mina Chișinău provine din izvoare și nu afectează rezervele Nistrului",
+  "link": "https://news.yam.md/ro/story/49334555",
+  "date": 1785772800000,
+  "sig": 2,
+  "snippet": "news.yam.md",
+  "iso": "AFG",
+  "region": "",
+  "widened": 90,
+  "lang": "Romanian"
+ },
+ {
+  "name": "Chile",
+  "title": "Cómo funciona la mina de cobre más grande del mundo : energía renovable , 30 vuelos diarios y el ejemplo para los proyectos RIGI que se vienen",
+  "link": "https://www.clarin.com/energia-y-mineria/funciona-mina-cobre-grande-mundo-energia-renovable-30-vuelos-diarios-ejemplo-proyectos-rigi-vienen_0_s3NxCbmVu0.html",
+  "date": 1785772800000,
+  "sig": 2,
+  "snippet": "clarin.com",
+  "iso": "CHL",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
   "name": "Colombia",
   "title": "¿ Chacho Coudet sigue como DT de River ? La CD ya tomó una decisión tras la dura derrota ante Rosario Central",
   "link": "http://www.eldia.com/deportes/chacho-coudet-sigue-como-dt-de-river-la-cd-ya-tomo-una-decision-tras-la-dura-derrota-ante-rosario-central-deportes_1785765300",
@@ -797,18 +1287,6 @@
   "iso": "COL",
   "region": "",
   "widened": 365,
-  "lang": "Spanish"
- },
- {
-  "name": "Argentina",
-  "title": "Cómo funciona la mina de cobre más grande del mundo : energía renovable , 30 vuelos diarios y el ejemplo para los proyectos RIGI que se vienen",
-  "link": "https://www.clarin.com/energia-y-mineria/funciona-mina-cobre-grande-mundo-energia-renovable-30-vuelos-diarios-ejemplo-proyectos-rigi-vienen_0_s3NxCbmVu0.html",
-  "date": 1785772800000,
-  "sig": 2,
-  "snippet": "clarin.com",
-  "iso": "ARG",
-  "region": "",
-  "widened": 30,
   "lang": "Spanish"
  },
  {
@@ -858,13 +1336,13 @@
   "region": ""
  },
  {
-  "name": "Colombia",
+  "name": "Ecuador",
   "title": "Petrobras y Ecopetrol anuncian nuevo descubrimiento de gas en el Caribe colombiano con el pozo Sandía - 1",
   "link": "https://www.eltiempo.com/economia/sectores/petrobras-y-ecopetrol-anuncian-nuevo-descubrimiento-de-gas-en-el-caribe-colombiano-con-el-pozo-sandia-3575762",
   "date": 1785771900000,
   "sig": 2,
   "snippet": "eltiempo.com",
-  "iso": "COL",
+  "iso": "ECU",
   "region": "",
   "widened": 365,
   "lang": "Spanish"
@@ -1054,18 +1532,6 @@
   "region": ""
  },
  {
-  "name": "Colombia",
-  "title": "Ecopetrol y Petrobras confirman nuevo descubrimiento de gas en el Caribe colombiano",
-  "link": "https://www.elcolombiano.com/inicio/ecopetrol-petrobras-descubrimiento-gas-caribe-colombia-CN39526433",
-  "date": 1785769200000,
-  "sig": 2,
-  "snippet": "elcolombiano.com",
-  "iso": "COL",
-  "region": "",
-  "widened": 365,
-  "lang": "Spanish"
- },
- {
   "name": "Chile",
   "title": "Chile hydropower adapts to a changing power mix",
   "link": "https://www.power-technology.com/analysis/chiles-hydropower-adapts-to-a-changing-power-mix/",
@@ -1076,6 +1542,18 @@
   "region": "",
   "widened": 90,
   "lang": "English"
+ },
+ {
+  "name": "Colombia",
+  "title": "Ecopetrol y Petrobras confirman nuevo descubrimiento de gas en el Caribe colombiano",
+  "link": "https://www.elcolombiano.com/inicio/ecopetrol-petrobras-descubrimiento-gas-caribe-colombia-CN39526433",
+  "date": 1785769200000,
+  "sig": 2,
+  "snippet": "elcolombiano.com",
+  "iso": "COL",
+  "region": "",
+  "widened": 365,
+  "lang": "Spanish"
  },
  {
   "name": "Norway",
@@ -1167,7 +1645,7 @@
   "link": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
   "date": 1785768022000,
   "sig": 2,
-  "snippet": "Hungary and Romania face energy crisis as record-low river levels force atomic power plants to reduce outputEurope live – latest updatesRomanian naval forces carried out a controlled explosion to help redirect vital cooling water from the drought-hit Danube to the country’s last ",
+  "snippet": "Hungary and Romania face energy crisis as record-low river levels force atomic power plants to reduce outputRomanian naval forces carried out a controlled explosion to help redirect vital cooling water from the drought-hit Danube to the country’s last working nuclear ⁠reactor, wh",
   "iso": "GL",
   "region": ""
  },
@@ -1338,6 +1816,18 @@
   "region": ""
  },
  {
+  "name": "Ireland",
+  "title": "Out of Trump playbook : Fuel protests brought complaints against both demonstrators and government",
+  "link": "https://www.breakingnews.ie/ireland/out-of-trumps-playbook-fuel-protests-brought-complaints-against-both-demonstrators-and-government-1934889.html",
+  "date": 1785761100000,
+  "sig": 2,
+  "snippet": "breakingnews.ie",
+  "iso": "IRL",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
   "name": "United States",
   "title": "Weekly Climate and Energy News Roundup # 700 - Watts Up With That ?",
   "link": "https://wattsupwiththat.com/2026/08/03/weekly-climate-and-energy-news-roundup-700/",
@@ -1372,18 +1862,6 @@
   "region": "",
   "widened": 365,
   "lang": "German"
- },
- {
-  "name": "Ireland",
-  "title": "Out of Trump playbook : Fuel protests brought complaints against both demonstrators and government",
-  "link": "https://www.breakingnews.ie/ireland/out-of-trumps-playbook-fuel-protests-brought-complaints-against-both-demonstrators-and-government-1934889.html",
-  "date": 1785761100000,
-  "sig": 2,
-  "snippet": "breakingnews.ie",
-  "iso": "IRL",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
  },
  {
   "name": "India",
@@ -1612,13 +2090,13 @@
   "lang": "French"
  },
  {
-  "name": "Colombia",
+  "name": "Ecuador",
   "title": "Demanda de energía en Ecuador alcanza récord de crecimiento en siete años pese a la crisis eléctrica",
   "link": "https://www.expreso.ec/economia-y-negocios/demanda-energia-ecuador-alcanza-record-crecimiento-siete-anos-pese-crisis-electrica-291250.html",
   "date": 1785756600000,
   "sig": 2,
   "snippet": "expreso.ec",
-  "iso": "COL",
+  "iso": "ECU",
   "region": "",
   "widened": 365,
   "lang": "Spanish"
@@ -1896,15 +2374,15 @@
   "region": "Kalimantan"
  },
  {
-  "name": "Argentina",
+  "name": "Afghanistan",
   "title": "El dictador que ganó todas las elecciones con el 93 % de los votos : torturas a la oposición y acusaciones de corrupción",
   "link": "https://www.infobae.com/historias/2026/08/03/el-dictador-que-gano-todas-las-elecciones-con-el-93-de-los-votos-torturas-a-la-oposicion-y-acusaciones-de-corrupcion/",
   "date": 1785752100000,
   "sig": 2,
   "snippet": "infobae.com",
-  "iso": "ARG",
+  "iso": "AFG",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "Spanish"
  },
  {
@@ -2194,6 +2672,18 @@
   "lang": "English"
  },
  {
+  "name": "Costa Rica",
+  "title": "Costa Rica Launches Campaign to Prevent Tourists from Extracting Wildlife ⋆ The Costa Rica News",
+  "link": "https://thecostaricanews.com/costa-rica-launches-campaign-to-prevent-tourists-from-extracting-wildlife/",
+  "date": 1785748500000,
+  "sig": 2,
+  "snippet": "thecostaricanews.com",
+  "iso": "CRI",
+  "region": "",
+  "widened": 180,
+  "lang": "English"
+ },
+ {
   "name": "Kosovo",
   "title": "Në sheshin e Mitrovicës vendosen fletushka për protestë kundër shtetësisë për shtetasit e Serbisë",
   "link": "https://telegrafi.com/ne-sheshin-e-mitrovices-vendosen-fletushka-per-proteste-kunder-shtetesise-per-shtetasit-e-serbise/",
@@ -2302,18 +2792,6 @@
   "lang": "Unknown"
  },
  {
-  "name": "Jersey",
-  "title": "Iran : niente attacco , c  è un accordo su Hormuz e nucleare , dice Trump ; Teheran nega intesa",
-  "link": "https://www.thewatcherpost.it/news/iran-attacco-hormuz-trump-nucleare/",
-  "date": 1785747600000,
-  "sig": 2,
-  "snippet": "thewatcherpost.it",
-  "iso": "JEY",
-  "region": "",
-  "widened": 180,
-  "lang": "Italian"
- },
- {
   "name": "Uzbekistan",
   "title": "India , Uzbekistan could explore FTA , says Piyush Goyal ; Uzbekistan invites Indian investment in mining , rare earths",
   "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uzbekistan-could-explore-fta-says-piyush-goyal-uzbekistan-invites-indian-investment-in-mining-rare-earths/articleshow/132825083.cms",
@@ -2324,6 +2802,18 @@
   "region": "",
   "widened": 90,
   "lang": "English"
+ },
+ {
+  "name": "Jersey",
+  "title": "Iran : niente attacco , c  è un accordo su Hormuz e nucleare , dice Trump ; Teheran nega intesa",
+  "link": "https://www.thewatcherpost.it/news/iran-attacco-hormuz-trump-nucleare/",
+  "date": 1785747600000,
+  "sig": 2,
+  "snippet": "thewatcherpost.it",
+  "iso": "JEY",
+  "region": "",
+  "widened": 365,
+  "lang": "Italian"
  },
  {
   "name": "Canada",
@@ -2662,16 +3152,6 @@
   "lang": "English"
  },
  {
-  "name": "Front: Kazakhstan uranium mining",
-  "title": "Kazakhstan's H1 uranium output up 9% year-on-year, Kazatomprom says - miningweekly.com",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTJ6N2puOVhUSG9qNS1rY3FCLWdteVFsRnpMVVZtWFlBUC04U0VnMUZOdURmSUtLc2RHdS1xNHhnQWRvNU5maUNDY0VtWFhxRElGa3gyN2hqZVZNZXpVUm9vQ3N3SXMtM2pWTExTTERPbmhSeGNya2oxbjBVOXFmREhpM1MwLWducjFvYWg1T1owOW9UYnlVdE5PUmIzZGVIT3lWbnhtZEN2a1BGdU9Da2FB?oc=5",
-  "date": 1785742200000,
-  "sig": 2,
-  "snippet": "Kazakhstan's H1 uranium output up 9% year-on-year, Kazatomprom says  miningweekly.com",
-  "iso": "KAZ",
-  "region": ""
- },
- {
   "name": "Panama",
   "title": "Andrés Silva lleva la biodiversidad panameña hasta Japón a través del arte",
   "link": "https://www.prensa.com/vivir/andres-silva-lleva-la-biodiversidad-panamena-hasta-japon-a-traves-del-arte/",
@@ -2682,6 +3162,16 @@
   "region": "",
   "widened": 180,
   "lang": "Spanish"
+ },
+ {
+  "name": "Front: Kazakhstan uranium mining",
+  "title": "Kazakhstan's H1 uranium output up 9% year-on-year, Kazatomprom says - miningweekly.com",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTJ6N2puOVhUSG9qNS1rY3FCLWdteVFsRnpMVVZtWFlBUC04U0VnMUZOdURmSUtLc2RHdS1xNHhnQWRvNU5maUNDY0VtWFhxRElGa3gyN2hqZVZNZXpVUm9vQ3N3SXMtM2pWTExTTERPbmhSeGNya2oxbjBVOXFmREhpM1MwLWducjFvYWg1T1owOW9UYnlVdE5PUmIzZGVIT3lWbnhtZEN2a1BGdU9Da2FB?oc=5",
+  "date": 1785742200000,
+  "sig": 2,
+  "snippet": "Kazakhstan's H1 uranium output up 9% year-on-year, Kazatomprom says  miningweekly.com",
+  "iso": "KAZ",
+  "region": ""
  },
  {
   "name": "Albania",
@@ -2814,18 +3304,6 @@
   "region": "",
   "widened": 180,
   "lang": "Spanish"
- },
- {
-  "name": "Canada",
-  "title": "Press Release",
-  "link": "https://www.mining.com/press-release?id=6a6ffad84495ef09e13dd73e",
-  "date": 1785738600000,
-  "sig": 2,
-  "snippet": "mining.com",
-  "iso": "CAN",
-  "region": "",
-  "widened": 180,
-  "lang": "English"
  },
  {
   "name": "Bangladesh",
@@ -3016,6 +3494,18 @@
   "region": ""
  },
  {
+  "name": "Ecuador",
+  "title": "La petrolera estadounidense Hunt Oil confirmó su entrada a Venezuela",
+  "link": "https://bitlysdowssl-aws.com/2026/08/la-petrolera-estadounidense-hunt-oil-confirmo-su-entrada-a-venezuela/",
+  "date": 1785733200000,
+  "sig": 2,
+  "snippet": "bitlysdowssl-aws.com",
+  "iso": "ECU",
+  "region": "",
+  "widened": 365,
+  "lang": "Spanish"
+ },
+ {
   "name": "Qatar",
   "title": "Pakistan Al Jazeera Ban , पाकिस्तान ने अल जजीरा पर लगाया बैन ! PoK ह‍िंसा की कवरेज से बौखलाई शहबाज सरकार , कतर से बिगड़ेंगे रिश्ते ? - al jazeera restricted in pakistan after pok protest coverage rela",
   "link": "https://navbharattimes.indiatimes.com/world/pakistan/al-jazeera-restricted-in-pakistan-after-pok-protest-coverage-relations-with-qatar-could-deteriorate/articleshow/132818513.cms",
@@ -3061,18 +3551,6 @@
   "iso": "ARG",
   "region": "",
   "widened": 30,
-  "lang": "Spanish"
- },
- {
-  "name": "Venezuela",
-  "title": "La petrolera estadounidense Hunt Oil confirmó su entrada a Venezuela",
-  "link": "https://bitlysdowssl-aws.com/2026/08/la-petrolera-estadounidense-hunt-oil-confirmo-su-entrada-a-venezuela/",
-  "date": 1785733200000,
-  "sig": 2,
-  "snippet": "bitlysdowssl-aws.com",
-  "iso": "VEN",
-  "region": "",
-  "widened": 180,
   "lang": "Spanish"
  },
  {
@@ -3157,18 +3635,6 @@
   "iso": "IDN",
   "region": "",
   "widened": 30,
-  "lang": "English"
- },
- {
-  "name": "Saudi Arabia",
-  "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
-  "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
-  "date": 1785726900000,
-  "sig": 2,
-  "snippet": "oilprice.com",
-  "iso": "SAU",
-  "region": "",
-  "widened": 90,
   "lang": "English"
  },
  {
@@ -3280,6 +3746,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "Ecuador",
+  "title": "Pescadores de Ecuador preparan demanda por ataque de EE . UU . en Pacífico oriental",
+  "link": "https://www.telesurtv.net/ecuador-pescadores-demanda-ataque-eeuu/",
+  "date": 1785720600000,
+  "sig": 2,
+  "snippet": "telesurtv.net",
+  "iso": "ECU",
+  "region": "",
+  "widened": 365,
+  "lang": "Spanish"
+ },
+ {
   "name": "Ghana",
   "title": "Parliament Is Not A Conveyor Belt For Mining Leases – Minority",
   "link": "https://thechronicle.com.gh/parliament-is-not-a-conveyor-belt-for-mining-leases-minority/",
@@ -3314,18 +3792,6 @@
   "region": "Atacama",
   "widened": 90,
   "lang": "English"
- },
- {
-  "name": "Ecuador",
-  "title": "Pescadores de Ecuador preparan demanda por ataque de EE . UU . en Pacífico oriental",
-  "link": "https://www.telesurtv.net/ecuador-pescadores-demanda-ataque-eeuu/",
-  "date": 1785720600000,
-  "sig": 2,
-  "snippet": "telesurtv.net",
-  "iso": "ECU",
-  "region": "",
-  "widened": 180,
-  "lang": "Spanish"
  },
  {
   "name": "Venezuela",
@@ -3384,7 +3850,7 @@
   "snippet": "gazetadopovo.com.br",
   "iso": "AFG",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "Portuguese"
  },
  {
@@ -3424,13 +3890,13 @@
   "lang": "Unknown"
  },
  {
-  "name": "Guatemala",
+  "name": "Panama",
   "title": "La técnica nuclear que se usará para combatir el gusano barrenador en Guatemala y otros países",
   "link": "https://lahora.gt/nacionales/hloarca/2026/08/02/la-tecnica-nuclear-que-se-usara-para-combatir-el-gusano-barrenador-en-guatemala-y-otros-paises/",
   "date": 1785717000000,
   "sig": 2,
   "snippet": "lahora.gt",
-  "iso": "GTM",
+  "iso": "PAN",
   "region": "",
   "widened": 180,
   "lang": "Spanish"
@@ -3674,15 +4140,15 @@
   "lang": "English"
  },
  {
-  "name": "Yemen",
+  "name": "Kiribati",
   "title": "Hormus - Blockade : Kapitän sieht Akt des Krieges – „ auch gegen uns",
   "link": "https://www.harzkurier.de/politik/article412692359/kapitaen-zur-hormus-blockade-ein-akt-des-krieges-auch-gegen-uns.html",
   "date": 1785710700000,
   "sig": 2,
   "snippet": "harzkurier.de",
-  "iso": "YEM",
+  "iso": "KIR",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "German"
  },
  {
@@ -4128,18 +4594,6 @@
   "region": "",
   "widened": 30,
   "lang": "English"
- },
- {
-  "name": "Albania",
-  "title": "Protesta e 64 - të radhazi kërkohet dorëheqja e kryeministrit , por edhe krijimin e një qeverie tranzitore",
-  "link": "https://kohajone.com/lajme/protesta-e-64-te-radhazi-kerkohet-doreheqja-e-kryeministrit-por-edhe-krijimin-e-nje-qeverie-tranzitore/",
-  "date": 1785697200000,
-  "sig": 2,
-  "snippet": "kohajone.com",
-  "iso": "ALB",
-  "region": "",
-  "widened": 180,
-  "lang": "Albanian"
  },
  {
   "name": "Lithuania",
@@ -5340,6 +5794,18 @@
   "lang": "English"
  },
  {
+  "name": "Greenland",
+  "title": "Une Canadienne figure parmi les 21 activistes anti - baleiniers détenus par lIslande - La Nouvelle Union et LAvenir de l  Érable",
+  "link": "https://www.lanouvelle.net/nouvelles-nationales/une-canadienne-figure-parmi-les-21-activistes-anti-baleiniers-detenus-par-lislande/",
+  "date": 1785664800000,
+  "sig": 2,
+  "snippet": "lanouvelle.net",
+  "iso": "GRL",
+  "region": "",
+  "widened": 90,
+  "lang": "French"
+ },
+ {
   "name": "Albania",
   "title": "Revolucioni i Flamingove  në Shqipëri /  ABC Australia  jehonë protestave kundër Ramës : Revolta më e madhe që prej rënies së komunizmit – Balkanweb . com – News24",
   "link": "https://www.balkanweb.com/revolucioni-i-flamingove-ne-shqiperi-abc-australia-jehone-protestave-kunder-rames-revolta-me-e-madhe-qe-prej-renies-se-komunizmit/",
@@ -5398,18 +5864,6 @@
   "region": "",
   "widened": 30,
   "lang": "German"
- },
- {
-  "name": "Iceland",
-  "title": "Une Canadienne figure parmi les 21 activistes anti - baleiniers détenus par lIslande - La Nouvelle Union et LAvenir de l  Érable",
-  "link": "https://www.lanouvelle.net/nouvelles-nationales/une-canadienne-figure-parmi-les-21-activistes-anti-baleiniers-detenus-par-lislande/",
-  "date": 1785664800000,
-  "sig": 2,
-  "snippet": "lanouvelle.net",
-  "iso": "ISL",
-  "region": "",
-  "widened": 180,
-  "lang": "French"
  },
  {
   "name": "Tunisia",
@@ -6550,6 +7004,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "Guatemala",
+  "title": "Operativos simultáneos permiten la captura de 42 personas por diversos delitos",
+  "link": "https://mingob.gob.gt/operativos-simultaneos-permiten-la-captura-de-42-personas-por-diversos-delitos/",
+  "date": 1785614400000,
+  "sig": 2,
+  "snippet": "mingob.gob.gt",
+  "iso": "GTM",
+  "region": "",
+  "widened": 365,
+  "lang": "Spanish"
+ },
+ {
   "name": "Ecuador",
   "title": "Intervienen mina ilegal y hallan a menores trabajando en Piura",
   "link": "https://diariocorreo.pe/edicion/piura/intervienen-mina-ilegal-y-hallan-a-menores-trabajando-en-piura-noticia/",
@@ -6596,18 +7062,6 @@
   "region": "",
   "widened": 90,
   "lang": "Albanian"
- },
- {
-  "name": "Guatemala",
-  "title": "Operativos simultáneos permiten la captura de 42 personas por diversos delitos",
-  "link": "https://mingob.gob.gt/operativos-simultaneos-permiten-la-captura-de-42-personas-por-diversos-delitos/",
-  "date": 1785614400000,
-  "sig": 2,
-  "snippet": "mingob.gob.gt",
-  "iso": "GTM",
-  "region": "",
-  "widened": 365,
-  "lang": "Spanish"
  },
  {
   "name": "Bangladesh",
@@ -6678,7 +7132,7 @@
   "snippet": "cadena3.com",
   "iso": "GRL",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "Spanish"
  },
  {
@@ -6714,7 +7168,7 @@
   "snippet": "stimson.org",
   "iso": "COK",
   "region": "",
-  "widened": 180,
+  "widened": 30,
   "lang": "English"
  },
  {
@@ -7170,7 +7624,7 @@
   "snippet": "infobae.com",
   "iso": "GTM",
   "region": "",
-  "widened": 180,
+  "widened": 365,
   "lang": "Spanish"
  },
  {
@@ -7914,7 +8368,7 @@
   "snippet": "bernews.com",
   "iso": "BMU",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "English"
  },
  {
@@ -9086,18 +9540,6 @@
   "lang": "Spanish"
  },
  {
-  "name": "United Kingdom",
-  "title": "Wales - Agriculture, Mining, Tourism - Encyclopedia Britannica",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUa2kzQWhBQUJsWFdQNC02X0lqcGN0VUlRbU1Mc090VUJLZW9ocWhhUEtySVBQQVF4OE15QTItMWtnOGZQcDN5dS0xckZDd0FYNF81R09nWS1NUQ?oc=5",
-  "date": 1785560400000,
-  "sig": 2,
-  "snippet": "Wales - Agriculture, Mining, Tourism  Encyclopedia Britannica",
-  "iso": "GBR",
-  "region": "Wales",
-  "widened": 0,
-  "lang": "Unknown"
- },
- {
   "name": "Turkmenistan",
   "title": "UNDP and Partners Support Stronger Waste Management to Protect the Caspian Sea",
   "link": "https://www.newscentralasia.net/2026/08/01/undp-and-partners-support-stronger-waste-management-to-protect-the-caspian-sea/",
@@ -9108,6 +9550,18 @@
   "region": "",
   "widened": 90,
   "lang": "English"
+ },
+ {
+  "name": "United Kingdom",
+  "title": "Wales - Agriculture, Mining, Tourism - Encyclopedia Britannica",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUa2kzQWhBQUJsWFdQNC02X0lqcGN0VUlRbU1Mc090VUJLZW9ocWhhUEtySVBQQVF4OE15QTItMWtnOGZQcDN5dS0xckZDd0FYNF81R09nWS1NUQ?oc=5",
+  "date": 1785560400000,
+  "sig": 2,
+  "snippet": "Wales - Agriculture, Mining, Tourism  Encyclopedia Britannica",
+  "iso": "GBR",
+  "region": "Wales",
+  "widened": 0,
+  "lang": "Unknown"
  },
  {
   "name": "Sri Lanka",
@@ -13500,6 +13954,18 @@
   "lang": "English"
  },
  {
+  "name": "Turkmenistan",
+  "title": "New Commercial Flow of Natural Gas Obtained in Central Karakum , Turkmenistan",
+  "link": "https://www.newscentralasia.net/2026/07/31/new-commercial-flow-of-natural-gas-obtained-in-central-karakum-turkmenistan/",
+  "date": 1785474000000,
+  "sig": 2,
+  "snippet": "newscentralasia.net",
+  "iso": "TKM",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
   "name": "United States",
   "title": "Missouri - Mining, Agriculture, Manufacturing - Encyclopedia Britannica",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsMXgyOHNnaTNodEFpNWw3b1YtODdnUFBFODJHOS0waGdWZWpFZVVmUlJvN2hjb0h2d21FTmlpUndtaVl5Z0FQaENETjNFT1VSNXA4dkN3ZXhFcE9feVZISDRKVmQtSHFzMXZQZmQ2d1JET3p6V3c?oc=5",
@@ -13534,18 +14000,6 @@
   "region": "Saskatchewan",
   "widened": 0,
   "lang": "Unknown"
- },
- {
-  "name": "Turkmenistan",
-  "title": "New Commercial Flow of Natural Gas Obtained in Central Karakum , Turkmenistan",
-  "link": "https://www.newscentralasia.net/2026/07/31/new-commercial-flow-of-natural-gas-obtained-in-central-karakum-turkmenistan/",
-  "date": 1785474000000,
-  "sig": 2,
-  "snippet": "newscentralasia.net",
-  "iso": "TKM",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
  },
  {
   "name": "Kenya",
@@ -14606,7 +15060,7 @@
   "snippet": "elheraldo.hn",
   "iso": "CRI",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "Spanish"
  },
  {
@@ -14850,18 +15304,6 @@
   "lang": "Turkish"
  },
  {
-  "name": "Guatemala",
-  "title": "Fallo contra Camilo García revive cuestionamientos a la magistrada Julia Rivera por posible conflicto de interés",
-  "link": "https://lahora.gt/investigacion/la-hora/2026/07/30/fallo-contra-camilo-garcia-revive-cuestionamientos-a-la-magistrada-julia-rivera-por-posible-conflicto-de-interes/",
-  "date": 1785451500000,
-  "sig": 2,
-  "snippet": "lahora.gt",
-  "iso": "GTM",
-  "region": "",
-  "widened": 30,
-  "lang": "Spanish"
- },
- {
   "name": "Costa Rica",
   "title": "Costa Rica banana plantation destroyed protected wetland , complaint alleges",
   "link": "https://news.mongabay.com/2026/07/costa-rica-banana-plantation-destroyed-protected-wetland-complaint-alleges/",
@@ -14872,6 +15314,18 @@
   "region": "",
   "widened": 180,
   "lang": "English"
+ },
+ {
+  "name": "Guatemala",
+  "title": "Fallo contra Camilo García revive cuestionamientos a la magistrada Julia Rivera por posible conflicto de interés",
+  "link": "https://lahora.gt/investigacion/la-hora/2026/07/30/fallo-contra-camilo-garcia-revive-cuestionamientos-a-la-magistrada-julia-rivera-por-posible-conflicto-de-interes/",
+  "date": 1785451500000,
+  "sig": 2,
+  "snippet": "lahora.gt",
+  "iso": "GTM",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
  },
  {
   "name": "United States",
@@ -15026,7 +15480,7 @@
   "snippet": "larepublica.pe",
   "iso": "CRI",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "Spanish"
  },
  {
@@ -30338,7 +30792,7 @@
   "snippet": "bernews.com",
   "iso": "BMU",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "English"
  },
  {
@@ -31668,7 +32122,7 @@
   "snippet": "greensavers.sapo.pt",
   "iso": "TON",
   "region": "",
-  "widened": 30,
+  "widened": 365,
   "lang": "Portuguese"
  },
  {
@@ -32004,7 +32458,7 @@
   "snippet": "royalgazette.com",
   "iso": "BMU",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "English"
  },
  {
@@ -36786,7 +37240,7 @@
   "snippet": "jornaleconomico.sapo.pt",
   "iso": "TON",
   "region": "",
-  "widened": 30,
+  "widened": 365,
   "lang": "Portuguese"
  },
  {
@@ -36846,7 +37300,7 @@
   "snippet": "executivedigest.sapo.pt",
   "iso": "TON",
   "region": "",
-  "widened": 30,
+  "widened": 365,
   "lang": "Portuguese"
  },
  {
@@ -41442,7 +41896,7 @@
   "snippet": "samoanews.com",
   "iso": "WSM",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -42318,7 +42772,7 @@
   "snippet": "matangitonga.to",
   "iso": "TON",
   "region": "",
-  "widened": 180,
+  "widened": 365,
   "lang": "English"
  },
  {
@@ -43882,6 +44336,18 @@
   "region": ""
  },
  {
+  "name": "Bermuda",
+  "title": "Tax , health and economy boosts approved without objections",
+  "link": "https://www.royalgazette.com/politics/news/article/20260722/tax-health-and-economy-boosts-approved-without-objections/",
+  "date": 1784770200000,
+  "sig": 2,
+  "snippet": "royalgazette.com",
+  "iso": "BMU",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
   "name": "Palau",
   "title": "Retour despèces menacées grâce aux efforts de conservation menés dans le monde entier",
   "link": "https://fr.globalvoices.org/2026/07/23/302221/",
@@ -43892,18 +44358,6 @@
   "region": "",
   "widened": 90,
   "lang": "French"
- },
- {
-  "name": "Bermuda",
-  "title": "Tax , health and economy boosts approved without objections",
-  "link": "https://www.royalgazette.com/politics/news/article/20260722/tax-health-and-economy-boosts-approved-without-objections/",
-  "date": 1784770200000,
-  "sig": 2,
-  "snippet": "royalgazette.com",
-  "iso": "BMU",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
  },
  {
   "name": "Montenegro",
@@ -44046,7 +44500,7 @@
   "snippet": "samoaobserver.ws",
   "iso": "WSM",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -45062,7 +45516,7 @@
   "snippet": "samoanews.com",
   "iso": "WSM",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -45220,7 +45674,7 @@
   "snippet": "cookislandsnews.com",
   "iso": "COK",
   "region": "",
-  "widened": 180,
+  "widened": 30,
   "lang": "English"
  },
  {
@@ -45232,7 +45686,7 @@
   "snippet": "caymannewsservice.com",
   "iso": "CYM",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "English"
  },
  {
@@ -45516,7 +45970,7 @@
   "snippet": "notizie.it",
   "iso": "BMU",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "Italian"
  },
  {
@@ -45644,7 +46098,7 @@
   "snippet": "radiocayman.gov.ky",
   "iso": "CYM",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "English"
  },
  {
@@ -46318,7 +46772,7 @@
   "snippet": "pina.com.fj",
   "iso": "WSM",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -47664,7 +48118,7 @@
   "snippet": "journallarevue.com",
   "iso": "WSM",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "French"
  },
  {
@@ -48334,6 +48788,18 @@
   "lang": "English"
  },
  {
+  "name": "Samoa",
+  "title": "Trump Administration launches first deep sea mining lease sale despite Pacific opposition",
+  "link": "https://www.samoanews.com/regional/trump-administration-launches-first-deep-sea-mining-lease-sale-despite-pacific-opposition",
+  "date": 1784348100000,
+  "sig": 2,
+  "snippet": "samoanews.com",
+  "iso": "WSM",
+  "region": "",
+  "widened": 180,
+  "lang": "English"
+ },
+ {
   "name": "Italy",
   "title": "Hepburn (Logicor): “Nel 2026 occupancy del 100% e pipeline da 150.000 mq” - Supply Chain Italy",
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVdtbnBTeVJVQ29rOEFBLXR6QmZ6cWI4REc4SWdXX1g0YWpoUVZQR25UQW5peHBQal9HLU1TSTJzVDE3RHA0ZzNrZV8yUTROMWlET2ZuZEdzR3pyUHVfLWZ3NnA1d1JZNW1ZalYxVGZjYVV3XzFpWlZ0VGdnWE5CYlpyNk1Xd3p1Z0tYWGVvZjdoSm9tWkp3ZU1RbEJYLXVpOEJCbUVNYTBVbE5uRU9IMtIBuAFBVV95cUxOWFV2dDJQN3RZZGhGaGZHMDRmYlNMYXppUVpPTlJzdENCSG0tWXBQOGFMNFFSTFNJbm1uQnBwZHVXWmF6NzRxeFFHdzhnOXZXbGZQYjUyOUotd2VDQXhFVjhBUGQxY2ZXbmNGR2lOSzhtN2hTY21CZGVyNjhHNFpHRmZla21HcTVSWEUyaVdSVkNiWlpFM01UUVFPLXdRbkxqa3JvTUJfWDFzTjVfOUFUVUxJRFhZbTEt?oc=5",
@@ -48354,7 +48820,7 @@
   "snippet": "mediafax.ro",
   "iso": "WSM",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "Romanian"
  },
  {
@@ -48366,7 +48832,7 @@
   "snippet": "bostonglobe.com",
   "iso": "WSM",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -48378,7 +48844,7 @@
   "snippet": "pottsmerc.com",
   "iso": "WSM",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -48648,7 +49114,7 @@
   "snippet": "royalgazette.com",
   "iso": "BMU",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "English"
  },
  {
@@ -49186,7 +49652,7 @@
   "snippet": "royalgazette.com",
   "iso": "BMU",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "English"
  },
  {
@@ -49234,7 +49700,7 @@
   "snippet": "greensavers.sapo.pt",
   "iso": "TON",
   "region": "",
-  "widened": 180,
+  "widened": 365,
   "lang": "Portuguese"
  },
  {
@@ -49416,16 +49882,6 @@
   "snippet": "Tribes, environmental advocates decry Michigan’s approval of Line 5 permits  Michigan Advance",
   "iso": "USA",
   "region": "Michigan"
- },
- {
-  "name": "Front: deep sea mining Pacific",
-  "title": "Trump administration launches first deep sea mining lease sale despite Pacific opposition - greenpeace.org",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ3FoSWZqLWI5Um5JV3MwaEY0NVA4eUZDYjVYWXF0ZlRWLWd6NU9palNpcmUwUkpaMWYyamFjM2V6M1gyRG0wbWlYamlWNks0WDNXWVVLR1RGb2syYTZYNmlCNFV5LWtwTmFOdlVJQ0YwekhIUnVRcWtUazZJTmJWMkVobk51MmotWHpPcnhmajZrdGEyWndBMkVqaEZpeEpYVGhOQnJmY0I5MEZlWE1yTm9wRGtrWno5MHdWQzBR?oc=5",
-  "date": 1784185200000,
-  "sig": 2,
-  "snippet": "Trump administration launches first deep sea mining lease sale despite Pacific opposition  greenpeace.org",
-  "iso": null,
-  "region": ""
  },
  {
   "name": "Front: Portugal Barroso lithium mine",
@@ -51054,7 +51510,7 @@
   "snippet": "ilgiornale.it",
   "iso": "KIR",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "Italian"
  },
  {
@@ -54470,7 +54926,7 @@
   "snippet": "merkur.de",
   "iso": "KIR",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "German"
  },
  {
@@ -55784,18 +56240,6 @@
   "region": "Arkansas",
   "widened": 0,
   "lang": "Unknown"
- },
- {
-  "name": "Laos",
-  "title": "Myanmar, Laos sign joint agreement on feasibility study for Mekong hydropower project - Global New Light Of Myanmar",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzk2R0hPSzlaSzdtM3IzdlYtYjZrY2NTUmZjU2xtRVZiTjlhSGVQZ0xCS21jVldXUWV3SmZqQ0JGWDJrTUI0S21KZlZlVzh2M2s1ZEMwdzlJRVF0SFlnUzNxT0tXaEFQWER1dFgta2M4T1R5QjJJSUpucVZXOWN6bV9yTHA4OW9WRHI3dHFDdlM2MTRsVWd6Q0ZSRm1qUzNXYzVaR2c5TDdCSlR5T0E?oc=5",
-  "date": 1783214362000,
-  "sig": 2,
-  "snippet": "Myanmar, Laos sign joint agreement on feasibility study for Mekong hydropower project  Global New Light Of Myanmar",
-  "iso": "LAO",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
  },
  {
   "name": "United States",

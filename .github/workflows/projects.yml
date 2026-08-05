@@ -26,6 +26,10 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          # Full history so the pre-push rebase (below) always has a merge base,
+          # even on a repo with a long run of daily projects.json.gz commits.
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -62,10 +66,29 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain projects.json.gz)" ]; then
-            git add projects.json.gz
-            git commit -m "chore(projects): daily harvest $(date -u +%Y-%m-%d)"
-            git push
-          else
+          if [ -z "$(git status --porcelain projects.json.gz)" ]; then
             echo "No change in projects.json.gz -- nothing to commit."
+            exit 0
           fi
+          git add projects.json.gz
+          git commit -m "chore(projects): daily harvest $(date -u +%Y-%m-%d)"
+          # The harvest takes ~2h. During that window other workflows (projects_osm.yml,
+          # wire.yml) and manual commits can advance main, so a plain `git push` races and
+          # is rejected "! [rejected] main -> main (fetch first)". This job only ever
+          # changes projects.json.gz, which it FULLY regenerates each run, so rebasing our
+          # single commit onto the latest main is always safe (our freshly-harvested file
+          # wins). Retry a few times to ride out concurrent pushes to the same ref.
+          git config pull.rebase true
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt rejected (main advanced); rebasing onto origin/main and retrying"
+            # --autostash keeps us safe if anything is dirty; -X theirs would only matter
+            # on a conflict, which cannot happen here since we're the only writer of this file.
+            git pull --rebase --autostash origin main || true
+            sleep $((attempt * 5))
+          done
+          echo "::error::projects.json.gz push failed after 5 rebase attempts (main kept advancing)"
+          exit 1

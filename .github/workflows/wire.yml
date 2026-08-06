@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history so the pre-push `git merge FETCH_HEAD` retry loop below always has
+          # a merge base. This job runs every 6h and only writes wire.json; on a default
+          # shallow (depth-1) clone, if main advanced past the tip the merge can fail with
+          # "refusing to merge unrelated histories". fetch-depth: 0 closes that gap.
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'

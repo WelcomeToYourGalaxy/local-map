@@ -47,6 +47,14 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history so the pre-push `git merge FETCH_HEAD` retry loop below always
+          # has a merge base. The weekly sharded sweep runs for hours; during that window
+          # other workflows (projects.yml daily harvest, wire.yml every 6h) advance main,
+          # and on a default shallow (depth-1) clone the merge can fail with "refusing to
+          # merge unrelated histories". fetch-depth: 0 closes that gap. (Only the merge job
+          # commits; the shard jobs upload artifacts and need no history.)
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'

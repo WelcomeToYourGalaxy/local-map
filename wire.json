@@ -1514,6 +1514,18 @@
   "lang": "Unknown"
  },
  {
+  "name": "South Korea",
+  "title": "3 student activists arrested over alleged trespassing at US air base",
+  "link": "https://www.koreaherald.com/article/10833518",
+  "date": 1786026600000,
+  "sig": 2,
+  "snippet": "koreaherald.com",
+  "iso": "KOR",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
   "name": "Armenia",
   "title": "APO Group - Africa Newsroom / Communiqué de presse | Les Africains en première ligne face à la crise de la biodiversité",
   "link": "https://www.africa-newsroom.com/press/les-africains-en-premiere-ligne-face-a-la-crise-de-la-biodiversite",
@@ -1550,28 +1562,26 @@
   "lang": "French"
  },
  {
-  "name": "Kosovo",
-  "title": "Sadiku kritikon bashpartiakët për qëndrimin ndaj ligjit për shtetësinë : Ne është dashur të protestojmë , nuk e bëmë",
-  "link": "https://telegrafi.com/sadiku-kritikon-bashpartiake-per-qendrimin-ndaj-ligjit-per-shtetesine-ne-eshte-dashur-te-protestojme-nuk-e-beme/",
-  "date": 1786025700000,
+  "name": "Front: Portugal Barroso lithium mine",
+  "title": "Thousand protesters to camp out against the EU’s flagship lithium mine in Portugal - EUobserver",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXlIVWt6VTlndTVwNjd3Y29wLWZMdHNRekRXWHBVYVZ2VnZnN1FZQ3dsTGZuMElKMHpraVJfeE5rUlk4OE10R3dMSXZxZElQSW0yVUZRclVhN3lUeUotWGw0Y19JcGxsbFhtMDJLdzlxOVg4djVnZEN3VGx2al9PZVgtNE84dG9xRC1tZ0VqcVRiX1VQY25QZFR1VFlTVnJQc0F0aThrYk12QXc3OVBRd2dB?oc=5",
+  "date": 1786025683000,
   "sig": 2,
-  "snippet": "telegrafi.com",
-  "iso": "XKX",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
+  "snippet": "Thousand protesters to camp out against the EU’s flagship lithium mine in Portugal  EUobserver",
+  "iso": "GL",
+  "region": ""
  },
  {
-  "name": "Kosovo",
-  "title": "Kurti e ka marrë peng Kuvendin , Molliqaj : Protestat popullore e vetmja rrugëdalje – Klan Kosova",
-  "link": "https://klankosova.tv/kurti-e-ka-marre-peng-kuvendin-molliqaj-protestat-popullore-e-vetmja-rrugedalje/",
-  "date": 1786025700000,
+  "name": "Monaco",
+  "title": "La Jornada : Consorcio de Larrea : 12 años de desastres ambientales en Sonora",
+  "link": "https://www.jornada.com.mx/2026/08/06/estados/025n2est",
+  "date": 1786024800000,
   "sig": 2,
-  "snippet": "klankosova.tv",
-  "iso": "XKX",
+  "snippet": "jornada.com.mx",
+  "iso": "MCO",
   "region": "",
-  "widened": 30,
-  "lang": "Albanian"
+  "widened": 90,
+  "lang": "Spanish"
  },
  {
   "name": "Front: Portugal Barroso lithium mine",
@@ -1782,19 +1792,7 @@
   "date": 1786023900000,
   "sig": 2,
   "snippet": "elfinanciero.com.mx",
-  "iso": "MEX",
-  "region": "",
-  "widened": 90,
-  "lang": "Spanish"
- },
- {
-  "name": "Mexico",
-  "title": "Amnistía Internacional exige localizar con vida al defensor ambiental José Luis Silva Andrade",
-  "link": "https://aristeguinoticias.com/0608/mexico/amnistia-internacional-exige-localizar-con-vida-al-defensor-ambiental-jose-luis-silva-andrade/",
-  "date": 1786023900000,
-  "sig": 2,
-  "snippet": "aristeguinoticias.com",
-  "iso": "MEX",
+  "iso": "GTM",
   "region": "",
   "widened": 90,
   "lang": "Spanish"
@@ -1844,7 +1842,7 @@
   "snippet": "opinionnigeria.com",
   "iso": "NGA",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -1856,7 +1854,7 @@
   "snippet": "hallmarknews.com",
   "iso": "NGA",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -2132,6 +2130,18 @@
   "lang": "French"
  },
  {
+  "name": "Luxembourg",
+  "title": "Le Luxembourg rejoint la coalition des marchés du carbone",
+  "link": "https://paperjam.lu/article/le-luxembourg-rejoint-la-coalition-des-marches-du-carbone",
+  "date": 1786016700000,
+  "sig": 2,
+  "snippet": "paperjam.lu",
+  "iso": "LUX",
+  "region": "",
+  "widened": 365,
+  "lang": "French"
+ },
+ {
   "name": "Syria",
   "title": "Al - Hijri De Facto Authorities Accused of Using Surveillance and Threats to Silence Suwayda Activists - Radio Free Syria",
   "link": "https://radiofreesyria.com/al-hijris-de-facto-authorities-accused-of-using-surveillance-and-threats-to-silence-suwayda-activists/",
@@ -2200,7 +2210,7 @@
   "snippet": "perfil.com",
   "iso": "ECU",
   "region": "",
-  "widened": 90,
+  "widened": 30,
   "lang": "Spanish"
  },
  {
@@ -2274,6 +2284,42 @@
   "lang": "Portuguese"
  },
  {
+  "name": "Austria",
+  "title": "EQS - News : Wolftank Group reaches settlement for litigation in Italy",
+  "link": "https://www.ots.at/presseaussendung/EQS_20260806_EQS0004/eqs-news-wolftank-group-reaches-settlement-for-litigation-in-italy",
+  "date": 1786012200000,
+  "sig": 2,
+  "snippet": "ots.at",
+  "iso": "AUT",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Bangladesh",
+  "title": "Our garments cannot come at the cost of our rivers",
+  "link": "https://www.thedailystar.net/opinion/views/news/our-garments-cannot-come-the-cost-our-rivers-4241006",
+  "date": 1786012200000,
+  "sig": 2,
+  "snippet": "thedailystar.net",
+  "iso": "BGD",
+  "region": "",
+  "widened": 365,
+  "lang": "English"
+ },
+ {
+  "name": "Bangladesh",
+  "title": "PM calls for eco - friendly solutions to tackle riverbank erosion",
+  "link": "https://www.thedailystar.net/news/environment/news/pm-calls-eco-friendly-solutions-tackle-riverbank-erosion-4241441",
+  "date": 1786012200000,
+  "sig": 2,
+  "snippet": "thedailystar.net",
+  "iso": "BGD",
+  "region": "",
+  "widened": 365,
+  "lang": "English"
+ },
+ {
   "name": "Argentina",
   "title": "En Argentina esperan a Thiago Almada el lunes para que firme por River Plate",
   "link": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260806/1004213626/argentina-esperan-thiago-almada-lunes-firme-river-plate.html",
@@ -2296,18 +2342,6 @@
   "region": "",
   "widened": 90,
   "lang": "Spanish"
- },
- {
-  "name": "Austria",
-  "title": "EQS - News : Wolftank Group reaches settlement for litigation in Italy",
-  "link": "https://www.ots.at/presseaussendung/EQS_20260806_EQS0004/eqs-news-wolftank-group-reaches-settlement-for-litigation-in-italy",
-  "date": 1786012200000,
-  "sig": 2,
-  "snippet": "ots.at",
-  "iso": "AUT",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
  },
  {
   "name": "Nigeria",
@@ -2742,6 +2776,18 @@
   "region": "Palawan"
  },
  {
+  "name": "Moldova",
+  "title": "The rights of foreigners with residence permits in the Republic of Moldova will be expanded - logos-pres.md",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdlpXYUtDVzVPcnhTMFhKTENSdXhaMkIzc0Z5U0pIT1c2ZTFOeWdFR2xHRTlNWWQyZHRZR0pkOXZKOW5iTGZmNW15RUdtUVFZcXJNckFWZzN4Q2lnbjZyNGhHQ3E2N09qWWpsa2I3MGZpazF0bkNhRkpnMDJEUkJGSlRFOURiT2hGZmVwd1JBak9UckdEdE5fZnU0SXJmakVtVGtsOVV1bDR2RC1pNjBkb25PMVprQ2ZnQS1xeW1Ecw?oc=5",
+  "date": 1786003000000,
+  "sig": 2,
+  "snippet": "The rights of foreigners with residence permits in the Republic of Moldova will be expanded  logos-pres.md",
+  "iso": "MDA",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Front: Tanzania Uganda EACOP pipeline",
   "title": "EACOP hits 91% completion as Uganda eyes first oil before year-end - Daily Monitor",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjg0eHlUc1hhNG1QUlFFbW1UcFNQRGRSVV9WenhHbzJfZmlwLW9xMmpVdy1jQWFXYjdrZlJOR0RMd0dUMUtpSXRkMWc5MW5EM3dyX0lraGtGb2Q0Wm1JSWJrS2FGcHBhNl9BTlFicEQ4Rlh1YzN2b3YwZWppSldaclhwZ1JTODlKZ2IwOU5fR2RRRUI0VjZ6TWlCRW44OUJlTG1SNXJkOThQbjdyM1FIVE94VWt3aE1odWdWUw?oc=5",
@@ -2750,6 +2796,18 @@
   "snippet": "EACOP hits 91% completion as Uganda eyes first oil before year-end  Daily Monitor",
   "iso": "UGA",
   "region": ""
+ },
+ {
+  "name": "Bangladesh",
+  "title": "Bangladesh LNG Terminal Outage | FSRU fragility exposing gas supply vulnerabilities | Bangladesh LNG Crisis",
+  "link": "https://www.thedailystar.net/business/news/fsru-fragility-exposing-gas-supply-vulnerabilities-4241201",
+  "date": 1786002300000,
+  "sig": 2,
+  "snippet": "thedailystar.net",
+  "iso": "BGD",
+  "region": "",
+  "widened": 365,
+  "lang": "English"
  },
  {
   "name": "Argentina",
@@ -2992,6 +3050,18 @@
   "lang": "Albanian"
  },
  {
+  "name": "Luxembourg",
+  "title": "IPO : le pipeline européen reste insuffisant",
+  "link": "https://paperjam.lu/article/ipo-le-pipeline-europeen-reste-insuffisant",
+  "date": 1785999600000,
+  "sig": 2,
+  "snippet": "paperjam.lu",
+  "iso": "LUX",
+  "region": "",
+  "widened": 365,
+  "lang": "French"
+ },
+ {
   "name": "Argentina",
   "title": "Quieren hacer desalojos : Martín Soria denunció una  trampa  detrás del proyecto de propiedad privada",
   "link": "https://elintransigente.com/2026/08/quieren-hacer-desalojos-martin-soria-denuncio-una-trampa-detras-del-proyecto-de-propiedad-privada/",
@@ -3227,6 +3297,18 @@
   "iso": "AUS",
   "region": "",
   "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "Chile",
+  "title": "NTT DOCOMO BUSINESS and Chile’s State-owned Copper Company CODELCO Launch a Study and Proof of Concept Aimed at Improving the Efficiency of Remote Copper Mine Operations Using IOWN® APN - The AI Journ",
+  "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPMFYwaGFkenlOc1pOMm03bWQ2ZldwejlTX1JmNkxSN05KaDZyaWxRT01JaVRCaTFLYmwzb2xCRUF6MHVHRFZ4VU5NUzIyeWp3Nzlsb2RUTGNpZm9Rb2RoS1E3N2hGd21CaTd1dkZjOXUyd3dqNEh3U3lJSFhQUFc2NU1JQUtNMzBNQ19kaEZ2U05vYl9iUUp1OFRZYmNQOXlDWW14Y0p3Z2x4V0JUcmQ4RERXMC0tREdRMEtOb3psVzZ6R3NPOTlVc0JBVmdwYmtEU1NMSlJkQ0FKc2FQbXItcjczSmhtQzVEb0E4aHdBNmxCamdPRkNoSWd2eXJwWW9lRjh4MkdYeVBxZjZhT3htTjRjb1doWHZzVThFZVBLMzFPak44X0xrZFd5UGc?oc=5",
+  "date": 1785991597000,
+  "sig": 2,
+  "snippet": "NTT DOCOMO BUSINESS and Chile’s State-owned Copper Company CODELCO Launch a Study and Proof of Concept Aimed at Improving the Efficiency of Remote Copper Mine Operations Using IOWN® APN  The AI Journal",
+  "iso": "CHL",
+  "region": "",
+  "widened": 30,
   "lang": "English"
  },
  {
@@ -5426,13 +5508,13 @@
   "lang": "Unknown"
  },
  {
-  "name": "Ecuador",
+  "name": "Guatemala",
   "title": "Sheinbaum no asistirá a toma de protesta de De La Espriella en Colombia :  Todavía no sabemos quién va  – El Financiero",
   "link": "https://www.elfinanciero.com.mx/nacional/2026/08/05/sheinbaum-no-asistira-a-toma-de-protesta-de-de-la-espriella-en-colombia-todavia-no-sabemos-quien-va/",
   "date": 1785951000000,
   "sig": 2,
   "snippet": "elfinanciero.com.mx",
-  "iso": "ECU",
+  "iso": "GTM",
   "region": "",
   "widened": 90,
   "lang": "Spanish"
@@ -5724,6 +5806,18 @@
   "lang": "Unknown"
  },
  {
+  "name": "Guatemala",
+  "title": "Dos líderes indígenas considerados « presos políticos » saldrán de prisión en Guatemala",
+  "link": "https://diario1.com/mundo/dos-lideres-indigenas-considerados-presos-politicos-saldran-de-prision-en-guatemala/",
+  "date": 1785947400000,
+  "sig": 2,
+  "snippet": "diario1.com",
+  "iso": "GTM",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
   "name": "Canada",
   "title": "First Phosphate unterzeichnet Vereinbarungen für nicht zu refundierende Zuwendungen in Höhe von 4 , 84 Mio . $ von der kanadischen Regierung für Straßeninfrastruktur und Stromübertragungsleitungen",
   "link": "https://www.mittelstandcafe.de/first-phosphate-unterzeichnet-vereinbarungen-f-r-nicht-zu-refundierende-zuwendungen-in-h-he-von-4-84-mio-von-der-kanadischen-regierung-f-r-stra-eninfrastruktur-und-strom-bertragungsleitungen-2265794.html",
@@ -5743,18 +5837,6 @@
   "sig": 2,
   "snippet": "elmanana.com",
   "iso": "CAN",
-  "region": "",
-  "widened": 30,
-  "lang": "Spanish"
- },
- {
-  "name": "Guatemala",
-  "title": "Dos líderes indígenas considerados « presos políticos » saldrán de prisión en Guatemala",
-  "link": "https://diario1.com/mundo/dos-lideres-indigenas-considerados-presos-politicos-saldran-de-prision-en-guatemala/",
-  "date": 1785947400000,
-  "sig": 2,
-  "snippet": "diario1.com",
-  "iso": "GTM",
   "region": "",
   "widened": 30,
   "lang": "Spanish"
@@ -6689,6 +6771,18 @@
   "iso": "IND",
   "region": "",
   "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "Iceland",
+  "title": "Iceland orders expulsion of 21 anti-whaling activists - CP24",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzFndmVidXlyeHBGVjdRU2VQdUNLbnhGWDlFQ2wyLVNTeGEyczhZZGx3QVFYbnFyUDdVbkhWUjJCLWZuejZCWE1fZGxVeTkzc3AzNTdvcVIyTk1fQTFlTG9KS1M2dGRsMDBoUmtaVUs3dmpZQThGUnRBaXMzeEItbDBYYnN2Z2hHUnJVS0puY2JKTjc3YUNpYnE4M3lUZw?oc=5",
+  "date": 1785934675000,
+  "sig": 2,
+  "snippet": "Iceland orders expulsion of 21 anti-whaling activists  CP24",
+  "iso": "ISL",
+  "region": "",
+  "widened": 30,
   "lang": "English"
  },
  {
@@ -7818,6 +7912,18 @@
   "lang": "English"
  },
  {
+  "name": "Luxembourg",
+  "title": "Widerstand gegen die EU : Polen und Slowakei gegen Anerkennung von Schwulen - Ehen",
+  "link": "https://zuerst.de/schluss-mit-lustig-polen-und-slowakei-gegen-anerkennung-von-schwulen-ehen/",
+  "date": 1785913200000,
+  "sig": 2,
+  "snippet": "zuerst.de",
+  "iso": "LUX",
+  "region": "",
+  "widened": 365,
+  "lang": "German"
+ },
+ {
   "name": "Albania",
   "title": "Triumfi i Kombit / Shqiptarë ! Patriotizmi , e vërteta dhe  demokracia sot janë te protestat - Sot News",
   "link": "https://sot.com.al/opinion-editorial/triumfi-i-kombit-shqiptare-patriotizmi-e-verteta-dhe-demokracia-sot-jane-te-protestat/",
@@ -8011,11 +8117,11 @@
  },
  {
   "name": "India",
-  "title": "Jharkhand Protest DAY 12: अनशनकारी देवेंद्रनाथ महतो ने सोनम के आग्रह पर पिया पानी, भूख हड़ताल जारी - India.com",
+  "title": "Jharkhand Protest DAY 12: अनशनकारी देवेंद्रनाथ महतो ने सोनम के आग्रह पर पिया पानी, भूख हड़ताल जारी - india.com",
   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNc1NmYnJoVEdsU3NUS3BJaHBLRlNXdjBVZkJtNVJCUGRWbjJqZ204eHJLdW1HTGttbllUUGJlMWs0RjJqUlo0ZGQyQ1dqQTJUVldIb2VtelVhV2hKTmpHb0JZZGdiZ2RGWjZYV2ZLalVpRnRXU2U5NEZiVGd6QWZqMzlOT203cmFTeUdjWEV4S2VjNzZkMGtCS2ZCOFRJU2swSE9acUstOWd3LWlIZ0FKbFRRU0xWRVpsd09wZnRabmRIME9KcVAwNEhXLXpLNmlFYkM2U2d3NG1ncnpXMnduRWxiRFBocnRMWXlhLWtmaFhkeXhKYUNJc1ljWEFUUmpKeHJhUdIBigJBVV95cUxNTXBFUUs0UEo0Q2lHcDVjaExkb25qbzFLNU5xLWpDczcxaXg2VlFiX2RZMnZRZW5kQkFmWjBuNjVsVTczYjBSMGt6aTFTSWY2ZXAyQWVXVE5fUzBTZ1R4OFhIbjF1VlZHOVEzYXhTQy12dFNqemdiRVU0bVRiTnVkb3B3UUVYbVU4UWZRMmtZYUlzU0VVMkFvUlpydlU4a2JwMlVWaWF6MTdWRHFwaDdNaE91TXl1RHBnNFp3RUJQODVYYkg1bUVSTEVkdFhtZW1SS3FLWENmVGgzRWhXVkNGUFctQ2ZDanhTR0o5YUl1cVV5d1ZYY1lIQWhUVTNULVdjQWFtZFJIV3JJZw?oc=5",
   "date": 1785907818000,
   "sig": 2,
-  "snippet": "Jharkhand Protest DAY 12: अनशनकारी देवेंद्रनाथ महतो ने सोनम के आग्रह पर पिया पानी, भूख हड़ताल जारी  India.com",
+  "snippet": "Jharkhand Protest DAY 12: अनशनकारी देवेंद्रनाथ महतो ने सोनम के आग्रह पर पिया पानी, भूख हड़ताल जारी  india.com",
   "iso": "IND",
   "region": "Jharkhand",
   "widened": 0,
@@ -9217,11 +9323,11 @@
  },
  {
   "name": "Front: Morocco Western Sahara phosphate",
-  "title": "Morocco Names Highway For Trump As US Backs Rabat In Western Sahara Dispute | Firstpost Africa - Firstpost",
+  "title": "Morocco Names Highway For Trump As US Backs Rabat In Western Sahara Dispute | Firstpost Africa - firstpost.com",
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONmdlQlczYzhxd19va2Vrd281d0NPME5DQXVwTkxfUWxQODFjYmUyMG00akZOSVc2QjhDblNoVUZCSTNBVmJoUWMzLVpzUFMxMFdhTllTQVpVeE5reTl2UThzSlM5V1pJRndjN29pQW1RR0E5Q0dLNzZiMFFXSzVjeE9yQ0J1QXJJOEk5Vi1WZjhyTUNVeHZ4dU5tM0I4OWZDU216dVpuc3ZYcUtiYTVTR0gyeThzc21xVUJGMFpBMUJIeGZ1MTNCSmloR0paVWFNQXItN2dBTWdFZWp2cHM4em56aXpYVTc2OGpDTl8yUUhPZUXSAfMBQVVfeXFMTjZnZUJXM2M4cXdfb2tla3dvNXdDTzBOQ0F1cE5MX1FsUDgxY2JlMjBtNGpGTklXNkI4Q25TaFVGQkkzQVZiaFFjMy1ac1BTMTBXYU5ZU0FaVXhOa3k5dlE4c0pTOVdaSUZ3YzdvaUFtUUdBOUNHSzc2YjBRV0s1Y3hPckNCdUFySThJOVYtVmY4ck1DVXh2eHVObTNCODlmQ1NtenVabnN2WHFLYmE1U0dIMnk4c3NtcVVCRjBaQTFCSHhmdTEzQkppaEdKWlVhTUFyLTdnQU1nRWVqdnBzOHpueml6WFU3NjhqQ05fMlFIT2VF?oc=5",
   "date": 1785874500000,
   "sig": 2,
-  "snippet": "Morocco Names Highway For Trump As US Backs Rabat In Western Sahara Dispute | Firstpost Africa  Firstpost",
+  "snippet": "Morocco Names Highway For Trump As US Backs Rabat In Western Sahara Dispute | Firstpost Africa  firstpost.com",
   "iso": "MAR",
   "region": ""
  },
@@ -9830,6 +9936,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "Guatemala",
+  "title": "Líderes indígenas guatemaltecos buscan liberación tras más de un año en prisión",
+  "link": "https://www.cadena3.com/noticia/mundo/lideres-indigenas-guatemaltecos-buscan-liberacion-tras-mas-de-un-ano-en-prision_580301",
+  "date": 1785865500000,
+  "sig": 2,
+  "snippet": "cadena3.com",
+  "iso": "GTM",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
   "name": "Iceland",
   "title": "Næturborun í sjó lokið og verk­takar þakka búum þolin­mina",
   "link": "https://www.visir.is/g/20262916797d/naeturborun-i-sjo-lokid-og-verk-takar-thakka-i-buum-tholin-maedina",
@@ -9840,18 +9958,6 @@
   "region": "",
   "widened": 90,
   "lang": "Icelandic"
- },
- {
-  "name": "Guatemala",
-  "title": "Líderes indígenas guatemaltecos buscan liberación tras más de un año en prisión",
-  "link": "https://www.cadena3.com/noticia/mundo/lideres-indigenas-guatemaltecos-buscan-liberacion-tras-mas-de-un-ano-en-prision_580301",
-  "date": 1785865500000,
-  "sig": 2,
-  "snippet": "cadena3.com",
-  "iso": "GTM",
-  "region": "",
-  "widened": 30,
-  "lang": "Spanish"
  },
  {
   "name": "Tunisia",
@@ -10056,6 +10162,18 @@
   "region": "",
   "widened": 180,
   "lang": "Spanish"
+ },
+ {
+  "name": "Chile",
+  "title": "Southern Hemisphere Mining Drills Broad Copper Intercepts at Llahuin Chile - Discovery Alert",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFRwNXdRT0Q3RVVxV0NVNXgwQ2N5b0RlT0tZbXFZZ2Q0TS1sZlVld3RESDh6UUhwX1RTaHRjSTZXSkNoZVNtZFNWS0ZXQTM3cHp6SUYxZkg5NG1ObVlDWXZiaXo3dHh6SzVhQXZmcnBraFlMNjN6R2JuRDRpTVpJcGtHMXdWdmYyczEzdWtweEVrT1dN?oc=5",
+  "date": 1785864291000,
+  "sig": 2,
+  "snippet": "Southern Hemisphere Mining Drills Broad Copper Intercepts at Llahuin Chile  Discovery Alert",
+  "iso": "CHL",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Jersey",
@@ -10894,6 +11012,18 @@
   "region": "Papua"
  },
  {
+  "name": "Argentina",
+  "title": "Argentina Metals concreta adquisición de 19.151 hectáreas en Mendoza y lanza campaña de exploración - Acero y Roca | Magazine Minero",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2x1NC0yYmNRc3hGV2dicVpRNml0NGREQjdEN3VRMFFMQnNRcDRQbEMwVWFhNWVnZUpWUHZqWnFqSEYwS3NZVUFoZlVRbkUtd0F6ZEp2VzFPR1lxM0dPV0ZOTDczMjZiX0hOUXE1cnVfUUlQaUtZSzM1SG54VVliTQ?oc=5",
+  "date": 1785853798000,
+  "sig": 2,
+  "snippet": "Argentina Metals concreta adquisición de 19.151 hectáreas en Mendoza y lanza campaña de exploración  Acero y Roca | Magazine Minero",
+  "iso": "ARG",
+  "region": "Mendoza",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
   "name": "Canada",
   "title": "Controversial West Coast pipeline one step closer to being fast-tracked - Canada's National Observer",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEN1Y0NoOUkyUVBEbkdRSHE3a2hoUTQwTm96ZVEwVFVWd3JrU014SWtkZUwySUdnbzVmalZMTmdZV29venlXTE1qaHdzcmhMTU9UblB1OURfcmptSWJhWEFxczFXVFZyMlZNQWFzbWc5Z1NkSmtTMU9aOUhQU2VwQ2tHT19nd1hfcEdncWdhMlZ6QUI1XzczdlREUklDZFdkblF0QnE3eU5hYWNTOExVX3ZYekFxVWJR?oc=5",
@@ -11374,13 +11504,13 @@
   "lang": "Spanish"
  },
  {
-  "name": "Uganda",
+  "name": "Kenya",
   "title": "Uganda Secures Veto Power and Board Seats in Kenya Pipeline Deal - Pipeline Technology Journal",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVIwY2d4TlBvWWNSTHdacVpUcVJwWXdqYTluSGNJdFZxVkVxSVJPS3Y1V00xV08ycmRRcEJWTGpMVHZJSWtCX3VWNHlPQjNMQy0zblJLQTRzN2JJUHNoTEw1Q0Q0Y3Q3dERHblhvZVJPU2dQY3JOUGJjTTRkbDczNFVFSWQ5aWtSUUFTSHV2LTV3QndrT2FOR1JNdmdXb2N0?oc=5",
   "date": 1785848203000,
   "sig": 2,
   "snippet": "Uganda Secures Veto Power and Board Seats in Kenya Pipeline Deal  Pipeline Technology Journal",
-  "iso": "UGA",
+  "iso": "KEN",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -13915,11 +14045,11 @@
  },
  {
   "name": "New Zealand",
-  "title": "Vita Resources enters New Zealand via Otago partnership - Mining.com.au",
+  "title": "Vita Resources enters New Zealand via Otago partnership - mining.com.au",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURFTW5WYXgxcjdCXzE2TnVISnZzdkYteG5ZajREU0gtUnowbURmWWFnSkJwdVFWbmI4aVpOYTlYNjFsU24zaDZLQlBkVlNaT0ZkZzlhOFpuZEhTeXZLc2tHVjEtb2FmWF9ac1RybWgxT2hjT0tURjNGOUxvTVQ3Vnpiak0?oc=5",
   "date": 1785797444000,
   "sig": 2,
-  "snippet": "Vita Resources enters New Zealand via Otago partnership  Mining.com.au",
+  "snippet": "Vita Resources enters New Zealand via Otago partnership  mining.com.au",
   "iso": "NZL",
   "region": "Otago",
   "widened": 0,
@@ -13984,13 +14114,13 @@
   "lang": "Spanish"
  },
  {
-  "name": "Uganda",
+  "name": "Kenya",
   "title": "Uganda takes control of Kenya Pipeline as Museveni secures veto power, two board seats - standardmedia.co.ke",
   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQkVnai13ekpsWWJURXZ1ajZCNlBISmRjM3pRNmwxcF9TSnZHVC04dnM2UnJrNEEtTFRvNFd3QzRlazc4MURPQWkza3RlUVBQVnU2MzlpbHg3VmNSSGJSa2lRSkYyR0w1QTU0U0oyX1hfc2QyaVlkVmxJMmFFeThKMk1yczdHSUdTcnFOenFIM3VOdGF5TlRsY2dpNExXNVZpc0N1cDZ4cE0xX0tURkRhOFNIV0hZSkNVZkJoZURKQzg4TDMxYzZ0aUN4Zl9BME5zb0hyYm94bklKYXlCaUNqZFZTTm9XdjBwMU1FTDRDMNIB7wFBVV95cUxNQkVnai13ekpsWWJURXZ1ajZCNlBISmRjM3pRNmwxcF9TSnZHVC04dnM2UnJrNEEtTFRvNFd3QzRlazc4MURPQWkza3RlUVBQVnU2MzlpbHg3VmNSSGJSa2lRSkYyR0w1QTU0U0oyX1hfc2QyaVlkVmxJMmFFeThKMk1yczdHSUdTcnFOenFIM3VOdGF5TlRsY2dpNExXNVZpc0N1cDZ4cE0xX0tURkRhOFNIV0hZSkNVZkJoZURKQzg4TDMxYzZ0aUN4Zl9BME5zb0hyYm94bklKYXlCaUNqZFZTTm9XdjBwMU1FTDRDMA?oc=5",
   "date": 1785793878000,
   "sig": 2,
   "snippet": "Uganda takes control of Kenya Pipeline as Museveni secures veto power, two board seats  standardmedia.co.ke",
-  "iso": "UGA",
+  "iso": "KEN",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -15917,11 +16047,11 @@
  },
  {
   "name": "Panama",
-  "title": "The Panama Canal and the Limits of the Monroe Doctrine - gjia.georgetown.edu",
+  "title": "The Panama Canal and the Limits of the Monroe Doctrine - Georgetown Journal of International Affairs",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlRWNzh3bkZZc2thNUpqempid1Z1SEoxVVh5SlZ4TC02RU9aV2txb3Vhd3BibmFLdThYNHdCT2duQ1MtNGlrOENCbkhaZWZfd3Y2YjhsbkItZ0VOUkJPUDR6Qk5GMHNfa2RGZk03Z0pDRElLNFBhX0gxV24wRHlSZlRkdnhHaXEySmlnZldVdGRKYUJ6dHlZckxUU1V4d0d0TjZoLQ?oc=5",
   "date": 1785758482000,
   "sig": 2,
-  "snippet": "The Panama Canal and the Limits of the Monroe Doctrine  gjia.georgetown.edu",
+  "snippet": "The Panama Canal and the Limits of the Monroe Doctrine  Georgetown Journal of International Affairs",
   "iso": "PAN",
   "region": "",
   "widened": 30,
@@ -15929,11 +16059,11 @@
  },
  {
   "name": "Panama",
-  "title": "The Panama Canal and the Limits of the Monroe Doctrine - Georgetown Journal of International Affairs",
+  "title": "The Panama Canal and the Limits of the Monroe Doctrine - gjia.georgetown.edu",
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlRWNzh3bkZZc2thNUpqempid1Z1SEoxVVh5SlZ4TC02RU9aV2txb3Vhd3BibmFLdThYNHdCT2duQ1MtNGlrOENCbkhaZWZfd3Y2YjhsbkItZ0VOUkJPUDR6Qk5GMHNfa2RGZk03Z0pDRElLNFBhX0gxV24wRHlSZlRkdnhHaXEySmlnZldVdGRKYUJ6dHlZckxUU1V4d0d0TjZoLQ?oc=5",
   "date": 1785758482000,
   "sig": 2,
-  "snippet": "The Panama Canal and the Limits of the Monroe Doctrine  Georgetown Journal of International Affairs",
+  "snippet": "The Panama Canal and the Limits of the Monroe Doctrine  gjia.georgetown.edu",
   "iso": "PAN",
   "region": "",
   "widened": 30,
@@ -16760,16 +16890,6 @@
   "lang": "Unknown"
  },
  {
-  "name": "Inside Climate News",
-  "title": "Revealing Europe’s Most Critical Wetlands",
-  "link": "https://insideclimatenews.org/news/03082026/europes-most-critical-wetlands/",
-  "date": 1785747600000,
-  "sig": 2,
-  "snippet": "Europe’s wetlands are scattered throughout the continent, hiding in valleys and along coastlines or dried and buried under crop fields.  Europe was once full of peatlands and marshes, areas that set the foundation for life and slow the effects of climate change. But people draine",
-  "iso": null,
-  "region": ""
- },
- {
   "name": "Uzbekistan",
   "title": "India , Uzbekistan could explore FTA , says Piyush Goyal ; Uzbekistan invites Indian investment in mining , rare earths",
   "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uzbekistan-could-explore-fta-says-piyush-goyal-uzbekistan-invites-indian-investment-in-mining-rare-earths/articleshow/132825083.cms",
@@ -16778,8 +16898,18 @@
   "snippet": "economictimes.indiatimes.com",
   "iso": "UZB",
   "region": "",
-  "widened": 90,
+  "widened": 30,
   "lang": "English"
+ },
+ {
+  "name": "Inside Climate News",
+  "title": "Revealing Europe’s Most Critical Wetlands",
+  "link": "https://insideclimatenews.org/news/03082026/europes-most-critical-wetlands/",
+  "date": 1785747600000,
+  "sig": 2,
+  "snippet": "Europe’s wetlands are scattered throughout the continent, hiding in valleys and along coastlines or dried and buried under crop fields.  Europe was once full of peatlands and marshes, areas that set the foundation for life and slow the effects of climate change. But people draine",
+  "iso": null,
+  "region": ""
  },
  {
   "name": "Serbia",
@@ -17711,11 +17841,11 @@
  },
  {
   "name": "Indonesia",
-  "title": "Indonesia: HRW reports criminalisation of environmental defenders and Indigenous community leaders protesting environmental harm and land grabs - Business and Human Rights Centre",
+  "title": "Indonesia: HRW reports criminalisation of environmental defenders and Indigenous community leaders protesting environmental harm and land grabs - business-humanrights.org",
   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVFcwbDhsTHMtYXc2c3JYUGFRenotaGhaNnlvNEFnNUFIdnFCRjNRMnR6OVI5SzJUd0pZRXY1UDBObnJEQUp3a3llanU1b2UxSy1GNWs1YjlRY0JNSUJjVGVkanZyV1BLMEctWXFqbnpfbkh1S0RmVXhoSUxfd240alVqMDhORF8wNmZScHl0cG15NVNxbnNkR0dQZG82N1NWNnFEVmZoRGctYjJOTlBtSlpFekhtQUJYTE96NUw4VUxTM1F1Y0lOV2kzMFp4dGJBLWdzVS1tT1FNX2phaTJfSGYtY004R216X21fQUljOENYclcxTXJ6ek5vdjhsWF9veHBjYVhKSFN4VzBKX21LY0REYmZTazFGSWEwN2dIU1NkcFJVaDUtc2dKQzdSSlNqd0ZfcmJEelVobXZ2a1BzdTZjUXpaQjlHS19oUA?oc=5",
   "date": 1785729272000,
   "sig": 2,
-  "snippet": "Indonesia: HRW reports criminalisation of environmental defenders and Indigenous community leaders protesting environmental harm and land grabs  Business and Human Rights Centre",
+  "snippet": "Indonesia: HRW reports criminalisation of environmental defenders and Indigenous community leaders protesting environmental harm and land grabs  business-humanrights.org",
   "iso": "IDN",
   "region": "",
   "widened": 30,
@@ -23227,11 +23357,11 @@
  },
  {
   "name": "Kenya",
-  "title": "Kenya Railways Explains Delayed Construction Works on Naivasha-Kisumu SGR - Kenyans.co",
+  "title": "Kenya Railways Explains Delayed Construction Works on Naivasha-Kisumu SGR - Kenyans.co.ke",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTRqalZrbkhfUXhrSzB2bFIxajloRXBBMlE1OGxOZzc5VGU5MFhrQk10N2ZYRlZRSDkzN3U3bDMtR3ZzMFpUMmprUVZ4SEh3LWlRVmV6eURSWmVSZnhSbEpxNGJTd0hzSmpPYWpXcDl4LU03YzNyckR2U2ZoNXY5RDJlNjJhb0JCTk9EVFRHVzRoTVVhLUR2MWlqV2Q1YXhDNWVDaXRwTGdVNUxUcHdXbkJQeFc?oc=5",
   "date": 1785580050000,
   "sig": 2,
-  "snippet": "Kenya Railways Explains Delayed Construction Works on Naivasha-Kisumu SGR  Kenyans.co",
+  "snippet": "Kenya Railways Explains Delayed Construction Works on Naivasha-Kisumu SGR  Kenyans.co.ke",
   "iso": "KEN",
   "region": "",
   "widened": 30,
@@ -24263,11 +24393,11 @@
  },
  {
   "name": "Malaysia",
-  "title": "BFokus - Man Turns Remote River In Kelantan Into Haven For Wild Green Mahseer - Bernama",
+  "title": "BFokus - Man Turns Remote River In Kelantan Into Haven For Wild Green Mahseer - bernama",
   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WTC1JLW96SnBIUkRibFQtNmRxNVo2TkJSRkplWmo3d2hVRTVWWHkwanZERS1KOE8xUnUwT0doSENocW5COWhvUEVKcFYtNEdwWGpmUjV1TFNyQmx4MmNhaTFzOA?oc=5",
   "date": 1785550634000,
   "sig": 2,
-  "snippet": "BFokus - Man Turns Remote River In Kelantan Into Haven For Wild Green Mahseer  Bernama",
+  "snippet": "BFokus - Man Turns Remote River In Kelantan Into Haven For Wild Green Mahseer  bernama",
   "iso": "MYS",
   "region": "Kelantan",
   "widened": 0,
@@ -25882,6 +26012,18 @@
   "lang": "English"
  },
  {
+  "name": "United States",
+  "title": "Hoover Dam reopens July 31. See detail about the Nevada closure - USA Today",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcVM0ZUZTc0tjWEIwbEI0S282VlBOSzlaVWhCRkR4MkE4eVp5VTVQMkFTXzMyRFAwYkU5bUFBRzkwSmVpVHZfUmFVbU13Y0gxQmlEM2J5RE9Dd0d0Z2FhdGY4Uld5c1ljREVGZlFkbHJEVjBIdF9iTW1XOGZGOTZScEhteTdSRzRkNVpnalpEYjRQMWM4Y0dHWlYxSlhKX3gwOTBBeV9mb3AtOTZFMUgwT29LSEZaMGEwR1FXUmtZSmFmODU5bkVXb1lsNHlMSzduUXA0alNXVlRWdw?oc=5",
+  "date": 1785515220000,
+  "sig": 2,
+  "snippet": "Hoover Dam reopens July 31. See detail about the Nevada closure  USA Today",
+  "iso": "USA",
+  "region": "Nevada",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
   "name": "Pakistan",
   "title": "Shangla mourns 28 miners killed in Balochistan coal mine accident - Dawn",
   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKbEpQeVZLVmtNSDZ2aEY0MkZXYzBvcGp4VWlRZTRDLTZxODJUbFF6R1dzbUtldG5mamdMUHllNlB1WV9BRFMxVtIBTkFVX3lxTE5HUk5LdHNCSHR6MHVBX0FZSHVJNkIzcDNkcENiWDBsbTNkNkptOE1zVElZX0FqX1NQSFg2V05UR04tZDFSSWxoaVV6N2ZQdw?oc=5",
@@ -27189,22 +27331,22 @@
  },
  {
   "name": "Front: Brazil Belo Monte dam",
-  "title": "Brazil’s hydropower plants brace for heavy rains as El Niño looms - The Independent",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3lKSTdMRE44NTJUa0JyNWVUVTF6eE1aZXRka1RsdDRadERjeGFDR1NVQmxsRU56enlxcnJHcDY5WllmQnduWXpYdzV5Q1RUMlFrTUlKNDNRalMyaTJLY2d0QlFjYmVFTll2ekI3c3FZQmk5R0QyUUJNWFJkWGI3cFdMbGdvdWxWMlNzczd1WnBNOUJvQUkxSk5OLW4?oc=5",
-  "date": 1785493620000,
-  "sig": 2,
-  "snippet": "Brazil’s hydropower plants brace for heavy rains as El Niño looms  The Independent",
-  "iso": "BRA",
-  "region": ""
- },
- {
-  "name": "Front: Brazil Belo Monte dam",
   "title": "Brazil’s hydropower plants brace for heavy rains as El Niño looms - independent.co.uk",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3lKSTdMRE44NTJUa0JyNWVUVTF6eE1aZXRka1RsdDRadERjeGFDR1NVQmxsRU56enlxcnJHcDY5WllmQnduWXpYdzV5Q1RUMlFrTUlKNDNRalMyaTJLY2d0QlFjYmVFTll2ekI3c3FZQmk5R0QyUUJNWFJkWGI3cFdMbGdvdWxWMlNzczd1WnBNOUJvQUkxSk5OLW4?oc=5",
   "date": 1785493620000,
   "sig": 2,
   "snippet": "Brazil’s hydropower plants brace for heavy rains as El Niño looms  independent.co.uk",
   "iso": "GL",
+  "region": ""
+ },
+ {
+  "name": "Front: Brazil Belo Monte dam",
+  "title": "Brazil’s hydropower plants brace for heavy rains as El Niño looms - The Independent",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3lKSTdMRE44NTJUa0JyNWVUVTF6eE1aZXRka1RsdDRadERjeGFDR1NVQmxsRU56enlxcnJHcDY5WllmQnduWXpYdzV5Q1RUMlFrTUlKNDNRalMyaTJLY2d0QlFjYmVFTll2ekI3c3FZQmk5R0QyUUJNWFJkWGI3cFdMbGdvdWxWMlNzczd1WnBNOUJvQUkxSk5OLW4?oc=5",
+  "date": 1785493620000,
+  "sig": 2,
+  "snippet": "Brazil’s hydropower plants brace for heavy rains as El Niño looms  The Independent",
+  "iso": "BRA",
   "region": ""
  },
  {
@@ -28137,11 +28279,11 @@
  },
  {
   "name": "Nepal",
-  "title": "Nepal Protests: Why Madhesh region is protesting against PM Balen Shah just months after his rise as a you - The Economic Times",
+  "title": "Nepal Protests: Why Madhesh region is protesting against PM Balen Shah just months after his rise as a you - economictimes.com",
   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRVBNZV9feFpoRi1nVmpYTlM4SE11ODlqam1zQWlHLTA4dENfaXpsd2V3RHc2TEJxOERFaGF6cURBdHlPaG9zYnZhVjRrSkxUOXBOZWZIc010b0RiYjhENVU2RzVMUzE0V0RmVUZ2TFVGN0pvSWhrcTZ1UkptSGRjc3FVUTBFY2hUS0tFUGF3R2lzT25oOTBxR3lLODR6T1Z0SUE0LWpLOFAyRlRMYU0xbUxCWGEweGJJUnd6ZlN5NDg5SWJ1QVpnOVVWdnJFWnQ2QmNRRHVTMjJzZTZLYm1scWlod3p0V3plZWdKX3I0WEV5QzY2bTUzMExQYjdBc2U0ZmFkY0d0bE0xalpfcDVyYtIBlgJBVV95cUxPck9xdUxpTWNQLUladml0WFB0Y1MwZ0hTVTZHY2VmRWkyV2VIa3ZXSHZhSWhZcUMzZGdmRzNHVUF3VFAzQ3BNS3BKR0JYSjM2YVVLX3h6XzNYV1dRMHVoWm1Hb0hQeUk4UTVrODc3QmtVSHZYMnNuSnJkamFUeUI0eDVaOUxnbEk4ZkJaSFc4OW5yWlBJSDVMbHhuMElTM0x4blBWU0FVMkZNdUplQVMyaE5zYjZWMXJGaUxEQk9tZ0hUWWlsWVR6VHdoNEllMWdIT0l3MzdMS05zUW4wUkx1dkUtLWhEMjVkMmhRVFVNUHpXNDdMOFdWLTU4cGtGTVRKU0Y4akVJeUUybDdVMldOUXFqTi16QQ?oc=5",
   "date": 1785481010000,
   "sig": 2,
-  "snippet": "Nepal Protests: Why Madhesh region is protesting against PM Balen Shah just months after his rise as a you  The Economic Times",
+  "snippet": "Nepal Protests: Why Madhesh region is protesting against PM Balen Shah just months after his rise as a you  economictimes.com",
   "iso": "NPL",
   "region": "Madhesh",
   "widened": 0,
@@ -28461,11 +28603,11 @@
  },
  {
   "name": "Japan",
-  "title": "Explosion at coal mine kills 34 in southern Pakistan - japantoday.com",
+  "title": "Explosion at coal mine kills 34 in southern Pakistan - Japan Today",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWk3X1YtQVVON0tyS0xuOWNGN1JXaDZMa1g3Y1FxRGw3Q0tVNThnWTBFQzcwcHkyX3k4N2Y2WkxKM2JXQXN4bU1FVko1SUFFMDFraUt4SVlEV0p0NDhmbk54SHRFUzlwdW4xOUZfZGFXd1hYaTNkM2RlMHdtVUJpNktQbHJlTHUwdzdiWnBYYVhhQmZ5?oc=5",
   "date": 1785474995000,
   "sig": 2,
-  "snippet": "Explosion at coal mine kills 34 in southern Pakistan  japantoday.com",
+  "snippet": "Explosion at coal mine kills 34 in southern Pakistan  Japan Today",
   "iso": "JPN",
   "region": "",
   "widened": 30,
@@ -28473,11 +28615,11 @@
  },
  {
   "name": "Japan",
-  "title": "Explosion at coal mine kills 34 in southern Pakistan - Japan Today",
+  "title": "Explosion at coal mine kills 34 in southern Pakistan - japantoday.com",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWk3X1YtQVVON0tyS0xuOWNGN1JXaDZMa1g3Y1FxRGw3Q0tVNThnWTBFQzcwcHkyX3k4N2Y2WkxKM2JXQXN4bU1FVko1SUFFMDFraUt4SVlEV0p0NDhmbk54SHRFUzlwdW4xOUZfZGFXd1hYaTNkM2RlMHdtVUJpNktQbHJlTHUwdzdiWnBYYVhhQmZ5?oc=5",
   "date": 1785474995000,
   "sig": 2,
-  "snippet": "Explosion at coal mine kills 34 in southern Pakistan  Japan Today",
+  "snippet": "Explosion at coal mine kills 34 in southern Pakistan  japantoday.com",
   "iso": "JPN",
   "region": "",
   "widened": 30,
@@ -28857,11 +28999,11 @@
  },
  {
   "name": "Indonesia",
-  "title": "Palm oil expansion reignites decade-old Indigenous land conflict in Indonesia - news.mongabay.com",
+  "title": "Palm oil expansion reignites decade-old Indigenous land conflict in Indonesia - news - Mongabay",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0RIYm5yaWJYOFdmLUdwX0EzYUxVT1lwS3BITWNBOFh0cHo4dGluOVRCNlVmOVFZdk5aSjg2OHdkNFpKczhUbWd5c2VhdTR2Q1V5UDJmbDZHRWdNdjZIcE1RdVJVM19VTGtsVzRNNDd5UGFOelJEQlYyUkVnNE9aVV91dHA0ejVjNW9UTGVhNFRRbzE5WHJsanpUUDhqZTcwR21PbGdPSGliUFV0SV80dmxB0gG3AUFVX3lxTFBGeDBNV3ZLa19OSTV3MVNmWXVoX3pnT1Q4cVdYZDlPYnhFTjFRcGhHLXFWdkp4MEMwX2hOQks2b1NRckFhOXNzMDJqVUV2amdOYVlURDZOQkZxQ2NRNk1obDVwS2p0SHp6Q2pEcmZqVHc5Y3JmU0pKVzR1U3ZEV2FUbVY2N3hwS0ppQi1qd2lDQXB2TXdWRXVPVDhBMnpxODF0VlZYMzRieTJpT2hzWk02S3JDSHRFYw?oc=5",
   "date": 1785469999000,
   "sig": 2,
-  "snippet": "Palm oil expansion reignites decade-old Indigenous land conflict in Indonesia  news.mongabay.com",
+  "snippet": "Palm oil expansion reignites decade-old Indigenous land conflict in Indonesia  news - Mongabay",
   "iso": "IDN",
   "region": "",
   "widened": 30,
@@ -30457,11 +30599,11 @@
  },
  {
   "name": "Ireland",
-  "title": "Activists Against Israel-Ireland Nations League Soccer Match Occupy Department of Sport Offices in Dublin - Algemeiner.com",
+  "title": "Activists Against Israel-Ireland Nations League Soccer Match Occupy Department of Sport Offices in Dublin - algemeiner.com",
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelRxb0JjdmtZZ3BwSG5sajk2LVQ5Mk9ISklCdWJMLWZvOTVpalRfNXQtSkVPV2MwRlY4U2NTbVJJSWNBSkZtbC10T0thVEJobTNfQ1FySHo4V0diODlIT1hZSk5wZ09TOGNUVEFLbGsxTG45TC1tUENoUFZwMnVhTGJFZGlsV21TQll1UUdYaXB6ck9MWEZRVU9rSGQzeXRFSTl1bFRVOXJqUzJPb2pwNGdoVmhVZG5HUXB4ZERHQ1JTai1ITmxTSm5pUlJyYTZ6bnhQdmtORXpoaTc1?oc=5",
   "date": 1785441600000,
   "sig": 2,
-  "snippet": "Activists Against Israel-Ireland Nations League Soccer Match Occupy Department of Sport Offices in Dublin  Algemeiner.com",
+  "snippet": "Activists Against Israel-Ireland Nations League Soccer Match Occupy Department of Sport Offices in Dublin  algemeiner.com",
   "iso": "IRL",
   "region": "Dublin",
   "widened": 0,
@@ -31108,6 +31250,18 @@
   "date": 1785433500000,
   "sig": 2,
   "snippet": "Uganda revives stalled CEO hiring at Kenya Pipeline  Business Daily",
+  "iso": "KEN",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Kenya",
+  "title": "Uganda revives stalled CEO hiring at Kenya Pipeline - businessdailyafrica.com",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3JFbUh3b21DcnRscFR4OVJHbHJ5elZOekxZc1hGeG5SQzRIcGc3R3NGNGV5a0tSblJJQTloRlprbzlZVHktM0FHbkdWd000UHF3cXd1RjJQd0hIZU1TQnJxcUxNcXNGaFljeVk1NHNpLVpPYXpzbFZIa0JoNGNteXczaGhncVRTZkQzOVhYbkhOcG1oYVYwSi11WmFUX3VBVExuNEFpTHAwQQ?oc=5",
+  "date": 1785433500000,
+  "sig": 2,
+  "snippet": "Uganda revives stalled CEO hiring at Kenya Pipeline  businessdailyafrica.com",
   "iso": "KEN",
   "region": "",
   "widened": 30,
@@ -31845,11 +31999,11 @@
  },
  {
   "name": "Cyprus",
-  "title": "Expansion | Iran asks Bulgaria and Cyprus to review the permit to the US to operate from their military bases - Demócrata",
+  "title": "Expansion | Iran asks Bulgaria and Cyprus to review the permit to the US to operate from their military bases - democrata.es",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOW1wLTlFM0hFYndCQlR1am9fQkptODhzcVFXTVV6LXBtUHVNRVkxTk1ZdDdxTUZ0NGJ6MFQzWHU5d180V0l6YXk0bGQ1MElIQUpYandOaDVpb2hxQWoxdDlOenZaZGhiTHZlTWUxNVQydTQyTGRXcW5yRVo5YTJzbU5YQ1RubmtFTy1NdkdjcjlvYlp6Sng1djc5ZVVuVHN5S2JUbkctUHY4MzBvWHdEWEtkZzFFMVE1ZkhqdmpsTzZsWVBSOVZoUVEzVkt0QjdpNFY4Z0NxMnpZTG9JNk1EVC1SdnHSAeoBQVVfeXFMTmFDYnhjdlVXTHoxVGFXX2F0QlZoWkU2M240VGRnUHZNbTZrT2J6akpOM2lkX3RTM0ZGQ3U2UFB5cnBVZkUzSjdOTGxOM09admpIWEEtdGEzV2FNMHJJZ3p6amVoUU9yQkNNakJQekxET1R0OEE4OUhBVWIxcWdrSEY0X3FXQ0FPeUN0SzR6UHF0WXhHSW90YjhCb0tNSnFjcHkzclJvSlBaOWZSYjgxc0tFSzE2TTdiWGR4VzE2UThmampNWF9jMURxVjRyWG5xMWxuTzJJNFJWal83bGpZYlVpYWc3V0ZxUFhR?oc=5",
   "date": 1785425066000,
   "sig": 2,
-  "snippet": "Expansion | Iran asks Bulgaria and Cyprus to review the permit to the US to operate from their military bases  Demócrata",
+  "snippet": "Expansion | Iran asks Bulgaria and Cyprus to review the permit to the US to operate from their military bases  democrata.es",
   "iso": "CYP",
   "region": "",
   "widened": 30,
@@ -32574,7 +32728,7 @@
   "snippet": "royalgazette.com",
   "iso": "BMU",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -38737,9 +38891,21 @@
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3RmVU1FYnNGRnF3WmZLWi1oOWZLWk9VUDdPOFdyMENlWU1UUzVvaVVFUXRUTWR0WDlCQXN4UF8ybHNESEJGU0ptanVMSHdzdFRFd3VobnRTdVZNQ2tEbThLWjdsSjQtd19CRUE1eW1fejQxemRFRVZMbXdPby1YQ0FiX25UWUpWeFRB?oc=5",
   "date": 1785308400000,
   "sig": 2,
-  "snippet": "In Ohio, Toxic Wastewater Is Bubbling Up Out of the Ground  The New York Times",
+  "snippet": "EPA proposals to keep Indiana coal going would threaten drinking water  Canary Media",
   "iso": "USA",
-  "region": "Ohio",
+  "region": "Indiana",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "United States",
+  "title": "Indiana Reacts Survey: How helpful was the trip to the FISU America Games? - The Crimson Quarry",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVlBVMEEyX0hlRTFKZnd1MUZjZUxPMTFaZGVWTFZaSkgyRFZGNzV2ZVBEWXkzVUVIM2pid3RLOWVLeUVlbzhLb0lJOEVUNTZDVFBZNHdRTTZUT3JMb1BDNzhiOC1nekxra0dqUkxpT001eW1tdXNmU2ptMlNlRWZ0WkxoYkhSczl4dUlxYUFRZXg3d25jYmZ3YjdCRFFrNlVJTlg3X3U1T2oxX2t0WDNVS0pOYjBjc3hKMU9KSHFlWmlwbEtvdDlIZm0tbFdGTHVkZktFb2I2RU8?oc=5",
+  "date": 1785308400000,
+  "sig": 2,
+  "snippet": "Indiana Reacts Survey: How helpful was the trip to the FISU America Games?  The Crimson Quarry",
+  "iso": "USA",
+  "region": "Indiana",
   "widened": 0,
   "lang": "Unknown"
  },
@@ -39824,18 +39990,6 @@
   "region": "",
   "widened": 30,
   "lang": "Albanian"
- },
- {
-  "name": "Malaysia",
-  "title": "Six held, RM2.98m worth of iron ore and equipment seized in Kelantan mining raid - Malay Mail",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMkFqSnF4TVdpV21fMDV4MENTbXdOSjNkUTBuX2pUZFVGMzJkZ3RSWHAtSXMwUjhSaTNjLWhQNGdQRUFLaEktWVY4Mjl5bzNzV3RmbUtodU9ETWh3Y25nYzRzOS04V2JRallWVHplSHRjY2czMzdYeFlsejZFVnRrXzVjQk1vZHo4REdCbDJ0OENENlpyNnp1Sks4aFZjd3JCbXBpaWMtMkJiX1J4Nm5YMEpiZEZmbTdYckMtUWc2VHMyY0pBZWVfR1psWmttSE96OUHSAdcBQVVfeXFMT0VZV0V2bThrMW85ZFlOVlBFMFp3clVIbUpacE5iN2xrS3BxRGJoTDJ3djdHTVpXY2gzMW9kYnhtLXJOX3pvbV9qQlFENjlXVWVOT3hKV005RGdCSVQxS21oRkYydDE4djJWWHRuQWdkWUwtVDZlaFctem1wQzl0OE5rcGs1SVl5NHd6TThqLWZQbkhLYXdzMzlpc2RNV2o5bVRJSjY5cGF4ZEQwU3dVNHlhVE14OUU2V0NrbFNaUWIzRVR2ZWs3VXVfalI5Nm1oSl9xV2Y3ems?oc=5",
-  "date": 1785286664000,
-  "sig": 2,
-  "snippet": "Six held, RM2.98m worth of iron ore and equipment seized in Kelantan mining raid  Malay Mail",
-  "iso": "MYS",
-  "region": "Kelantan",
-  "widened": 0,
-  "lang": "Unknown"
  },
  {
   "name": "Mexico",
@@ -49671,11 +49825,11 @@
  },
  {
   "name": "United States",
-  "title": "Protecting Mississippi’s Delta Wildlife - Environment America",
+  "title": "Protecting Mississippi’s Delta Wildlife - environmentamerica.org",
   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHRzbWY5VFJmVUZXUXh5NlBQNTI5d2lFOXpmTWE3RHNxbzlLeURfYVlDUjZkZ09VYlpNc2dWejhfc1dMZlhwTDAwTmNmeE1WbXdnMVpkYWZaYjdYU2xLSDhRUVozSW90bDdoNklPbjZ5ZVNSYnptZDhDU0ozSjB3S2pHVEFPZw?oc=5",
   "date": 1785146574000,
   "sig": 2,
-  "snippet": "Protecting Mississippi’s Delta Wildlife  Environment America",
+  "snippet": "Protecting Mississippi’s Delta Wildlife  environmentamerica.org",
   "iso": "USA",
   "region": "Mississippi",
   "widened": 0,
@@ -49683,11 +49837,11 @@
  },
  {
   "name": "United States",
-  "title": "Protecting Mississippi’s Delta Wildlife - environmentamerica.org",
+  "title": "Protecting Mississippi’s Delta Wildlife - Environment America",
   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHRzbWY5VFJmVUZXUXh5NlBQNTI5d2lFOXpmTWE3RHNxbzlLeURfYVlDUjZkZ09VYlpNc2dWejhfc1dMZlhwTDAwTmNmeE1WbXdnMVpkYWZaYjdYU2xLSDhRUVozSW90bDdoNklPbjZ5ZVNSYnptZDhDU0ozSjB3S2pHVEFPZw?oc=5",
   "date": 1785146574000,
   "sig": 2,
-  "snippet": "Protecting Mississippi’s Delta Wildlife  environmentamerica.org",
+  "snippet": "Protecting Mississippi’s Delta Wildlife  Environment America",
   "iso": "USA",
   "region": "Mississippi",
   "widened": 0,
@@ -50401,11 +50555,11 @@
  },
  {
   "name": "Mexico",
-  "title": "México le gana juicio millonario a minera estadounidense por el cierre de Calica en Quintana Roo - Infobae",
+  "title": "México le gana juicio millonario a minera estadounidense por el cierre de Calica en Quintana Roo - infobae.com",
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMmltUUJkN0ZiUV9kN3FqampSV1d6WGs1ZXM1NUVkVFFobGlIODN6dGVNY0M2LVNZUmN1dElESUNRRW1YdGFZUUlNaE4xY0pEQjJVSUN3eWgxVzZRdG05Y0Q0ZjJERjBUZGNlVDdDQXV5QlZZU3FPVzl5YmV0aDlCbkhFZGZ5a2Iwd0ZQVEtGM1IyakFkb18wMjM4bjdRLWdHejVLQzJmX0wxU0FleXZtM0VKazR2SnNlN056eVk2Q09obzQ2QjJUOFgzck9WcFlFSkxkMFpRX1ZpNFXSAfYBQVVfeXFMTWJ0MFVIYWhkc2VoM0NrYUJVMzc1d0dXQnY2b0owNVBGN2ZtV2dHVkdRRS01VThtVUtEUVJMa1ozVXdkY0ZDRGRYVk14a3JzRzdLem5MSTdybmVJYnR2dVVSVUkwMjdZSzVFSlFpOWRkWlpKRElKaVpRRklYS2hYb19hWEZOaC1JVnY4LWtsNno5WDJRblZlVTRKdkxDX09IZW9UaHc3NU4xNi1YRF8wNUlsYWowNlJhNzBmcUNyYXFNOUVBajBTUHB0MHdSOUhmNC1tdVA0Q3VoNnRiMVFhcWNkV3U5Um1CVTh1djdZZVNiODFpMVhB?oc=5",
   "date": 1785135600000,
   "sig": 2,
-  "snippet": "México le gana juicio millonario a minera estadounidense por el cierre de Calica en Quintana Roo  Infobae",
+  "snippet": "México le gana juicio millonario a minera estadounidense por el cierre de Calica en Quintana Roo  infobae.com",
   "iso": "MEX",
   "region": "Quintana Roo",
   "widened": 0,
@@ -50566,18 +50720,6 @@
   "region": "Saarland",
   "widened": 0,
   "lang": "Unknown"
- },
- {
-  "name": "Chile",
-  "title": "Lundin says Chile mine restart after storm may take 2-3 weeks - Mining.com",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHo2ZVE0YnFCb0hZTE5WMTZwbFNBS0VPNUIyc21QX01NT1N1Z1BFWU44NEZUZHFFYWJJSmNaQXB0OHc0TFowUWM5Yi1kU1JHZkt0NTY5b1dMNDl2dDBHQmV2Y0x1cDF2czZYZmk5Vnd2ZjRpZ3p4SlBjcEJUc2dUVHNGbXozNllGNTAyUkZiRUhCQWc?oc=5",
-  "date": 1785135600000,
-  "sig": 2,
-  "snippet": "Lundin says Chile mine restart after storm may take 2-3 weeks  Mining.com",
-  "iso": "CHL",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
  },
  {
   "name": "Japan",
@@ -53670,18 +53812,6 @@
   "lang": "Unknown"
  },
  {
-  "name": "Chile",
-  "title": "Deadly storm in Chile disrupts copper mines and raises AI supply concerns - Financial Times",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbW1EcEx5TlRUMnc0QUtNWDJET0lqVUQtMTFCV2l4S0xCZ2hxcXdBMkR2dVJzQVhPVXhJTTdIa05BTE1OQ0dDOW1kMzYxWERRMWpNcUxTdDdPTlIwQWl0bzRKOWtNcTNONzNuQlBQNk8yMzBOSmZNNGliZXdEMEg5ZElNMXQ?oc=5",
-  "date": 1785049200000,
-  "sig": 2,
-  "snippet": "Deadly storm in Chile disrupts copper mines and raises AI supply concerns  Financial Times",
-  "iso": "CHL",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
- },
- {
   "name": "France",
   "title": "Ouverture de la chasse : une saison qui risque d'être écourtée, au grand dam des passionnés - la1ere.franceinfo.fr",
   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnZrc2NjRlY1M0tTZ1h0TDhQMDhvT1ljNGNjMi1TZWxGSlB3LVVzSW9jd05LT0lRQXl5Yks1ekp0N3YtMVFYZDBjTEhUanU3X0Q4S0lrWWZreGxjSlUwS1BYVjMyTzcyeXBUZE1Ba05WQkowOS1mU0I0Mmc2eXExYkRGemFidW56M2pHa1I4WTNRT0NFNG96cWZ0NDA3WjVsZFdXOThia0luVkNIZHlMRC0zd01GczNVWFNzY1BJRExuZkwzV2xzYlhRQ0VLUGd3dWloR1FZM1g?oc=5",
@@ -54783,18 +54913,6 @@
   "lang": "English"
  },
  {
-  "name": "Kenya",
-  "title": "KCB to face Kenya Pipeline in Kenya Cup women's volleyball Final - The Eastleigh Voice",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0lwa2pnMTM4TFBuaVlRUFlkYWxKZ0xXd1JlRWpVZGtQTEdBVm1STEkzUF85bjBaNFJ0YkVTMS1ERnpMbWVReFZISWhmSndfbkxObVdXZlBWVlpDbTZPRGEwM1MtVEtqc3psbnVoMWdIaEpZMUZCcDdPSVF0VGVtWUxfeTNZNVlpaUZzMzAwLXJTeHlKVE44QVNVZmROT1FOcGFva0RLWm54QQ?oc=5",
-  "date": 1784996728000,
-  "sig": 2,
-  "snippet": "KCB to face Kenya Pipeline in Kenya Cup women's volleyball Final  The Eastleigh Voice",
-  "iso": "KEN",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
- },
- {
   "name": "Italy",
   "title": "Lombardia amplia il pipeline di investimenti esteri con 81 nuovi progetti per Invest in Lombardy - Traders Union",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRzBVVW5EUTNJVk52aWx2RVItWnRod3UyN2VSQ0pKZ1pTSFVJZUFybURRRlVyVHVZOWd3VnpDbUhtc3NuNGZfbmVTa3N4UWpnS1NnUDIzQ1IxcTZKTlVoV1lMdG1lVVU1emN1c2FJRjVuUkptTnA3ZFlNdVplSHVfUFJXOW1sbE8tbWR0TzRvMXE1cVhSMi05c2pTUWFLS0tiWDJSUWVydw?oc=5",
@@ -55844,13 +55962,25 @@
   "region": ""
  },
  {
-  "name": "Sweden",
-  "title": "Sweden Declares Mining a National Security Interest - Mining Digital",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFlPTFlwMHZqcGZ1X3Z0aUFRcXpDVUVkYmplTmI1b00zNTdnXzBqakdSTUZLSnptRWtjd25kVko0dGliVGFZNW5YWkxXZGNFYktQUlVzYlhYc1NyajJWekVMc2s2UGwxaVZjMmNGYlo3SDNWQ01JX1Z0QzlDZkdJT1FvdTBWNGxzb2c?oc=5",
+  "name": "Peru",
+  "title": "Brazil’s government says it is working with Peru to protect border Indigenous lands - AP News",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZThydV90ZzFhNjFuUnV1MFQyMTNRXzNXeWZTNjZWVjF5b0lkbmxOQm9aZDJSbmRVMXBodUVJa01xcFJuSUpyWThIUzVsclY0MmtlWGc3Vzh6c1d2TFZlb0tpTjQ0TzVkblBfVzhUQ2hzeklZMGNGNVoxQ3dkUDh1bkY5TzN2ejVWVVcySVRhWUVBNl9Yd1lJRkZSaEU4UVdMT3hnZ1hBSFFzZmdVZXJoQ0dUUTh3bDVicl9KWDlKVVc3VzZTNXRMMjh6OA?oc=5",
   "date": 1784962800000,
   "sig": 2,
-  "snippet": "Sweden Declares Mining a National Security Interest  Mining Digital",
-  "iso": "SWE",
+  "snippet": "Brazil’s government says it is working with Peru to protect border Indigenous lands  AP News",
+  "iso": "PER",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Kenya",
+  "title": "KCB to face Kenya Pipeline in Kenya Cup women's volleyball Final - The Eastleigh Voice",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0lwa2pnMTM4TFBuaVlRUFlkYWxKZ0xXd1JlRWpVZGtQTEdBVm1STEkzUF85bjBaNFJ0YkVTMS1ERnpMbWVReFZISWhmSndfbkxObVdXZlBWVlpDbTZPRGEwM1MtVEtqc3psbnVoMWdIaEpZMUZCcDdPSVF0VGVtWUxfeTNZNVlpaUZzMzAwLXJTeHlKVE44QVNVZmROT1FOcGFva0RLWm54QQ?oc=5",
+  "date": 1784962800000,
+  "sig": 2,
+  "snippet": "KCB to face Kenya Pipeline in Kenya Cup women's volleyball Final  The Eastleigh Voice",
+  "iso": "KEN",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -57300,13 +57430,13 @@
   "lang": "English"
  },
  {
-  "name": "Brazil",
-  "title": "Brazil's government says it is working with Peru to protect border Indigenous lands - The Independent",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0dWdnFoYkppMS1POVBzZGwwVlRhalJ6US1jN0dCN2xJaXlPbHpWcXlvZnlGRVVVVkQ1R3lHZlZDVjhOWEU3aWwxYi12R05xdGhfc2E4RDk4SWszZmdMQ2E1blh3Z1R5SFVMY3Y5VWk0M1RUaDFxZlJVaWk0SUJyeGF1UU9laDhPUHBlYUtB?oc=5",
+  "name": "Kenya",
+  "title": "Kenya Pipeline Company Announces Jobs for Professionals, how To Apply - tuko.co.ke",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlR6MmJYTGQwcTZkTjlrYUFTOHA1TEp3WU5KVlVRaGd5MTJEUEJ3bzJ5MEFpWnFrRGhBRlk1SHdCOGZ0X0lXRXpmbVZlS1lwbWo5SF9zaFZtN1ZFU1Y0enJaZ0g3S0ZWQTBwNWpqelk5czV6MHNpRXpaSDRBSWdua0RmQ2hqcktpaXRUZlVDS1QzNEo2U1ljRThEWGpYMWx2aWp0NWdYVnh3MmFJRTBwZ3JwaVRSWGY5?oc=5",
   "date": 1784876400000,
   "sig": 2,
-  "snippet": "Brazil's government says it is working with Peru to protect border Indigenous lands  The Independent",
-  "iso": "BRA",
+  "snippet": "Kenya Pipeline Company Announces Jobs for Professionals, how To Apply  tuko.co.ke",
+  "iso": "KEN",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -57454,6 +57584,42 @@
   "lang": "Unknown"
  },
  {
+  "name": "Brazil",
+  "title": "Brazil uses forensic science to trace gold's origin and tackle illegal mining in the Amazon - local10.com",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYm1GWUczMEI4WFNlaHZHdklyZUtvdVNrX0dSWFJtNmdPTGZwMzJ2M3RzLUhyVW11SEtKUnk5MC13Unp4YktFMXJOQ3d3cWtIQllUdWtULWNfZDhWSnp6ZW9DQ0EtTW9UeEVXbHpwWW9kemhXR1R2Uzd4bkU3Y19Pam9hbElWYmFQV3NYNHZVQjJZTVI1akR2UklBWm1DVTNCTjd2d09CZVA4dVYzZDlRUHBoWWpRbTcxSGJfakI2SDNwQnZDSkN1UXZrRzVENGo2eXhF?oc=5",
+  "date": 1784876400000,
+  "sig": 2,
+  "snippet": "Brazil uses forensic science to trace gold's origin and tackle illegal mining in the Amazon  local10.com",
+  "iso": "BRA",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "United States",
+  "title": "One Billion Years Ago, Northern Minnesota Nearly Split Apart. Now, Two Companies Want to Mine the Aftermath. - eos.org",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbU5XV0oyRGtwSUtNYVN6QVlPVTF5dl9uRzZRSmRWUkpZRUg3aHU3aG9KUjRZSktKSXM1VHVXRkFNQkZRVmF0dGRvN0tEZDIxSUx1WkEtM0VhTnliMmdXM0hSaGtzUWp5LU5RQTBDR0k5T3JuQ2lDZV9LMGRuT2FfSUZNZURWMVlJdDlkeS1EZE5uX2xUMHRsZ2tvQUtWM2N0dDVCazc4NS0tN0NkeEp0WDktMm45ZVpfVHhqYUZjTFJDQlVmX0FwTA?oc=5",
+  "date": 1784876400000,
+  "sig": 2,
+  "snippet": "One Billion Years Ago, Northern Minnesota Nearly Split Apart. Now, Two Companies Want to Mine the Aftermath.  eos.org",
+  "iso": "USA",
+  "region": "Minnesota",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "Ireland",
+  "title": "Wicklow man preserves legacy of historic miners’ halfpenny - independent.ie",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHA2Z1R6OTRKSXRNUHFRRndBdEEyakZBY29Qdl96blBsRGlJbFFmb256eW8waEFZWkVWd003N0FjRmVjaFJRTmp1UFVwRGJFbVNkZnRjakVfeGUtV0FEMlVUeVBTWWEyN0JjM19mRjFpaWtoZXd2VXpXY1p2Q1BLVW1LdGt5aUFNX2FrcldaVTVKaVc2LWtSR2tNUVNSNWl3V1dGOHEzRzN2d3U1d3Qwb0pzZjJCdUE?oc=5",
+  "date": 1784876400000,
+  "sig": 2,
+  "snippet": "Wicklow man preserves legacy of historic miners’ halfpenny  independent.ie",
+  "iso": "IRL",
+  "region": "Wicklow",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
   "name": "Nigeria",
   "title": "2 jailed for illegal mining in Kwara - Daily Trust",
   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mR3JzQUc3Q3h1S1VVdl80MldfRlJEOXV1RDV4U1dFR2RpajhKb05PMFNndjRMakxBRXVmcFZPUHl4dGZXNV8zS1diQXdENjZXbVlEWnp3c1lCa3dKOS1ueHBiUHRTX1hXdUEwcQ?oc=5",
@@ -57486,18 +57652,6 @@
   "snippet": "Antofagasta restarts Los Pelambres, Chile investigates water incident  mining-journal.com",
   "iso": "CHL",
   "region": "Antofagasta",
-  "widened": 30,
-  "lang": "English"
- },
- {
-  "name": "Kenya",
-  "title": "Kenya Pipeline Company Announces Jobs for Professionals, how To Apply - Tuko News",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlR6MmJYTGQwcTZkTjlrYUFTOHA1TEp3WU5KVlVRaGd5MTJEUEJ3bzJ5MEFpWnFrRGhBRlk1SHdCOGZ0X0lXRXpmbVZlS1lwbWo5SF9zaFZtN1ZFU1Y0enJaZ0g3S0ZWQTBwNWpqelk5czV6MHNpRXpaSDRBSWdua0RmQ2hqcktpaXRUZlVDS1QzNEo2U1ljRThEWGpYMWx2aWp0NWdYVnh3MmFJRTBwZ3JwaVRSWGY5?oc=5",
-  "date": 1784876400000,
-  "sig": 2,
-  "snippet": "Kenya Pipeline Company Announces Jobs for Professionals, how To Apply  Tuko News",
-  "iso": "KEN",
-  "region": "",
   "widened": 30,
   "lang": "English"
  },
@@ -57786,18 +57940,6 @@
   "lang": "Spanish"
  },
  {
-  "name": "Chile",
-  "title": "Chile Mine Rescue Underway After Heavy Snow Traps 39 Workers | Videos - Hindustan Times",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN01ZMWc3S1o2eFFRcGpraGlidnJ6OHF2dDJQOWd1VzVZWjRDam1uam5ZQXVxaFdKdkdMUmJibHdfWUszaGdaQkNQWTBGRUdydzlQUlpSUVpzYzIydG9yU0Jjc0Q0R0U0cWxERG85aC1xbTQzZjhuV0VWQmdWSkh2eVFac01mMWZRYzVCeGxZcl85LWdSTVpVMFJVM3ZFeGVuQlZqVkJFcWYwWTV2c0p4ZkZsLW95LXJtT2xJ0gHAAUFVX3lxTE5lWl9BOGZFRVdIbG5UZFdGT0Njd2M4V0syazc0ZFFCdWo2bnR1NDViY00tUkZFaTF2M0JBdlpsV2c3c0R4bnRjM3pJWHpvZXpLYWxqSGlvMlVTYmQ3SDZaV0tLZWdlNzBnbnhQZHVqVy12NXpDMkYyX1dzZ0sxZDV2TDRXZi1nbWJLTGxZOENfNk40NFNvb1lIOUFRR2VNY3JNcGtOVkhZMTFyU3RLaXRzc3ZPV2EzT1NrUVlNcUdtag?oc=5",
-  "date": 1784867290000,
-  "sig": 2,
-  "snippet": "Chile Mine Rescue Underway After Heavy Snow Traps 39 Workers | Videos  Hindustan Times",
-  "iso": "CHL",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
- },
- {
   "name": "Ireland",
   "title": "LAWPRO renamed River Basin Management Service - The Clare Herald",
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHBKNzB1ZzhyY3JKWTFnWmZFSFVETURnbUx1V2hHSW12MEFCU2daRUpibjF5SVlTMmxzZ1dRc1p2T3pndld4OE56ekc3a2Q4eVk4V1lSVXVvWnY2Zm9aQUd5SXdzLUd2SkdEclZ2a2tmUDVMODY4Q0hpQVEtWWdYNU9LOTR4aWd1dXNKMFNiZkY?oc=5",
@@ -57999,11 +58141,11 @@
  },
  {
   "name": "Front: Papua palm oil deforestation",
-  "title": "Targeted Scenario Analysis in Papua New Guinea: Informing Policy through Land-Use Futures for Cocoa and Palm Oil - United Nations Development Programme",
+  "title": "Targeted Scenario Analysis in Papua New Guinea: Informing Policy through Land-Use Futures for Cocoa and Palm Oil - undp.org",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDdxakpQbTltbm4tSmhYNjZkOFBNT29aRF9yMXZNVjl2VWtXSmlwTXJ5S0pta29hYmVhRUx1OGlUZXpiQWhoUGVrN3g1a3V6TnhTT0tiUGxpMGd5TUlfQ2JqNEtTOHJNdFlIenlOMjhoNVRJQ2h0OEU1dTZScmx6b3BBU1EzZjNaTWJMbWVTbHMzcDJ5QXRKRGNYNFF1MXF1QUp6V3R6bU9IYkhKQzZxRC1LeGs5ZzFKbk1sRS1uc2dlTElaU2R4OXJWWDVFSTg4UmM0RG8tOXFMQQ?oc=5",
   "date": 1784842355000,
   "sig": 2,
-  "snippet": "Targeted Scenario Analysis in Papua New Guinea: Informing Policy through Land-Use Futures for Cocoa and Palm Oil  United Nations Development Programme",
+  "snippet": "Targeted Scenario Analysis in Papua New Guinea: Informing Policy through Land-Use Futures for Cocoa and Palm Oil  undp.org",
   "iso": "IDN",
   "region": "Papua"
  },
@@ -58042,18 +58184,6 @@
   "region": "",
   "widened": 30,
   "lang": "Portuguese"
- },
- {
-  "name": "Chile",
-  "title": "Chile investigates Antofagasta’s Los Pelambres mine after water discharge from rains - Mining.com",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSWcxTFlGVDlPLWFSLTVBTVZBelh0SHgzVXVLSWpDX0xMcmZqMjgyOG1JQkxTdW5ZOVdKdmVKOVQtV0h2eEotcFFSMldDUTZCRS12NVlOSi1GZ0llbVNJX3ljcXhtaXVLVnV6TEFHbDZYOElXWmc4cExjLUVyc1Nwem5xeFpmNWJuNFRVYlBGZ1M5cHIxRzJheU5seFdta19hTkpoSlhxN0VQYTJHNUp4Qw?oc=5",
-  "date": 1784837785000,
-  "sig": 2,
-  "snippet": "Chile investigates Antofagasta’s Los Pelambres mine after water discharge from rains  Mining.com",
-  "iso": "CHL",
-  "region": "Antofagasta",
-  "widened": 30,
-  "lang": "English"
  },
  {
   "name": "United States",
@@ -58570,13 +58700,13 @@
   "lang": "English"
  },
  {
-  "name": "Sweden",
-  "title": "Sweden to speed up mining permits to cut reliance on China - The Straits Times",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2duNDR1VkE1THNESXV0TElNcmEwUEYyQnlRR3F0QUFUZ29DR3UzcDZjVmZFcGFBQmxxUGNzSWZoRkVwbXlDX2lJXzMybzFPWmw0RkU3UG0tQkRtWHo1ZFVLZGVGNTVOSC1OeThnYzJHVV9Qb1FMYW9PYWJjc1hNVGw3UXphU0FCRVZSQmF1VmJ1OV9oTEhYVG5vRDVMaW52OXd4c3lGVkxJYjcyaTdvVldnUl9VNmh3cHBGY0ZNbw?oc=5",
+  "name": "Syria",
+  "title": "Iraq, Syria agree to build strategic oil export pipeline - Muslim Network TV",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmVCQVNadER1UVkxbWtCRF9PdzlXMWtHMm8wWHpWLURBeUFCU0pCMlljLW9MMlJpeGhJLU1VZElndjdYckZuLVBZQUstRzcxNmF1NU50ZzFkZV85NTF1WF96NTJncnJmTjU1cjJGRVFLQmRkOWtLUERaNkMzOGdQSEVGWTJDWlZJbzZfSWdn?oc=5",
   "date": 1784790000000,
   "sig": 2,
-  "snippet": "Sweden to speed up mining permits to cut reliance on China  The Straits Times",
-  "iso": "SWE",
+  "snippet": "Iraq, Syria agree to build strategic oil export pipeline  Muslim Network TV",
+  "iso": "SYR",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -59603,11 +59733,11 @@
  },
  {
   "name": "Colombia",
-  "title": "Indigenous people in Colombia pay—with their lives—for coal - oikoumene.org",
+  "title": "Indigenous people in Colombia pay—with their lives—for coal - World Council of Churches",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHJidzN6aVhIZGwzNHpzeW9ucTBibE9aV1h6Z0VyUXVYN2kwbnpkUFM4NDdwT3VUM0w2Z2NaaFVwTDQyQkJHdmlidG1VdDRtRUhFck1GcWtMeGMzaHA2bE1DZWkta2I2cnJSa0pYcEJzV0tqbXdPQlVQb0xGQ29FVUhDRWlEcEMyQmRLQWcydThCUWJF?oc=5",
   "date": 1784733087000,
   "sig": 2,
-  "snippet": "Indigenous people in Colombia pay—with their lives—for coal  oikoumene.org",
+  "snippet": "Indigenous people in Colombia pay—with their lives—for coal  World Council of Churches",
   "iso": "COL",
   "region": "",
   "widened": 30,
@@ -59615,11 +59745,11 @@
  },
  {
   "name": "Colombia",
-  "title": "Indigenous people in Colombia pay—with their lives—for coal - World Council of Churches",
+  "title": "Indigenous people in Colombia pay—with their lives—for coal - oikoumene.org",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHJidzN6aVhIZGwzNHpzeW9ucTBibE9aV1h6Z0VyUXVYN2kwbnpkUFM4NDdwT3VUM0w2Z2NaaFVwTDQyQkJHdmlidG1VdDRtRUhFck1GcWtMeGMzaHA2bE1DZWkta2I2cnJSa0pYcEJzV0tqbXdPQlVQb0xGQ29FVUhDRWlEcEMyQmRLQWcydThCUWJF?oc=5",
   "date": 1784733087000,
   "sig": 2,
-  "snippet": "Indigenous people in Colombia pay—with their lives—for coal  World Council of Churches",
+  "snippet": "Indigenous people in Colombia pay—with their lives—for coal  oikoumene.org",
   "iso": "COL",
   "region": "",
   "widened": 30,
@@ -59887,6 +60017,18 @@
   "sig": 2,
   "snippet": "West African Economic Bloc Leaders Back $25B Nigeria-Morocco Gas Pipeline  The Diplomatic Insight",
   "iso": "NGA",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Cyprus",
+  "title": "Turkey Sends Research Vessel to Survey Gas Pipeline Route to Occupied Cyprus - GreekReporter.com",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVlHa1lGVTdGRTJVWDFUWTVjZGxvQWgyUk50OURXVllUZ0JsdjMyOWgwTkpfbEtoazAyOTRLMk9pRnZYaVB5THVKbXRRSlhhRzJET1ZSR3VVU2Q4c2FyTEpEeFNDSjVtTWR1VGY1QXFkZVEzRlVKWi1HWm9fYklIdk4zSWdJR3c?oc=5",
+  "date": 1784703600000,
+  "sig": 2,
+  "snippet": "Turkey Sends Research Vessel to Survey Gas Pipeline Route to Occupied Cyprus  GreekReporter.com",
+  "iso": "CYP",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -60202,18 +60344,6 @@
   "region": "Delhi",
   "widened": 0,
   "lang": "Unknown"
- },
- {
-  "name": "Chile",
-  "title": "Aftermath Silver begins drilling at Berenguela copper target and Chile's Challacollo project - Proactive financial news",
-  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWnAtakluWlJ0XzNRVlNjMmJRaFpLbmRFeXhKQl9pOU5rV1hPTlJwRHZpeWNob3ZvbXhTTnZoNTJQR0luMG16UkNubWcyVndXTDBwQVFtVG5JZmxMRlZVMlZ2WG5iMUoyV1JpTFh3RGw5bUIyREY2WDNDcEhURVFDQmVWTXZEc2h6eVp3UnRJbERJblJuZDcxOHdGcEFIcEQ4NHVtSnlwcGcydG9KZkRFMzFjWjIwWkJPRHY0Tkkyd2xkaHQ5Nkc0Yk5oNGUwdndFMDRZMzlDSVl0SzZoRzU4N2ZxRzAxZ2phWEhueFh6bTlBazRRX3c?oc=5",
-  "date": 1784703600000,
-  "sig": 2,
-  "snippet": "Aftermath Silver begins drilling at Berenguela copper target and Chile's Challacollo project  Proactive financial news",
-  "iso": "CHL",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
  },
  {
   "name": "Serbia",
@@ -61200,6 +61330,30 @@
   "lang": "English"
  },
  {
+  "name": "Syria",
+  "title": "Syria, UN discuss displaced persons return, mine clearance, recovery efforts - سانا",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90N1NiM2hMT3dFbmtWd3liLUN0MmpMYVJJb1lNckFKNXNuR0dQWEdCOGlOdVpwbVZwTFVHa1lzcG5RdlRwNFRQTw?oc=5",
+  "date": 1784617200000,
+  "sig": 2,
+  "snippet": "Syria, UN discuss displaced persons return, mine clearance, recovery efforts  سانا",
+  "iso": "SYR",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Chile",
+  "title": "Deadly Chilean storm severs key highway, floods arid regions - Mining.com",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2JqV2NoVW9hdDFIWE01dGJmUUFHejY5NTNfVXdPUHlpSW9RWnU0Ty1lbTEyQkFyMHBuc2ZpVmR6b1ZpWkczRHZ5Z1lhVE9sRjZmT295WEJadnBETkI1N2ViN1dqeEx3bnBxaS1XNXhOdWFqZ295UWc4VXJHWjc5RGwzbDRRMGZKWC1OYUp4cUh2dlJOZVRlWHl3?oc=5",
+  "date": 1784617200000,
+  "sig": 2,
+  "snippet": "Deadly Chilean storm severs key highway, floods arid regions  Mining.com",
+  "iso": "CHL",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Ghana",
   "title": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining - bbc.com",
   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03eXR0U0xoalBTLWNEM3lkZDQtdFNISVNzb2pFSy1IZGR5aFlVc2RKNWlSTFJzQndmcTZtQVBwaV8ybUJqb25OQ2xJaXVrR0NhMnhrOWpEVGVtUQ?oc=5",
@@ -61460,6 +61614,88 @@
   "region": "Seoul",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "Australia",
+  "title": "LANDCROS and Pronto Put Mixed-Fleet Autonomy at Center of Queensland Mining - Tech Times",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUFNjZnFTRkJxUHZCa1lpYjRxNEZUOWdKRUdDNFpfcERieHc1Qm84XzAwZzJKQ0tiSmhQS1NtZDZnNThSeXdxVHRmQVNVUDh0d3l4RmNPZ0ZGcXNlUkwwNGNrbHc2SXJ2dTk0eUU0c1J3bG5CN0dFUXJlRWgzUGZJMFRJVGVtSF9HeWJxSWwtenEyTTByQm9fR3g5WVBtYVptZ1c1eDJaaEx6OXdKd28xeTBMZUFUYmNqRFRJMw?oc=5",
+  "date": 1784617200000,
+  "sig": 2,
+  "snippet": "LANDCROS and Pronto Put Mixed-Fleet Autonomy at Center of Queensland Mining  Tech Times",
+  "iso": "AUS",
+  "region": "Queensland",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "New Zealand",
+  "title": "June 2026 climate report - Northland Regional Council",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTlBUU0d3ZGlSWFRqYV9PUURQMFhQRkJEVllZQjVuU1BSNkpTMS1RTWdFbi15VzVlejkwRUtabmxKTU1uTTExaVhVMm41Nk1TcnRzQmYtdm9XRE1CamdLQnB3ZHVwZG5va0ZEajlBQldmSUs0azI4Qi0yV1d0bjBkRHBteS0yTlRoaUlPdHBNNVc5OHBmZXBPTUF3V25iRnY0NS1mN0JNSkhwZk9PTmY0a1VxNnlEZw?oc=5",
+  "date": 1784617200000,
+  "sig": 2,
+  "snippet": "June 2026 climate report  Northland Regional Council",
+  "iso": "NZL",
+  "region": "Northland",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "Front: Poland Turów coal mine",
+  "title": "Coal mines say they cut their emissions. Scientists don’t believe them - Los Angeles Times",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkVINzZLYkJwR0t5TkxTMkltZlNzU0pnUzd6YnNSU0F3ZFYzT0k4YUpDcEliSWN2WVBSTmZfdVkzaENTQVpyN1BzbTlXRllzdWZ5bTdHRmpYLU1qWlJzc2dmU2hrZUs5NDd0NmotYUJNY2J1RzFxWXJWWjRXc1pEbGhKWVByR0tvdFBuelAzTkd4NHgwRFptNzd4LVIyMDViM2lKb1hwR1hsQU5ZNWF3cGVmdXFKZVMzWGp2T0N3?oc=5",
+  "date": 1784617200000,
+  "sig": 2,
+  "snippet": "Coal mines say they cut their emissions. Scientists don’t believe them  Los Angeles Times",
+  "iso": null,
+  "region": ""
+ },
+ {
+  "name": "Ghana",
+  "title": "Ghana jails opposition figure over illegal mining - Miningmx",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTNhX2paVWpEZFVrUjdlb3gzMlkzWl9Oa29QOXNPOXdnWXNlOS1GblRfVFJjSE9FUm5ocW5wbFdBRkhYbzhBMExZdURlOF9lOHdoMnp2ZEp6X0lOVVMzZVFSNkFnVURINFhCenJ1TDBfVlliMkJZbHgzV3RTU3pXMXc3YnNBS05Vd3BnUFhvOEpqMDA3Smc?oc=5",
+  "date": 1784617200000,
+  "sig": 2,
+  "snippet": "Ghana jails opposition figure over illegal mining  Miningmx",
+  "iso": "GHA",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "India",
+  "title": "Delhi Police Crackdown: CJP Protesters Face Brutal Action - Frontline Magazine",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkM2SFppNmk0Q1JfdVdJMFlOakl6MjlsUkdnY294NWxhYjJqSWEzbzhmM0E0ZThvZ0x0MmwwMmc0VGR0bUx2MGd1NTk5YjhiSUxOUnY5Um9LcXJSZmg4cnp3WERheUs4MThubllRbkRkbG53bkFhcTdwNi0xc0drWU5KYjJQVWlWYUl5dGdwbmctYWdfYVNjNnV6SG15YWFOZldIR3hOTkZ1YlZtVmpTWldjeWTSAbsBQVVfeXFMT0t6RmRKWXVrV3pGT0dsN2E1SS1NUGx6RnMzTUNSNjlHZmE4NVF6dENrQzktdHFSQ212N2w1T0lMSk1xaGVWN0VJQ1lsblhDMm9zbzdsRElYeVFzNTZNbjBveWJxbHd6aHR2emdhbFpkRjRuT0hYNXlvaWo4ZlBLZlJWblVETmN4VWlCVUlISVZyUVVEaW1DeXVXRE5Hc3gyZnlmOHpteFM2X3BwVXRfT1hiNDVVbk5rVXhuSQ?oc=5",
+  "date": 1784617200000,
+  "sig": 2,
+  "snippet": "Delhi Police Crackdown: CJP Protesters Face Brutal Action  Frontline Magazine",
+  "iso": "IND",
+  "region": "Delhi",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Argentina",
+  "title": "Santa Fe y San Juan sellan un acuerdo estratégico para exportar minería por los puertos de la provincia - RedBoing",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMlQ1Wl96QW5PYlNEVkxCV0NJbVo2dFlIWGFaTzdZejhtR2ptaEc5aURQYjdSOGFYUUVBSEQ1V3RyRHNoa3JkLURfWHdHWkRoNFF2eDdZblBTeUU5TFQ1YUMxZ29XRFBVYk0tdEkxeW0zQnUydFVza1liTFFBZnktQ0JNU2pSUQ?oc=5",
+  "date": 1784617200000,
+  "sig": 2,
+  "snippet": "Santa Fe y San Juan sellan un acuerdo estratégico para exportar minería por los puertos de la provincia  RedBoing",
+  "iso": "ARG",
+  "region": "Santa Fe",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "Ukraine",
+  "title": "Russia says Ukrainian attacks damage Belgorod dam equipment - Anadolu Ajansı",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcTJNQzExMUFXd2VZajhVVVBYUW1sUXUtYVVlRkVzOEVKSVVLbVdfWnZBV3ZSLWhfTThQV2dTTHRrNWFHZC1QelVEZHhSYjloMjNycjBOSmFGWTQ2LTE0NjFsMUotRmlLR3BwOURHTHlLWENVbUxrOXl4VVE5akNKV3JwZDA5eWdLZE5lN04xUUZybVNPUG1BSFhXUFVBZTVYNWx4TVVKcERldnN1cGVDSA?oc=5",
+  "date": 1784617200000,
+  "sig": 2,
+  "snippet": "Russia says Ukrainian attacks damage Belgorod dam equipment  Anadolu Ajansı",
+  "iso": "UKR",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Front: Fiji seabed mining",
@@ -61750,18 +61986,6 @@
   "lang": "English"
  },
  {
-  "name": "Chile",
-  "title": "Deadly Chilean storm severs key highway, floods arid regions - Mining.com",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2JqV2NoVW9hdDFIWE01dGJmUUFHejY5NTNfVXdPUHlpSW9RWnU0Ty1lbTEyQkFyMHBuc2ZpVmR6b1ZpWkczRHZ5Z1lhVE9sRjZmT295WEJadnBETkI1N2ViN1dqeEx3bnBxaS1XNXhOdWFqZ295UWc4VXJHWjc5RGwzbDRRMGZKWC1OYUp4cUh2dlJOZVRlWHl3?oc=5",
-  "date": 1784617200000,
-  "sig": 2,
-  "snippet": "Deadly Chilean storm severs key highway, floods arid regions  Mining.com",
-  "iso": "CHL",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
- },
- {
   "name": "Front: pipeline blockade protest",
   "title": "Saudi Arabia slams Houthi blockade: How will rest of the world be impacted? - Al Jazeera",
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWo0WVBKeWthRXMwS1o4WkNGczVUbXZtMFFzUzV2Rm9YSU11VG9FN29LdVRKdzZTbUxvSnZ0UTFrdVJkUkxPS05KMG5kQjgweG9BRTBYbGsteTZ6X0tZU2xQQ19LMzJFRlZFdUtuQTduWVdkaHVPV09BNmJtdnR0UklXQjVEWWNzcDV3QjlLS2IyQmZmN0w1T19QZWhFckdqSXdVbG0zYndlcHNiY0psb014WEbSAboBQVVfeXFMTmpOM1VOR2k3SkhQNmpWT2lJaUpLcnpnOTNkYmY1YUpMMkNGZWcwTzllNng3LURDTTBjak1UeUk3T1F3MXBSOFZ4WktnX3hHNk1MZkwxYlVXLUFTWXNWQ1Ntb1RNaHNjNU9HdmNTblcxNWZhNHEyaG1CSHF2dktRZEJSS05UZzc5TlFwVmZyQ0hDRGIzVFBoY1c4RUh1VkV0WXZBSl9DcHE4MjhrLTk3cXNXdWc4NmpuX0Zn?oc=5",
@@ -62031,11 +62255,11 @@
  },
  {
   "name": "United States",
-  "title": "ACLU and ACLU of North Dakota File Brief in Support of Right to Protest on Public Roads - American Civil Liberties Union",
+  "title": "ACLU and ACLU of North Dakota File Brief in Support of Right to Protest on Public Roads - aclu.org",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNazdZZS11bU8wc2V5V284N0JzSFp5dGxkQmFCRlVjSzRqWktMRkx4QjJGQ1gwbnhxR1lpcjd6MWFmZmkza3hTX2xhTFB3ekgzZ3MzMm94OXY2N2NtaGVFdFctMzRQSXpILUtXcUliQ2lHd1B0Ynk2U0dMVTFGMnJxNW41QlB4MTdtcjE1Mk5UTHBtcUk4RXVVRmY1ZmxSb2tMbGxvUG0xQVgzUFNXcnR5LWRVQTJWQXFsRkJoWnA2azE?oc=5",
   "date": 1784567229000,
   "sig": 2,
-  "snippet": "ACLU and ACLU of North Dakota File Brief in Support of Right to Protest on Public Roads  American Civil Liberties Union",
+  "snippet": "ACLU and ACLU of North Dakota File Brief in Support of Right to Protest on Public Roads  aclu.org",
   "iso": "USA",
   "region": "North Dakota",
   "widened": 0,
@@ -62534,6 +62758,18 @@
   "snippet": "Massachusetts bill would end a costly gas pipeline repair program  Canary Media",
   "iso": "USA",
   "region": "Massachusetts",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "United States",
+  "title": "Nevada Mining Association Honors 2026 Safety Award Winners - Occupational Health & Safety",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZDhXNGJCUHl5MFltUEdlU3RjbGZLdXpZR2hqU1ZwUmFUMjdSc2kxS09hLUZNSENkdEtHVDNrcEk2UVFiNUtQdTFBbVE0WElHQXBCWUFIMnB2aGhXU290cDc4VkFvWGROZklzRUdBY2ZvZEstTTZMWTBJSjUwcGdfX3B3RjJhTzJjbUNpUXdhYU4yRnBaQTIzblZ0NlAzXzc3cmFRWlhPOWo?oc=5",
+  "date": 1784530800000,
+  "sig": 2,
+  "snippet": "Nevada Mining Association Honors 2026 Safety Award Winners  Occupational Health & Safety",
+  "iso": "USA",
+  "region": "Nevada",
   "widened": 0,
   "lang": "Unknown"
  },
@@ -63048,18 +63284,6 @@
   "lang": "English"
  },
  {
-  "name": "Yemen",
-  "title": "Yemen’s Houthi rebels threaten blockade against Saudi Arabia - ft.com",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNi11dEc2NXJ6MXk5MXhfRkh1T2VkVmJHZkY3WWxyMXVocU9NenhTWlRqbl9DQkZBOEtUdnEzZE9DMVZ0Nzk1aXRvT1dYclBQSF8yOVdOSXZ4VGd4dHYybUhfZm9fdndsWldaYnRxMThBODRMVlk3QjUxTTRHdGViUnozLXg?oc=5",
-  "date": 1784530800000,
-  "sig": 2,
-  "snippet": "Yemen’s Houthi rebels threaten blockade against Saudi Arabia  ft.com",
-  "iso": "YEM",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
- },
- {
   "name": "Armenia",
   "title": "Trump Route fund chair Sokolov buys second-largest Armenian mine - OC Media",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzVvSzFUTmdHdjN2TVlWSmQ1TmZmcTc4VTdVd1FHZjgxZWV0VVNDa2pJV1BfNW0wQTItSmduUjRSSmxrdjhIb253M2hMdkhXRFREcnFqWnVidFZ6RUZjd0RWVEcxazdybE9zbnp2TFp2aVU0YWYydDR1NEZXRzA4TE9DTGYzYTVHSjYzWktKTQ?oc=5",
@@ -63366,6 +63590,18 @@
   "lang": "Unknown"
  },
  {
+  "name": "Kenya",
+  "title": "Kenya Pipeline see off Kenya Prisons to retain KVF crown - Citizen Digital",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0wtTEZScG1lMndmbVFLbzhlX3FRZDRoQ1NhMDQ4amNjeS1VRkQyU2xtRFo4OFVXZjFzTTZKOGhxTWp6QVJiQU5ZM3JzeFUzZktnWlRhWUczb0pId1o5VlJFWURDYy1qLW01cVdaM1BZTWpzNUdydHdseTJ3RXBKYUJnbmd3UGhGUFFkMlZySG5aRklxSlhtTFpaUmI?oc=5",
+  "date": 1784444400000,
+  "sig": 2,
+  "snippet": "Kenya Pipeline see off Kenya Prisons to retain KVF crown  Citizen Digital",
+  "iso": "KEN",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "United States",
   "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires - CBS News",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1Q1dVJhbUVXM0kzY2VfdnRKYWhveGRQZzlmNW1ENndnRXdzZnNJTUhuNkhTbWJxVmo2bVdUQndsWEN2amFrb21ueVNZeGtKN3FOSGxrNExfQWw3eXRLYnRLQVIyQ3VZdENUdjJYZ2ZwM2FxaUY0dzc5dVdyOWpOMVR1TWJMN3ZyX2w4?oc=5",
@@ -63443,9 +63679,21 @@
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUpmTTNpOFFNdmU0Q3l2RGRSTERIeDg2Yk1LX0FVQXlQNW9neVdNekRxSFh2Q3cyY0xBZGM2RXhGOWZrS0U0YlV2eGFpaG9EbFh0NFNJdkVGa0gzeEFSWXNOWl96NEptVEI2VEtwSmhLRi1iTmVna3V6RjZlYUg0ZHc3dm1raGktUXdOa3lOLUlCRjc4cjNPQVRHS3JNb3RfX1E?oc=5",
   "date": 1784444400000,
   "sig": 2,
-  "snippet": "Ohio community joins nationwide data center protests  Spectrum News",
+  "snippet": "Stillborn cows, dead dogs, full-body rashes: $78M in lawsuits say Knife River mine tainted groundwater  OregonLive.com",
   "iso": "USA",
-  "region": "Ohio",
+  "region": "Oregon",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "Peru",
+  "title": "FIL Lima 2026: Jaime Bayly, Chuy Mine y las actividades imperdibles de la primera semana en la Feria del Libro - rpp.pe",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc3dDZUJXbWNHQnRDdHFSc0FURWNRNjhyUENNM3ZQZFZZaVEtbWI4RERUMzVQUXFIenAtaHE4LTAxdzdGZGVYSV9aNGhBdmRMdVg1aWxGeXhMdHZ1ckozY2J2QVhhYzl5SVMwM09kamJTOU42U3dEVHN3YWRoQ1VhdHJzQ3VGLW5RMXVVdnBLMU5FaXdjLTZkQWR1MUFndjVHMDVDVENWVDRVWms0RkhxRm1aLWxoRGI1ZWtsMUp0WGFWcG44dEtCNV96UWRpMkU2SGQ4UzdzNTctVTg4UUFqNGtUY0NEM2VkVHU0d19mQQ?oc=5",
+  "date": 1784444400000,
+  "sig": 2,
+  "snippet": "FIL Lima 2026: Jaime Bayly, Chuy Mine y las actividades imperdibles de la primera semana en la Feria del Libro  rpp.pe",
+  "iso": "PER",
+  "region": "Lima",
   "widened": 0,
   "lang": "Unknown"
  },
@@ -63696,7 +63944,7 @@
   "snippet": "manoramanews.com",
   "iso": "CAF",
   "region": "",
-  "widened": 365,
+  "widened": 30,
   "lang": "Malayalam"
  },
  {
@@ -63795,11 +64043,11 @@
  },
  {
   "name": "Japan",
-  "title": "Opposition to data centers grows in cramped urban Japan - japantimes.co.jp",
+  "title": "Opposition to data centers grows in cramped urban Japan - The Japan Times",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDN3R3dLMkpuVllrS2VFY0V0MXQ5SE0yZWxIeEs4bHM3M0RaTHc0Vl9tcnMwNlRWbl9mSzFFbktSTVZueGxxUHBhQ3FPcGZLVHRncHRGMkJZcktYeUs2QjNncldtakJxSkRnOHRwUlJ3ekRod2ZjU3V2anIzWWJJZzNtMjVWLVFwMm5zbkpMbF82M2s?oc=5",
   "date": 1784358000000,
   "sig": 2,
-  "snippet": "Opposition to data centers grows in cramped urban Japan  japantimes.co.jp",
+  "snippet": "Opposition to data centers grows in cramped urban Japan  The Japan Times",
   "iso": "JPN",
   "region": "",
   "widened": 30,
@@ -63831,15 +64079,27 @@
  },
  {
   "name": "Japan",
-  "title": "Opposition to data centers grows in cramped urban Japan - The Japan Times",
+  "title": "Opposition to data centers grows in cramped urban Japan - japantimes.co.jp",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDN3R3dLMkpuVllrS2VFY0V0MXQ5SE0yZWxIeEs4bHM3M0RaTHc0Vl9tcnMwNlRWbl9mSzFFbktSTVZueGxxUHBhQ3FPcGZLVHRncHRGMkJZcktYeUs2QjNncldtakJxSkRnOHRwUlJ3ekRod2ZjU3V2anIzWWJJZzNtMjVWLVFwMm5zbkpMbF82M2s?oc=5",
   "date": 1784358000000,
   "sig": 2,
-  "snippet": "Opposition to data centers grows in cramped urban Japan  The Japan Times",
+  "snippet": "Opposition to data centers grows in cramped urban Japan  japantimes.co.jp",
   "iso": "JPN",
   "region": "",
   "widened": 30,
   "lang": "English"
+ },
+ {
+  "name": "United States",
+  "title": "Georgia data center protest draws local critics - FOX 5 Atlanta",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVFxV3U3aFBsQ25hTFhHaGxhV3lJM2V3SFgwNUJGS0RYY3FqR3pITTVZVmxOaWwwU0IxQkJzMHBpcGJNQTNPU2ZmRURMeHh0T20wcENPbmQycTZkTllFeVg0MnFQMnlrTFl3cnZMcm1tZnd6ZUlzNDRKekIxU1ZhUHpmWU9LdHhmUGxMdHBheEpKV2cxTUxoMkpXTnNlM3o0MHRiQzNB0gGrAUFVX3lxTE1OR0lpQ180eURKS203QzlMcWlFc0tUZ3I3T3JQVVNkTzQ5Sk1NMVBDenZidkQyOUpBWHBXUnhmdW54VU4wU3o3RmFaMDhWYURKTTU0dHQxLWMzb2U2OFlpalQyZ2ZoeENOYTRIRGt5WUw4Q0pFQW1tVjVJTTZqWFJhRHFtTjJGdDRuWGt1c3RsbUJjR1piNTk4a0N0MUZQdkVxcHQ4R1dXU0FLVQ?oc=5",
+  "date": 1784358000000,
+  "sig": 2,
+  "snippet": "Georgia data center protest draws local critics  FOX 5 Atlanta",
+  "iso": "USA",
+  "region": "Georgia",
+  "widened": 0,
+  "lang": "Unknown"
  },
  {
   "name": "Pakistan",
@@ -64394,18 +64654,6 @@
   "lang": "English"
  },
  {
-  "name": "Taiwan",
-  "title": "KMT planning street protest over oil scandal next Saturday - Taipei Times",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBndlNSNi1xa3R2SE5GOGJsdllZbloyMTJIUU9jeElVUVY4Y01HTEJUUk8tajdNbHc5Wmt1aTMzWVg1OWlOZkxfNHpldlJfY0s4eDZsd0F4ZHM2QmdvTkdDLVlHVGZwaHQ1cVc2ZGlCX1F5MkdJLV9BdV9B?oc=5",
-  "date": 1784271600000,
-  "sig": 2,
-  "snippet": "KMT planning street protest over oil scandal next Saturday  Taipei Times",
-  "iso": "TWN",
-  "region": "Taipei City",
-  "widened": 30,
-  "lang": "English"
- },
- {
   "name": "United States",
   "title": "Visitors get a rare look inside the 80-year-old Kentucky Dam - Spectrum News",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmxnT2FJX1IyQjlENTFtN0pmS1JqTW1saGVRRTdfT210MkcwRDZQQ1BRbzd1S0pWZDVidzFpYWdYTU1wZ0VsTFREcFpUbGdldkRDREVudm41UUZDMkVTREVzTGRqdjBxZFBYOFNMM2ctdWxPUC1RRWpRSXNuX1NnNmxZMS0yZGVaM2ZiWDFxTW14a0tPdUtLMHluVVRoWFVzcGdaQjIzTDZQOS1qcjM1RkFNb1pFM2lP?oc=5",
@@ -64490,9 +64738,9 @@
   "lang": "Unknown"
  },
  {
-  "name": "Panama",
-  "title": "Bishops in Panama concerned over canal-linked dam project - Crux | Taking the Catholic Pulse",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjd4TUdaLTQ5bkNkN2dLa1pnZHA5dHh0OFE5aHMzbEQ1UzkxZjRhaU9NVHFETHk3UEhhSVgxZGZES3B2UnpSdkNBa1plS2xNdk1wT0w3cXdqdXJnT1JRck04OVBIbXI4anpQZENQVGFKaHhwT3I2eXhwZ2JENVJfZEhQN3EtUTNURlBmcjdwLXZEamlKQTQtRDQwdW5kUTlaMzJQbjFORGZiNU1x?oc=5",
+  "name": "Taiwan",
+  "title": "KMT planning street protest over oil scandal next Saturday - Taipei Times",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBndlNSNi1xa3R2SE5GOGJsdllZbloyMTJIUU9jeElVUVY4Y01HTEJUUk8tajdNbHc5Wmt1aTMzWVg1OWlOZkxfNHpldlJfY0s4eDZsd0F4ZHM2QmdvTkdDLVlHVGZwaHQ1cVc2ZGlCX1F5MkdJLV9BdV9B?oc=5",
   "date": 1784271600000,
   "sig": 2,
   "snippet": "Bishops in Panama concerned over canal-linked dam project  Crux | Taking the Catholic Pulse",
@@ -65089,13 +65337,13 @@
  },
  {
   "name": "Front: Line 5 pipeline",
-  "title": "State issues Line 5 permits despite conceding its ‘significant impacts’ - bridgemi.com",
+  "title": "State issues Line 5 permits despite conceding its ‘significant impacts’ - Bridge Michigan",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0RpTFBOeWQzLUthZUFacGsyUU9XMjFubVBvZnFwOUppMUpvVXZrMmtJVkNCSXdOdzBPTlFYMzMyREJNQ0FxS1hTSDRxV1MzUG9yUXJZOXJ6TW5FTm1BczlhU0ZCamV2Y0dvdE1jTlM2WVdFZ2N5R2xzMnhva2NDMW04TER6V2tFNlA3Z1F0a3pIcDNLeDJqWDE3UC10WDJUZm5XNWxYLUh6UEk1a0pxOVE3c2tMYW1xZnc?oc=5",
   "date": 1784185200000,
   "sig": 2,
-  "snippet": "State issues Line 5 permits despite conceding its ‘significant impacts’  bridgemi.com",
-  "iso": null,
-  "region": ""
+  "snippet": "State issues Line 5 permits despite conceding its ‘significant impacts’  Bridge Michigan",
+  "iso": "USA",
+  "region": "Michigan"
  },
  {
   "name": "Front: Line 5 pipeline",
@@ -65257,32 +65505,32 @@
  },
  {
   "name": "Macau",
-  "title": "Boehringer Ingelheim strengthens obesity pipeline as potential first-in-class triple receptor agonist BI 3034701 enters Phase II development - macaubusiness.com",
+  "title": "Boehringer Ingelheim strengthens obesity pipeline as potential first-in-class triple receptor agonist BI 3034701 enters Phase II development - Macau Business",
   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMGVwZDcxMHlyV19Ed1NXZ2xCT3k4dXJoQUlXbC1PMmFDR3VFVUNKR21SVFhGaW1nUFZXSkFCd0VhWjlaazMwYzdoN0F1bDdNWVF0alV5ZXhrOU0zU0JaS1l4c0ZNc2JHTlYxSVRlbTBXTlpLNDVrZGNLYjBtVG9uYk1RUjNJMWhHR3BGdzJDa2xNRFZlWEhpRzg5cDJKOUdQMEdYVjJHNVQxMGdCOW1fSmwtTTNIQnFtdHgyLTZFMk9IbUhBeDZMaG14UldDYWYxN3dyVWNHVGRPQW1pakU0S3J2SlZ2X0tTMlVJN3dKNWxOSmNud3ZWOVd1Yw?oc=5",
   "date": 1784185200000,
   "sig": 2,
-  "snippet": "Boehringer Ingelheim strengthens obesity pipeline as potential first-in-class triple receptor agonist BI 3034701 enters Phase II development  macaubusiness.com",
+  "snippet": "Boehringer Ingelheim strengthens obesity pipeline as potential first-in-class triple receptor agonist BI 3034701 enters Phase II development  Macau Business",
   "iso": "MAC",
   "region": "",
   "widened": 30,
   "lang": "English"
  },
  {
-  "name": "Greece",
-  "title": "Greece approves permit for M6 Studio hotel reopening - RochesterFirst",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlVwOEhhQVJ6alZYZVJra3l1SkZDWHJFT2xncktyZTQ2T21CX0NkZjNTS09WaFJ6RHBJdl95Uk1aVlhNb2dQY2xVSXdhWTltR3l6VkNhYVNEM21zTzFsTVVZLWJvLTlwQzhlUTU3MDUtdFNUWW1VTW10aHIzU2tIb1d0ZGphRVRsTUVBTDN0am7SAZYBQVVfeXFMUFJVS3pJampkZjFMY2pSRm9HNUMyS3dvcTVOWU5KMzc5anVPc2J6NWZiR29kZ3J1LUNVUlhQTkxpanZoNkxjY2pLZmtZV2tuTWotZ3N6c3BMMnpSWjN2QWJOMzZLZUkxaEpIaks5M1FYZEhRNXNmT1kwaUJyTU9CbTdKekJ4Ni00REg5OTY0OElnTDF2a2dR?oc=5",
+  "name": "Syria",
+  "title": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline - ft.com",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW1PQk53QzVRbW4xa29CNWRsbGtCSmpCS2pRR3N6dmJoMnNXbjdBRDhwMFN6UVZpM2MxSm5zakZaVkxRQjhIWWMxaDBIOWxjM0w5Y3BRUHBLWFJSNUp3elFoMWRTdXBvaElxamdwQlJVTS1BVzJUYjN3ek5DUjNFTmYtalc?oc=5",
   "date": 1784185200000,
   "sig": 2,
-  "snippet": "Greece approves permit for M6 Studio hotel reopening  RochesterFirst",
-  "iso": "GRC",
+  "snippet": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline  ft.com",
+  "iso": "SYR",
   "region": "",
   "widened": 30,
   "lang": "English"
  },
  {
-  "name": "Greece",
-  "title": "Studio 6 hotel gets permit to reopen in Greece - Spectrum News",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDl5cUVWRzVXUnJ2ZjJ5RDU4SjJxdHREVXhWYUJ5M01kSEJtZGY2eHhaaEF4Y0ZjV0xDa2tqR05oSFdhMjJkV2g4QW4tcy1YSTVQSDdiMk16YVdSRTkzOWNPWnREZEJOZElSNm40WEJMRVEzMFBjZkNaUzNpaXVrWWRRNXh2ZTZEbG5yNDk0VzFUSzVJYU1mbWdTWEpwLXJWYVJLOFYwNG5mdw?oc=5",
+  "name": "Kenya",
+  "title": "Petition filed for removal of Kenya Pipeline Company board Chair Faith Boinett - Citizen Digital",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQazl5SExKVkVCSEE3YjZJSFNtOV94NG45QzJZNUFST18yckhqeXZCcG8xNHc2cTA1NXdmWjhXd25RTS01TzB5VmFhZkNTcnpTT3N2QXBlbHRnRFZKM196czFNLUFmTkY1RHNaMWZrLW9iTWNfNExfWHJobXM5bFlLMTZxQmx6RWgwQkZVemtVMjctUXAxaFBwc0Vpd3I3dmlKaG45ZnB6VHpsbXB2Q2JOa2dnX0J0c0ZWWVE?oc=5",
   "date": 1784185200000,
   "sig": 2,
   "snippet": "Studio 6 hotel gets permit to reopen in Greece  Spectrum News",
@@ -65317,11 +65565,11 @@
  },
  {
   "name": "Nigeria",
-  "title": "Bandits kill two, as protesters block major Katsina road - The Guardian Nigeria News",
+  "title": "Bandits kill two, as protesters block major Katsina road - guardian.ng",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmlzV0otT2kwRllRdk5DZjh2RXhMYWdOSzVtdjRxRTh6aEtuUndGSGkyZGZHb2l3UGN2YzdIVFZxWGdVSi1lbGMxTVc2U2Y0cmlXZFpGa0pSaElCUkpoRkhNUG8xaDNBTFJXdFFnLXZ4M29CeXUtbEJscnU3aDJSR0hUbWV0S1VZRXBrSVFpZ0RzaTR6U2hhV3VnOA?oc=5",
   "date": 1784185200000,
   "sig": 2,
-  "snippet": "Bandits kill two, as protesters block major Katsina road  The Guardian Nigeria News",
+  "snippet": "Bandits kill two, as protesters block major Katsina road  guardian.ng",
   "iso": "NGA",
   "region": "Katsina",
   "widened": 0,
@@ -65362,18 +65610,6 @@
   "lang": "English"
  },
  {
-  "name": "Malaysia",
-  "title": "Kelantan expands probe in hunt for illegal gold mining masterminds - thestar.com.my",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWVLQjRJWkQyWHlHZmk4Y3daWmRTcFBLdUd0Ym1rMnNwRlJmYks0NEhpSkUydzB1TzJVa2NTQTloY0tCTk9Oay1PV25EaE9LTXlzakprUTlZeEhWdVZ0S3R5ZVZQa05LNElKWHpUXzZKOVFaUjU1ekV5bEV6YXl3QnQtdnB2LWZnLVFWUGFHTzM5REJSdEJaYXlodEM4emtxYVljcGpPTTdiNDRGdUNkVTNRdlNieWc?oc=5",
-  "date": 1784185200000,
-  "sig": 2,
-  "snippet": "Kelantan expands probe in hunt for illegal gold mining masterminds  thestar.com.my",
-  "iso": "MYS",
-  "region": "Kelantan",
-  "widened": 0,
-  "lang": "Unknown"
- },
- {
   "name": "Ireland",
   "title": "Fears in west Limerick over future of alumina refinery - RTE.ie",
   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGUmlRd2lfRDFjY1ZpTXBiU0pRQ1l1OHpmOWhQQ0U4b0NlV19yQ1NSY2FKOUdtdTNxUjJzdEhlNVpOY1VwMVNock1tcWxCUEpMOFVuSnFVR2ZVb1VLWlF4MnpiWkJLM1JxamJSQm1tMWx4d0h1eHRwRw?oc=5",
@@ -65403,18 +65639,6 @@
   "sig": 2,
   "snippet": "Environmental impacts of Indigenous land restitution in Chile  Nature",
   "iso": "CHL",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
- },
- {
-  "name": "Kenya",
-  "title": "Petition filed for removal of Kenya Pipeline Company board Chair Faith Boinett - Citizen Digital",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQazl5SExKVkVCSEE3YjZJSFNtOV94NG45QzJZNUFST18yckhqeXZCcG8xNHc2cTA1NXdmWjhXd25RTS01TzB5VmFhZkNTcnpTT3N2QXBlbHRnRFZKM196czFNLUFmTkY1RHNaMWZrLW9iTWNfNExfWHJobXM5bFlLMTZxQmx6RWgwQkZVemtVMjctUXAxaFBwc0Vpd3I3dmlKaG45ZnB6VHpsbXB2Q2JOa2dnX0J0c0ZWWVE?oc=5",
-  "date": 1784185200000,
-  "sig": 2,
-  "snippet": "Petition filed for removal of Kenya Pipeline Company board Chair Faith Boinett  Citizen Digital",
-  "iso": "KEN",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -65796,7 +66020,7 @@
   "snippet": "jornalagora.com.br",
   "iso": "MSR",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "Portuguese"
  },
  {
@@ -66246,42 +66470,6 @@
   "region": "",
   "widened": 30,
   "lang": "English"
- },
- {
-  "name": "Argentina",
-  "title": "Argentina desató una fiesta en Chubut: miles de personas coparon las calles tras la histórica remontada ante Inglaterra - Canal 12 Web",
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSl94NlBpb0RoZXI3c2RSVXFJdmJpTDBXd1BEbmtzYjJFbmpIekFmdHpNZ3hQX1k0eFh1MmJuNE5fWkxObE1IaWQ2azBpVnowTFltV3pUX3hDQVRKTGVsY3lheFJUVE1JcktNczFCWWFheEtMcll1SHl5SFphbmYtRHhScnhLMGlTSW5pR2JpcV90cWEtZ29aZUt5aGdCcEdiSjFVRVlnbVNzbW4wVWNpbjFVbVA5YzE3dURySjhPMGw2OXpqTGxaemdjMWowd0lsQV9SLVd1anlSdw?oc=5",
-  "date": 1784098800000,
-  "sig": 2,
-  "snippet": "Argentina desató una fiesta en Chubut: miles de personas coparon las calles tras la histórica remontada ante Inglaterra  Canal 12 Web",
-  "iso": "ARG",
-  "region": "Chubut",
-  "widened": 0,
-  "lang": "Unknown"
- },
- {
-  "name": "Malaysia",
-  "title": "Kelantan opens probe into RM4.2 million illegal gold mining operation in Gua Musang - NST Online",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDNCZXJ0U3RCOFZYQ3Z4VkZpbldtR3d3WGZ1dmpMZlo0UDhmeUxEMjlZNjJTci00RFBscVk4SnBXQ25DVnZyeVNNd1ZTeDYwTTZkUFRiMnJWdmUxaXJIVGVHa2xOSENpN2laQm9SSDJ0Y3NMVUJPQXZVU3ZNb0E5VDVyRjUzcGNtNTNYcGIwZTdlN1dJQlVJN0JhYzNzd3FCaFJ5YUd0SXF2dW5Vc0MtRGNnelBrSE5jUUxOS9IBwgFBVV95cUxPVVZNMm1aVW1LOWQtUGMxV0l2STYteTVURXJUenQtZ01PQmxwZktPTG1nNHdrNXhUZ1JBQmkwdTlMVXR5YWNCYllNdGxfNEo3cF9HMWoxakVOLU5rVW9oazRGUkM5bjFHMVdvYVQ4RlJtRUxfanFFTXVLdHZTUXJDaHRaRDJfNkIwcXdJVDZ3WXZ6VV9IcFpwcjZVcEZlS2g1Tk1ESGZDTGRIdFJzSF9RNE1xTndIUnZXU0tzLVotNWQzdw?oc=5",
-  "date": 1784098800000,
-  "sig": 2,
-  "snippet": "Kelantan opens probe into RM4.2 million illegal gold mining operation in Gua Musang  NST Online",
-  "iso": "MYS",
-  "region": "Kelantan",
-  "widened": 0,
-  "lang": "Unknown"
- },
- {
-  "name": "South Korea",
-  "title": "Homeplus tenants protest in Seoul as ailing supermarket chain on verge of going bust - news.nate.com",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sc2szcVNXSi0wRFBhRGxBY1ZJQTQ1dEJZblJNR2NudGZMeFJQRktUQUt2MnZJb3R4NkpRTkRIUkRrOFBGQkhYNGMybk16MGlKdHJ4cTN4cVgzNGo5NWFsRA?oc=5",
-  "date": 1784098800000,
-  "sig": 2,
-  "snippet": "Homeplus tenants protest in Seoul as ailing supermarket chain on verge of going bust  news.nate.com",
-  "iso": "KOR",
-  "region": "Seoul",
-  "widened": 0,
-  "lang": "Unknown"
  },
  {
   "name": "United States",
@@ -66790,7 +66978,7 @@
   "snippet": "elpuntavui.cat",
   "iso": "MSR",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "Catalan"
  },
  {
@@ -67075,11 +67263,11 @@
  },
  {
   "name": "Jersey",
-  "title": "The Princess And The Permit: North Jersey Business Clashes With Township - Patch",
+  "title": "The Princess And The Permit: North Jersey Business Clashes With Township - patch.com",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeFZUZmdTR0U1dmg5RHRNN19rYTJGU3JkLVpCTlA5ZXYtMWoyMTVEU1RvMXlBbTgxTGhPWGd4VzFwSTlRYkFoT08xUUpHLUNHQ1M4M3RFSzhCMDBFM2s1bXlLTjVheDZmMlhlZVNPUmM4UktoWUJJSV92aFR6c21hNm9OUWxkNWEwcE5ITQ?oc=5",
   "date": 1784012400000,
   "sig": 2,
-  "snippet": "The Princess And The Permit: North Jersey Business Clashes With Township  Patch",
+  "snippet": "The Princess And The Permit: North Jersey Business Clashes With Township  patch.com",
   "iso": "JEY",
   "region": "",
   "widened": 30,
@@ -67774,7 +67962,7 @@
   "snippet": "elpuntavui.cat",
   "iso": "MSR",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "Catalan"
  },
  {
@@ -68334,6 +68522,18 @@
   "lang": "Unknown"
  },
  {
+  "name": "Japan",
+  "title": "Japan to Raise Residence Permit Fees for Foreign Nationals Sharply as Costs Mount - JAPAN Forward",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWxSYjJVN19TQUlycUNxOG1RaWhFTGFuWE9QN0hlZC1NSUZsNDhmMnFuakFMS1dtODNoc290TjdmYW5XcU5FdktFcFV5eTdVYVIxOWlFRHlyZlFueWRhV2dxNGZMWXdVUWx3dnljMVRTWXBTclZSUDNXVVdsd0o5Z1ZUZ1c1d1RhdHhB?oc=5",
+  "date": 1783865191000,
+  "sig": 2,
+  "snippet": "Japan to Raise Residence Permit Fees for Foreign Nationals Sharply as Costs Mount  JAPAN Forward",
+  "iso": "JPN",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Guardian Environment",
   "title": "‘Huge wave’ of carbon storage projects causes alarm in small-town USA as oil firms eye billions in subsidies",
   "link": "https://www.theguardian.com/us-news/2026/jul/12/carbon-sequestration-projects-oil-companies-subsidies",
@@ -68378,6 +68578,30 @@
   "region": "Osun",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "Bolivia",
+  "title": "Santa Cruz y Potosí reúnen la mayor cantidad de minerales críticos y de creciente demanda en Bolivia - Correo del Sur",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZnRfWTItazhSN2l4WW5YVS1Vb29vNURVdmhZdmlMT2xfLW8ya3RCX2NYQTJHWTVXcU5YZVRybm11YW5LQ1dJQ2xtQ1B3YmNQcGxaYTNGT0NUMENucnVXMjVYU3lkY0ljU2lTdHctY1BFbjBSQThFRWpCYWpmRVQtZXNQUzB4RU0tVXRGT0xUNFp1VUhnUkl0Y3p3cHloM2NNVGVKZXVTSkw1UDVtNjZ4WUI0Ull0UUZSaFc2RVI4cXJhN3pHb1gxQVkxYlBPYXlPdU9NZ0JXLVRJNUVwa1NWSlV3?oc=5",
+  "date": 1783839600000,
+  "sig": 2,
+  "snippet": "Santa Cruz y Potosí reúnen la mayor cantidad de minerales críticos y de creciente demanda en Bolivia  Correo del Sur",
+  "iso": "BOL",
+  "region": "Potosí",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "Honduras",
+  "title": "Honduran police evict Garifuna community in Tela - amandala.com.bz",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGNTNEd1MmprenVwV2RoR09qMU9JbXpnYjRCeVlHLTFJcU5ZSUxGakUtTHZ4eEE4UHIzSWRGLWx2YkFaaFg4RXBZM054OGdrZVBWNjZNWjQ5WTJ0b29MaExmRUFvd3lwNHNFNUNxdVFQVTh2bmRmeHpyREp3R3BHa3RSVVU?oc=5",
+  "date": 1783839600000,
+  "sig": 2,
+  "snippet": "Honduran police evict Garifuna community in Tela  amandala.com.bz",
+  "iso": "HND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Indonesia",
@@ -68560,18 +68784,6 @@
   "lang": "Unknown"
  },
  {
-  "name": "Ireland",
-  "title": "IFI investigating fish kill in east Galway river - Galway Daily",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdnhVZzl1TDJtVktKc0Z0dFRnSm5MbG5JMU52MGlFR3otNzdBQlNtZ3ZCQTREZnBtc2xPdmFOZTFDOXpIYWpKOTYtMUNWLTZ6NjJYd2RkV2hvWE04djY5N0ktbURhUHRWUW44Q1NxdnZvemtsV1cxbzVndnIwT083S0Rqb2IxcVRLRGc?oc=5",
-  "date": 1783782056000,
-  "sig": 2,
-  "snippet": "IFI investigating fish kill in east Galway river  Galway Daily",
-  "iso": "IRL",
-  "region": "Galway",
-  "widened": 0,
-  "lang": "Unknown"
- },
- {
   "name": "Italy",
   "title": "The fire continues to rage in Sardinia: Highway 131 closed due to a fire in the Oristano area, Highway 125 blocked in Olbia. - L'Unione Sarda.it",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY3lwUjY1OGc3QzhGa0dUQXQwMnVWVDg3S0ZwQVRING5XU1dzNGYyeTRKdXRaTUhVdFNOUVd3NElZRVpVUUlkbnJTRm1DYVpBaVZwTXctQ28xQkdxeURCdk51TVQyWllGM0NOMU04RVpSVy1qajZfdUhMZlFCRnpFdjhZc3VqcU1lRTdaQlB4THVNU0NLM0lKV1YtamhRZVZlUFhZcndPLUNrWjVQSVAxd0JqYk1kZjd4VTk2cjF30gHGAUFVX3lxTFAtaEFGVjlrRkJWS0ViMUFkWTI1UHhnWjF0UjVTX2hLOGxRRmtsSjB0NXVyNmQxTUgxcHdvS29xaUVCaThhV184NTlXUC0tVTNwLXZOUTNycXBHempfMWdKNi03VDZRRlpiQ29Td01PODBRYW1NRnFwLTQ4Rlo0TlRQRnJscXNVMUtJYUFlNlV0azlSWEMyY3V1M2M2cDVoNXJYcF81VDhicm5LM3ozX2RzZWZ6RXA2T1l6d3VETmlYT0NRcmhBQQ?oc=5",
@@ -68729,11 +68941,11 @@
  },
  {
   "name": "Peru",
-  "title": "Ayacucho: Minería invirtió 61 millones de dólares y genero 7 mil empleos - La República",
+  "title": "Ayacucho: Minería invirtió 61 millones de dólares y genero 7 mil empleos - especial.larepublica.pe",
   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZi1TblhnR3MtSVhGRmNTWXE3X3ZnalMxR1d0QlJXWVYwZ3ppaHljUWdfNVZtTmJpVmpIXzFPUDEtS1RrWTI2WGFUR2Z6Q2lQRlZHNk9Nb3J5Q2NXX0h5VjBYWWNWTmh0M09HLWE0VVlJWl9mWURuVmdnTjVrcmFDekdhUmJncGhTUVROZFM1Tm1PcE1VbV84SnZDbWlrWXFiak1oRDNoN0F1Tnd5M3hnMHNkOVZJX1pqX2dSUzBKT09DRTdTN0FJQVBqSk11WmdKR0kzUjlhampiZ2Zoc2dCNWlqeGFfcHd3MkE?oc=5",
   "date": 1783753200000,
   "sig": 2,
-  "snippet": "Ayacucho: Minería invirtió 61 millones de dólares y genero 7 mil empleos  La República",
+  "snippet": "Ayacucho: Minería invirtió 61 millones de dólares y genero 7 mil empleos  especial.larepublica.pe",
   "iso": "PER",
   "region": "Ayacucho",
   "widened": 0,
@@ -69013,7 +69225,7 @@
   "sig": 2,
   "snippet": "Protesto fecha trecho da BR-101 em Goiana no sentido Paraíba nesta sexta-feira (10)  diariodepernambuco.com.br",
   "iso": "BRA",
-  "region": "Pernambuco",
+  "region": "Paraíba",
   "widened": 0,
   "lang": "Unknown"
  },
@@ -69263,11 +69475,11 @@
  },
  {
   "name": "United States",
-  "title": "Maine’s First Wildlife Crossing is Saving Animals and Preventing Collisions - Environment America",
+  "title": "Maine’s First Wildlife Crossing is Saving Animals and Preventing Collisions - environmentamerica.org",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYl9sMzJteHpHcV9Sa1dTV3gzaC1fSFppUlhwZkdjOXlaSVdyckVyQVBVSDJRZ3NuNDNoWmtsRGJXUE1UY2xvR1g1cjdndkUwY0sxTFoya201blR3UkczbHpudnVWZlNJclRIMm1nMWxoWUFPRy1LOGdrY2h2QkwyRHVpcVBiZmtpQ21VOVFtcXl1Tk1NZ0IwTWtNMC14VVIxMXFCRy11V2czZ1Z2dTNQbDZZejlWU01DXzU2X2dGQWVTeFVKUlVISU1aaw?oc=5",
   "date": 1783666800000,
   "sig": 2,
-  "snippet": "Maine’s First Wildlife Crossing is Saving Animals and Preventing Collisions  Environment America",
+  "snippet": "Maine’s First Wildlife Crossing is Saving Animals and Preventing Collisions  environmentamerica.org",
   "iso": "USA",
   "region": "Maine",
   "widened": 0,
@@ -69854,6 +70066,30 @@
   "snippet": "Alberta-Ontario pipeline proposal faces criticism over costs, need and lack of Indigenous consultation  CBC",
   "iso": "CAN",
   "region": "Ontario",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Greenland",
+  "title": "Licensed to drill? How a Trump-linked Texas oil company is elbowing its way into Greenland - theguardian.com",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDRHeEl4Qm9ZREI0Qkd4Qm55VDhFMUdSRGY5aGpRRzZjdTllRWNFWjh6SGhYNEI2bXJpUmN6WE5Wckp0WEI1TEIxTE05WXhDNk55RlBaWmNvV1gzaE9rclg1OENHNW9pTWZqV2F0bFdRWW8xeDRPQ3h0T3VDM1d4bkpmR05pZ2hZTHNaaXMyaHl4a3R3MVM4d3FxSEU0ajU1WUU0X09RSXZtYmJWRjEtc01mdjYtSGVV?oc=5",
+  "date": 1783580400000,
+  "sig": 2,
+  "snippet": "Licensed to drill? How a Trump-linked Texas oil company is elbowing its way into Greenland  theguardian.com",
+  "iso": "GRL",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Chile",
+  "title": "Austral Gold (ASX:AGD) buys a seat at the Chile copper table - stocksdownunder.com",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1VnBjUWppVDRoUE5pU1dtcmt0Y1p5cE9ybEtwM2NVZHEtTG55OENVQWlaa1g5b2xxZjctRVRVOVI2VDVuMlU2QXF6LVA1S3R0OExtSnFmUVB0QzExNEdrUUQ3eHVXcmZHYUxvdnA0dXVTa1U1dGsw?oc=5",
+  "date": 1783580400000,
+  "sig": 2,
+  "snippet": "Austral Gold (ASX:AGD) buys a seat at the Chile copper table  stocksdownunder.com",
+  "iso": "CHL",
+  "region": "",
   "widened": 30,
   "lang": "English"
  },
@@ -70774,13 +71010,13 @@
   "lang": "English"
  },
  {
-  "name": "Belgium",
-  "title": "Bulgaria signs memo on receiving seven mine countermeasure ships from Belgium and the Netherlands - The Sofia Globe",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVmQ5Y09mdU5PVEJtNGk2c29VMTY0akpfZHQtZTRVakhvaW5wLWN4dXpqbmtkQ0FEZVFMN1dfeDlnNWx6WE5aZUExYzJka1pYX1BnYVlkcV9QTi11RlRkem5sVDQ2cDIzYW1UaXpXaUlQaDhrY28yTm1KeURZTkhnNkpvZTN6cm93c1lYV3hyLS1Vd0JUNW5ITVFjVUphMmRwajBoMExSa2VpOU81dThVZzZfZEYxMHhaVE1tSTJHclJ5LThzT1oweVNvTUE?oc=5",
+  "name": "Cyprus",
+  "title": "Cyprus Launches Online Residence Permit Renewal Service - Erickson Immigration Group",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXpMN2JDdy1GcG5nbGw2LS1xSGtlRjd5VkZuR2k1RGNBbzFsMkJpRjBId2VDT0RFeWRCMWFkdUNxNHJad0FCS3ZVamdsTFJUT2U5R0F0UnQyMGUtMHNwSjQ2NVBfOWQxTnNOdEEwZzBfY3JTZjN2X2pZS0VteXlqbg?oc=5",
   "date": 1783494000000,
   "sig": 2,
-  "snippet": "Bulgaria signs memo on receiving seven mine countermeasure ships from Belgium and the Netherlands  The Sofia Globe",
-  "iso": "BEL",
+  "snippet": "Cyprus Launches Online Residence Permit Renewal Service  Erickson Immigration Group",
+  "iso": "CYP",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -71883,11 +72119,11 @@
  },
  {
   "name": "South Africa",
-  "title": "South Africa: Gauteng Offers Counselling to Families of Protest Victims - South African News Briefs - July 6, 2026 - allAfrica.com",
+  "title": "South Africa: Gauteng Offers Counselling to Families of Protest Victims - South African News Briefs - July 6, 2026 - allafrica.com",
   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQUx6bEI0Qm9PT1luTW9QckRiWXZKRjY2Ml81TGg1YkptaDdXZzVhUWltdGdKbFB2U3VYNVpyTXFGcml0XzRfaF9OcV9haW9nU1JDd0U3NHBuTEk?oc=5",
   "date": 1783321200000,
   "sig": 2,
-  "snippet": "South Africa: Gauteng Offers Counselling to Families of Protest Victims - South African News Briefs - July 6, 2026  allAfrica.com",
+  "snippet": "South Africa: Gauteng Offers Counselling to Families of Protest Victims - South African News Briefs - July 6, 2026  allafrica.com",
   "iso": "ZAF",
   "region": "Gauteng",
   "widened": 0,
@@ -74843,11 +75079,11 @@
  },
  {
   "name": "Front: Portugal Barroso lithium mine",
-  "title": "Savannah Resumes Fieldwork at Barroso Lithium Project Following Portuguese Approval (SAV) - Yahoo Finance UK",
+  "title": "Savannah Resumes Fieldwork at Barroso Lithium Project Following Portuguese Approval (SAV) - uk.finance.yahoo.com",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWlvZWlPWUhTcmEtWVFQUDhwdkJ1UmtWZTd5ZjBHd21Tb3UzMVNGb0ZaNVFIRDBqQmUwWVRZcUVXc0tDaFNweGNhQUdWZVpBeXRwc0ZlUFpuME1CZjlKR3R0V2ZoUzBNdGtUTTB2aTRPTk9YU3plUlhsVzZpNEJqWDctMlM1X1hfMzBwWnB0MzFFdWh2V2c?oc=5",
   "date": 1782716400000,
   "sig": 2,
-  "snippet": "Savannah Resumes Fieldwork at Barroso Lithium Project Following Portuguese Approval (SAV)  Yahoo Finance UK",
+  "snippet": "Savannah Resumes Fieldwork at Barroso Lithium Project Following Portuguese Approval (SAV)  uk.finance.yahoo.com",
   "iso": "GL",
   "region": ""
  },
@@ -77193,6 +77429,18 @@
  },
  {
   "name": "Malaysia",
+  "title": "Gold miner Niche Capital enters deal with rare earth firm to undertake exploration in Kelantan - The Edge Malaysia",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLMWgtbl93eUxYeHRLbmNoYXdESXdSanZ3bEhKWDh1NVpvMEZDajlDd2NIN0x5VVFaUmRWTmlhdnhaRFNPYmoyNmdXWldGYnp5?oc=5",
+  "date": 1782370800000,
+  "sig": 2,
+  "snippet": "Gold miner Niche Capital enters deal with rare earth firm to undertake exploration in Kelantan  The Edge Malaysia",
+  "iso": "MYS",
+  "region": "Kelantan",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "Malaysia",
   "title": "Sabah Oil, Gas & Energy Conference & Exhibition (SOGCE) - Fragomen",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaERTUXlGUDBwT2VoeVloLXkyMHM4NDl2eG5EY0pzNl9pUERlR0dRcktSc1pHc0F6M3dSM3JoS1Z2OHFGZkdMZ2FNRjhib2xRS05jQ3FGZlFEdlQ2SHpzZnlMOWF5SGFwZTd5ZW1KcGNJc2xLMEIyMWFDbG9uOWZFck5RVkxaT2F5UlNfYl96VWJkVElIS3pDbnVtNA?oc=5",
   "date": 1782370800000,
@@ -77703,11 +77951,11 @@
  },
  {
   "name": "Front: old growth logging protest",
-  "title": "Protesters urge province to follow through on old-growth promises - My Nelson Now",
+  "title": "Protesters urge province to follow through on old-growth promises - mynelsonnow.com",
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeU40OWhuenhES2VXekJDcEZlb0FNdWxhVmUwVlBTOHRkOFZJVmZiSERHNUY1VVU1T0t3N3BrQVk5dlZnZ3RJSzF5dm1DaUlkcW1rU2dJSEdwOVAzNk1fTFlVSDZCTlMxR25IZV9xb21IUmlscVVWTGh3UVc5bFZhQ245bDN6aGl0R1VVczJ5S0JuMzZhVXZMeDdFQTdmS3JUbm5kaEFfbk1nWmxBVXVac3d6UTdzTm9k?oc=5",
   "date": 1782284400000,
   "sig": 2,
-  "snippet": "Protesters urge province to follow through on old-growth promises  My Nelson Now",
+  "snippet": "Protesters urge province to follow through on old-growth promises  mynelsonnow.com",
   "iso": null,
   "region": ""
  },
@@ -77761,11 +78009,11 @@
  },
  {
   "name": "United States",
-  "title": "Future of Vermont Yankee site being explored: Options include data center, nuclear reactor or battery storage - Greenfield Recorder",
+  "title": "Future of Vermont Yankee site being explored: Options include data center, nuclear reactor or battery storage - recorder.com",
   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53cnpWWm9WYXhtVHl4ZXpXMk5IQWFWbEIySU9PaFZQaWk5VHVaLUphOFpBNmpncV9PNHhYeU43aGdneHlIWWdZTVdVZ1VPODA5cVNCYkVVTkpycmlCX096WXBYbmFFRUxlNmVnNEtNVnNLLXkyU1JWRw?oc=5",
   "date": 1782284400000,
   "sig": 2,
-  "snippet": "Future of Vermont Yankee site being explored: Options include data center, nuclear reactor or battery storage  Greenfield Recorder",
+  "snippet": "Future of Vermont Yankee site being explored: Options include data center, nuclear reactor or battery storage  recorder.com",
   "iso": "USA",
   "region": "Vermont",
   "widened": 0,
@@ -77821,11 +78069,11 @@
  },
  {
   "name": "Mexico",
-  "title": "Emprenden acciones legales para defender playa en Punta de Mita, Nayarit: buscan revocar concesión a empresa que impide libre acceso - Infobae",
+  "title": "Emprenden acciones legales para defender playa en Punta de Mita, Nayarit: buscan revocar concesión a empresa que impide libre acceso - infobae.com",
   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaGhwd2lKNkE0RVMwLXBZYW1yOURkV3ZfZFN5cG9MYnFNUHEzN1MwaGZ6S1lFV3lGNmRPZWx0UG4tSmJiQWJQQ2RwcU1xRWE0ZDBEYVMyeGdmWDhVd1R5OXFKU3RKZEFjS0pBWXNkUUpVX1VJZnhIaHRZWTNyYlY4eVlldzZvLV9TYTZwT29nNmRneHVpMDN3bUtsUUZ5Y1pBT0NMUzRfRGpTSE1YLUJHUFJzcHpiVXA0cHhJMVI0WkNPa2NWbjFWREg3V2FCOXk5WmFqeHdPYVh0cklZX2d0NTVPa09EVWlrcXRkVUdEN1lyY0xUZEhXcG8yNzRELWs4dVpr0gGeAkFVX3lxTE1fdVhxNjZhZFllQlpPZ0tpYzZHVE92MV9md1RFdm9PaGxabnZGNk5fWTdncVVqa0NCOTg4cVdIdnhjeVhfRHAxeXpuUWVfMFhTdzNPNUo3SWUzMHNuT2k5QWFHcVdqdHRTN1VhdDNnQWprS1BSQWV4R29tN045ZTNhMi13bTUxdUxXVElORGJaRThPZElnRjZBanRqU0RlLUoyYXFSSjVVQXVEUFZ0NkVLaUxuSVROX3hFWE0xcEt6VTFJVXdTVTdWd25DZE54amFpeFRob19mY2lQbzdwTWNIVXpZQVhROGJQR0JtdGstdWhwXzVvYzJ0T0JWdkhlVFVVQjBXYlBMVWpFeXJTczdUdHFKUUY2RDBiQ281ZXc?oc=5",
   "date": 1782284400000,
   "sig": 2,
-  "snippet": "Emprenden acciones legales para defender playa en Punta de Mita, Nayarit: buscan revocar concesión a empresa que impide libre acceso  Infobae",
+  "snippet": "Emprenden acciones legales para defender playa en Punta de Mita, Nayarit: buscan revocar concesión a empresa que impide libre acceso  infobae.com",
   "iso": "MEX",
   "region": "Nayarit",
   "widened": 0,
@@ -80642,18 +80890,6 @@
   "lang": "Unknown"
  },
  {
-  "name": "United States",
-  "title": "THE UNITED STATES AIR FORCE THUNDERBIRDS TO SOAR OVER LAS VEGAS AND HOOVER DAM ON SATURDAY, JUNE 27, AS SOUTHERN NEVADA CONTINUES TO CELEBRATE AMERICA250 - LVCVA - Newsroom",
-  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd3VVQzVTVVdxZTZHWmphS3ZBa2xZd0wtWnhoYVJyb09kNEZSWHlwUTZlZmRyNnFsa1VxdjJYSE5EbkNzaVd6T1V4c0ZDU2RJTnA4VVJhQUZoNXV5ZFptSUlJQlJ6bXB1QnpLZVVoeGR6TVhTY0lodDM5WXVUMjRDbE45aFl2Q3JVcWxrNXBpSkUybWpjUUx1VWxlTG1BZ3pnM3NwRG43NlhVY1hqSzN2dUdTZnV4ckVjUEx4NjBYeUlrRzU1d1JLanQ1b0lkRXBIU3ZxemYzV2lnSlRfZWM2ajNUWnQ1dG1zSzgyTlFaOTZtT3ZTd2tXMVRXOGxILUtHTENWZUt3?oc=5",
-  "date": 1782111600000,
-  "sig": 2,
-  "snippet": "THE UNITED STATES AIR FORCE THUNDERBIRDS TO SOAR OVER LAS VEGAS AND HOOVER DAM ON SATURDAY, JUNE 27, AS SOUTHERN NEVADA CONTINUES TO CELEBRATE AMERICA250  LVCVA - Newsroom",
-  "iso": "USA",
-  "region": "Nevada",
-  "widened": 0,
-  "lang": "Unknown"
- },
- {
   "name": "Iceland",
   "title": "Syntholene launches geothermally-integrated electrolysis demo in Iceland - Renewables Now",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFJwc1pjcjNrU0dOUWZJeGY2OEZDWHFlbXR2RTZleXc3MDk1dFNiMjJjMHlxSXpMcGM5T2p1YUpnTlFjbVNQVGdjY3lPYjgxYzk3QVIwMHAxbEh1aktucUJwMnc4bkVrbE1lYzREOE11Q3A1TUpMSGdlc01uWkt0SWpzRXNFQkdlSVBlaFNwblpFQUVzSUtaTmZ1RXMxOEl1a2QxQi05bUtXcllGMlVEbW93?oc=5",
@@ -81097,13 +81333,13 @@
  },
  {
   "name": "Nigeria",
-  "title": "Fubara Reaffirms Rivers Commitment To Business-Friendly Environment - THISDAYLIVE",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczNld0VDQmJxUnNONGpKT24xS1NiQVlreXRoalpXWHFDbm1MaDFva2V2ZEFlVnlrbVRJaEpPdjdnWUZmVlM2eXBfMHVpR3F5QXczQWt5SFNBNzdFNmRxaXlsa3ZocHVNX1VjZmpIMll4T0JYS20xS0w4WkFMYlNBN21mbWZLNENxSk1yLUpzWUpsVGFpcm84a0p0MzFBWWtfQy1ZMklVR1dMUXc?oc=5",
+  "title": "Ohanaeze Ndigbo seeks FG’s probe of alleged illegal mining in Zamfara, others - Business News Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1FCMmx1LVdNTUJPOW95S20yLWdyaUhBOVpMV0pJQW1BcVEwYzNHaVR5VnhFdWV6MzVIci1uRW9lRzREamVpQUtHSkR4UHoyT1ZEam5Ib1oyMmJ5Y2ZJRDhaZ3R4ektQTGlOS1pBXzY1TkQ5ZWd2VUhjSnpDRjZWY3NfdkVkZjk0b28wZzBpZ24waHkxOWk1ZXJ3bVNnbVZsRzdEVlhqMHZQeGQ2MjRJX05R?oc=5",
   "date": 1781938800000,
   "sig": 2,
-  "snippet": "Fubara Reaffirms Rivers Commitment To Business-Friendly Environment  THISDAYLIVE",
+  "snippet": "Ohanaeze Ndigbo seeks FG’s probe of alleged illegal mining in Zamfara, others  Business News Nigeria",
   "iso": "NGA",
-  "region": "Rivers",
+  "region": "Zamfara",
   "widened": 0,
   "lang": "Unknown"
  },
@@ -81209,9 +81445,33 @@
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1FCMmx1LVdNTUJPOW95S20yLWdyaUhBOVpMV0pJQW1BcVEwYzNHaVR5VnhFdWV6MzVIci1uRW9lRzREamVpQUtHSkR4UHoyT1ZEam5Ib1oyMmJ5Y2ZJRDhaZ3R4ektQTGlOS1pBXzY1TkQ5ZWd2VUhjSnpDRjZWY3NfdkVkZjk0b28wZzBpZ24waHkxOWk1ZXJ3bVNnbVZsRzdEVlhqMHZQeGQ2MjRJX05R?oc=5",
   "date": 1781938800000,
   "sig": 2,
-  "snippet": "Ohanaeze Ndigbo seeks FG’s probe of alleged illegal mining in Zamfara, others  Business News Nigeria",
+  "snippet": "Concessão florestal na BR-319 impulsiona bioeconomia e amplia proteção ambiental no Amazonas  Portal do Marcos Santos",
+  "iso": "BRA",
+  "region": "Amazonas",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "Nigeria",
+  "title": "NNPCL, PINL, council boss condemn multiple pipeline blasts in Rivers - The Sun Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzR6QVNrcllGeGU3Y2prb3ZfWVhxQ25jR0V5djBGMGFveC0tWEhXc3lpeXJsc3ZQTVo4bVJWUHBiUkpVdFBNUHdHWDdDQTdzclV1enhjTDdBWmE0RDAyMEFvNTZZNG5INHY1ZmowUmFqTzB1eTdGSy1nd0N3Z3Y2QTZHVlRGVEJ6QThJRzVn0gGTAUFVX3lxTFBZWnN0T0VvM05LbExSemVwM1NmNFk2Rk04czVSY2lhUk5Cd1pwVXBxdlN5Z2R1UWI3MkR3UUtabi1va1YydTdOTk1mUEZpaGUzRTcyWGhYeDM1Z3lFNFRRS3hVb0lYQk92WGoycFdwRno5ZlZxdkF4enMzbnc1cEZHdGZFNnE2bU1lQWpfUTc2RHJXZw?oc=5",
+  "date": 1781938800000,
+  "sig": 2,
+  "snippet": "NNPCL, PINL, council boss condemn multiple pipeline blasts in Rivers  The Sun Nigeria",
   "iso": "NGA",
-  "region": "Zamfara",
+  "region": "Rivers",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
+  "name": "Nigeria",
+  "title": "Ogun relocates students over methane gas pollution - Vanguard News",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWNFQXNURnhsM1FZczNvSkxDcHhqakoxNEdIb2RkcExwUlpBRTdGcktVTmpCV1ZSQjk0MTVfSTVuQklfU185RzVCb1Y0XzlMZFV2bmFMd0ZKYmVsbWlCMXJpSVJGVEpkMXhuUHBEMWNGaGljbHFUTVpSalRJTFlvdHZzYXFRNTFkdnkzbUtGTXTSAZYBQVVfeXFMTjg4YXFLcFJqaXBEbkVyU2w3UjdVYl82X1JkdDVWUTQ5V3FvVEFHaU9YLUlYUkE3VmhLdm1oQmNra0d1TVFMNk9GNmxpalpoZTlmbWlZZXVMVHZ3TWxNRHVpZTFpVjF5M3BWak1NblZHWXlHOUt4Y1RNQTF0YV9sU1owWVNsR0NQSEVzWWhJaDdYcVlFTGFn?oc=5",
+  "date": 1781938800000,
+  "sig": 2,
+  "snippet": "Ogun relocates students over methane gas pollution  Vanguard News",
+  "iso": "NGA",
+  "region": "Ogun",
   "widened": 0,
   "lang": "Unknown"
  },
@@ -81847,11 +82107,11 @@
  },
  {
   "name": "Front: Argentina lithium Salinas Grandes",
-  "title": "Argentina’s race to mine puts private companies before communities - Dialogue Earth",
+  "title": "Argentina’s race to mine puts private companies before communities - dialogue.earth",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjF5UW9STnlBSGZsUmVGNXhBMjM2TGhOX3RZOHluYzBOTXJPWEF0c2NHZDFyVXZUbnBvdmtGVS1YbWxtdk9YdDREOXVMdU9LRm8xYVZmY3I1MkJtQ3czeXZTV2Ztemx3NDlvVHRzNTE3UWhKSFFYSHhmS3BqMEVidXdZSmRrRmk5WXNJQlBBeUlrT1NXZ1BQUkNBSHBUUFVab1pF?oc=5",
   "date": 1781766000000,
   "sig": 2,
-  "snippet": "Argentina’s race to mine puts private companies before communities  Dialogue Earth",
+  "snippet": "Argentina’s race to mine puts private companies before communities  dialogue.earth",
   "iso": "ARG",
   "region": ""
  },
@@ -82395,11 +82655,11 @@
  },
  {
   "name": "Front: Portugal Barroso lithium mine",
-  "title": "Savannah Strengthens Community Partnerships as Barroso Lithium Project Advances Toward Key Milestones (SAV) - Yahoo Finance UK",
+  "title": "Savannah Strengthens Community Partnerships as Barroso Lithium Project Advances Toward Key Milestones (SAV) - uk.finance.yahoo.com",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjhpV1FzSjRCYUUtcnpXRm5yWEdRTFptNWxqUXBtNTFEeFBGTUh2Q1hUel8zSUtteXE2OXVTenM1am5PQ0dfS0NIZlo4OVNZS1B5N1U2Y21wNjJlaC01SnJoRl95Y0xGMHFaLXNjU3ljdl9adkp0OHVRVDVITU5vVzNrZ1ZmQzBvSVJwZ29kbElSaGVQNTBSSzNXY1JXQ18xMkE?oc=5",
   "date": 1781679600000,
   "sig": 2,
-  "snippet": "Savannah Strengthens Community Partnerships as Barroso Lithium Project Advances Toward Key Milestones (SAV)  Yahoo Finance UK",
+  "snippet": "Savannah Strengthens Community Partnerships as Barroso Lithium Project Advances Toward Key Milestones (SAV)  uk.finance.yahoo.com",
   "iso": "GBR",
   "region": ""
  },
@@ -82415,13 +82675,13 @@
  },
  {
   "name": "United States",
-  "title": "Casella pulls permit application central to Dalton landfill plans - New Hampshire Bulletin",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTVFmR2g2a2E2QkdLSVJkVExlTzF2R2ZmR3l6UUF6dV85Z01weFBWTHNoNFU2T0ttdS1EYnlOeWVkUUszMTdvSFM0cmpOb01wUGVRcEg1SlFFTkZYT1NYaGE5WlJEaUlRcEtvaF9sTGlBOExDa0ZFRnU2aGNPMkl6eElLMnUyTTd5a05kMFN3RFR4bHdrcDdpQUU2YzlSSFBxMkFlWU1lTGcxZFJOTWV3?oc=5",
+  "title": "Boston appeals court tosses Trump memo on offshore wind, letting federal permitting continue - Rhode Island Current",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONWJOc3pOdHlnN3l3TlFsc0hqZ3QwZHNQTzZTMjc3T0VJdURpTGUwMWRfUHVzbUVHUncyQThzakZjVzg3ZWJQNFEySFNfZktYckQ0Q1lSZnBOZmJUd19YSzJWejZWTUdEaDgtUmo5Q1RGX0hkcGRndzl6WGVadll5V0N4WWFMVzNtbVZCOXBKWjkzc1lzYk5qT3pFRVgxY1kxTDNlOGNRVDlhNHZWLWJkMjIyQWJuQ202SU5KWUFaOE9HbkxGU29zNlVR?oc=5",
   "date": 1781679600000,
   "sig": 2,
-  "snippet": "Casella pulls permit application central to Dalton landfill plans  New Hampshire Bulletin",
+  "snippet": "Boston appeals court tosses Trump memo on offshore wind, letting federal permitting continue  Rhode Island Current",
   "iso": "USA",
-  "region": "New Hampshire",
+  "region": "Rhode Island",
   "widened": 0,
   "lang": "Unknown"
  },
@@ -83040,6 +83300,16 @@
   "region": ""
  },
  {
+  "name": "Front: pipeline blockade protest",
+  "title": "Police and KSOC confront protesters at Seoul arena as blockade stalls sports - CHOSUNBIZ - Chosunbiz",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTZUMmI2SnlZaGNmVkwwal81aC14dmp4VjNQMlRKcTNodjZITkpSd0JsN3k5RElZcGNpTVJxSFhGenpqekV1U0pDanhPR2xLWkl5cHFfZmNPUHkwVmVkOVlsTW42QVZweGZRQVhKTUlBX2NGXzloRVRVSFpfOFU3btIBlAFBVV95cUxQN3FVZTgwYVg1TEZGQ0JPdFhoVzdCc0hxak5IM0xJQ2lOQTBhWm93RVBfQi1TX3ktc0RCakVCZG5jSUpOdnc2ZWlEYXRmVkZCcTRJaG5hZ3YyRE5kVnBvSVRGUlJZUG9uOE9lX0lNOFJKcE9fVFhpTFNGdHpnQVZ0cWJUU0dTMVJYSU9YWlhCN3ZlZ0d4?oc=5",
+  "date": 1781593200000,
+  "sig": 2,
+  "snippet": "Police and KSOC confront protesters at Seoul arena as blockade stalls sports - CHOSUNBIZ  Chosunbiz",
+  "iso": null,
+  "region": ""
+ },
+ {
   "name": "Georgia",
   "title": "Property Owners Ask Georgia Supreme Court to Hear Case Challenging Private Railroad's Land Grab - The Institute for Justice",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTJIcV9FMkl4cDlrSm5sVWttVzdEaGFNejJUWlVTQWRESkRVNG9pNTNEbDRIY2dOQlBPX2ljVm1UZU5ZUEtva0lZS0tJTWpYMTk1ME43eFFYdGFjNmFDS3pDYXd4YXk2M3FhREEzTk9yYkFTV3FtR2lHMGxrMmZwclhWRDNicmdkbVZ0ZnRjVV9qYmt3RGRvaDMxV094d2wtM01aRnhMWkh6YjVzZEQ2Q3RWaThVXy1pVTFhejJ0ZzMzUQ?oc=5",
@@ -83137,11 +83407,11 @@
  },
  {
   "name": "United States",
-  "title": "Federal funding coming to Ohio for abandoned mine cleanup, but at reduced rate - Ohio Capital Journal",
+  "title": "Federal funding coming to Ohio for abandoned mine cleanup, but at reduced rate - ohiocapitaljournal.com",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjhIY2hfVklFaTVxdXljZHZEemlZbndNY3FsTlVnbkthUG5Ga2xjUTlzTzJGcklkcmhBbThfZTc5cUstZHY3UUx5eldYOHY1b1ZUWEtiUnNxNk40U0kxQ2F0WXlMd2RubV94dWFPSHpacDJfcThVQUFMcTZDUjFheG1qb1hLUmkzb0haRDVFOG4ycTdDcExsQ3I5TVFhQ2Fhdi1lNWdDTDUteGtWNHNZVkhQemNLYk9qU241SA?oc=5",
   "date": 1781593200000,
   "sig": 2,
-  "snippet": "Federal funding coming to Ohio for abandoned mine cleanup, but at reduced rate  Ohio Capital Journal",
+  "snippet": "Federal funding coming to Ohio for abandoned mine cleanup, but at reduced rate  ohiocapitaljournal.com",
   "iso": "USA",
   "region": "Ohio",
   "widened": 0,
@@ -83300,18 +83570,6 @@
   "snippet": "Carlow named top county in Ireland for e-waste recycling last year as a record 12.2kg per person saved from landfill  Irish Independent",
   "iso": "IRL",
   "region": "Carlow",
-  "widened": 0,
-  "lang": "Unknown"
- },
- {
-  "name": "Austria",
-  "title": "Piesendorf zieht nach Aufstiegskrimi aussichtsreichen Protest zurück: „Menschlich und sportlich fair“ - Salzburger Nachrichten",
-  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2VTVW03VFYyR0hQM2dKVVBSV3NJQlpTZExBSDlzckFmXzFCaUIzeDdqQU5pLUZncnVFd3hMQlFfclQxYjZwVm0tTkM2MWR5MGVMSVZXQmZxUUNocEsxUFV2TW5NWXBsYUVkc25SWGNGQWhSeHh3Z2tRd0FrRDlCMjBoVEtrTzlOYkFGX2hWUUlpdE16NDVJRllmTjYyaHRkTGIwMS1oN3Naeks4cGhUajV6ZTBqNzEta0UtU1ZaYkxBVmVTUEF6eUc3RGI4TVdsU1d1c1JMN09NWkx6dzVUcFdSSkFRQ2d5?oc=5",
-  "date": 1781593200000,
-  "sig": 2,
-  "snippet": "Piesendorf zieht nach Aufstiegskrimi aussichtsreichen Protest zurück: „Menschlich und sportlich fair“  Salzburger Nachrichten",
-  "iso": "AUT",
-  "region": "Salzburg",
   "widened": 0,
   "lang": "Unknown"
  },
@@ -83763,11 +84021,11 @@
  },
  {
   "name": "United States",
-  "title": "RELEASE: Diving into summer: Contamination risk at Rhode Island beaches - Environment America",
+  "title": "RELEASE: Diving into summer: Contamination risk at Rhode Island beaches - environmentamerica.org",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUERnellWdkZFbDhBaGs3U0haU3RSeS1sUVd5RWhBcklsSXBTVHQ2a2VWSHp5aldXRDV0alVHYkRhVGxKcUl0eEw1MHA0aVlWODlzZ2Fzb2t4c1NQZTJ0elRGQkRneDlrWlFwNS11dlRNbkw5d1BnRmJOVjFZU3N1R0RzcGtkVEtBMllMRmt1dUx5WmlXZG1idkN5cXZnZEU1WUpVVFBfR2Q4ZU5iX3FrenpLUmFOLVZuUWFxUmI5YzVLbU13?oc=5",
   "date": 1781506800000,
   "sig": 2,
-  "snippet": "RELEASE: Diving into summer: Contamination risk at Rhode Island beaches  Environment America",
+  "snippet": "RELEASE: Diving into summer: Contamination risk at Rhode Island beaches  environmentamerica.org",
   "iso": "USA",
   "region": "Rhode Island",
   "widened": 0,
@@ -83907,11 +84165,11 @@
  },
  {
   "name": "Venezuela",
-  "title": "Golpe al Tren de Aragua refuerza apuesta de Venezuela por inversión minera extranjera - Bloomberg.com",
+  "title": "Golpe al Tren de Aragua refuerza apuesta de Venezuela por inversión minera extranjera - bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjR5eThzTERvdGlDdU1GcmF0Y2U4d3ZoMkQwMnpTekF6UG9jeGgzQUJZR3VTVTJKQlF4WWZITk44SW1pZDJhSVJidkdPZGo4Y2F0T3J6Um5vSmR3MVN6bWNIbk5CbTJvOGtRLVFyZUhRc1RBUWJ0Nno0bi1iZmdXWXZ2VXlXWW9CN1FDX1pBMGl4R1Z0NkdiajB5UU1DZXpDNGJSSXdzMEhKckR6NnNmYXBYZFUzZEp2UjZxUXplMlg3aC01ckRwQUt3?oc=5",
   "date": 1781506800000,
   "sig": 2,
-  "snippet": "Golpe al Tren de Aragua refuerza apuesta de Venezuela por inversión minera extranjera  Bloomberg.com",
+  "snippet": "Golpe al Tren de Aragua refuerza apuesta de Venezuela por inversión minera extranjera  bloomberg.com",
   "iso": "VEN",
   "region": "Aragua",
   "widened": 0,
@@ -84362,6 +84620,18 @@
   "lang": "Unknown"
  },
  {
+  "name": "United States",
+  "title": "Commentary: This historic Nevada mining town has seen better days. Trump is excavating hope - Los Angeles Times",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd2RCTTlCTFIzUmhOdEg5R3lEbEpzWWRHQjdOc3hzYjVNVHZlYm9taDd0NXZEV1ozaHJwN0ZVcEhPNTNuc2RDa19JbWVTeXJONXFpVWVja05DRGR0NlY4NXZyenFvcEQtRXBQS1k2dEtWN3ZqQlNhSkEybU1qOXdzRHFqNFRvZTN2cXJTWDJPVjlXVFBtNEE?oc=5",
+  "date": 1781420400000,
+  "sig": 2,
+  "snippet": "Commentary: This historic Nevada mining town has seen better days. Trump is excavating hope  Los Angeles Times",
+  "iso": "USA",
+  "region": "Nevada",
+  "widened": 0,
+  "lang": "Unknown"
+ },
+ {
   "name": "Colombia",
   "title": "Líder indígena que recogía firmas para la Constituyente de Petro también controla territorio de 257.000 hectáreas en La Guajira | El Colombiano - El Colombiano",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjNNZzFoLTU0ZUs5RHAwMUVXc21FY1hueG9CN2U5VGRlS2ZnWTR2RGR0c2lBZGF1MWc5QU5ybnp4R0RoMEQyQ1V6X1dJa3FTLXlSWEo5cEdLcEtCT04zbldySUNJd3JvZUZVQlhRT0VEcF9qbTNsTFhKblBQZlVKVmtvcGJEZWhJTmEwQlVieHRCRWFRYnB5WFZKaTJUMnQ0bVl0c3dBOF9LUmFSbnlEOTd4Vl9HLVpFNXl1RtIBwgFBVV95cUxNemxqTXdEOTA4RENZZnBZQXhMUUZOLXVOWFh0TE43TDNhb2NvalVCbVNrMVJscTA4MThsYkFWWnU0RDFVa3VQWk5JcmFiVS1fWWp5X3FsMC1XMVVTLTlaUzBVbV9aSjhmeEdQMjl6Q09Md1ZGbFZGRlhrNkcxMUF0U1otclNUVGlGd1E2RVNHX0lGTmJxa0JkT0lPVGdPM1cwRHJKYk00a1lPMkhsRXR3RkppNFB5bjdBNElrdDdTaEFrZw?oc=5",
@@ -84685,9 +84955,9 @@
   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRlM1RXNyUW5lelZsNGZKcG1uX2x6MHFrYTgxS291cVdrb3EyV3diQ3E3SVpaVGktWHBjQ0N3ZU5wNEVzN3pjYzFCQzhrYkt5R1NmOFZzNjhqOUZ3azE4MFYtMHU1X3lza0xucm9xcF9oT0NIWktWZ3JMME1uYjlhak85MzI2Unl3dlBPLUQ1T1RLaHJrbUl5THZBT0ZjY0ZibWU4aVo1bmEtR1N4ZFdyVTFEbWZwQ1dFNmxCWHVJcDhSNDRLVVBXTVpmU0hDZWVaeUtzeEtYbkthNkJQRmtQd3dCTmpDOEFRNll5cTZhUkc?oc=5",
   "date": 1781334000000,
   "sig": 2,
-  "snippet": "How a submarine purchase and arms fairs are worsening security risks for Indigenous land defenders and human rights activists  Peace Brigades International-Canada",
-  "iso": "GL",
-  "region": ""
+  "snippet": "The time is now for Mexico to go all in on fracking: A perspective from our CEO  Mexico News Daily",
+  "iso": "MEX",
+  "region": "México"
  },
  {
   "name": "Front: CP2 LNG terminal",
@@ -87415,11 +87685,11 @@
  },
  {
   "name": "United States",
-  "title": "Nation’s largest wind farm comes online in New Mexico - Environment America",
+  "title": "Nation’s largest wind farm comes online in New Mexico - environmentamerica.org",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzlURlRmSlNmcVZBQkZpREpqLTNFbk5tM2JpaENqYkdDVkhMZWpBLThrTzRmS2hvdG13NDQxakpSa0stU0FCTDRpWWFIWHNwTmt5TE1aTzlabFBLWnhEdmxVN3E2YXRuZE5BdDgyRFkzcEJXQUNYTXNwWkI5Y0FNVDBKd25DUVVBeFdHVmxLTVFMaWxnRG14a050SjRyemI1ZFRwZVp1ZnlxdURLaEE?oc=5",
   "date": 1780902000000,
   "sig": 2,
-  "snippet": "Nation’s largest wind farm comes online in New Mexico  Environment America",
+  "snippet": "Nation’s largest wind farm comes online in New Mexico  environmentamerica.org",
   "iso": "USA",
   "region": "New Mexico",
   "widened": 0,
@@ -87458,18 +87728,6 @@
   "snippet": "Más de 400 maestros de Guanajuato se suman a protestas de la CNTE en Ciudad de México  El Sol de México",
   "iso": "MEX",
   "region": "Guanajuato",
-  "widened": 0,
-  "lang": "Unknown"
- },
- {
-  "name": "Mexico",
-  "title": "Mineral de la Reforma mantiene 140 fraccionamientos sin municipalizar; 30 ya iniciaron regularización - El Universal Hidalgo",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdThQX01NT1M5dExjcU1qTGFsYU5EU2pyT0h5WldiMjgwdXNzazk3aVhhLWRfOEVHNGl4Tkwxa3c3aWl0NC00YW9WUUpmcDJsMENuZTJBcmE1ZWdpY242UmhuU0pRMlFEMHlmY2w1ZV9aZVBpbTNkSFVHMG9LRkNQZTBoSnl4NF9qcGhKU0txRlowRTFuTUk4VUZrT3ZQTWdCN3NMV1lXY09SMUhrcVJ4aGZnVHVfM1NNSDZnVldaVEFKRUUyWlFTVkVFZ3o0QUJtZVQ4RmQ0ZnVsU0drX2RZR29ka9IB9wFBVV95cUxQbUlJd3hZZGtjV0VVWGhnQVVqMjE1Ui0tcG9oRUI0WDBTRGJWaUdsWURyWmMxcGJoT3NrUDBNX0ZjUlcyd3B3QWJ2ZVhzUEZMS0k3NmhULUZ4QVRjQXlfNV9IbFpGSGd2X3hqQUl6YnFWNGdzZWVHbTNRVFJrcUotamR2RVJOTy1ScXoxWVZtTGV0NEVSSjhaSjBWdldwMXFwOVR4aW1LcXpLSlFhd3R2UDdOZnA0WU52TTZKMnM1ajQ1NTVXLVpxN2hHZ3dUb3V1czdXUi1wNVkzNmpVRG9lYVh2ZWxZTHNlNXJSV09JbEpXZk1SRUtN?oc=5",
-  "date": 1780902000000,
-  "sig": 2,
-  "snippet": "Mineral de la Reforma mantiene 140 fraccionamientos sin municipalizar; 30 ya iniciaron regularización  El Universal Hidalgo",
-  "iso": "MEX",
-  "region": "Hidalgo",
   "widened": 0,
   "lang": "Unknown"
  },
@@ -88731,11 +88989,11 @@
  },
  {
   "name": "Estonia",
-  "title": "Neo Performance’s HREE line commissioned in Estonia - mining-technology.com",
+  "title": "Neo Performance’s HREE line commissioned in Estonia - Mining Technology",
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0trVVFMbFNkbHJhU2FGLWVFSG40TU5tRm43VUFady11YmxuNGZGUUstUkxHRm4wRFVLaFBwVWh0bmUzdTlCOVF1b3dkWUgweG8weFhrSDdCOGJEMXBHMEpBcF9VYmkzc21DRkdOVlhDX3YxenBKRG1sTEZfSlBrak9pTVB4cUJlLUxTZDBEbHY?oc=5",
   "date": 1776063600000,
   "sig": 2,
-  "snippet": "Neo Performance’s HREE line commissioned in Estonia  mining-technology.com",
+  "snippet": "Neo Performance’s HREE line commissioned in Estonia  Mining Technology",
   "iso": "EST",
   "region": "",
   "widened": 180,

@@ -2,446 +2,253 @@
 
 *Complete Community Opposition How-To*
 
+*This guide is honest that mining is the centre of the economy, and that the political ground — a military transition of uncertain direction — is not firm. It is built around the levers that do reach the mines here — the global companies bound by their own standards and reputations, the financiers whose accountability mechanisms communities can petition, the buyers and the "just transition" the metals are sold under, the requirement of genuine consent, and the transition government's scrutiny of the deals — and names each in plain words. Throughout, it puts your safety first.*
+
 # INTRODUCTION & FRAMEWORK
 
-Community action shapes what happens to the land, water, and forests of Guinea — and here the destructive force is among the most powerful on earth, because Guinea sits on the ore that the world's aluminium and steel are made from, and the mines that dig it up are devouring the farmland and water of hundreds of thousands of rural people. Guinea is one of the world's great mineral nations: the largest or second-largest exporter of bauxite, the ore from which aluminium is made, and holder of one of the planet's richest untapped iron-ore depositsholder of one of the planet's largest and richest untapped high-grade iron-ore deposits. In the Boké region, vast open-pit bauxite mines run by international consortia have expropriated ancestral farmland, polluted and cut off water sources, choked villages with dust from endless mining lorries, and left whole communities without the land they lived on — and a government study projects that within two decades bauxite mining will destroy tens of thousands of hectares of farmland and hundreds of thousands of hectares of natural habitat. Now a giant iron-ore project in the southeastern rainforest, with a four-hundred-mile railway, is coming online.Now a giant iron-ore project deep in the southeastern rainforest, with a new four-hundred-mile railway and port, is coming online. This guide will be honest that mining is the centre of Guinea's economy, that the companies are powerful and were unfazed even by a coup, that the country is under an uncertain military transition, and that there is no landmark community victory to point to; but it will show that the levers here, running through the global companies, their financiers, and the metals the world's own green transition depends on, are real.
+In Guinea the destructive force is among the most powerful on earth, because Guinea sits on the ore the world's aluminium and steel are made from. It is one of the world's great mineral nations — the largest or second-largest exporter of **bauxite**, the ore from which aluminium is made, and holder of one of the planet's largest, richest untapped high-grade **iron-ore** deposits. In the **Boké region**, vast open-pit bauxite mines run by international consortia have **expropriated ancestral farmland, polluted and cut off water sources, choked villages with dust** from endless mining lorries, and left whole communities without the land they lived on — and a government study projects that within two decades bauxite mining will destroy tens of thousands of hectares of farmland and hundreds of thousands of hectares of natural habitat. Now a giant iron-ore project deep in the southeastern rainforest, with a new four-hundred-mile railway and port, is coming online.
 
-The Guinean story teaches two things about opposing destructive projects here, and this guide states both plainly. The first is the pattern that runs through every guide: not a single silver bullet, but the combination of every lever — the affected community, the evidence, the coalition, and the pressure on the deciders — pressed together. The second is distinctly Guinean, and it is what gives this guide its real force. **Because Guinea's ore is dug by international mining giants, financed by international lenders, and sold into the global supply chains that feed the world's aluminium, steel, and even its clean-energy transition, the levers reach far beyond the mine: the companies bound by their own human-rights and environmental standards and their reputations, the financiers whose accountability mechanisms communities can petition, the buyers and the "just transition" branding the metals are sold under, the requirement of genuine consent, and the transitional government's own scrutiny of the deals.** That combination — the company standards, the financiers, the supply chain, community consent, and the transition's scrutiny — is the distinctive lever here, and this guide is built around it, because ore that flows out to the world's most reputation-conscious industries can be pressed back through them.
+A community in Guinea works with real, if indirect, levers — and the distinctive truth is that they run far beyond the mine, back through the global supply chain the ore flows into. Major mining companies operate under **their own human-rights and environmental standards** and are sensitive to **reputation**. Their **international financiers** — development banks and lenders — run **accountability mechanisms** communities can petition. The **buyers** of the metal, and the "just transition" it is branded under, care about clean supply chains. Guinean law requires **consent and consultation** and provides for **compensation** and **environmental assessment**. And the **transition government** has, at times, scrutinised the mining deals. Ore that flows out to the world's most reputation-conscious industries can be pressed back through them. But these tools have real limits, and this guide states them plainly. **Mining is the nation's economic lifeblood** and revenue, so the state is deeply committed to the mines and to expanding them. The **companies are among the largest in the world** and carried on regardless of a coup. The affected **communities are poor and often hope for the jobs** mining might bring, so they are not always united. The country is under a **military transition of uncertain direction, with civil-society space constrained** — so caution and safety come first. And there is **no landmark victory** to point to. So aim for what these levers can deliver, insisting that the metals the world needs not be dug from the ruin of communities' land and lives.
 
-But the same story carries honest qualifications this guide states plainly and takes seriously. **Mining is the nation's economic lifeblood, the companies are powerful, the communities are poor, and the politics are uncertain.** Bauxite and iron are the mainstays of the economy and the government's revenue, so the state is deeply committed to the mines and even to expanding them and processing more ore at home; the companies are among the largest in the world and have carried on regardless of a coup; and the affected communities, though harmed, are poor and often hope for the jobs and development mining might bring. And the country is under a military transition of uncertain direction, with civil-society space constrained. This guide does not pretend the mines can be easily stopped, or that the communities are united against them, or that the political ground is firm. What it shows is how, in a nation whose ore the world depends on, a community can use the company standards, the financiers, the supply chain, the requirement of consent, and the transition's scrutiny to defend its water, its farmland, and its food security — insisting that the metals the world needs not be dug from the ruin of communities' land and lives.
+## The Whole Strategy in One Idea
 
-Most communities do not know HOW to use the levers a globally-traded mineral offers. They see the bulldozers take the farmland, the water source cut off or fouled, the dust settle on the crops, the compensation come once and vanish — and either accept it or protest in ways a mining-dependent state resists, and rarely reach the companies bound by their standards, the financiers with accountability mechanisms, the buyers who brand their metal as clean, or the transition government reviewing the deals. The gap between the land defended and the land lost is here often a gap of method — the method of using the company standards, the financiers, the supply chain, consent, and the transition's scrutiny together.
+A mine looks unstoppable, but it depends on a chain that reaches around the world, and a chain breaks at its weakest link. A Guinean fight turns on the **companies' own standards and reputations**; on the **financiers' accountability mechanisms**; on the **buyers and the "just transition" branding**; on the **requirement of consent** and the compensation and assessment law; and on the **transition government's scrutiny**. Every one of those is a link you can grab — and the global supply chain runs through them all, far beyond a mining-dependent state's reach. **Find the one closest to your hand and pull — safely.**
 
-**This guide shows what can actually be tried — inside the Guinean reality as it is, which is a mining-dependent, semi-authoritarian state in an uncertain transition.** It is written for the person who sees the mines devour the farmland and water their community lives on — and who wants to know what can be done in a country whose ore the world needs and whose mines are run by global giants. The answer is a qualified yes: the levers are real — the company standards, the financiers, the supply chain, consent, and the transition's scrutiny — with the honest qualifiers that mining is the economy's lifeblood, the companies are powerful, the communities are poor and divided, the transition is uncertain, and there is no landmark victory to promise, only real levers and the work of insisting the world's metals not be dug from the ruin of communities. A note on who this guide is for, and on the spirit in which it should be used. It is for the person willing to do the patient, indirect, and careful work of reaching a global industry through its standards, its financiers, and its buyers — documenting the harm, tracing the ties, lodging the complaints, and asserting consent — rather than confronting a powerful mine and a mining-dependent state head-on. That is not a weaker form of action but, in Guinea's conditions, the most effective and the safest one, because here the levers that genuinely deliver are the global company standards, the financier mechanisms, the supply chain, and the right to consent, none of which is reached through the domestic confrontation a mining-dependent state resists. Anyone hoping to stop a mine by protest alone should understand that the companies have carried on regardless even of a coup, and that the real, reachable pressure runs through their global connections and the consent they profess to respect. This guide is an honest map of that patient, indirect, global path — the path of reaching the giants a village alone could never move, and insisting the world's metals not be dug from a community's ruin.
+## Be Honest About Which Fight You're In
 
-## The Strategic Framework
+Before you begin — and mind your safety in a constrained space — work out your real situation:
 
-Effective efforts follow the same underlying pattern, whether the goal is to defend farmland, water, or forest from a bauxite or iron mine and its railway:
+- **If a global company runs the mine, its own standards and reputation are levers** — it does not want to be exposed abusing them.
+- **If international lenders finance it, their accountability mechanisms are a real route** — communities can petition them directly.
+- **If the metal is sold as "clean" or feeding the green transition, that branding is a pressure point** — buyers fear a supply chain dug from ruin.
+- **If the state and the companies are powerful and the space constrained, don't rely on confrontation** — reach the supply chain, insist on consent and compensation, and put safety first; and know the community may not be united, since many hope for jobs.
 
-```
-STEP 1: TARGET IDENTIFICATION  (find the project, the harm, and the companies)
-        |
-STEP 2: DOCUMENTATION          (build the evidence -- harm and broken standard)
-        |
-STEP 3: LOCAL OPPOSITION        (build the community and its consent)
-        |
-STEP 4: LEGAL, REGULATORY & CORPORATE-ACCOUNTABILITY  (mining law, financiers, standards)
-        |
-STEP 5: MEDIA STRATEGY         (make it a national and global-metals cause)
-```
-
-These steps operate **simultaneously, not in sequence**. The evidence of harm and broken standards feeds the companies, the financiers, the buyers, and the world at once; the community organises around its consent; a complaint to a financier, an appeal to a buyer, or a consent claim is both pressure and a spur to the next. The community that runs all five together, each reinforcing the others, gives itself the best — if still difficult — chance of defending its water, farmland, and food security.
-
-## The Levers That Are Distinctly Strong Here
-
-Every country's system has its own pressure points. Guinea's — ore dug by global giants, financed internationally, and sold into reputation-conscious supply chains — give communities a distinctive set:
-
-- **The company standards.** The **international mining giants** operating the mines are bound by their own **human-rights and environmental standards** and their reputations — a distinctive lever.
-- **The financiers and their mechanisms.** The **international lenders and financiers** behind the mines have **accountability mechanisms communities can petition**.
-- **The supply chain and the "just transition."** The **buyers of the aluminium and steel, and the clean-energy branding** the metals are sold under, are a distinctive lever.
-- **Community consent.** The **requirement of genuine consent** for taking ancestral land is a real and legitimate foundation.
-- **The transition's scrutiny.** The **transitional government's own review of the mining deals** is an opening to press for safeguards.
-
-## What This Guide Will Not Pretend
-
-It would be dishonest to promise these levers prevail, or that the mines can be easily stopped. There is **no landmark win**; mining is the **economy's lifeblood**; the companies are **powerful**; the communities are **poor and divided**; and the transition is **uncertain**. This guide takes those limits seriously — it states them plainly, and it counsels care — and shows how to use the real, distinctive tools this situation offers — the company standards, the financiers, the supply chain, consent, and the transition's scrutiny — to defend communities' water, farmland, and food security, honestly acknowledging the economic power of mining, the poverty and division of communities, and the absence of a landmark victory.
+Read the whole guide once before you move. Two habits run through it: **reach beyond the mine to the companies' standards, the financiers, and the buyers**, and **insist on genuine consent and fair compensation** — the levers a globally-traded ore offers. Do it carefully, safely, in a constrained space.
 
 # HOW THE SYSTEM WORKS
 
-You cannot pull a lever you cannot see. Before you spend a single week, map who actually decides a mine's fate, at which level, and where the leverage is real and the risk manageable. And map where the company standards, the financiers, the supply chain, consent, and the transition's scrutiny apply, because in Guinea a destructive mine is best met not by protest a mining-dependent state resists, but by following the ore to the global giants that dig it, the financiers that fund it, and the buyers that brand it clean — and by insisting on the consent the taking of ancestral land requires.
+To break the chain you have to see it — who decides, how a project moves, and who's watching.
 
-## The Levels of Decision
+## Who Actually Decides
 
-A Guinean project runs through several tracks, and each is a place to intervene.
+The mines are run by **international consortia** under mining agreements with the state, which is deeply committed to the revenue. The companies operate under **their own human-rights and environmental standards** and are sensitive to **reputation**. Their **international financiers** run **accountability mechanisms**. The **buyers** and the "just transition" branding care about clean supply. Guinean law requires **consent, consultation, compensation, and environmental assessment**. And the **transition government** has at times scrutinised the deals. Know which of these you can reach — the supply chain is the sharpest, the state the least movable.
 
-**The government and the transition.** The **government** — under an uncertain military transition — grants and profits from the mining concessions, and is answerable, in principle, to its own promised scrutiny of the deals and to the international standards the projects invoke.
+## How a Project Moves — and Where You Jump In
 
-**The mining companies.** The **international mining giants** — the bauxite consortia and the iron-ore developers — operate the mines and are bound by their own **human-rights and environmental standards** and their global reputations, a distinctive lever.
+**The mining agreement and assessment.** The project needs its agreement, environmental assessment, and consultation. *Your opening:* insist on **genuine consent and consultation**, and attack a defective assessment.
 
-**The financiers and their mechanisms.** The **international lenders and development financiers** behind the mines maintain **accountability mechanisms** through which affected communities can lodge complaints — a real, reachable channel.
+**The company standards.** *Your opening:* a documented abuse breaches the company's own human-rights and environmental standards, and its reputation.
 
-**The buyers and the supply chain.** The **buyers of the aluminium and steel**, and the **clean-energy and "just transition" branding** the metals are increasingly sold under, are a distinctive lever on the whole chain.
+**The financiers.** *Your opening — a real route:* petition the financiers' **accountability mechanisms** over harm and lack of consent.
 
-**The communities and their consent.** The **affected communities and their right to genuine consent** for the taking of ancestral land are the legitimate foundation, in a region where land is livelihood and survival.
+**The buyers and the transition.** *Your opening:* reach the buyers and the "just transition" branding, and the transition government's scrutiny of the deals.
 
-## The Journey of a Project
+## Follow the Money and the Permissions
 
-A Guinean project — a bauxite pit, an iron mine, a railway, a port — moves from a concession and a plan, through the bulldozers and the mining roads, toward the lost farmland and the fouled water, with the **community's evidence, the company standards, the financiers, the supply chain, consent, and the transition's scrutiny** able to intervene. **The company standards and the financiers are where a global mine is most reachable, and consent is the community's foundation** — and using them together is the distinctive Guinean approach. The distinctive levers are the **company standards**, the **financiers**, the **supply chain**, **consent**, and the **transition's scrutiny**. Find out exactly where the project stands, and, crucially, **what farmland, water, and forest would be lost**, **which companies and financiers are involved**, and **how their standards, their mechanisms, the buyers, and consent can be engaged**, because those are where a project can genuinely be met.
+Dig up three things. **Who runs it and who finances it** — the international consortium and its lenders, because both are bound by standards and reputations you can reach. **What standards and commitments it's bound by** — the company's human-rights and environmental policies, the financiers' safeguards, the "clean supply" branding — because a documented breach is your lever. **What consent and compensation are owed** — because these are your legal and moral claims.
 
-## Follow the Ore, the Land, and the Companies
+## Who's Supposed to Be Watching
 
-Behind a project stand the government, the global companies, the financiers, and the buyers of the metal. Trace who decides, who profits, who finances and buys, and — importantly here — **what farmland, water, forest, and livelihood would be lost**, **which companies and financiers are involved and to what standards they are bound**, **how the buyers and the clean-metal branding can be engaged**, and **whether genuine consent was given**. Two questions unlock most Guinean efforts: **What would be lost, and who globally is tied to it?** and **Which lever — the company standards, the financiers, the supply chain, consent, the transition's scrutiny — can meet it?** The company standards, the financiers, and consent are, together, the heart of most such efforts here. Everything else in a Guinean effort ultimately serves these: the documentation exists to prove the harm and the broken standard; the community organising exists to unite the people around their denied consent; and the media exists to raise the reputational cost before the companies, financiers, and buyers who answer for the metal. Keep the company standards, the financiers' mechanisms, and the right to consent at the centre of every submission, complaint, and campaign, and the effort retains a clear spine that runs from a single village's lost field to the global industries that dig and buy the ore, and that grounds the whole struggle in the consent that was owed and denied.
-
-## The Overseers
-
-Finally, know the bodies and forces that shape a project, because they are the community's levers. The **government and the transition authorities**; the **mining companies and their standards**; the **financiers and their accountability mechanisms**; the **buyers and the supply chain**; the **domestic and international civil society** that documents mining harm; and the **communities and their consent**. In Guinea, the **company standards, the financiers, the supply chain, consent, and the transition's scrutiny** are the most distinctive levers, and most reach beyond the domestic system. Each is a separate front, and a project shown to destroy farmland and water, to breach the companies' and financiers' standards, and to take land without consent, can genuinely be pressed — through the companies, the financiers, and the buyers that answer for it — though, honestly, mining is the economy's lifeblood, the companies are powerful, and the transition is uncertain, and this guide will keep saying so, and keep counselling care.
+Each is an ally or an arena. The **companies' own standards** and their **reputations**. The **financiers' accountability mechanisms**. The **buyers** and the "just transition" branding. Guinean **consent, compensation, and assessment law**. The **transition government's scrutiny**. And Guinea's — and the world's — **environmental and human-rights organisations, international watchdogs, and press** are the forces that reach furthest, carrying a community's case up the global supply chain.
 
 # QUICK REFERENCE: SUCCESS RATES
 
-Before you commit effort, calibrate honestly — and here that means acknowledging that mining is the economy's lifeblood, that the companies are powerful, and that the transition is uncertain, even as the global companies' standards and their financiers give real leverage. These figures are **directional, not guarantees** — patterns drawn from how mining-and-community conflicts tend to go in Guinea and comparable extractive states, not a controlled study. The decisive variables are whether the community can **document the harm and the broken standards**, whether it can **reach the companies, the financiers, and the buyers**, and whether it can **organise safely and assert consent**. Where the harm is provable and the global ties are clear, the levers here are real; but temper every figure with the honest knowledge that mining is central, the companies powerful, the communities poor and divided, and the transition uncertain.
+Size up the odds honestly. These are rough patterns, not promises, and there is no landmark win here. What most moves them: whether you can reach the supply chain and financiers, whether consent and harm can be documented, and how constrained the space is.
 
-## Individual Step Success Rates
+| What you do | Roughly works | How long | Cost/Risk | What "works" means |
+|----------|---------|----------|------|----------------------|
+| Just gather documents | 5–10% | weeks | low | The base for everything else |
+| Insist on consent + consultation | 20–45% | months | low | Consent honoured; project reshaped |
+| Claim fair compensation | 25–50% | months–yr | low | Compensation paid or improved |
+| Company-standards / reputation pressure | 25–50% | months–yr | low | Abuse curbed; company responds |
+| Financiers' accountability mechanism | 30–55% | months–2 yr | low | Investigation; harm addressed |
+| Buyers / "just transition" branding | 25–50% | months–yr | low | Supply-chain pressure on the company |
+| Transition-government scrutiny | 20–45% | months–yr | low–**risk** | A deal reviewed or conditioned |
+| International watchdogs + press | 30–55% | months–yr | low | Global exposure of the harm |
+| **Everything together (supply chain, financiers, consent)** | **30–55%** | months–2 yr | mod | Harm reduced; consent/compensation forced |
+| Direct confrontation with the state/company | 5–20% | — | **high risk** | Often ineffective and dangerous |
 
-| Approach | Success Rate | Timeline | Cost | What "Success" Means |
-|----------|--------------|----------|------|----------------------|
-| **Documentation only** | 10–20% | weeks | low | Basis for every other step |
-| **Harm-and-standard case** | 35–55% | weeks–months | low | The loss and the breach, established |
-| **Company-standard pressure** | 35–55% | months | low–moderate | A company pressed to remedy or halt |
-| **Financier accountability route** | 35–55% | months–years | low | A complaint heard; leverage on the mine |
-| **Supply-chain / buyer pressure** | 30–50% | months | low | A buyer or brand pressed to act |
-| **Community consent** | 35–55% | months–years | low–moderate | Consent asserted; compensation improved |
-| **Transition-scrutiny opening** | 30–50% | months | low | Deals reviewed; safeguards pressed |
-| **All levers together** | 35–55% | months–years | moderate | Harm reduced; land, water, consent defended |
+The levers that move the needle most are the **financiers' accountability mechanisms**, the **company standards and reputation**, and the **buyers / "just transition" branding**, backed by **insistence on consent and compensation** and **international watchdogs**. There's no landmark ceiling to cite — the honest floor is a mining-dependent state, powerful companies, poor and divided communities, and a constrained, uncertain political space. So aim for consent and compensation honoured, harm reduced, water and farmland protected, a deal scrutinised, and accountability forced.
 
-**Key insight:** every step together beats any single one, and Guinea's real strengths are the global ties: the **company standards**, the **financiers**, the **supply chain**, **consent**, and the **transition's scrutiny**. Its constraints are specific and honest: mining is the **economy's lifeblood**, the companies are **powerful**, the communities are **poor and divided**, and the transition is **uncertain** — so progress comes through the global companies, financiers, and buyers, and through consent, not through confrontation a mining-dependent state resists.
-
-*A note on cost: the levers here — a documented case, a financier complaint, a buyer appeal, a consent claim — cost mainly organisation and knowledge, though a formal complaint or legal process may need help. The scarce resources are **organisation, technical and legal help, and the civil-society and financier connections** — much of it reachable through the international networks that track mining. This shapes where a Guinean effort should concentrate its energy. Because the decisive resources are the organisation to unite the community around consent, the technical and legal help to document the harm and trace the global ties, and the connections to the mining-watch organisations and financier-accountability specialists who know how to reach the companies and their lenders — rather than the numbers or confrontation that other struggles demand — a community's most valuable investments are in building a rigorous, well-traced case and in connecting to the international networks that track and press Guinean mining. A small, well-organised community that can document its harm, name the global companies and financiers behind the mine, and lodge a credible complaint can accomplish far more, and far more safely, than a large one that merely protests at the mine gate. The resources that matter most are thus largely a matter of evidence, tracing, and the right connections — all within the reach of a determined and well-networked community. And because the communities are poor and want development, part of the work is insisting not on no benefit but on fair consent, compensation, and the sparing of water and food-growing land.*
-
-## Effectiveness Visualization
-
-```
-SUCCESS PROBABILITY (harm reduced, land and water defended, consent won)
-
-PROVABLE HARM + GLOBAL TIES + CONSENT + FINANCIER MECHANISMS:
-Harm-and-standard case:       ███████████     35-55%
-Company-standard pressure:    ███████████     35-55%
-Financier accountability:     ███████████     35-55%
-Community consent:            ███████████     35-55%
-Single lever:                 ███             10-55%
-
-MINING-DEPENDENT STATE / UNCERTAIN TRANSITION -- harder ground:
-Confronting the mine alone:   ████            risky, limited
-Remedy / fairer terms:        ███████████     often achievable
-Water / food land spared:     ███████████     a real, vital aim
-The record / the case made:   ███████████     more reliable than a stop
-```
-
-**How to read this honestly.** The levers that most change outcomes in Guinea are **the company standards, the financiers' mechanisms, community consent, and the supply chain** — used together, and pursued with care. The company-standard and financier levers show the ceiling: a global giant and its lenders, pressed on their own standards, can be made to remedy harm, improve terms, or spare vital land and water. The centrality of mining and the uncertain transition show the honest floor: the state is committed to the mines, and the politics are unsettled. Most Guinean efforts will sit between, and the honest lesson is that the levers here are real — able to reduce harm, win fairer consent and compensation, spare water and food-land, and press the companies and financiers — but that a landmark stop is unlikely, mining is central, and the work is to make the mining just.
-
-## Step Importance Ranking (When All Combined)
-
-1. **The company standards and the financiers** — Guinea's distinctive strengths; the global giants and lenders bound by their own rules.
-2. **Community consent** — the legitimate foundation, in a region where land is livelihood and survival.
-3. **The supply chain and the "just transition"** — the buyers and the clean-metal branding the ore is sold under.
-4. **The transition's scrutiny** — the government's own review of the mining deals, an opening.
-5. **The harm-and-standard case** — the provable loss and the breach of the standards professed.
-
-## What These Campaigns Actually Show
-
-A few honest patterns recur. **The global ties are the real levers** — the mines answer to their companies, financiers, and buyers as much as to the state. **The standards can bite** — a global giant pressed on its own human-rights and environmental commitments faces real reputational cost. **The financiers hear complaints** — accountability mechanisms can bring leverage on a mine. **Consent is the foundation** — land taken without genuine consent is a live, legitimate grievance. **But mining is central and communities are divided** — the state is committed, and the poor often want jobs. The through-line: **document the harm and the broken standards; reach the companies, the financiers, and the buyers; assert consent; use the transition's scrutiny; and act with care — because a community that does can genuinely reduce harm, win fairer terms, and spare vital water and land, while being honest that mining is the economy's lifeblood, the companies powerful, and there is no landmark victory yet.**
+*On cost and risk: reaching the supply chain, petitioning financiers, and documenting harm are low-cost; but direct confrontation in a constrained space carries real risk. The great strength is that the ore flows to reputation-conscious industries reachable from far away; the great requirements are to reach up the supply chain rather than only at the mine, and to keep your people safe.*
 
 # STEP 1: TARGET IDENTIFICATION
 
-Every effective effort begins by finding the exact project and harm — and the global companies and leverage the community holds. Vague concern goes nowhere, and confrontation a mining-dependent state resists; an effort aimed at "the bauxite mine taking this village's farmland and cutting off its water, run by this global consortium, financed by these lenders, breaching their own standards, whose ore feeds these buyers, and taken without our consent" is a real, workable effort — the kind Guinea's global levers can deliver. Answer five questions.
+Being against "the mine" is weak. Being specific — this financier, this company standard, this missing consent — is strong. Answer five questions in writing, carefully.
 
-## The Five Core Questions
+**1. Who runs it and who finances it?** Name the consortium, its parent companies, and its **international lenders** — because both companies and financiers are bound by standards and reputations you can reach.
 
-**1. What would be lost?** This is the first question here. What **farmland, water, forest, and livelihood** would the mine destroy — the ancestral fields, the streams and wells, the food-growing land, the forest and its wildlife.
+**2. What does it take and harm?** Document the **farmland expropriated, the water polluted or cut off, the dust, the habitat lost** — and, for the community, the food security and livelihood at stake.
 
-**2. Which companies and financiers are tied to it?** Which **mining companies operate it, which financiers fund it**, and to what **standards** they are bound — the distinctive global lever.
+**3. What standards, commitments, and consent bind it?** The company's human-rights and environmental policies, the financiers' safeguards, the "clean supply" branding, and the **consent, consultation, and compensation** Guinean law requires. **A documented breach of these is your sharpest lever.**
 
-**3. Where does the ore go, and how is it branded?** Which **buyers** the aluminium or steel flows to, and whether it is sold under **clean-energy or "just transition" branding** that the harm contradicts.
+**4. What stage is it at, and what's the next deadline?** Is an agreement, assessment, or consultation in process? Is compensation owed or unpaid? Is a financier's decision pending? These openings matter.
 
-**4. Was there genuine consent?** Whether the taking of ancestral land had **free, prior, informed consent** and fair compensation — often, as the record shows, it did not.
+**5. Is the community united, who's affected, and who's at risk?** The affected villages, neighbouring communities, and — carefully, in a constrained space — organisations and watchdogs. Be honest that many hope for jobs, and mind everyone's safety.
 
-**5. How can the community act safely?** Given the mining-dependent state and uncertain transition, **how can the community organise and act safely**, favouring the company, financier, and consent channels over risky confrontation.
+**What this looks like in real life.** A bauxite mine expropriates a community's farmland and fouls its water, run by an international consortium with international lenders, the metal sold as feeding the green transition. The five questions yield: the consortium and its financiers; the harm to farmland and water (the claim); the standards, consent, and compensation it breaches (the lever); a financier or consultation in play; and a community, some hoping for jobs, to unite carefully. That's the Guinean pattern — insist on consent and compensation, document the breach, and reach up the supply chain to the company, the financiers, and the buyers.
 
-## A Worked Example
+# STEP 2: DOCUMENTATION
 
-Suppose a bauxite mine is taking a village's farmland and cutting off its water, run by a global consortium, financed by international lenders, its ore sold to the world's aluminium makers, and no genuine consent was given.
+The difference between a community that can press the supply chain and one that can't is documented proof of harm and breach. Build it in three layers, carefully.
 
-Working the five questions: **what would be lost**? **Which companies and financiers**? **Where does the ore go**? **Was there consent**? And how can the community act safely? The deciders are the government and the global companies, with the company standards, the financiers, the supply chain, consent, and the transition's scrutiny as the levers.
+**Layer one: the harm.** Document the **farmland taken, the water polluted or cut off, the dust, the habitat lost**, and the harm to livelihood and food security — with dated, located photographs, testimony, and, where possible, water and health evidence. This is the human core of every claim.
 
-Within a season the effort has moved from "the mine takes our land and nothing can be done" to a real effort: document the harm and the broken standards; press the company and lodge a complaint with the financiers; appeal to the buyers and the clean-metal branding; assert the community's consent; and use the transition's scrutiny — all while protecting the community. That is a workable effort suited to Guinea — one that reaches the global giants a village alone could never move. Notice what the five questions accomplish, and how they suit a fight against a globally-connected industry: they lift the matter from a hopeless local confrontation into a set of specific, answerable questions, each attached to a global lever a village alone could never reach. The harm becomes documentable loss of land, water, and food security. The companies and financiers become named, reachable actors bound by published standards. The metal's destination becomes a supply chain with buyers who have reputations to protect. The absence of consent becomes a demonstrable breach of commitments the powerful have made. And the safety question keeps the effort from tipping into the confrontation a mining-dependent state would resist. That translation — from a poor village facing a global mining giant, seemingly powerless, into a documented case pressed through the company's standards, the financiers' mechanisms, the buyers' reputations, and the right to consent — is the first and most important thing a Guinean effort does, because it moves the fight from ground where the community is weakest, in direct confrontation with a mine, to ground where the mine's own global connections become the levers against it.
+**Layer two: the standards, consent, and compensation.** Get the company's **human-rights and environmental standards**, the financiers' **safeguards**, the "clean supply" commitments, and the record of **consent, consultation, and compensation** (or their absence). Identify the **documented breach** — the gap between what they promised and what they did.
 
-# STEP 2: DOCUMENTATION — HOW TO BUILD AN UNASSAILABLE CASE
-
-Documentation is the foundation everything else stands on — and here, where the case must persuade global companies, financiers, buyers, and the world, sound evidence of both the harm and the broken standard is decisive. A mining company, a financier's ombudsman, a buyer, and a journalist all move on evidence — and in Guinea, a clear record of the farmland and water lost, and of the standards and consent breached, is precisely what an effort turns into a real result, so build it well. Build your file in three layers.
-
-## Layer 1: The Project, the Companies, and the Standards
-
-Get the facts the case turns on. Identify the **project, the concession, and — decisively — the companies and financiers** involved, and the **standards** that bind them, since these are the fight's distinctive leverage. The mining consortia, their parent companies, their lenders, and the standards they profess are largely a matter of public record, traceable through the civil-society organisations that track Guinean mining. Establish exactly **what the project is, who globally is tied to it, and to what standards**, because those ties are the sharpest external handle.
-
-## Layer 2: The Loss — Farmland, Water, and Health
-
-Document the harm, thoroughly. Establish the **environmental and livelihood harm** — the ancestral farmland expropriated, the water sources polluted or cut off, the dust and its health effects, the forest and wildlife lost — drawing on **the civil-society reports, the environmental studies, and community testimony**, much of which exists for mining as documented as Guinea's. And establish the **human harm** — the lost food security, the inadequate and opaque compensation, the divided and pressured communities. Photographs, water and health evidence, and testimony make the loss undeniable, and the global ties make it actionable.
-
-## Layer 3: The Loss, the Broken Standard, the Consent, and the Channel
-
-Finally, document the case. Does the **environmental and human harm** show a real loss? How does it **breach the companies' and financiers' standards** and the professed clean-metal branding? Was there **genuine consent**, and was compensation fair? And which **channel** — the company, the financier's mechanism, the buyers, the consent claim, the transition's scrutiny — is open? Each is a separate element, and together they make a case that can be pressed at the global points where a mine is vulnerable. This is the layer that most often decides these efforts, because a documented loss, a broken standard, an absence of consent, and an open channel are exactly what let a Guinean community reach the giants that a village alone could never move. Build it well, and the company standards, the financiers, the supply chain, and consent become the community's genuine strength. One practical note on building this layer: the global tie is the element that most distinguishes a Guinean case and most repays careful work, because it is what converts a harm the state would ignore into a liability that powerful, reachable actors must answer for. A village's lost farmland and fouled water, considered in isolation within a mining-dependent state, is a grievance the government has every incentive to overlook; but the same harm, tied precisely to a named global company that has published human-rights commitments, to named financiers with accountability mechanisms, and to a metal sold to named buyers under clean-energy branding, becomes a documented breach that those global actors must manage. Building this tie takes real work — identifying the operating company and its multinational parents, the lenders and their safeguards, and the path of the metal to its buyers — but it is precisely this global connection, more than the raw fact of the harm, that gives a poor rural community leverage over actors vastly more powerful than itself, and it is worth establishing as rigorously as the evidence allows.
+**Layer three: the supply-chain map.** Trace the ore from the mine to its **financiers and buyers**, so you know whom to reach and how the harm breaches their commitments. Walking into a financier's accountability mechanism, a company, the buyers, or the international press with documented harm and a documented breach is what makes them act.
 
 # WHAT TO GATHER, AND WHERE TO FIND IT
 
-Evidence in hand beats evidence you assume exists. Here is where the material tends to live in a Guinean effort, and how to get it — with the **harm**, the **global ties**, the **consent**, and the **channels** at the center, and with care for safety. Treat this as a checklist to work through, not a menu to admire.
-
-## The Project, Company, and Financier Record
-
-Start with the project and its global ties. **Concessions, mining agreements, and company and financier records** establish what is intended and by whom; and, decisively here, identify the **operating companies, their parent multinationals, their lenders, and the standards** binding them. Much of this is traceable through the civil-society organisations and financial trackers that follow Guinean mining, and is reachable. Establish exactly **what the project is, who globally is tied to it, and to what standards and financiers**, because those ties are the fight's distinctive leverage.
-
-## The Harm Evidence — Land, Water, and Health
-
-This is the heart of the file. Gather the **environmental and livelihood evidence** — the farmland expropriated, the water sources polluted or lost, the dust and air harm, the forest and wildlife destroyed — drawing on **the civil-society reports, water and health studies, satellite imagery, and community testimony**. And gather the **human evidence** — the lost food security, the inadequate compensation, the health effects. Photographs, water tests, and testimony make the harm vivid and credible, and ground the case in real lives and land.
-
-## The Standard, Consent, and Supply-Chain Record
-
-Document the ties and the breaches, because these are the distinctive Guinean levers. Gather the **companies' and financiers' human-rights and environmental standards** and how the project breaches them; the record of **consent** — whether free, prior, informed consent was sought and given for the taking of ancestral land, and whether compensation was fair; and the **supply chain** — where the metal goes and whether it is sold under clean-energy or "just transition" branding the harm contradicts. A community that can show a mine breaching its operators' and financiers' own standards, taking land without consent, and feeding a clean-branded supply chain, holds a powerful, global lever.
-
-## The Financier-Mechanism and Legal Record
-
-Document the accountability channels. Identify the **financiers' accountability mechanisms** — the ombudsman and compliance channels through which affected communities can lodge complaints — and the basis for using them; the **mining law and any legal avenues**, however constrained; and the **transition government's review** of the mining deals, an opening to press for safeguards. A community that can bring its documented harm to a financier's mechanism, or into the transition's scrutiny of the deals, holds channels that reach past a mining-dependent state.
-
-## The People and the Community
-
-Finally, map the human terrain, with care for safety. Who is affected — the farming and herding communities, those who lost water and land, the future? Who are the allies — the **domestic and international mining-watch organisations, the sympathetic lawyers, the financier-accountability specialists, the diaspora**? And how can the community **organise and act safely**, given the mining-dependent state and uncertain transition? A Guinean effort is advanced through the community and its global allies, with care — so map that coalition and those levers deliberately, and mind the safety of those who organise.
+- **The harm** — farmland, water, dust, habitat, livelihood — with dated photographs, testimony, and water/health evidence.
+- **The company standards, financier safeguards, and "clean supply" commitments** — from the companies' and lenders' own materials.
+- **The consent, consultation, and compensation record** — or its absence.
+- **The supply-chain map** — the mine, its financiers, its buyers.
+- **The documented breach** — the gap between commitment and conduct — gathered with care for safety.
 
 # STEP 3: BUILDING LOCAL OPPOSITION
 
-Evidence does not move deciders by itself. A community — organised, informed, and clear about its consent — is what turns evidence into action, in a nation whose ore the world buys, and with care where a mining-dependent state resists opposition. And here, distinctively, the community's own consent is both the just foundation and a powerful lever: ancestral land taken without genuine consent is a live grievance that the companies, the financiers, and the buyers all have reason to take seriously.
+Documents give you a case; a community that reaches up the supply chain — carefully, and as united as it can be — gives you leverage a mining state cannot block. Build in four moves, safely.
 
-## Why the Community and Its Consent Are Decisive
+**Root it in the affected community — honestly.** Start with those whose farmland and water are taken, and be honest that many hope for jobs. Frame the fight as **consent, fair compensation, and harm reduced** — not necessarily stopping all mining — so you hold as much unity as you can.
 
-In Guinea, an organised community clear about its consent is decisive, because the taking of ancestral land without genuine consent is exactly the kind of harm the companies' and financiers' standards forbid and their reputations cannot bear. The community supplies what an effort runs on: the affected voices, the land and water knowledge, the legitimacy, and — distinctively — the consent that was owed and denied. When a community organises to document the harm and assert its consent, and reaches the global levers, it becomes a genuine force. **A community clear about its denied consent here is not merely the backdrop; it is the holder of the very right the companies and financiers profess to respect — the just and powerful foundation of a Guinean effort.** This is worth dwelling on, because consent is a lever of unusual power in the Guinean context, precisely because the actors who matter most have publicly committed to respecting it. The global mining companies operating in Guinea, their multinational parents, and the international financiers behind them all profess, in their published standards and commitments, to respect the free, prior, and informed consent of communities affected by their projects and to provide fair compensation for land they take. When a community can show, with documented evidence, that its ancestral land was taken without any such consent, or for compensation that was inadequate, opaque, and inequitable, it is not merely voicing a grievance but demonstrating a breach of the very commitments these powerful actors have made to the world. That gap between what they promise and what they did is a reputational and accountability liability they cannot easily ignore, and it hands a poor rural community a claim on the attention of some of the largest companies and financiers on earth. Consent, denied on the ground but owed in principle, is thus both the justice of the case and its sharpest lever.
+**Bring in organisations and experts — carefully.** Enlist environmental and human-rights organisations, watchdogs, and experts who can document the harm and reach the financiers and buyers — mindful of the constrained space and everyone's safety.
 
-## Finding the Affected Community
+**Reach up the supply chain.** The distinctive Guinean lever: take the documented harm and breach to the **company's standards and reputation, the financiers' accountability mechanisms, and the buyers and "just transition" branding** — the reputation-conscious industries the ore flows to, reachable from far beyond the mine.
 
-Begin with those the harm touches most — the **farming and herding families, those whose water and ancestral land were taken, those choked by the dust** — whose livelihoods and food security are at stake. Widen to all whose land, water, and forest the mining threatens. Name the shared stake — **our land, our water, our food, and our ancestral home** — because in a region where the farmland and the water are life itself, their defence unites. But mind, honestly, that some neighbours hope for jobs and development, and seek to unite the community around fair consent and the sparing of vital land, not around blanket opposition that would divide it. This division within affected communities is one of the hardest realities a Guinean effort must face honestly, and mishandling it can fracture an effort before it begins. Mining brings, or promises, real things that poor communities need — wages, roads, clinics, the hope of a way out of poverty — and it would be both dishonest and self-defeating to pretend that everyone in an affected community opposes the mine, or that those who welcome it are simply deceived. Many weigh the promise of jobs against the loss of land and water and come down, understandably, in different places. An effort that treats those who hope for mining's benefits as enemies will split the community and hand the companies an easy victory. The wiser course is to unite the community around what nearly everyone can agree on: that whatever the mine brings, it must not take their land and water without genuine consent and fair compensation, must not destroy the fields and streams they cannot live without, and must be held to the standards its operators profess. Framed around fair consent and the sparing of vital land and water rather than around blanket opposition, the cause can hold a divided community together.
+**Build to last, and put safety first.** In a constrained, uncertain space, build careful roles, a secure archive, an honest way to decide, and — above all — a **safety plan** for those exposed. Avoid needless confrontation; the supply-chain route is both safer and often more effective.
 
-## Coalition-Building, With Care
+# STEP 4: THE SUPPLY CHAIN, THE FINANCIERS & CONSENT
 
-A community allied is stronger than a community alone, and in Guinea the coalition reaches from the village to the world. Reach to the **domestic and international mining-watch organisations** that document Guinean mining harm; the **financier-accountability specialists** who know the complaint mechanisms; the **sympathetic lawyers**; the **supply-chain and clean-metal campaigners**; and the **diaspora**. Frame the coalition around the defence of water, farmland, and food security, and the consent that was denied. Build breadth with care, favouring the documentary, the legal, and the accountability channels over confrontation a mining-dependent state resists.
+Guinea's sharpest levers reach beyond the mine — to the companies, the financiers, and the buyers — anchored in the requirement of consent.
 
-## Sustaining the Effort
+## Consent, Consultation, and Compensation
 
-Guinean efforts can be sustained through the global channels and the community's organisation. Keep the community **informed, organised, and protective of its members**; mark real steps — a complaint lodged with a financier, a company pressed, a buyer engaged, consent asserted, a water source or field spared. And keep the effort grounded in the global levers and consent, which are both effective and safer than confrontation. The effort that lasts is the one that stays organised and safe, reaches the global giants and their financiers, and holds firm on the consent and the vital land and water at stake. Sustaining such an effort is helped, in Guinea, by the durability and reach of the global levers, which continue to work even when the local situation seems hopeless. A complaint lodged with a financier's accountability mechanism proceeds on its own timeline regardless of what the mine does next; a company's public commitment, once shown to be breached, remains a liability the company must manage; a buyer's responsible-sourcing pledge, once invoked, creates an ongoing expectation. These global levers do not evaporate when a protest is dispersed or a season passes, as purely local pressure might; they persist, accumulate, and can be returned to. The discipline is to keep feeding these durable global channels — the documented breaches, the lodged complaints, the engaged buyers — as the enduring backbone of the effort, so that even when the local ground is difficult, the community's case continues to work its way through the global institutions that the mine, its financiers, and its buyers cannot simply ignore.
+Start with your rights: Guinean law requires **consent and consultation** and provides for **compensation** and **environmental assessment**. Insist on **genuine consent** (not manufactured), demand **fair compensation**, and attack a defective assessment. Documented failures here ground every supply-chain claim.
 
-# STEP 4: LEGAL, REGULATORY & CORPORATE-ACCOUNTABILITY CHALLENGES — THE MINING LAW, THE FINANCIERS, AND THE COMPANIES' STANDARDS
+## The Company Standards and Reputation
 
-This is where a Guinean effort is realistically advanced — not through confrontation a mining-dependent state resists, but through the **mining law, the financiers' accountability mechanisms, and the companies' own standards** that global mining answers to, grounded in community consent. Here the legal, regulatory, and corporate-accountability levers come together, because in Guinea a mine run by global giants and funded by international lenders is pressed through their rules, their financiers, and the buyers of their metal.
+Major mining companies operate under **their own human-rights and environmental standards** and are sensitive to **reputation**. A documented breach — land taken without consent, water fouled — can be pressed against the company's own commitments and its public image, which it does not want tarnished.
 
-## Setting Expectations Honestly
+## The Financiers' Accountability Mechanisms
 
-First, the honest truth. The levers are **real but bounded and slow**. The mining law and domestic remedies are **weak** in a mining-dependent, transitional state; the financiers' mechanisms are **genuine but slow**; the company standards are **real but unevenly honoured**; and the buyers' leverage is **real but indirect**. What these levers realistically achieve is **harm remedied, compensation improved, consent asserted, vital land and water spared, and a project reshaped** — real outcomes, if not usually a full stop. Enter this front clear-eyed and careful: the company standards, the financiers, and the supply chain are Guinea's distinctive levers, strongest when the **harm is provable, the global ties are clear, and consent was denied** — but mining is central, the companies powerful, and the transition uncertain.
+A real, distinctive route: the mines' **international financiers** (development banks and lenders) run **accountability mechanisms** that communities can **petition directly** over harm and lack of consent. These can trigger investigations and require the harm to be addressed — a lever that reaches the mine from the world of finance.
 
-## The Companies' Standards and the Financiers' Mechanisms
+## The Buyers and the "Just Transition"
 
-The first and most distinctive front is the companies and their financiers. The **international mining giants** operating the mines profess **human-rights and environmental standards** and guard their global reputations; document the harm and the breach, and press the company — and its parent multinationals — to remedy, to spare vital land and water, and to secure genuine consent. And the **financiers** behind the mines maintain **accountability mechanisms** — ombudsman and compliance channels — through which affected communities can lodge complaints that bring real leverage on a mine. This front reaches the global actors who answer for the mine, and is pursued largely beyond the reach of a mining-dependent state. It is worth emphasising why pursuing this front largely beyond the state's reach matters so much in Guinea. In a country where mining is the economic lifeblood and the government is deeply committed to the mines and even to expanding them, the domestic avenues for challenging a mine are structurally weak, because the state that would have to act against the mine is the same state that depends on its revenue. The great advantage of the company-standard and financier levers is that they route around this conflict of interest entirely, reaching actors — a multinational parent company answerable to its home-country public, an international financier answerable to its own board and standards — who sit outside the Guinean state's dependence on mining and can therefore be moved by considerations the state cannot. This is why a community's energy is often better spent reaching these external actors than petitioning a domestic government that has every incentive to side with the mine, and why the global levers, though slow and indirect, are frequently the only ones with real independence from the interests that drive the harm.
+The metal is sold into global supply chains and branded as feeding the **clean-energy transition**. Reach the **buyers** and challenge the "just transition" branding: a supply chain dug from the ruin of communities is a reputational risk they will press the company to fix.
 
-## The Supply Chain and the "Just Transition"
+## The Honest Limits — and Safety
 
-The second front is the supply chain and the branding. The **buyers of the aluminium and steel** — and increasingly the **clean-energy and "just transition" branding** the metals are sold under, as they feed electric vehicles, renewables, and green infrastructure — are a distinctive lever, because a metal sold as clean cannot be dug from the ruin of communities' water and land without contradiction. Document the harm and trace the metal, and bring the case to the **buyers, the industry bodies, and the clean-metal initiatives**, so that the demand for responsibly-sourced metal presses back down the chain to the mine. This lever turns the world's own hunger for green metals into a reason to spare the communities that sit atop the ore. It is worth being clear about both the promise and the limits of this supply-chain lever, honestly. Its promise is real and growing: as the world's industries, and especially its clean-energy sector, come under increasing pressure to prove that their metals are responsibly sourced, the buyers of aluminium and steel have ever stronger reasons to avoid being tied to the destruction of communities' land and water, and initiatives to certify responsible metals give a community a standard to invoke and a body to appeal to. Its limits are equally real: metals supply chains are long, opaque, and hard to trace, so proving that a particular buyer's metal came from a particular harmful mine is difficult; and much of Guinea's ore flows to markets and buyers less exposed to consumer or regulatory pressure than, say, food or fashion. Understanding both means using the supply-chain lever where the trace can be established and the buyer is reputation-conscious, while relying, where it cannot, on the more direct company-standard and financier levers — and treating the just-transition framing as a powerful narrative and reputational tool even where the precise commercial trace is hard to nail down.
-
-## The Mining Law, Consent, and the Transition's Scrutiny
-
-The third front is the domestic and consent-based levers. The **mining law and any legal avenues**, though weak, may still be used to challenge an unlawful taking or a breach. The **requirement of genuine consent** for ancestral land — free, prior, and informed — is a real and legitimate lever, denied in practice but owed in principle. And the **transition government's own review** of the Condé-era mining deals is an opening to press for stronger corruption, human-rights, and environmental safeguards. Pursued together — the company standards, the financiers, the supply chain, the mining law, consent, and the transition's scrutiny — these fronts are how a Guinean community defends its water, farmland, and food security, reaching the global giants and insisting the world's metals not be dug from the ruin of communities. It is worth understanding why these fronts reinforce one another so well in Guinea's particular situation. The company standards supply the most direct pressure on the actor closest to the harm, the operator whose bulldozers take the land. The financiers' mechanisms supply an independent, quasi-formal channel that can compel review even when the company resists. The supply chain and clean-metal branding supply pressure from the demand side, where the buyers who need the metal have their own reputations to protect. The mining law and consent supply the domestic and rights-based grounds, weak but legitimate. And the transition's scrutiny supplies a rare moment when the government itself is reviewing the deals. Each covers the others' weaknesses: the company where operational remedy is needed, the financiers where independent leverage helps, the buyers where demand-side pressure bites, consent where legitimacy matters, and the transition where the state itself is briefly open. A community that grasps this division of labour — pressing the company, complaining to the financiers, engaging the buyers, asserting consent, and feeding the transition's review — uses each front for what it does best, and so makes the fullest use of the many global levers Guinea's world-traded ore uniquely provides.
+Straight talk: these levers are real but indirect, the state and companies are powerful, communities are poor and divided, the space is constrained, and there's no landmark win. Direct confrontation carries real risk. So use the supply-chain, financier, and consent levers — carefully, safely — and count consent and compensation honoured, harm reduced, water and farmland protected, a deal scrutinised, and accountability forced as real wins.
 
 # TURNING YOUR EVIDENCE INTO ARGUMENTS
 
-Evidence does not speak for itself; you must aim it at each decider in the language that moves them. The same file of harm, broken standards, and denied consent becomes different arguments for a mining company, a financier, a buyer, and the world. Translate deliberately, and with care.
+A stack of documents wins nothing until you aim it.
 
-## For the Mining Companies
+**Harm becomes a breach of the company's own promises.** Not "the mine is bad" but *"they took our farmland and fouled our water — a breach of the company's own human-rights and environmental standards."*
 
-Companies respond to **their standards, their reputations, and their global operations**. Frame the harm as a breach of the company's own human-rights and environmental commitments and a reputational liability: here is the farmland taken, the water fouled, the consent denied, against your own professed standards. Give them the documented harm and the remedy — restore water, spare vital land, secure genuine consent, compensate fairly. Make it concrete: *here is your standard, here is the harm, here is your name on it.* This is the argument that reaches the global giant behind the mine.
+**Lack of consent becomes a financier's concern.** *"There was no genuine consent — a breach of the safeguards the lenders require, which we will petition."*
 
-## For the Financiers
+**"Clean" metal becomes a supply-chain risk.** *"This ore is sold as feeding the green transition — but it's dug from the ruin of our land, a supply chain the buyers should not want."*
 
-Financiers respond to **their accountability mechanisms and their safeguards**. Frame the harm as a breach of the standards attached to their money, and lodge a complaint through their ombudsman or compliance channel. Give them the documented harm and the safeguard breached, and ask them to press the mine to remedy. A financier's accountability mechanism, given a clear case, can bring leverage a village alone never could.
+**Unpaid compensation becomes a claim.** *"The compensation the law requires was never fairly paid."*
 
-## For the Buyers and the Clean-Metal Initiatives
-
-Buyers respond to **their responsible-sourcing commitments and their brands**. Frame the harm as the contradiction at the heart of a metal sold as clean: here is the aluminium or steel in your green product, dug from the ruin of a community's water and land. Give them the traced metal and the harm, and ask them to demand responsible sourcing. The clean-metal branding is a lever precisely because the harm makes a mockery of it.
-
-## For the World and the Just Transition
-
-The world responds to **the injustice of a green future built on a poor community's ruin**. Translate the file into a story anyone can grasp: the metals for the world's cars, cans, and clean energy, dug from beneath the farmland and water of villagers left with nothing — and a community insisting the transition be just. Frame it as the just-transition question of our age. Keep it accurate; credibility is quickly tested. And mind the safety of those who speak.
-
-## The Golden Rule
-
-Never fabricate, never exaggerate, and mind the safety of those who act. Your credibility is your greatest asset before a global company, a financier, and a buyer, and it is quickly tested. State the harm precisely, tie it accurately to the companies and their standards, and assert consent honestly. Favour the company, financier, supply-chain, and consent channels over confrontation, and protect those who organise. A community that is precise, credible, and careful — defending its water and land and asserting its consent — is far harder to dismiss than one that overreaches or courts repression.
+Match it to the venue: the harm and breach to the company's standards and the press; the lack of consent to the financiers' mechanisms; the "clean" branding to the buyers; the compensation to the law and the company. Keep it careful and safe.
 
 # STEP 5: MEDIA STRATEGY
 
-Media and attention convert your evidence into pressure — and here, distinctively, the story reaches the global companies, financiers, and buyers who answer for the metal, and a world increasingly asking whether its green future is just. The story — the ore for the world's aluminium, steel, and clean energy, dug from beneath the farmland and water of villagers left with nothing — is one that travels far.
+In Guinea, international attention is the distinctive lever, because the ore flows to reputation-conscious global industries — and a supply chain exposed as dug from ruin is a risk the companies, financiers, and buyers will move to fix. International watchdogs and press make the media front reach far. But in a constrained space, care and safety come first.
 
-## Why Media Matters
+**Lead with the harm and the global supply chain, not procedure.** Not "the assessment was deficient" but "the aluminium and 'green' metal the world buys is dug from the farmland and water of communities left with nothing." Use your strongest material: the documented harm, dated photographs, testimony, and the breach of the companies' own commitments.
 
-The government, the companies, the financiers, and the buyers behave differently when the harm and the contradiction are visible. Media does three things here: it **informs and unites the community and the public**, it **raises the reputational cost** for the global companies, financiers, and buyers, and it **connects the harm to the world's metals and its just-transition conscience**. Because Guinea's ore feeds reputation-conscious global industries, international and supply-chain media are a genuine, powerful lever here — a harm tied to a named global company or a clean-branded metal is a story that carries. But media here must be careful, mindful of a mining-dependent, transitional state; favour the international and supply-chain framing over risky domestic confrontation.
+**Work several audiences at once — reach the world.** Careful domestic attention where safe; and above all international watchdogs, the financiers, the buyers, and the global press, where the reputation-conscious supply chain is most exposed. Make it easy: captioned photos, accurate summaries, a supply-chain map, careful testimony.
 
-## Crafting Your Narrative
+**Two hard rules.** Accuracy above all — one exaggeration can discredit hard-won proof. And protect people — in a constrained space, carry the fight carefully, prioritise the international and supply-chain route over risky confrontation, and safeguard those exposed.
 
-Lead with the lost farmland and water and the global metal, and the just-transition contradiction. The strongest frame is concrete and connecting: *the ore for the world's aluminium, steel, and clean energy is being dug from beneath the farmland and water of villagers left with nothing, without their consent — and a community is fighting to defend its land and make the world's metals just.* Put the human loss and the global connection first, and the consent and the just-transition contradiction close behind, because that connection engages the companies and the world. Keep it scrupulously accurate; overstatement is quickly caught. The Guinean story is powerful because it ties the world's metals to a real and hidden ruin. This tie is not a rhetorical stretch but a literal, traceable truth, and that is what gives it force. The aluminium in a car, a can, or a solar frame, and the steel in a building or a turbine, began as ore, and a great share of the world's bauxite, and soon a great share of high-grade iron ore, comes from Guinea; and that ore, in turn, was dug from land where real people grew their food and drew their water. The chain from a Guinean village's lost field to a finished product in a wealthy market is long, but it is real, and a story that makes it visible — that shows the consumer, the investor, and the clean-energy advocate the human origin of the metal they depend on — poses a question the world is increasingly unwilling to ignore: can a transition be called just, or a product called clean, if it is built on the uncompensated ruin of the poorest communities' land and water? Framed accurately and fairly, that question gives a Guinean community a claim on the conscience of a world that needs its metals.
+# EMAILS & LETTERS
 
-## Choosing Your Channels
+Make them your own; keep them short, exact and calm; keep a copy of everything; and mind your safety.
 
-Match the channel to the audience, and to safety. **Local and community networks** for the affected communities; the **national media with care** for the wider public, given the constraints; the **international mining, business, and news media** for the companies, financiers, and buyers; and the **supply-chain and clean-metal platforms** for the industry. Because Guinea's ore answers to global companies, financiers, and buyers as much as to the state, the international and supply-chain channels matter greatly — the connection to the world's metals is the story's distinctive power.
+**8A — Insisting on consent / consultation (to the company / authority).**
+*Subject: Consent and consultation — [mine/project] at [location].*
+"We, the community of [place], record that we have not given genuine consent to [mine/project] on our land, and demand the consultation and consent the law requires. [Contact.]"
 
-## A Few Cautions
+**8B — Claiming compensation.**
+*Subject: Compensation for [land/water] taken — [mine].*
+"We, the community of [place], claim the fair compensation the law requires for [farmland expropriated / water cut off / harm done] by [mine]. [Attach evidence.]"
 
-Stay accurate, careful, and just — the goal is remedied harm, fair consent, and spared water and land, not a story that exaggerates or endangers. Frame the story around the global metals and the just transition, and around consent and vital land, and mind the honest division within communities over jobs and development. Handle the companies, the government, and the transition factually. Protect those who speak, especially inside the country. And sustain the story through the ongoing harm and the global connection. Above all, let the tie between the world's metals and a community's ruin carry the story, because that is where a Guinean effort is strongest and safest.
+**8C — To the company (its own standards).**
+*Subject: Breach of your standards — [mine] at [location].*
+"We, the community of [place], document that [mine] has [taken our farmland without consent / fouled our water], in breach of your own human-rights and environmental standards. We ask you to remedy it. [Attach evidence.]"
 
-# EMAILS & LETTERS: TEMPLATES THAT WORK
+**8D — Petition to a financier's accountability mechanism.**
+*Subject: Complaint — harm and lack of consent, [mine], Guinea.*
+"We petition [the financier's accountability mechanism] over [mine]: [harm done, consent absent], in breach of your safeguards. We ask for an investigation. [Attach evidence.]"
 
-Templates save time and prevent mistakes, but adapt every one — insert the real project, the real harm, and the real companies, keep it factual, and mind safety. Here the broken standard, and consent, win.
+**8E — To the buyers / on the "just transition".**
+*Subject: Your 'clean' metal is dug from our ruin — [mine].*
+"The ore from [mine], sold into your supply chain and branded as feeding the green transition, is dug from farmland and water taken from our community: [specifics]. We ask you to press for it to be remedied. [Attach evidence.]"
 
-## 8A: Requesting Information
+**8F — To an international watchdog / organisation.**
+*Subject: Community harmed by [mine] — Guinea.*
+"Our community's farmland and water have been taken and fouled by [mine], run by [consortium] and financed by [lenders], in breach of their commitments. We've documented it. We ask for your help to reach the company, the financiers, and the buyers. [Contact and evidence summary.]"
 
-**Subject: Request for information — [mine] and our community's land and water**
+**8G — Letter to the (international) press.**
+*Subject: The world's aluminium is dug from the ruin of Guinea's farmland.*
+"For generations the people of [place] farmed this land and drank this water. Now [mine] has taken and fouled them. We can provide documented harm, photographs, and a supply-chain map. [Contact.]"
 
-Dear [company / authority],
+**8H — Uniting the community (carefully, honestly).**
+*Subject: Consent and fair compensation — let's stand together.*
+"[Mine] has taken our farmland and water. Many of us hoped for jobs, and that's real — but not at the cost of our land and food. Let's insist together on genuine consent, fair compensation, and harm reduced, and reach the companies, financiers, and buyers who care about their name. Let's do it safely. [Contact.]"
 
-I am writing on behalf of [community] regarding [mine] affecting our land and water at [location]. To understand and respond to this matter, we request the **concession and environmental and social documents**, information on the **compensation and consent process**, and the **standards and financiers** applicable to the project. We wish to defend our farmland, water, and food security.
+# IF YOU HAVE LITTLE TIME OR FEW RESOURCES: THE RAPID-FIRE VERSION
 
-We would be grateful for a response by [date].
+If you must move fast and lean — and safely — do these six things, in order:
 
-Respectfully,
-[Name, community, contact]
+1. **Document the harm and the lack of consent — carefully, with dates and places.**
+2. **Insist on genuine consent and fair compensation (8A/8B).**
+3. **Map the supply chain — the company, its financiers, its buyers.**
+4. **Petition the financiers' accountability mechanism (8D) — a real, safer route.**
+5. **Press the company's own standards and the buyers' "clean" branding (8C/8E).**
+6. **Reach international watchdogs and press (8F/8G) — and mind your safety throughout.**
 
-## 8B: Letter to a Mining Company
-
-**Subject: Harm to our community from [mine], against your own standards**
-
-To [company],
-
-We write regarding [mine] in Guinea, which has [taken our ancestral farmland / cut off and polluted our water / choked our village with dust] without our genuine consent, contrary to your own human-rights and environmental standards. We respectfully urge you to remedy this harm — restore our water, spare our vital farmland, secure genuine consent, and compensate fairly. We attach documentation, and ask that you protect the safety of affected people.
-
-Respectfully,
-[Name, community, contact]
-
-## 8C: Complaint to a Financier's Accountability Mechanism
-
-**Subject: Complaint regarding [mine] and its impacts at [location]**
-
-To the [accountability mechanism / ombudsman],
-
-We submit a complaint regarding [mine], financed with your institution's support, which has caused [loss of farmland, water, and livelihood] to our community at [location] in breach of the applicable safeguards, and without genuine consent. We respectfully request that you review this matter and press for the harm to be remedied. We attach documentation of the harm and the breach.
-
-Respectfully,
-[Name, community, contact]
-
-## 8D: Letter to a Buyer or Clean-Metal Initiative
-
-**Subject: The metal in your supply chain and the harm behind it**
-
-To [buyer / industry body / clean-metal initiative],
-
-The [aluminium / steel] in your supply chain, sourced from [mine] in Guinea and sold as responsibly or cleanly produced, is dug from beneath the farmland and water of our community, taken without our consent. We respectfully urge you to demand responsible sourcing and to press the mine to remedy the harm, so that the metals of the world's transition are not made from our ruin. We attach documentation.
-
-Respectfully,
-[Name, community, contact]
-
-## 8E: Media Pitch
-
-**Subject: The world's green metals, dug from a community's ruin at [location]**
-
-Dear [journalist],
-
-At [location] in Guinea, the ore for the world's aluminium, steel, and clean energy is being dug from beneath the farmland and water of villagers left with nothing, without their consent, by [global company]. There is a powerful just-transition story here — the hidden ruin behind the world's metals — and we can provide documentation, the global ties, and community voices, told with care for safety.
-
-Sincerely,
-[Name, community, contact]
-
-## 8F: Letter to the Transition Government
-
-**Subject: Safeguards in the review of [mine] and the mining deals**
-
-To [transition authority / ministry],
-
-As the government reviews the mining agreements, we write regarding [mine] at [location], which has harmed our community's land and water and was granted without genuine consent. We respectfully urge that the review ensure rigorous human-rights, environmental, and anti-corruption safeguards, and genuine consent and fair compensation for affected communities. We can provide documentation.
-
-Respectfully,
-[Name, community, contact]
-
-## 8G: Letter Asserting Consent
-
-**Subject: Our right to consent regarding [mine] at [location]**
-
-To [company / authority],
-
-Our community holds ancestral land and water at [location] that [mine] would take or has taken. We write to assert our right to **free, prior, and informed consent** and fair compensation, and to insist that no further land or water be taken without it. We request genuine consultation and consent before any further taking, and we can provide documentation of our tenure and use.
-
-Respectfully,
-[Name, community, contact]
-
-## 8H: Rallying the Community
-
-**Subject: Our land, our water, our food — let us defend them wisely**
-
-Dear neighbours,
-
-The mine would take the farmland that feeds us and the water we drink, without our true consent. But together — by reaching the global companies and financiers behind the mine, the buyers of its metal, and by holding firm on our consent — we can defend our land and water and demand fair terms. Let us seek not to divide over jobs but to unite for fair consent and the sparing of the land and water we cannot live without. Please join us: come to [gathering], share what you know, and add your voice.
-
-With respect,
-[Name, community]
-
-# IF YOU HAVE LITTLE TIME: THE RAPID-FIRE VERSION
-
-Sometimes a mine is moving fast — a concession expanding, bulldozers at the fields, a water source about to be cut — and you cannot run the full effort. Triage to the levers that work fastest here, which means the company, the financiers, and documentation.
-
-## The First 48 Hours
-
-Establish the essentials: **what land and water is being taken, and which global companies and financiers are tied to it.** Identify the immediate pressure point — an **expansion, a clearing, a water source, a compensation deadline** — because that is what you must affect first. Reach the **international mining-watch organisations and the financier-accountability specialists** at once, because in Guinea the global companies and their financiers are the fastest routes to real leverage — and begin asserting the **community's consent**.
-
-## The Fastest-Moving Levers
-
-Some levers work faster than others. **A documented breach brought to the company** can move a reputation-conscious global giant quickly. **A complaint to a financier's mechanism** opens a real channel. **The buyers and clean-metal initiatives** can be engaged fast. **The international mining-watch organisations** can amplify at once. These outpace the slower work of the mining law and formal consent processes — which should follow — because the global companies and financiers react to a clear, documented breach of their standards.
-
-## Emergency Coalition-Building
-
-You cannot build a full coalition overnight, but here you can reach the mining-watch organisations and financier specialists fast, and assert consent. Reach immediately to the **international and domestic mining-watch organisations, the financier-accountability specialists, the sympathetic lawyers, and the community itself**. A community documenting a fresh harm, bringing it to the company and the financiers, and asserting its consent, is the most a rapid Guinean effort can do — and the global levers can bite fast. Speed favours the prepared: know the mine, its companies and financiers, and your allies before the bulldozers arrive.
+Even lean, those six reach up the supply chain and anchor on consent — the Guinean template.
 
 # WHEN THE SYSTEM IS TILTED
 
-Here, honestly, the system is tilted by an economy built on mining, by powerful global companies, by poor and divided communities, and by an uncertain transition. This is Guinea's central, honest truth, and the whole guide has been shaped by it. Name it plainly, because pretending the field is level, or that confrontation is safe, would be false.
+Guinea's field is badly tilted toward the mines, so plan for it — and for safety.
 
-## Recognising a Tilted Field
+**When the state is committed to the mines.** Expect it — mining is the revenue. Reach the supply chain, the financiers, and the buyers, who sit beyond the state's reach and are sensitive to reputation.
 
-The signs are specific and honest. **Mining is the economy's lifeblood** — bauxite and iron are the mainstays of revenue, so the state is committed to the mines and to expanding them. **The companies are powerful** — among the largest on earth, and unfazed even by a coup. **The communities are poor and divided** — harmed by the mining, yet often hoping for its jobs. **The transition is uncertain** — a military government of unset direction, with constrained civil society. This is not a level field, and an effort here must be built to work through the global companies, financiers, and buyers, and through consent, rather than through confrontation the state resists.
+**When the community isn't united.** Many hope for jobs. Frame the fight around consent, fair compensation, and harm reduced, not necessarily stopping all mining, to hold as much unity as you can.
 
-## Strategies for a Tilted Field
+**When the space is constrained.** Under a military transition, civil-society space is limited and confrontation is risky. Prioritise the international, financier, and supply-chain routes, which are both safer and often more effective, and protect those exposed.
 
-When the field is tilted, use the global levers and the leverage the state cannot fully control. Lean on the **company standards and reputations** of the global giants; the **financiers' accountability mechanisms**; the **buyers and the clean-metal branding**; the **requirement of consent**; and the **transition's own scrutiny** of the deals. Favour the **global, accountability, and consent channels** over confrontation, because these both work and are safer. Address the **division** within communities by uniting them around fair consent and the sparing of vital water and land, not around blanket opposition. And build the record even where the mining advances, because a documented harm and a broken standard, lodged with the companies and financiers, accumulate into real leverage over time. A tilted field here is worked by reaching the global giants and their financiers, not by confronting a mining-dependent state head-on.
+**When there's no precedent.** This is a young, hard field. Build the case on the supply chain and consent, reach the reputation-conscious industries, and lay down the accountability that can grow into more.
 
-## The Honest Possibility of Losing
+# WHEN IT'S ACTUAL CORRUPTION — AND WHO'S CAPTURED
 
-You may lose — a mine may expand, a field may go, a water source may be cut — and this guide will not pretend otherwise; mining is central, the companies powerful, and the transition uncertain. But here the work is rarely wholly wasted: the **harm was documented, the broken standard exposed, the company and financiers pressed, consent asserted, and the next effort starts stronger** — and every remedy won, every water source spared, every fair consent secured protects the land and lives that remain. Fight to defend this land and water; if the mine advances, the standards you invoked, the financier complaints you lodged, and the consent you asserted will discipline the next, because against a global industry, building the record of its broken standards is a leverage that compounds. This compounding is real and worth holding onto, because it sustains an effort through the losses that a mining-dependent state makes likely. Every documented breach of a company's standards, every complaint lodged with a financier, every instance of land taken without consent adds to a record that does not disappear when a particular mine advances; it becomes part of the mounting evidence that these companies and financiers are failing to live up to their commitments, evidence that strengthens the next community's case, informs the campaigners and the buyers, and raises the pressure on the whole industry to change how it operates in Guinea. A community that loses its immediate fight but adds rigorously to that record has still done something lasting, because in the long contest between a global extractive industry and the communities it harms, the accumulation of documented, undeniable breaches is one of the few forces that has ever moved such an industry toward doing better.
+Guinea has serious, documented problems with the capture of mining deals, so this matters — but tread carefully in a constrained space.
 
-# WHEN IT'S ACTUAL CORRUPTION — AND WHO IS CAPTURED
+**How to spot it.** Agreements against the communities' interest; "consent" manufactured or coerced; compensation unpaid or pocketed; assessments written for the company; benefits to the connected while communities lose their land and water.
 
-In Guinea, corruption in mining is a serious and internationally notorious reality — the awarding of some of the country's richest mining rights has been the subject of major international corruption investigations, and the compensation and concession processes on the ground have been marked by opacity and suspicion. This must be approached with care, and the safer, more effective route runs through the financiers, the international channels, and the transition's own scrutiny.
+**Who's supposed to guard against it.** The **transition government** has at times scrutinised the mining deals. The **financiers' accountability mechanisms** and **international watchdogs** can investigate and expose. And the **buyers** and reputation-conscious industries can strip legitimacy from a tainted supply chain.
 
-## Telling Capture from the Ordinary Tilt
+**How to fight it safely.** Document precisely and factually — how consent was faked or coerced, how compensation went missing, who benefits — and keep clear the line between what you can prove and what you suspect. In a constrained space, route serious evidence to the financiers' mechanisms, international watchdogs, and trusted journalists rather than making risky public accusations, and protect those exposed. Pair the exposure with the supply-chain and consent case.
 
-A mining-dependent state pursuing its mainstay is tilted; where mining rights, revenues, and compensation flow to the connected outside proper process, that is capture. The marks of capture are sharper: **concessions awarded opaquely or corruptly**, **compensation that is inadequate, inequitable, and untraceable**, **revenues that do not reach the harmed communities**, and **enforcement suspended for the powerful**. Be rigorous and careful: **distinguish the ordinary mining tilt from provable corruption**, and do not level accusations the evidence does not support, especially under an uncertain transition. The financiers' anti-corruption safeguards, the international investigative and transparency organisations, and the transition government's own review of the deals are the safer tools, because they can pursue through established channels what is risky to pursue at home.
+# INTEGRATION & TIMELINE
 
-## Responding to Capture — Carefully
+Don't run these steps one after another — run them together, and safely. The documented harm and breach build your case; consent and compensation anchor it; a community united as far as it can be is the muscle; the company standards, the financiers, and the buyers press it up the supply chain; international watchdogs and press expose it. Together they multiply. One at a time, they stall — and safety comes first throughout.
 
-Where capture is real, the response runs through the international and accountability channels. Use the **financiers' anti-corruption and transparency safeguards**, which bind the money behind the mines. Take evidence to **international investigative and transparency organisations**, which have pursued Guinean mining corruption before. Use the **transition government's review** of the mining deals, which has itself promised scrutiny of how concessions were awarded. Document meticulously and protect every source, because the interests are powerful and the politics fragile. Route the exposure through the financiers, the international bodies, and the transition's scrutiny — not through risky direct confrontation.
+**Early on (weeks 1–8):** document the harm and the lack of consent; insist on consent and compensation; map the supply chain; root the fight in the community, honestly; build careful support and a safety plan.
 
-## A Note on Safety and Care
+**In the thick of it (months–year+):** petition the financiers' accountability mechanism; press the company's standards and the buyers' branding; reach international watchdogs and press.
 
-This note governs everything here. Guinea is under a military transition with constrained civil-society space and a history of repression of protest, and its mining regions involve powerful interests, so pursue this work with care. Favour the **company, financier, supply-chain, consent, and international channels** over risky confrontation with the mines or the state. Protect those who document mining harm and organise, and never expose a community member for the sake of a gesture. Rely on the international mining-watch organisations, the financier mechanisms, and documentation, which advance the cause while protecting people. And mind the sensitive politics of the transition. Care here means favouring the global and accountability levers and protecting the community — because no land defended is worth a person harmed, and because the real work of reaching the companies, financiers, and buyers can be done through the channels that do not require dangerous confrontation.
-
-# INTEGRATION & TIMELINE: RUNNING ALL FIVE STEPS TOGETHER
-
-The steps in this guide are written in sequence but run in parallel, each feeding the others. Here is how they fit into a single, careful effort in Guinea.
-
-## The Parallel Effort
-
-From the start, the five run together, with care. **Documentation** builds the harm-and-broken-standard-and-consent file. **Target identification** aims it at the levers. **Local opposition** organises the community around its consent. **Legal, regulatory, and corporate-accountability** work presses the companies, the financiers, and the buyers. **Media** connects the harm to the world's metals. The harm, the broken standard, and the denied consent feed all five at once — a documented harm is a case for the company, a complaint for the financiers, a contradiction for the buyers, a claim of consent, and a story for the world together. Run in parallel, they compound; run one at a time, they stall — and here, spanning the village and the world's supply chains, they compound all the way to the metals the world depends on.
-
-## A Rough Timeline
-
-**Early (weeks 1–8):** establish the harm, the global ties, and the consent record; identify the companies, financiers, buyers, and accountability mechanisms; begin documentation with the mining-watch organisations. **Middle (months 2–18):** press the companies and lodge complaints with the financiers; engage the buyers and clean-metal initiatives; assert consent; and bring the case into the transition's review of the deals. **Later (months and years):** win remedies, fairer consent and compensation, spared water and land, and reshaped projects, and keep building the record whatever the pace of the transition. A Guinean effort is patient, and its work — reaching and pressing the global giants — is slow; pace it accordingly, and act throughout with care.
-
-## The Core Discipline
-
-Through it all, hold the discipline that gives these efforts their force: **document the harm and the broken standards; reach the companies, the financiers, and the buyers; assert consent; use the transition's scrutiny; and act with care.** The community that presses all five, spanning the village and the world's supply chains, and grounding it all in the consent that was denied, is the one that can genuinely defend its water, farmland, and food security — the kind of victory a mining-dependent, transitional state allows.
+**The long haul (year+):** carry the financier and supply-chain pressure; keep the coalition and the documentation ready; hold the line for consent and compensation honoured, harm reduced, water and farmland protected, a deal scrutinised, and accountability forced — keeping your people safe.
 
 # FINAL ASSESSMENT
 
-Opposing a destructive mine in Guinea is genuinely difficult, and bound up with an economy built on mining, powerful global companies, and an uncertain transition, and this guide has been honest about that from its first line: there is no landmark victory, mining is the economy's lifeblood, and the communities are poor and divided. And yet the effort is far from futile, because Guinea's ore is dug by global giants, financed by international lenders, and sold into reputation-conscious supply chains that feed the world's own green transition — and those company standards, financiers, buyers, and the requirement of consent are real levers.
+Defending land and water in Guinea is a fight without one dramatic win — but not without levers, because the ore that devours the farmland flows out to the most reputation-conscious industries on earth. Hold both truths. The distinctive power here is real: the global companies bound by their own standards and reputations, the financiers whose accountability mechanisms communities can petition, the buyers and the "just transition" the metals are sold under, the requirement of genuine consent, and the transition government's scrutiny — levers that reach the mine from far up a global supply chain. And the constraints are real and large: a mining-dependent state, companies among the world's most powerful, poor and divided communities, a constrained and uncertain political space, and no precedent to follow.
 
-Some honest truths hold across every effort here. **The global ties — the company standards, the financiers, the supply chain — are the distinctive levers, reaching the giants a village alone could never move.** **Consent is the just foundation, denied in practice but owed in principle.** **The transition's own scrutiny of the deals is an opening.** **But mining is central, the companies powerful, the communities divided, and the transition uncertain.** Hold both truths at once: real, distinctive, world-spanning levers, and the honest weight of a mining-dependent state and an uncertain transition.
-
-Above all, keep the discipline — and the care — that give these efforts their force. Document the harm and the broken standards. Reach the companies, the financiers, and the buyers. Assert consent. Use the transition's scrutiny. And act with care where mining is central and the transition uncertain — because in a nation whose ore the world needs, an effort that reaches the global giants and insists the metals not be dug from the ruin of communities is the one that is both effective and just.
-
-Guinea sits on the ore that becomes the world's aluminium and steel and, increasingly, the metals of its clean-energy transition — and in the Boké region and the southeastern forests, the mines that dig it are taking the farmland, cutting off the water, and choking the villages of hundreds of thousands of poor rural people, often without their consent and for compensation that vanishes; this guide has hidden none of it, nor pretended that mining is not the nation's economic lifeblood or that some neighbours do not hope for its jobs, and there is no landmark community victory here to promise you. But the very thing that makes Guinea's mines so powerful — that their ore flows out to the world's greatest and most reputation-conscious industries — is the lever: the global companies bound by their own standards, the financiers with mechanisms communities can petition, the buyers who brand their metal clean, and the right to consent that all of them profess to respect. There is no easy victory, and no landmark precedent to inherit; this guide has said so throughout, and counselled care. But your farmland, your water, your food, and your ancestral home are worth defending, the global levers that reach past a mining-dependent state are real, and the patient work of documenting the harm, reaching the companies and their financiers, engaging the buyers of the metal, and holding firm on your consent is one your community can genuinely do — and insist that the world's metals not be dug from your ruin. So can you.
+Here's the discipline that wins what can be won — safely. Anchor on your rights: insist on genuine consent and fair compensation, and document every harm and every breach. Then reach up the supply chain: press the company's own human-rights and environmental standards and its reputation; petition the financiers' accountability mechanisms, a real and safer route; and challenge the buyers and the "just transition" branding a supply chain dug from ruin should not carry. Enlist international watchdogs and the global press, where the reputation-conscious industries are most exposed. Frame the fight around consent, compensation, and harm reduced to hold what unity you can, since many hope for jobs. And above all, in a constrained space, prioritise the international and supply-chain routes over risky confrontation, and keep your people safe. Count consent and compensation honoured, harm reduced, water and farmland protected, a deal scrutinised, and accountability forced as real wins — insisting that the metals the world needs not be dug from the ruin of communities' land and lives. That is the Guinean way — the supply chain, the financiers, and consent together, carried safely. So can you.

@@ -7234,13 +7234,58 @@ _INVENTORY_LAYER = _re.compile(
     _re.I)
 
 
+
+# --- habitat/survey layer rejection (patch_harvester_filters) ---
+_HABITAT_LAYER = _re.compile(
+    # Seabed substrate and habitat maps. NatureScot's offshore_deep_sea_muds
+    # and offshore_subtidal_sands_and_gravels matched _WFS_KEEP on "offshore",
+    # which is there for offshore WIND. A mud map is not a development.
+    r"habitat|biotope|seabed|sea ?bed|substrate|sediment|"
+    r"(?:^|[^a-z])muds?(?:[^a-z]|$)|sands? ?and ?gravels?|deep ?sea|"
+    r"subtidal|intertidal|"
+    r"saltmarsh|seagrass|kelp|maerl|reef|benthic|bathymetr|"
+    r"species ?distribution|priority ?marine|biodiversidad|habitats?_",
+    _re.I)
+
+_SURVEY_LAYER = _re.compile(
+    # Regulator diagnostic / monitoring / inventory grids. These are survey
+    # products, not proposals, and they render as visible lattices.
+    r"diagn[o\u00f3]stic|fatores? ?de ?press|fiscaliza|monitoramento|monitoreo|"
+    r"monitoring ?(network|sites?|points?|stations?)|invent[a\u00e1]ri|inventaire|"
+    r"zoneamento|zonificaci|uso ?e ?ocupa|cobertura ?vegetal|"
+    r"base ?cartogr|malha ?|censo|census|"
+    r"pressure ?factors?|state ?of ?the ?environment",
+    _re.I)
+
+# "offshore" alone is too weak: it matches habitat maps. Require development
+# context alongside it.
+_OFFSHORE_CTX = _re.compile(
+    r"wind|oil|gas|hydrocarbon|petrol|licen[cs]e|lease|block|platform|"
+    r"cable|pipeline|renewable|energy|drilling|rig|farm",
+    _re.I)
+
+
+def _offshore_without_context(*names):
+    """True when a layer qualifies only because it says 'offshore'."""
+    joined = " ".join(str(n) for n in names if n)
+    if not _re.search(r"offshore", joined, _re.I):
+        return False
+    return not _OFFSHORE_CTX.search(joined)
+
+
 def _layer_is_junk(*names):
     _drop_inv = os.environ.get("FED_KEEP_INVENTORY") != "1"
+    if _offshore_without_context(*names):
+        return True
     for n in names:
         if not n:
             continue
         s = str(n)
         if _JUNK_LAYER.search(s):
+            return True
+        if _HABITAT_LAYER.search(s):
+            return True
+        if _SURVEY_LAYER.search(s):
             return True
         if _drop_inv and _INVENTORY_LAYER.search(s):
             return True

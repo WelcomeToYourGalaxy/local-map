@@ -216,10 +216,18 @@ def parse_arcgis(payload, fields):
 # ----------------------------------------------------------------------------
 
 JOINT_MARKERS = re.compile(
-    r"[-/&]|\b(and|und|et|y|e)\b|\bjoint\b|\bregional\b|\bassociation\b", re.I)
+    r"\b(and|und|et|y|e)\b|\bjoint\b|\bregional\b|\bassociation\b|"
+    r"\bverbandsgemeinde\b|\bsamtgemeinde\b|\bverwaltungsgemeinschaft\b|"
+    r"\bcommunaut[ée]\b|\bsyndicat\b|\bmetropole\b|\bm[ée]tropole\b|"
+    r"\bagglom[ée]ration\b|\bintercommunal\w*\b", re.I)
+
+# A hyphen means "joint body" in US district names (Kootenai-Shoshone) but is
+# ordinary orthography in French and German place names (Saint-Étienne,
+# Baden-Baden). Countries opt in via "allow_hyphen": true in the registry.
+SPLIT_MARKERS = re.compile(r"[/&]|[-\u2013]{2,}")
 
 
-def clean_unit(name, tier):
+def clean_unit(name, tier, allow_hyphen=False):
     """Return a trustworthy unit name, or None.
 
     Refuses joint/regional/multi-unit bodies: attaching a five-municipality
@@ -229,7 +237,9 @@ def clean_unit(name, tier):
     name = re.sub(r"\s+", " ", name).strip(" -,")
     if len(name) < 2 or len(name) > 80:
         return None
-    if JOINT_MARKERS.search(name):
+    if JOINT_MARKERS.search(name) or SPLIT_MARKERS.search(name):
+        return None
+    if not allow_hyphen and "-" in name:
         return None
     if re.fullmatch(r"[\W\d_]+", name):
         return None
@@ -310,6 +320,7 @@ def harvest(registry, contact, country=None, tier=None, limit=None,
             if tier and tname != tier:
                 continue
             land_authority = bool(spec.get("land_authority"))
+            allow_hyphen = bool(spec.get("allow_hyphen"))
             seen = set()
             for src in spec.get("sources", []):
                 stats["sources"] += 1
@@ -328,7 +339,7 @@ def harvest(registry, contact, country=None, tier=None, limit=None,
                     if limit and stats["emitted"] >= limit:
                         break
 
-                    unit = clean_unit(rec["unit"], tname)
+                    unit = clean_unit(rec["unit"], tname, allow_hyphen)
                     if not unit:
                         stats["bad_unit"] += 1
                         gaps.append({"country": iso3, "tier": tname,
@@ -415,6 +426,14 @@ def selftest():
     # unit hygiene
     eq(clean_unit("Ada", "county"), "Ada", "unit/simple")
     eq(clean_unit("Kootenai-Shoshone", "county"), None, "unit/joint-hyphen")
+    eq(clean_unit("Saint-Étienne", "municipal", allow_hyphen=True),
+       "Saint-Étienne", "unit/hyphen-allowed")
+    eq(clean_unit("Baden-Baden", "municipal", allow_hyphen=True),
+       "Baden-Baden", "unit/hyphen-allowed-de")
+    eq(clean_unit("Communauté de communes du Val", "municipal", allow_hyphen=True),
+       None, "unit/intercommunal-rejected")
+    eq(clean_unit("Verbandsgemeinde Rhein-Nahe", "municipal", allow_hyphen=True),
+       None, "unit/verbandsgemeinde-rejected")
     eq(clean_unit("Bath and North East Somerset", "county"), None, "unit/joint-and")
     eq(clean_unit("Regional District of Nanaimo", "county"), None, "unit/regional")
     eq(clean_unit("", "county"), None, "unit/empty")
@@ -478,7 +497,7 @@ def selftest():
         for f in fails:
             print("  -", f)
         return 1
-    print(f"SELFTEST OK ({20} checks)")
+    print(f"SELFTEST OK ({24} checks)")
     return 0
 
 

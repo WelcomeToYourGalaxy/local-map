@@ -5,7 +5,10 @@
       "municipal": {
         "body": "Gemeinde (municipality)",
         "land_authority": false,
-        "tags": ["conserve:protect", "organizing:help"],
+        "tags": [
+          "conserve:protect",
+          "organizing:help"
+        ],
         "desc": "WHAT IT DOES: {unit} is a Gemeinde, the lowest official level of territorial division in Germany and the tier that holds the Bauleitplanung power - it writes the Flaechennutzungsplan and Bebauungsplan that decide what may be built where. USE IT: draft plans go to public participation (Oeffentlichkeitsbeteiligung) with a statutory objection window; the linked page is the council's own planning or environment section.",
         "sources": [
           {
@@ -19,16 +22,22 @@
             "id": "deu-overpass-l8",
             "kind": "overpass",
             "iso3": "DEU",
-            "levels": [8]
+            "levels": [
+              8
+            ]
           }
-        ]
+        ],
+        "allow_hyphen": true
       }
     },
     "FRA": {
       "municipal": {
         "body": "Commune",
         "land_authority": false,
-        "tags": ["conserve:protect", "organizing:help"],
+        "tags": [
+          "conserve:protect",
+          "organizing:help"
+        ],
         "desc": "WHAT IT DOES: {unit} is a commune, the tier that adopts the plan local d'urbanisme (PLU) and issues most permis de construire - the decisions that determine whether a site can be built on at all. USE IT: PLU revisions carry a mandatory enquete publique with a commissaire enqueteur who must answer objections on the record; the linked page is the commune's urbanisme or environnement section.",
         "sources": [
           {
@@ -42,9 +51,12 @@
             "id": "fra-overpass-l8",
             "kind": "overpass",
             "iso3": "FRA",
-            "levels": [8]
+            "levels": [
+              8
+            ]
           }
-        ]
+        ],
+        "allow_hyphen": true
       }
     }
   }

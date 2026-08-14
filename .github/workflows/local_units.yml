@@ -1,0 +1,152 @@
+name: local-units
+
+# Global harvester for county- and municipal-tier entries, all countries.
+#
+# Scale forces sharding: ~47,000 admin-2 units and several hundred thousand
+# municipal units worldwide, each needing a live URL check. One job cannot do
+# it inside an Actions timeout, so work is split N ways and run on a rota,
+# the same shape as the weekly OSM job.
+
+on:
+  workflow_dispatch:
+    inputs:
+      country:
+        description: "ISO3 to harvest (blank = every wired country)"
+        required: false
+        default: ""
+      tier:
+        description: "county | municipal | blank for both"
+        required: false
+        default: ""
+      shards:
+        description: "Number of shards to split across"
+        required: false
+        default: "16"
+      limit:
+        description: "Max entries per shard (0 = uncapped)"
+        required: false
+        default: "0"
+  schedule:
+    - cron: "23 4 * * 2"   # weekly, Tuesday 04:23 UTC
+
+concurrency:
+  group: local-units
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.mk.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Selftest (no network)
+        run: python3 harvest_local.py --selftest
+      - name: Registry coverage
+        run: python3 harvest_local.py --registry registry.json --plan
+      - id: mk
+        name: Build shard matrix
+        run: |
+          N="${{ inputs.shards }}"; N="${N:-16}"
+          python3 - "$N" <<'PY' >> "$GITHUB_OUTPUT"
+          import json, sys
+          n = int(sys.argv[1])
+          print("matrix=" + json.dumps({"shard": [f"{i}/{n}" for i in range(n)]}))
+          PY
+
+  harvest:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 4          # be a polite client to Wikidata and Overpass
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - name: Harvest shard ${{ matrix.shard }}
+        run: |
+          SAFE=$(echo "${{ matrix.shard }}" | tr '/' '-')
+          python3 harvest_local.py \
+            --registry registry.json \
+            --contact wheelock.chris@gmail.com \
+            --country "${{ inputs.country }}" \
+            --tier "${{ inputs.tier }}" \
+            --limit "${{ inputs.limit }}" \
+            --shard "${{ matrix.shard }}" \
+            --out "local_adds_${SAFE}.json"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: local-adds-${{ strategy.job-index }}
+          path: local_adds_*.json
+
+  merge:
+    needs: harvest
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: local-adds-*
+          merge-multiple: true
+          path: shards
+      - name: Merge shards
+        run: |
+          python3 - <<'PY'
+          import glob, json, collections
+          entries, gaps = [], []
+          stats = collections.Counter()
+          for path in sorted(glob.glob("shards/local_adds_*.json")):
+              d = json.load(open(path))
+              entries += d.get("entries", [])
+              gaps += d.get("gaps", [])
+              stats.update(d.get("stats", {}))
+          # global dedup: one entry per (country, tier, url)
+          seen, deduped = set(), []
+          for e in entries:
+              key = (e["country"], e["tier"], e["url"])
+              if key in seen:
+                  stats["merge_dupe"] += 1
+                  continue
+              seen.add(key)
+              deduped.append(e)
+          out = {"entries": deduped, "gaps": gaps, "stats": dict(stats)}
+          json.dump(out, open("local_adds.json", "w"),
+                    indent=1, sort_keys=True, ensure_ascii=False)
+
+          by_country = collections.Counter(e["country"] for e in deduped)
+          by_reason = collections.Counter(g["reason"].split(":")[0] for g in gaps)
+          print("## local-unit harvest")
+          print(f"- emitted: {len(deduped)}")
+          print(f"- gaps: {len(gaps)}")
+          for c, n in by_country.most_common(30):
+              print(f"  - {c}: {n}")
+          print("- gap reasons:")
+          for r, n in by_reason.most_common():
+              print(f"  - {r}: {n}")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: local-adds-merged
+          path: local_adds.json
+      - name: Commit
+        run: |
+          git config user.name  "local-unit-harvester"
+          git config user.email "wheelock.chris@gmail.com"
+          git add local_adds.json
+          git diff --staged --quiet || git commit -m "local-units: refresh harvest [skip ci]"
+          git push

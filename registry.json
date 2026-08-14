@@ -1,0 +1,14 @@
+{
+  "_comment": "Country-keyed registry of WHICH local body holds land/water power. A country absent here is not harvested - silence beats guessing. desc must contain {unit}. Populate source descriptors from Actions where the network is open.",
+  "countries": {
+    "USA": {
+      "county": {
+        "body": "Soil & Water Conservation District",
+        "land_authority": true,
+        "tags": ["conserve:protect", "organizing:help"],
+        "desc": "WHAT IT DOES: the conservation district covering {unit}, a unit of local government with statutory standing on soil, water and related natural resources. Most boards are wholly or partly ELECTED locally and meetings are public. USE IT: the district can generate soil, water and erosion evidence and put it before county decision-makers, and the seats are contested by almost nobody.",
+        "sources": []
+      }
+    }
+  }
+}

@@ -1,13 +1,50 @@
 {
-  "_comment": "Country-keyed registry of WHICH local body holds land/water power. A country absent here is not harvested - silence beats guessing. desc must contain {unit}. Populate source descriptors from Actions where the network is open.",
+  "_comment": "Country-keyed registry: WHICH local body holds land/water power. A country absent here is NOT harvested - silence beats guessing. desc must contain {unit}. Every emitted URL is fetched and status-checked; unthemed pages (bare council homepages) are logged as gaps, not emitted.",
   "countries": {
-    "USA": {
-      "county": {
-        "body": "Soil & Water Conservation District",
-        "land_authority": true,
+    "DEU": {
+      "municipal": {
+        "body": "Gemeinde (municipality)",
+        "land_authority": false,
         "tags": ["conserve:protect", "organizing:help"],
-        "desc": "WHAT IT DOES: the conservation district covering {unit}, a unit of local government with statutory standing on soil, water and related natural resources. Most boards are wholly or partly ELECTED locally and meetings are public. USE IT: the district can generate soil, water and erosion evidence and put it before county decision-makers, and the seats are contested by almost nobody.",
-        "sources": []
+        "desc": "WHAT IT DOES: {unit} is a Gemeinde, the lowest official level of territorial division in Germany and the tier that holds the Bauleitplanung power - it writes the Flaechennutzungsplan and Bebauungsplan that decide what may be built where. USE IT: draft plans go to public participation (Oeffentlichkeitsbeteiligung) with a statutory objection window; the linked page is the council's own planning or environment section.",
+        "sources": [
+          {
+            "id": "deu-wikidata-gemeinde",
+            "kind": "wikidata",
+            "class_qid": "Q262166",
+            "country_qid": "Q183",
+            "lang": "de"
+          },
+          {
+            "id": "deu-overpass-l8",
+            "kind": "overpass",
+            "iso3": "DEU",
+            "levels": [8]
+          }
+        ]
+      }
+    },
+    "FRA": {
+      "municipal": {
+        "body": "Commune",
+        "land_authority": false,
+        "tags": ["conserve:protect", "organizing:help"],
+        "desc": "WHAT IT DOES: {unit} is a commune, the tier that adopts the plan local d'urbanisme (PLU) and issues most permis de construire - the decisions that determine whether a site can be built on at all. USE IT: PLU revisions carry a mandatory enquete publique with a commissaire enqueteur who must answer objections on the record; the linked page is the commune's urbanisme or environnement section.",
+        "sources": [
+          {
+            "id": "fra-wikidata-commune",
+            "kind": "wikidata",
+            "class_qid": "Q484170",
+            "country_qid": "Q142",
+            "lang": "fr"
+          },
+          {
+            "id": "fra-overpass-l8",
+            "kind": "overpass",
+            "iso3": "FRA",
+            "levels": [8]
+          }
+        ]
       }
     }
   }

@@ -85,7 +85,8 @@
    ],
    "desc": "WHO TO ENLIST: {name}, a partner in the Environmental Law Alliance Worldwide - a network of PUBLIC-INTEREST environmental lawyers in over 70 countries who represent communities, not project proponents. Partners share scientific and legal expertise across borders, so a group facing a mine or dam can get technical analysis its own country may not supply. USE IT: ask ELAW to connect you to the partner in your country, and to the scientists who have reviewed the same kind of impact assessment elsewhere.",
    "expected": 300,
-   "page": "https://elaw.org/partners"
+   "page": "https://elaw.org/partners",
+   "note": "Discovery found a custom post type 'map' at wp-json/wp/v2/map - probe types first."
   },
   {
    "network": "foei",
@@ -126,7 +127,7 @@
    ],
    "desc": "WHO TO ENLIST: {name}, a member of the International Land Coalition in {where} - a global alliance of civil society and intergovernmental organisations working on people-centred land governance, land rights and defence against land grabbing. USE IT: strongest where the threat is dispossession or an acquisition without consent, and where documented tenure evidence is the lever.",
    "expected": 300,
-   "page": "https://www.landcoalition.org/en/members/"
+   "page": "https://www.landcoalition.org/en/members/?type=all"
   },
   {
    "network": "lvc",
@@ -208,7 +209,7 @@
    ],
    "desc": "WHO TO ENLIST: {name}, part of the Yes to Life No to Mining network in {where} — a global solidarity network of COMMUNITIES REFUSING MINING on their land, rather than negotiating terms. USE IT for the specific question other networks avoid: how communities say no outright, and what has worked when they did.",
    "expected": 60,
-   "page": "https://yestolifenotomining.org/network/"
+   "page": "https://yestolifenotomining.org/"
   },
   {
    "network": "gfc",

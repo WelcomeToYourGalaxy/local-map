@@ -236,6 +236,50 @@ def count_records(payload):
     return best
 
 
+SKIP_TYPES = {"post", "page", "attachment", "nav_menu_item", "wp_block",
+              "wp_template", "wp_template_part", "wp_navigation", "wp_font_family",
+              "wp_font_face", "wp_global_styles", "revision", "menu-item",
+              "tribe_events", "tribe_venue", "tribe_organizer"}
+
+
+def _probe_wp_types(root, headers, requests):
+    """List WordPress post types and try each collection for records.
+
+    A directory of 350 Waterkeepers or 1,000 GAIA members is almost always a
+    custom post type - 'member', 'keeper', 'chapter', 'partner', 'organization'.
+    The route table shows these as regex patterns, which is why the first pass
+    missed them."""
+    out = []
+    try:
+        t = requests.get(root + "/wp-json/wp/v2/types", headers=headers, timeout=45)
+        types = t.json() if t.status_code < 400 else {}
+    except Exception:
+        return out
+    if not isinstance(types, dict):
+        return out
+    for slug, meta in types.items():
+        if slug in SKIP_TYPES:
+            continue
+        rest_base = (meta or {}).get("rest_base") or slug
+        url = f"{root}/wp-json/wp/v2/{rest_base}?per_page=100"
+        try:
+            rr = requests.get(url, headers=headers, timeout=45)
+            if rr.status_code >= 400:
+                continue
+            data = rr.json()
+        except Exception:
+            continue
+        if not isinstance(data, list) or len(data) < 5:
+            continue
+        total = rr.headers.get("X-WP-Total") or len(data)
+        keys = sorted(data[0].keys())[:16] if isinstance(data[0], dict) else []
+        print(f"  TYPE   {total:>6} records  {url}")
+        print(f"         fields: {', '.join(keys)}")
+        out.append({"url": url, "records": int(total) if str(total).isdigit() else len(data),
+                    "path": [], "sample_fields": keys, "post_type": slug})
+    return out
+
+
 def discover(page_url, contact, limit=25):
     """Fetch a directory page, try its endpoints, report which return records."""
     import requests
@@ -266,6 +310,10 @@ def discover(page_url, contact, limit=25):
                       if LIST_KEYWORDS.search(k)]
             for rt in routes[:20]:
                 print(f"  ROUTE  {root}/wp-json{rt}")
+            # THE ACTUAL FIX: these sites keep members as WordPress CUSTOM POST
+            # TYPES, not plugin APIs. The route table hides them behind regex
+            # patterns, so ask for the type list and hit each collection.
+            hits.extend(_probe_wp_types(root, headers, requests))
             continue
         n, path = count_records(data)
         if n >= 5:
@@ -538,12 +586,16 @@ def selftest():
        "count/nested-path")
     eq(count_records({"ok": True})[0], 0, "count/no-list")
 
+    eq("post" in SKIP_TYPES and "page" in SKIP_TYPES, True, "types/skips-builtin")
+    eq("member" in SKIP_TYPES, False, "types/keeps-custom")
+    eq("tribe_events" in SKIP_TYPES, True, "types/skips-events-plugin")
+
     if fails:
         print("SELFTEST FAILED")
         for f in fails:
             print("  -", f)
         return 1
-    print("SELFTEST OK (39 checks)")
+    print("SELFTEST OK (42 checks)")
     return 0
 
 

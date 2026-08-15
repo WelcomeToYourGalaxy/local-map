@@ -41,6 +41,8 @@ jobs:
             --projects projects.json \
             --min-overlap 2 \
             --cache boundary_cache \
+            --merge wire_geo.json \
+            --max-age-days 365 \
             --out wire_geo.json \
             --report wire_geo_report.json
 

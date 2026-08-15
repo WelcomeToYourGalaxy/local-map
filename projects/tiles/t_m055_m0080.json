@@ -1,0 +1,1 @@
+[{"name":"No definido","t":299,"state":"Chile","lat":-50.3688,"lng":-75.337,"url":"https://geoserver.exploradorenergia.cl/geoserver/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=offshore%3Ainfraestuctura_transporte_marino&outputFormat=application%2Fjson&maxFeatures=50","desc":"From Chile spatial data (WFS) · layer…","s":62,"impact":1}]

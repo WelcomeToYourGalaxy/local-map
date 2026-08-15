@@ -1,0 +1,1 @@
+[{"name":"mcas_mlsa_public_exploitation","t":267,"state":"Greenland","lat":60.337,"lng":-44.8944,"url":"https://gis.govmin.gl/geoserver/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=MLSA%3Amcas_mlsa_public_exploitation&outputFormat=application%2Fjson&maxFeatures=50","desc":"From Greenland spatial data (WFS) · layer…","s":59,"impact":1}]

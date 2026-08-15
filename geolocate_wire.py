@@ -103,6 +103,21 @@ SUPRA_LOCAL = re.compile(
 # ---------------------------------------------------------------------------
 # matching
 # ---------------------------------------------------------------------------
+# Words that are common enough in ordinary prose that matching on them is
+# meaningless. "MORE Fun" is a real OSM feature name; without this, a story
+# containing "more" and "fun" matches it.
+COMMON = {
+    "more", "most", "fun", "best", "good", "great", "well", "very", "much",
+    "many", "some", "such", "than", "then", "when", "what", "where", "which",
+    "will", "would", "could", "should", "have", "here", "there", "they",
+    "them", "their", "your", "were", "been", "into", "over", "under", "after",
+    "before", "again", "also", "just", "like", "make", "made", "take", "come",
+    "going", "know", "time", "year", "years", "week", "days", "people",
+    "first", "last", "next", "long", "high", "low", "big", "small", "large",
+    "open", "close", "full", "free", "real", "main", "top", "old", "young",
+    "help", "need", "want", "look", "back", "down", "away", "off", "out",
+}
+
 STOP = {
     "the", "and", "for", "with", "from", "that", "this", "project", "projects",
     "plan", "plans", "new", "site", "area", "county", "city", "town", "village",
@@ -119,14 +134,41 @@ def norm(text):
     return text.lower()
 
 
-def tokens(text, minlen=4):
+def tokens(text, minlen=4, drop_common=True):
+    bad = STOP | COMMON if drop_common else STOP
     return {w for w in re.findall(r"[a-z0-9]+", norm(text))
-            if len(w) >= minlen and w not in STOP}
+            if len(w) >= minlen and w not in bad}
+
+
+def phrase_present(name, text):
+    """Does the project name appear as a contiguous phrase in the story?
+
+    Set overlap alone let unrelated words in different sentences match. Real
+    references name the thing: 'Karahisar copper mine', not 'copper' in
+    paragraph 1 and 'Karahisar' in paragraph 9."""
+    words = [w for w in re.findall(r"[a-z0-9]+", norm(name))
+             if w not in STOP and w not in COMMON]
+    if len(words) < 2:
+        return False
+    return " ".join(words) in " ".join(re.findall(r"[a-z0-9]+", norm(text)))
 
 
 def distinctive(name):
     """Tokens of a project name that could identify it in a headline."""
     return tokens(name)
+
+
+# Project names that are just a place or a company are not sites: "Buenos
+# Aires", "Social Housing", "Novo Nordisk" match anything written about the
+# city or the firm. Require the name to say what the THING is.
+SITE_WORDS = re.compile(
+    r"(mine|quarry|pit|dam|reservoir|pipeline|terminal|port|airport|railway|"
+    r"rail|road|highway|motorway|bridge|tunnel|plant|refinery|smelter|mill|"
+    r"factory|works|farm|windfarm|solar|turbine|substation|landfill|incinerat|"
+    r"waste|estate|development|scheme|project|park|reserve|canal|barrage|"
+    r"platform|field|colliery|quarr|warehouse|datacent|data cent|feedlot|"
+    r"cafo|hatchery|kiln|cement|steel|paper|chemical|storage|depot|"
+    r"subdivision|resort|marina|dock|jetty|pier|lock|weir)", re.I)
 
 
 # A project name identifies a place only if it is specific. One-word names
@@ -145,8 +187,11 @@ def build_index(projects, min_token_len=4):
     for p in projects:
         if p.get("lat") is None or p.get("lng") is None:
             continue
-        toks = distinctive(p.get("name", ""))
+        name = p.get("name", "")
+        toks = distinctive(name)
         if not (MIN_NAME_TOKENS <= len(toks) <= MAX_NAME_TOKENS):
+            continue
+        if not SITE_WORDS.search(name):
             continue
         kept.append(p)
         toksets.append(toks)
@@ -187,8 +232,11 @@ def match_item(item, idx, projects, toksets, min_overlap=3,
     best, score = None, 0
     for i, _ in counts.most_common(50):
         need = toksets[i]
-        if need <= toks and len(need) >= min_overlap and len(need) > score:
-            best, score = i, len(need)
+        if not (need <= toks and len(need) >= min_overlap and len(need) > score):
+            continue
+        if not phrase_present(projects[i].get("name", ""), text):
+            continue
+        best, score = i, len(need)
     if best is None:
         return None, "weak_match"
 
@@ -203,6 +251,11 @@ def match_item(item, idx, projects, toksets, min_overlap=3,
         region = gate.locate(iso, proj["lat"], proj["lng"])
         if region is None:
             return None, "outside_country"
+        # wire items carry their own admin-1; a Florida story must not pin to a
+        # Maryland project just because both are in the USA.
+        want = norm(item.get("region") or "")
+        if want and want not in norm(region) and norm(region) not in want:
+            return None, "region_mismatch"
         proj = dict(proj, admin1=region)
 
     # rule 1: the matched project must itself be a place, not a programme.
@@ -300,6 +353,43 @@ def selftest():
          "iso": "GRC"}, idx, kept, toksets)
     eq(why3, "country_mismatch", "match/country-gate")
 
+    # the reported failure: a Florida story matching "MORE Fun" in Maryland
+    eq("more" in tokens("MORE Fun"), False, "tokens/drops-common-words")
+    eq(tokens("Karahisar Copper Mine"), {"karahisar", "copper", "mine"},
+       "tokens/keeps-real")
+    eq(phrase_present("Karahisar Copper Mine",
+                      "work at the Karahisar copper mine stopped"), True,
+       "phrase/contiguous-match")
+    eq(phrase_present("Karahisar Copper Mine",
+                      "copper prices rose; separately, Karahisar votes"), False,
+       "phrase/rejects-scattered")
+    eq(phrase_present("MORE Fun", "there is more fun to be had"), False,
+       "phrase/needs-two-real-words")
+
+    class RegionGate:
+        def locate(self, iso, lat, lng):
+            return "Maryland"
+
+    _, k4, t4 = build_index([{"name": "Karahisar Copper Mine", "lat": 39.3,
+                              "lng": -76.8, "url": "u"}])
+    i4 = collections.defaultdict(list)
+    for n, tk in enumerate(t4):
+        for w in tk:
+            i4[w].append(n)
+    _, whyR = match_item({"title": "Karahisar copper mine protest", "snippet": "",
+                          "iso": "USA", "region": "Florida"},
+                         i4, k4, t4, gate=RegionGate())
+    eq(whyR, "region_mismatch", "gate/region-must-agree")
+
+    eq(bool(SITE_WORDS.search("Karahisar Copper Mine")), True, "site/keeps-mine")
+    eq(bool(SITE_WORDS.search("Panama Canal")), True, "site/keeps-canal")
+    eq(bool(SITE_WORDS.search("Buenos Aires")), False, "site/rejects-city-name")
+    eq(bool(SITE_WORDS.search("Novo Nordisk")), False, "site/rejects-company")
+    eq(bool(SITE_WORDS.search("Social Housing")), False, "site/rejects-generic")
+    _, k5, _ = build_index([{"name": "Buenos Aires", "lat": 1, "lng": 1},
+                            {"name": "Sisson Mine", "lat": 2, "lng": 2}])
+    eq(len(k5), 1, "index/only-sites-indexed")
+
     eq(level_of(projects[0]), "point", "level/point")
     eq(level_of(projects[1]), "municipal", "level/centroid")
 
@@ -350,7 +440,7 @@ def selftest():
         for f in fails:
             print("  -", f)
         return 1
-    print("SELFTEST OK (25 checks)")
+    print("SELFTEST OK (37 checks)")
     return 0
 
 

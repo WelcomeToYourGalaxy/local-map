@@ -25,6 +25,7 @@ import argparse
 import collections
 import json
 import re
+import gzip
 import os
 import sys
 import unicodedata
@@ -573,6 +574,24 @@ def selftest():
     eq(len(merge_geo([], [], 365, now)), 0, "merge/empty-safe")
     eq(item_age_days({"date": None}), None, "age/undated")
 
+    import tempfile
+    with tempfile.TemporaryDirectory() as td:
+        plain = os.path.join(td, "p.json")
+        with open(plain, "w") as fh:
+            json.dump({"projects": [1]}, fh)
+        gzp = os.path.join(td, "q.json.gz")
+        with gzip.open(gzp, "wt", encoding="utf-8") as fh:
+            json.dump({"projects": [1, 2]}, fh)
+        eq(len(load_json(plain)["projects"]), 1, "load/plain-json")
+        eq(len(load_json(gzp)["projects"]), 2, "load/gzipped-json")
+        eq(resolve_projects(gzp), gzp, "resolve/exact")
+        eq(resolve_projects(os.path.join(td, "q.json")), gzp, "resolve/falls-back-to-gz")
+        try:
+            resolve_projects(os.path.join(td, "nope.json"))
+            fails.append("resolve/missing not caught")
+        except SystemExit:
+            pass
+
     eq(level_of(projects[0]), "point", "level/point")
     eq(level_of(projects[1]), "municipal", "level/centroid")
 
@@ -623,8 +642,32 @@ def selftest():
         for f in fails:
             print("  -", f)
         return 1
-    print("SELFTEST OK (56 checks)")
+    print("SELFTEST OK (60 checks)")
     return 0
+
+
+def load_json(path):
+    """Read a .json or .json.gz file.
+
+    The repo keeps projects.json.gz only - the uncompressed copy is 136 MB and
+    was removed. Sniff the gzip magic bytes rather than trusting the extension,
+    so either name works and a mislabelled file still loads."""
+    with open(path, "rb") as fh:
+        head = fh.read(2)
+    opener = gzip.open if head == b"\x1f\x8b" else open
+    with opener(path, "rt", encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+def resolve_projects(path):
+    """Accept either name: if the given path is missing, try the other one."""
+    if os.path.exists(path):
+        return path
+    alt = path[:-3] if path.endswith(".gz") else path + ".gz"
+    if os.path.exists(alt):
+        print(f"{path} not found; using {alt}")
+        return alt
+    raise SystemExit(f"neither {path} nor {alt} exists")
 
 
 def main():
@@ -647,8 +690,8 @@ def main():
     if args.selftest:
         return selftest()
 
-    wire = json.load(open(args.wire))
-    pdata = json.load(open(args.projects))
+    wire = load_json(args.wire)
+    pdata = load_json(resolve_projects(args.projects))
     projects = pdata["projects"] if isinstance(pdata, dict) else pdata
 
     gate = None

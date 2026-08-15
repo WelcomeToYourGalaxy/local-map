@@ -25,6 +25,7 @@ import argparse
 import collections
 import json
 import re
+import os
 import sys
 import unicodedata
 
@@ -140,6 +141,37 @@ def tokens(text, minlen=4, drop_common=True):
             if len(w) >= minlen and w not in bad}
 
 
+GENERIC_TAIL = re.compile(
+    r"\b(development|redevelopment|project|projects|scheme|expansion|extension|"
+    r"phase|stage|works|facility|facilities|site|sites|proposal|application|"
+    r"upgrade|programme|program|complex|ltd|limited|plc|inc|corporation|"
+    r"company|holdings|group|pty|pte|sa|nv|gmbh|srl)\b", re.I)
+
+
+def name_variants(name):
+    """The forms a story might use for the same project.
+
+    Real coverage rarely uses the register's full string: the permit says
+    'Oyu Tolgoi Mine Development', the news says 'Oyu Tolgoi mine'. Stripping
+    generic tails adds those hits without loosening any gate."""
+    out = {name}
+    # registers qualify names in brackets - "Raniganj North Gas Block (India)",
+    # "Lot 3 (phase 2)". Coverage never writes those.
+    unparen = re.sub(r"\s*[\(\[][^)\]]*[\)\]]", " ", name)
+    unparen = re.sub(r"\s+", " ", unparen).strip(" -,\u2014")
+    if unparen and unparen != name:
+        out.add(unparen)
+        tail2 = GENERIC_TAIL.sub(" ", unparen)
+        tail2 = re.sub(r"\s+", " ", tail2).strip(" -,\u2014")
+        if tail2 and tail2 != unparen:
+            out.add(tail2)
+    stripped = GENERIC_TAIL.sub(" ", name)
+    stripped = re.sub(r"\s+", " ", stripped).strip(" -,\u2014")
+    if stripped and stripped != name:
+        out.add(stripped)
+    return {v for v in out if len(v) > 3}
+
+
 def phrase_present(name, text):
     """Does the project name appear as a contiguous phrase in the story?
 
@@ -168,7 +200,16 @@ SITE_WORDS = re.compile(
     r"waste|estate|development|scheme|project|park|reserve|canal|barrage|"
     r"platform|field|colliery|quarr|warehouse|datacent|data cent|feedlot|"
     r"cafo|hatchery|kiln|cement|steel|paper|chemical|storage|depot|"
-    r"subdivision|resort|marina|dock|jetty|pier|lock|weir)", re.I)
+    r"subdivision|resort|marina|dock|jetty|pier|lock|weir|"
+    # the same words in the other languages this feed carries
+    r"mina|minera|cantera|planta|usina|represa|barragem|barragem|embalse|"
+    r"vertedero|relleno sanitario|autopista|carretera|ferrocarril|ferrovia|"
+    r"rodovia|estrada|puerto|porto|aeropuerto|aeroporto|oleoducto|gasoducto|"
+    r"gasoduto|refiner[ií]a|refinaria|central|parque e[oó]lico|parque solar|"
+    r"usine|barrage|carri[eè]re|d[eé]charge|a[eé]roport|autoroute|"
+    r"kraftwerk|steinbruch|deponie|tagebau|stau(damm|see)|"
+    r"impianto|cava|discarica|centrale|"
+    r"kopalnia|elektrownia|wysypisko)", re.I)
 
 
 # A project name identifies a place only if it is specific. One-word names
@@ -178,6 +219,27 @@ MAX_NAME_TOKENS = 8
 # A token shared by more than this many projects is generic ("mine", "road")
 # and cannot pin a headline to one site.
 RARE_MAX_DF = 60
+
+
+# Companies whose name is too generic or too governmental to identify a site.
+COMPANY_STOP = re.compile(
+    r"\b(council|department|ministry|agency|authority|administration|"
+    r"municipality|government|state|national|parks|university|school|"
+    r"hospital|church|trust)\b", re.I)
+
+
+def company_key(project):
+    """A company name usable as an identifier, or None.
+
+    'Vedanta' identifies a site when the story also gives the right region.
+    'Dublin City Council' does not - it appears in every story about Dublin."""
+    c = (project.get("company") or "").strip()
+    if not c or len(c) < 5 or COMPANY_STOP.search(c):
+        return None
+    toks = [w for w in re.findall(r"[a-z0-9]+", norm(c))
+            if w not in STOP and w not in COMMON and len(w) >= 5
+            and not GENERIC_TAIL.fullmatch(w)]
+    return toks or None
 
 
 def build_index(projects, min_token_len=4):
@@ -199,11 +261,16 @@ def build_index(projects, min_token_len=4):
     for n, toks in enumerate(toksets):
         for t in toks:
             idx[t].append(n)
-    return idx, kept, toksets
+    # secondary index: operator name -> projects, used only with a region match
+    cidx = collections.defaultdict(list)
+    for n, p in enumerate(kept):
+        for tok in (company_key(p) or []):
+            cidx[tok].append(n)
+    return idx, kept, toksets, cidx
 
 
 def match_item(item, idx, projects, toksets, min_overlap=3,
-               max_candidates=400, gate=None):
+               max_candidates=400, gate=None, cidx=None):
     """Return (project, score) or (None, reason)."""
     text = f"{item.get('title','')} {item.get('snippet','')}"
     if is_metaphor(text):
@@ -234,9 +301,35 @@ def match_item(item, idx, projects, toksets, min_overlap=3,
         need = toksets[i]
         if not (need <= toks and len(need) >= min_overlap and len(need) > score):
             continue
-        if not phrase_present(projects[i].get("name", ""), text):
+        if not any(phrase_present(v, text)
+                   for v in name_variants(projects[i].get("name", ""))):
             continue
         best, score = i, len(need)
+    if False and best is None and cidx:   # operator path withdrawn - see notes
+        # A story that names the operator, sits in the right admin-1 and is
+        # about a site-shaped thing identifies that site.
+        body = " ".join(re.findall(r"[a-z0-9]+", norm(text)))
+        want_region = norm(item.get("region") or "")
+        for ck, idxs in cidx.items():
+            if ck not in body or len(idxs) > 40:
+                continue
+            for i in idxs:
+                pr = projects[i]
+                if not SITE_WORDS.search(pr.get("name", "") + " " + (pr.get("type") or "")):
+                    continue
+                if want_region and gate is not None and item.get("iso"):
+                    reg = gate.locate(item["iso"], pr["lat"], pr["lng"])
+                    if not reg:
+                        continue
+                    if want_region not in norm(reg) and norm(reg) not in want_region:
+                        continue
+                elif want_region:
+                    continue     # no gate to confirm the region: do not guess
+                best, score = i, "company"
+                break
+            if best is not None:
+                break
+
     if best is None:
         return None, "weak_match"
 
@@ -272,11 +365,49 @@ def level_of(project):
     return "point"
 
 
+def item_age_days(item, now_ms=None):
+    """Age in days from the item's date, or None when undated."""
+    import time
+
+    now_ms = now_ms if now_ms is not None else time.time() * 1000
+    d = item.get("date")
+    if d is None:
+        return None
+    try:
+        ts = float(d) if not isinstance(d, str) else None
+        if ts is None:
+            return None
+    except (TypeError, ValueError):
+        return None
+    if ts > 1e12 * 10:      # implausible; treat as unusable rather than guess
+        return None
+    return (now_ms - ts) / 86400000.0
+
+
+def merge_geo(prior, fresh, max_age_days=365, now_ms=None):
+    """Union of previously published pins and this run's, newest wins.
+
+    Nothing is dropped for being absent from today's feed - only for being
+    older than the age cap, and undated items are kept rather than guessed at."""
+    out = {}
+    for item in list(prior or []) + list(fresh or []):
+        key = (item.get("link") or "").strip()
+        if not key:
+            continue
+        age = item_age_days(item, now_ms)
+        if age is not None and age > max_age_days:
+            continue
+        out[key] = item          # fresh overwrites prior on the same link
+    return sorted(out.values(),
+                  key=lambda x: (x.get("date") or 0), reverse=True)
+
+
 def run(wire, projects, min_overlap=3, gate=None):
-    idx, kept, toksets = build_index(projects)
+    idx, kept, toksets, cidx = build_index(projects)
     out, reasons = [], collections.Counter()
     for item in wire:
-        proj, res = match_item(item, idx, kept, toksets, min_overlap, gate=gate)
+        proj, res = match_item(item, idx, kept, toksets, min_overlap,
+                               gate=gate, cidx=cidx)
         if proj is None:
             reasons[res] += 1
             continue
@@ -287,7 +418,8 @@ def run(wire, projects, min_overlap=3, gate=None):
         out.append({**item, "lat": proj["lat"], "lng": proj["lng"],
                     "level": lvl, "project": proj.get("name"),
                     "project_url": proj.get("url"),
-                    "admin1": proj.get("admin1"), "match_score": res})
+                    "admin1": proj.get("admin1"), "match_score": res,
+                    "matched_on": ("operator" if res == "company" else "name")})
         reasons["mapped"] += 1
     return out, reasons
 
@@ -329,7 +461,7 @@ def selftest():
         {"name": "Riverside Housing Development", "lat": 51.5, "lng": -0.1,
          "url": "u2", "precise": False},
     ]
-    idx, kept, toksets = build_index(projects)
+    idx, kept, toksets, cidx = build_index(projects)
     eq(len(kept), 2, "index/keeps-coord-projects")
 
     hit, score = match_item(
@@ -370,8 +502,8 @@ def selftest():
         def locate(self, iso, lat, lng):
             return "Maryland"
 
-    _, k4, t4 = build_index([{"name": "Karahisar Copper Mine", "lat": 39.3,
-                              "lng": -76.8, "url": "u"}])
+    _, k4, t4, _c4 = build_index([{"name": "Karahisar Copper Mine", "lat": 39.3,
+                                   "lng": -76.8, "url": "u"}])
     i4 = collections.defaultdict(list)
     for n, tk in enumerate(t4):
         for w in tk:
@@ -386,9 +518,60 @@ def selftest():
     eq(bool(SITE_WORDS.search("Buenos Aires")), False, "site/rejects-city-name")
     eq(bool(SITE_WORDS.search("Novo Nordisk")), False, "site/rejects-company")
     eq(bool(SITE_WORDS.search("Social Housing")), False, "site/rejects-generic")
-    _, k5, _ = build_index([{"name": "Buenos Aires", "lat": 1, "lng": 1},
-                            {"name": "Sisson Mine", "lat": 2, "lng": 2}])
+    _, k5, _t5, _c5 = build_index([{"name": "Buenos Aires", "lat": 1, "lng": 1},
+                                   {"name": "Sisson Mine", "lat": 2, "lng": 2}])
     eq(len(k5), 1, "index/only-sites-indexed")
+
+    eq(name_variants("Oyu Tolgoi Mine Development") ==
+       {"Oyu Tolgoi Mine Development", "Oyu Tolgoi Mine"}, True, "alias/strips-tail")
+    eq("Raniganj North Gas Block" in name_variants("Raniganj North Gas Block (India)"),
+       True, "alias/strips-parenthetical")
+    eq(bool(SITE_WORDS.search("Mina Los Bronces")), True, "site/spanish")
+    eq(bool(SITE_WORDS.search("Barragem de Irapé")), True, "site/portuguese")
+    eq(bool(SITE_WORDS.search("Carrière de Vignats")), True, "site/french")
+    eq(bool(SITE_WORDS.search("Kopalnia Turów")), True, "site/polish")
+    eq(bool(SITE_WORDS.search("Buenos Aires")), False, "site/still-rejects-city")
+    eq(phrase_present("Oyu Tolgoi Mine",
+                      "protest at the Oyu Tolgoi mine in Umnugovi"), True,
+       "alias/matches-short-form")
+    eq(company_key({"company": "Dublin City Council"}), None,
+       "company/rejects-government")
+    eq(company_key({"company": "Vedanta Resources Ltd"}), ["vedanta", "resources"],
+       "company/keeps-operator")
+    eq(company_key({"company": ""}), None, "company/empty")
+
+    class RegGate:
+        def locate(self, iso, lat, lng):
+            return "Odisha"
+
+    ci, ck, ct, cc = build_index([{"name": "Lanjigarh Refinery", "company":
+                                   "Vedanta Resources", "lat": 19.7, "lng": 83.4,
+                                   "url": "v"}])
+    _hitc, sc = match_item({"title": "Vedanta refinery expansion challenged",
+                           "snippet": "", "iso": "IND", "region": "Odisha"},
+                          ci, ck, ct, gate=RegGate(), cidx=cc)
+    eq(sc, "company" if False else "weak_match",
+       "company/path-withdrawn-after-precision-failure")
+    missc, whyc = match_item({"title": "Vedanta refinery expansion challenged",
+                              "snippet": "", "iso": "IND", "region": "Kerala"},
+                             ci, ck, ct, gate=RegGate(), cidx=cc)
+    eq(missc, None, "company/rejects-wrong-region")
+
+    now = 1_800_000_000_000
+    old = {"link": "a", "date": now - 400 * 86400000, "title": "old"}
+    mid = {"link": "b", "date": now - 30 * 86400000, "title": "kept"}
+    undated = {"link": "c", "title": "undated"}
+    fresh = [{"link": "b", "date": now, "title": "updated"},
+             {"link": "d", "date": now, "title": "new"}]
+    merged = merge_geo([old, mid, undated], fresh, 365, now)
+    links = {m["link"] for m in merged}
+    eq("a" in links, False, "merge/drops-past-age-cap")
+    eq("c" in links, True, "merge/keeps-undated")
+    eq({"b", "d"} <= links, True, "merge/keeps-old-and-new")
+    eq([m for m in merged if m["link"] == "b"][0]["title"], "updated",
+       "merge/fresh-wins-on-same-link")
+    eq(len(merge_geo([], [], 365, now)), 0, "merge/empty-safe")
+    eq(item_age_days({"date": None}), None, "age/undated")
 
     eq(level_of(projects[0]), "point", "level/point")
     eq(level_of(projects[1]), "municipal", "level/centroid")
@@ -402,13 +585,13 @@ def selftest():
     eq(reasons["metaphor"], 1, "run/counts-metaphor")
 
     # generic names are not indexed at all
-    _, generic, _ = build_index([{"name": "Building", "lat": 1, "lng": 1},
-                                 {"name": "Construction site", "lat": 2, "lng": 2}])
+    _, generic, _g1, _g2 = build_index([{"name": "Building", "lat": 1, "lng": 1},
+                                        {"name": "Construction site", "lat": 2, "lng": 2}])
     eq(len(generic), 0, "index/drops-generic-names")
 
     # partial overlap must not match
-    _, k2, t2 = build_index([{"name": "Karahisar Copper Mine", "lat": 1,
-                              "lng": 1, "url": "u"}])
+    _, k2, t2, _c2 = build_index([{"name": "Karahisar Copper Mine", "lat": 1,
+                                   "lng": 1, "url": "u"}])
     part, whyp = match_item({"title": "Copper mine opens in Chile",
                              "snippet": ""}, _, k2, t2)
     eq(part, None, "match/rejects-partial-overlap")
@@ -424,8 +607,8 @@ def selftest():
 
     # project carrying no iso field (the real projects.json case): only the
     # geometric gate can catch a wrong-country match
-    _, k3, t3 = build_index([{"name": "Karahisar Copper Mine", "lat": 40.1,
-                              "lng": 38.2, "url": "u"}])
+    _, k3, t3, _c3 = build_index([{"name": "Karahisar Copper Mine", "lat": 40.1,
+                                   "lng": 38.2, "url": "u"}])
     i3 = collections.defaultdict(list)
     for n, tk in enumerate(t3):
         for w in tk:
@@ -440,7 +623,7 @@ def selftest():
         for f in fails:
             print("  -", f)
         return 1
-    print("SELFTEST OK (37 checks)")
+    print("SELFTEST OK (56 checks)")
     return 0
 
 
@@ -454,6 +637,10 @@ def main():
     ap.add_argument("--no-iso-gate", action="store_true",
                     help="skip the country check (faster, much less precise)")
     ap.add_argument("--cache", default="boundary_cache")
+    ap.add_argument("--merge", default="",
+                    help="existing wire_geo.json to accumulate into (keeps past hits)")
+    ap.add_argument("--max-age-days", type=int, default=365,
+                    help="drop accumulated items older than this")
     ap.add_argument("--selftest", action="store_true")
     args = ap.parse_args()
 
@@ -472,6 +659,17 @@ def main():
         else:
             gate = IsoGate(args.cache)
     mapped, reasons = run(wire, projects, args.min_overlap, gate)
+
+    # ACCUMULATE. wire.json is a rolling window: today's 9,000 items replace
+    # yesterday's, so regenerating from scratch discards every hit older than
+    # the window. Matches do not expire just because the feed moved on, so
+    # merge with what is already published, keyed on the story link.
+    if args.merge and os.path.exists(args.merge):
+        try:
+            prior = json.load(open(args.merge))
+        except Exception:  # noqa: BLE001
+            prior = []
+        mapped = merge_geo(prior, mapped, args.max_age_days)
 
     json.dump(mapped, open(args.out, "w"), ensure_ascii=False, indent=1)
     json.dump({"wire_items": len(wire), "mapped": len(mapped),

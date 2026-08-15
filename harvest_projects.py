@@ -7291,6 +7291,27 @@ def _layer_is_junk(*names):
             return True
     return False
 
+
+# crs-fix (patch_harvester_crs)
+# WFS servers answer in their own CRS unless told otherwise, and WFS 1.1.0
+# defines EPSG:4326 as lat-first. CRS84 is unambiguous lon,lat degrees.
+_WFS_CRS84 = "urn:ogc:def:crs:OGC:1.3:CRS84"
+
+
+def _ll_ok(lat, lng):
+    """A coordinate that cannot exist is a projection leak, not a place."""
+    try:
+        lat, lng = float(lat), float(lng)
+    except (TypeError, ValueError):
+        return None
+    if abs(lat) <= 90 and abs(lng) <= 180:
+        return (lat, lng)
+    # unambiguous transposition: latitude cannot exceed 90, longitude can
+    if abs(lat) <= 180 and abs(lng) <= 90:
+        return (lng, lat)
+    return None
+
+
 _WFS_KEEP = _re.compile(
     r"permit|planning|develop|construct|mining|\bmine\b|quarr|pipeline|concession|"
     r"infrastructur|\bproject|licen[cs]e|environ|impact|zoning|"
@@ -7357,7 +7378,8 @@ def fetch_wfs_federation(per_endpoint=None, per_ds=900):
                 try:
                     gu = base + sep + urllib.parse.urlencode(
                         {"service": "WFS", "version": "1.1.0", "request": "GetFeature",
-                         "typeName": nm, "outputFormat": ofmt, "maxFeatures": per_ds})
+                         "typeName": nm, "outputFormat": ofmt,
+                         "srsName": _WFS_CRS84, "maxFeatures": per_ds})
                     gj = json.loads(_wfs_get(gu, limit_bytes=8000000))
                     break
                 except Exception:
@@ -7374,6 +7396,9 @@ def fetch_wfs_federation(per_endpoint=None, per_ds=900):
                     ll = _geom_center(f.get("geometry") or {})
                     if not ll:
                         continue
+                    ll = _ll_ok(ll[0], ll[1])   # crs-fix
+                    if not ll:
+                        continue
                     props = f.get("properties") or {}
                     st = _ods_pick(props, _ODS_STATUSK)
                     sn = str(st or "").lower().replace("_", " ")
@@ -7385,7 +7410,7 @@ def fetch_wfs_federation(per_endpoint=None, per_ds=900):
                     src = base + sep + urllib.parse.urlencode(
                         {"service": "WFS", "version": "1.1.0", "request": "GetFeature",
                          "typeName": nm, "outputFormat": "application/json",
-                         "maxFeatures": 50})
+                         "srsName": _WFS_CRS84, "maxFeatures": 50})
                     # carry the feature's own attributes through instead of dropping them
                     det = []
                     for k, v in list(props.items()):

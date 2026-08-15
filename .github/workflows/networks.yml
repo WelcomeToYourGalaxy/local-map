@@ -54,7 +54,7 @@ jobs:
           python3 harvest_networks.py \
             --registry networks.json \
             --network "${{ inputs.network }}" \
-            --limit "${{ inputs.limit }}" \
+            --limit "${{ inputs.limit || '0' }}" \
             --contact wheelock.chris@gmail.com \
             --out network_adds.json
       - name: Summarise

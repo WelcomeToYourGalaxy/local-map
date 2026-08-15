@@ -1504,6 +1504,26 @@ var _wireLayer=null, _wireLoaded=false, _wireItems=[];
 function _wireDate(d){ try{ var t=(typeof d==='number')?d:Date.parse(d);
     if(!isFinite(t))return ''; var dt=new Date(t);
     return dt.toISOString().slice(0,10); }catch(e){ return ''; } }
+
+/* wiregroup */
+function _wireGroupPop(grp){
+  if(grp.length===1)return _wirePop(grp[0]);
+  var p=grp[0];
+  var s='<div class="ip-title">'+_esc(p.project||'This project')+'</div>'
+       +'<div style="margin:6px 0;font-size:12px;color:#9dbca6">'+grp.length
+       +' stories pinned here'+(p.admin1?(' \u00b7 '+_esc(p.admin1)):'')+'</div>';
+  for(var i=0;i<grp.length;i++){ var it=grp[i];
+    s+='<div style="margin:7px 0;padding-left:8px;border-left:2px solid #3d5344">'
+      +'<a href="'+_esc(_href(it.link||'#'))+'" target="_blank" rel="noopener">'
+      +_esc(it.title||'Untitled')+'</a>'
+      +'<div style="font-size:11px;color:#84a08c">'
+      +_esc(it.name||'')+(_wireDate(it.date)?(' \u00b7 '+_wireDate(it.date)):'')
+      +'</div></div>'; }
+  s+='<div class="fac-why"><b>Matched to:</b> '+_esc(p.project||'')
+    +'<br><span style="font-size:11px;color:#84a08c">Matched automatically by name. '
+    +'If this looks wrong, it is \u2014 trust the story, not the pin.</span></div>';
+  return s; }
+
 function _wirePop(it){
   var s='<div class="ip-title">'+_esc(it.title||'Untitled')+'</div>';
   var meta=[]; if(it.name)meta.push(_esc(it.name)); var d=_wireDate(it.date); if(d)meta.push(d);
@@ -1524,15 +1544,28 @@ function _wireBuild(){ if(_wireLoaded)return Promise.resolve();
         map.getPane('wirePane').style.zIndex=650;
         map.getPane('wirePane').style.pointerEvents='auto'; }
       _wireLayer=L.layerGroup();
-      for(var i=0;i<_wireItems.length;i++){ var it=_wireItems[i];
+      /* wiregroup: fifteen Panama Canal stories share one coordinate, so
+         render one marker per place and let it carry all of them. */
+      var _groups={};
+      for(var gi=0;gi<_wireItems.length;gi++){ var g=_wireItems[gi];
+        var gla=parseFloat(g.lat), glo=parseFloat(g.lng);
+        if(!isFinite(gla)||!isFinite(glo))continue;
+        var gk=gla.toFixed(4)+','+glo.toFixed(4);
+        (_groups[gk]=_groups[gk]||[]).push(g); }
+      for(var gk2 in _groups){ var grp=_groups[gk2];
+        grp.sort(function(a,b){ return (b.date||0)-(a.date||0); });
+        var it=grp[0];
         var la=parseFloat(it.lat), lo=parseFloat(it.lng);
         if(!isFinite(la)||!isFinite(lo))continue;
         /* Own pane ABOVE projPane (620), with pointer events on, and a class
            so ProjectLayer's capture-phase click handler can stand down. */
-        var mk=L.circleMarker([la,lo],{radius:6,weight:2,color:'#fff2cc',
+        var _n=grp.length;
+        var mk=L.circleMarker([la,lo],{radius:Math.min(6+Math.sqrt(_n-1)*2.6,14),
+          weight:2,color:'#fff2cc',
           fillColor:'#d98b2b',fillOpacity:0.95,pane:'wirePane',
           className:'wire-mk'});
-        mk.bindPopup(_wirePop(it),{maxWidth:340});
+        mk.bindPopup(_wireGroupPop(grp),{maxWidth:360});
+        if(_n>1&&mk.bindTooltip)mk.bindTooltip(_n+' stories',{direction:'top'});
         _wireLayer.addLayer(mk); }
     })
     .catch(function(){ _wireItems=[]; _wireLayer=L.layerGroup(); }); }
@@ -1618,6 +1651,7 @@ var JUD_FILE='judicial_facilities.json';
 /* The data marks courthouses 'c' and prisons 'p'; the UI was written around
    'ch' and 'pr'. Accept both rather than rewriting either dataset. */
 FACLAB.c=FACLAB.ch; FACLAB.p=FACLAB.pr;
+try{ FACDESC.c=FACDESC.ch; FACDESC.p=FACDESC.pr; }catch(e){}
 FACCOL.c=FACCOL.ch||'#1d2b3a'; FACCOL.p=FACCOL.pr;
 facActive.c=1; facActive.ch=1; facActive.p=0; facActive.pr=0;
 var FAC_EXTRA_NOTES={"pr": ["Prison / detention", "Detention estates are development in their own right — new prisons and immigration centres go through the same planning and environmental consents as any other large institution, and are frequently sited on cheap land beside communities with least capacity to object. If one is proposed near you, it is a planning application like any other: the notice, the consultation window and the objection routes are identical."], "dp": ["Embassy / consulate", "No role in local development decisions. Relevant in one situation only: where the applicant is a state-owned company, an embassy is the accountable channel for that state's conduct abroad — and its own government may run a national contact point for OECD complaints about companies it hosts."], "bd": ["Border / customs post", "No role in approving development. Occasionally useful where a project depends on cross-border movement of waste, minerals or hazardous cargo: customs records and shipment notifications are the paper trail behind waste exports."]};
@@ -1639,6 +1673,36 @@ function _loadJudicial(){
       return add.length; })
     .catch(function(){ return 0; }); }
 
+
+/* govreview (patch_index_govreview) */
+/* The briefing about permits, EIA and land records is only true of offices that
+   handle land, environment, water, planning, transport, resources, records or
+   revenue. Requiring a positive reason to show it is the only approach that
+   scales: the layer holds every public building OSM knows, in every language,
+   so the list of things that are NOT land bodies is unbounded. */
+var GO_RELEVANT=new RegExp(
+  "planning|zoning|land|property|cadast|survey|deeds|registry|register|recorder|"+
+  "assessor|valuation|environment|ecolog|conservation|natural resource|forest|"+
+  "wildlife|fisher|water|marine|coastal|river|watershed|irrigation|"+
+  "agricultur|farm|rural|mines|mining|geolog|energy|petroleum|"+
+  "transport|highway|roads|railway|\bport\b|\bports\b|harbour|harbor|aviation|"+
+  "public works|infrastructur|utilit|sanitat|waste|sewer|drainage|"+
+  "building|construction|housing|development|permit|licens|inspector|"+
+  "revenue|tax|treasur|"+
+  /* the same functions in the other languages this layer carries */
+  "urbanism|urbanismo|ambient|medio ambiente|meio ambiente|catastro|catasto|"+
+  "kadaster|kataster|grundbuch|bauamt|umwelt|wasser|forst|liegenschaft|"+
+  "amenagement|environnement|cadastre|urbanisme|prefecture|"+
+  "territorio|ordenamiento|obras|recursos|"+
+  "pertanahan|lingkungan|tata ruang|kehutanan", "i");
+
+function _goRelevant(name){ return GO_RELEVANT.test(String(name||'')); }
+var GO_NOT_RELEVANT_NOTE='<div class="fac-why"><b>No role in development decisions</b>'
+  +'<br>This office does not review, permit or record land use \u2014 nothing here can '
+  +'stop, approve or document a project. For that, use the <b>town hall or planning '
+  +'department</b> for local decisions and the <b>environmental agency</b> for permits; '
+  +'both are marked on this map.</div>';
+
 function _facPop(p){ const label=FACLAB[p.k]||'Local facility';
   let s='<div class="ip-title">'+_esc(p.n||label)+'</div><div style="margin:6px 0;font-size:12px;color:#9dbca6">'+label+'</div>';
   if(p.u){ const disp=p.u.replace(/^https?:\/\//,'').slice(0,64); s+='<div><a href="'+_esc(_href(p.u))+'" target="_blank" rel="noopener">'+_esc(disp)+'</a></div>'; }
@@ -1648,9 +1712,11 @@ function _facPop(p){ const label=FACLAB[p.k]||'Local facility';
   if(p.k==='fs'){ s+=_firNote(p.la,p.lo); }
   if(p.k==='ch'||p.k==='c'){ s+=_crNote(p.la,p.lo); }
   if(p.k==='go'||p.k==='mi'){ var _gk=_goKindNote(p.n);
-    /* an office with no power over development says so, and skips the
-       permits-and-records briefing that does not apply to it */
-    if(_gk){ s+=_gk; } else { s+=_gvNote(p.la,p.lo); } }
+    /* named type first; then a positive test for land/environment
+       function; otherwise say plainly that it does nothing here. */
+    if(_gk){ s+=_gk; }
+    else if(p.k==='mi'||_goRelevant(p.n)){ s+=_gvNote(p.la,p.lo); }
+    else { s+=GO_NOT_RELEVANT_NOTE; } }
   if(p.k==='mi'){ s+=_mnNote(p.la,p.lo); }
   if(p.k==='pr'||p.k==='p'||p.k==='dp'||p.k==='bd'){
     s+=_extraNote(p.k==='p'?'pr':p.k); }
@@ -1708,7 +1774,7 @@ var FACDESC={
 };
 function buildFacFilter(){ var box=document.getElementById('facFilter'); if(!box)return;
   var counts={}; (facilityMarkers||[]).forEach(function(p){counts[p.k]=(counts[p.k]||0)+1;});
-  var order=['po','th','fs','go','mi','ch','c','p']; var html='';
+  var order=['po','th','fs','go','mi','c','p'];   /* 'ch' returned 0 and duplicated 'c' */ var html='';
   order.forEach(function(k){ if(!FACLAB[k])return; var c=counts[k]||0;
     html+='<label class="facf-row"><input type="checkbox" data-fk="'+k+'"'+(facActive[k]?' checked':'')+'>'
         +'<span class="facf-sw" style="background:'+FACCOL[k]+'"></span>'

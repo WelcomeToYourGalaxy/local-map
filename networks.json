@@ -1,0 +1,235 @@
+{
+ "_comment": "Member directories to harvest. Each network's tags are fixed here, never inferred per member: LTA members all hold land, Waterkeeper licensees all have enforcement capacity. 'url' must be a machine-readable directory endpoint confirmed from Actions - the placeholders below are marked needs_endpoint and are skipped until filled.",
+ "networks": [
+  {
+   "network": "lta",
+   "label": "Land Trust Alliance member land trusts",
+   "country": "USA",
+   "kind": "json",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "path": [],
+    "name": "name",
+    "url": "website",
+    "state": "state"
+   },
+   "tags": [
+    "conserve:acquire",
+    "conserve:protect",
+    "organizing:help"
+   ],
+   "desc": "WHAT IT DOES: {name}, a land trust serving {where} and a member of the Land Trust Alliance - it buys land outright and holds conservation easements that permanently retire development rights while land stays in private hands. USE IT honestly: land trusts are NOT campaigning organisations and will not oppose a project for you, but they can take the land next to it permanently off the development market, and they know local landowners.",
+   "expected": 950,
+   "page": "https://landtrustalliance.org/land-trusts/explore"
+  },
+  {
+   "network": "waterkeeper",
+   "label": "Waterkeeper Alliance licensed groups",
+   "country": "GLOBAL",
+   "kind": "json",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "path": [],
+    "name": "name",
+    "url": "website",
+    "state": "region"
+   },
+   "tags": [
+    "organizing:legal",
+    "organizing:help",
+    "conserve:protect"
+   ],
+   "desc": "WHO TO ENLIST: {name}, a licensed Waterkeeper group with a named waterbody to defend. Waterkeepers patrol their water, document pollution, and bring CITIZEN-SUIT enforcement against permit violators - the licence requires enforcement capacity, which is why this network is a route to litigation rather than only advocacy. USE IT: bring them dated, located evidence of a discharge or a permit application.",
+   "expected": 300,
+   "page": "https://waterkeeper.org/findyourwaterkeeper/"
+  },
+  {
+   "network": "surfrider",
+   "label": "Surfrider Foundation chapters",
+   "country": "USA",
+   "kind": "json",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "path": [],
+    "name": "name",
+    "url": "website",
+    "state": "state"
+   },
+   "tags": [
+    "organizing:help",
+    "conserve:protect"
+   ],
+   "desc": "WHO TO ENLIST: {name}, a Surfrider chapter covering {where}. Chapters organise against coastal development, seawalls, offshore drilling and beach access loss, and routinely appear at coastal commission and local planning hearings. USE IT: strongest where the fight is a coastal permit.",
+   "expected": 80,
+   "page": "https://www.surfrider.org/chapters"
+  },
+  {
+   "network": "elaw",
+   "label": "ELAW partner public-interest environmental lawyers",
+   "country": "GLOBAL",
+   "kind": "html",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "name_filter": "",
+   "fields": {
+    "name": "name",
+    "url": "website",
+    "state": "country"
+   },
+   "tags": [
+    "organizing:legal",
+    "organizing:help"
+   ],
+   "desc": "WHO TO ENLIST: {name}, a partner in the Environmental Law Alliance Worldwide - a network of PUBLIC-INTEREST environmental lawyers in over 70 countries who represent communities, not project proponents. Partners share scientific and legal expertise across borders, so a group facing a mine or dam can get technical analysis its own country may not supply. USE IT: ask ELAW to connect you to the partner in your country, and to the scientists who have reviewed the same kind of impact assessment elsewhere.",
+   "expected": 300,
+   "page": "https://elaw.org/partners",
+   "note": "Discovery found a custom post type 'map' at wp-json/wp/v2/map - probe types first."
+  },
+  {
+   "network": "foei",
+   "label": "Friends of the Earth International national member groups",
+   "country": "GLOBAL",
+   "kind": "html",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "name": "name",
+    "url": "website",
+    "state": "country"
+   },
+   "tags": [
+    "organizing:help",
+    "organizing:runners",
+    "conserve:protect"
+   ],
+   "desc": "WHO TO ENLIST: {name}, the Friends of the Earth International member group in {where}. FoEI federates grassroots groups campaigning AGAINST extractive and infrastructure projects and for community land rights, with local groups in most member countries. USE IT: national members can escalate a local fight into an international campaign against the financier or parent company.",
+   "expected": 73,
+   "page": "https://www.foei.org/member-groups/"
+  },
+  {
+   "network": "ilc",
+   "label": "International Land Coalition members",
+   "country": "GLOBAL",
+   "kind": "html",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "name": "name",
+    "url": "website",
+    "state": "country"
+   },
+   "tags": [
+    "organizing:help",
+    "conserve:protect"
+   ],
+   "desc": "WHO TO ENLIST: {name}, a member of the International Land Coalition in {where} - a global alliance of civil society and intergovernmental organisations working on people-centred land governance, land rights and defence against land grabbing. USE IT: strongest where the threat is dispossession or an acquisition without consent, and where documented tenure evidence is the lever.",
+   "expected": 300,
+   "page": "https://www.landcoalition.org/en/members/?type=all"
+  },
+  {
+   "network": "lvc",
+   "label": "La Via Campesina member organisations",
+   "country": "GLOBAL",
+   "kind": "html",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "name": "name",
+    "url": "website",
+    "state": "country"
+   },
+   "tags": [
+    "organizing:help",
+    "organizing:runners"
+   ],
+   "desc": "WHO TO ENLIST: {name}, a member of La Via Campesina in {where} - an international movement of peasants, small farmers, landless people, Indigenous people and agricultural workers, present in over 80 countries. Members organise directly against land grabbing, evictions and agribusiness expansion. USE IT: where the people losing land are the people who farm it, this network supplies organising capacity rather than legal or grant support.",
+   "expected": 180,
+   "page": "https://viacampesina.org/en/members/"
+  },
+  {
+   "network": "gaia",
+   "label": "GAIA member grassroots groups (incinerators, landfills, waste)",
+   "country": "GLOBAL",
+   "kind": "html",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "name": "name",
+    "url": "website",
+    "state": "country"
+   },
+   "require_local": false,
+   "tags": [
+    "organizing:help",
+    "organizing:runners",
+    "conserve:protect"
+   ],
+   "desc": "WHO TO ENLIST: {name}, a member of the Global Alliance for Incinerator Alternatives in {where} — an alliance of 1,000+ GRASSROOTS groups in 90+ countries resisting incinerators, landfills and waste-to-energy plants. Members are overwhelmingly neighbourhood-scale, working the municipal siting and permitting decisions where these facilities are actually approved. USE IT: GAIA members have run their own AIR-QUALITY MONITORING where regulators failed to, which is the evidence a community usually cannot otherwise get.",
+   "expected": 1000,
+   "page": "https://www.no-burn.org/members/"
+  },
+  {
+   "network": "icca",
+   "label": "ICCA Consortium members (Indigenous & community conserved territories)",
+   "country": "GLOBAL",
+   "kind": "html",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "name": "name",
+    "url": "website",
+    "state": "country"
+   },
+   "tags": [
+    "conserve:protect",
+    "organizing:help"
+   ],
+   "desc": "WHO TO ENLIST: {name}, an ICCA Consortium member in {where}. The Consortium supports Indigenous peoples and local communities defending territories they govern and conserve themselves — the unit of organisation is the community territory, not the nation. USE IT where the claim to stop a project rests on customary tenure, self-governance and the right to give or withhold consent.",
+   "expected": 250,
+   "page": "https://www.iccaconsortium.org/members/"
+  },
+  {
+   "network": "ylnm",
+   "label": "Yes to Life No to Mining solidarity network",
+   "country": "GLOBAL",
+   "kind": "html",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "name": "name",
+    "url": "website",
+    "state": "country"
+   },
+   "tags": [
+    "organizing:help",
+    "organizing:runners"
+   ],
+   "desc": "WHO TO ENLIST: {name}, part of the Yes to Life No to Mining network in {where} — a global solidarity network of COMMUNITIES REFUSING MINING on their land, rather than negotiating terms. USE IT for the specific question other networks avoid: how communities say no outright, and what has worked when they did.",
+   "expected": 60,
+   "page": "https://yestolifenotomining.org/"
+  },
+  {
+   "network": "gfc",
+   "label": "Global Forest Coalition member organisations",
+   "country": "GLOBAL",
+   "kind": "html",
+   "url": "NEEDS_ENDPOINT",
+   "needs_endpoint": true,
+   "fields": {
+    "name": "name",
+    "url": "website",
+    "state": "country"
+   },
+   "tags": [
+    "conserve:protect",
+    "organizing:help"
+   ],
+   "desc": "WHO TO ENLIST: {name}, a Global Forest Coalition member in {where} — a coalition of NGOs and Indigenous peoples' organisations in 65+ countries opposing plantations, logging concessions and forest-offset schemes that displace forest communities. USE IT where a project is marketed as restoration or carbon offsetting but takes community land.",
+   "expected": 130,
+   "page": "https://globalforestcoalition.org/members/"
+  }
+ ]
+}

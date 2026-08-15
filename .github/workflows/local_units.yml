@@ -152,11 +152,24 @@ jobs:
           git commit -m "local-units: refresh harvest [skip ci]"
           # main moves while a multi-hour harvest runs (other chats push to this
           # repo). Rebase and retry rather than failing a completed harvest.
-          for i in 1 2 3 4 5; do
-            if git push; then echo "pushed on attempt $i"; exit 0; fi
-            echo "push rejected, rebasing (attempt $i)"
-            git pull --rebase --autostash origin main || exit 1
-            sleep $((i * 5))
+          # safe-push (patch_workflow_push)
+          # The file is BINARY and fully regenerated each run, so it can never be
+          # merged and never needs to be: our version simply has to land on top of
+          # whatever main is now. Rebasing here is what broke earlier runs - it
+          # conflicted on the binary file and left a detached HEAD that every
+          # subsequent retry inherited.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt rejected (main advanced); replaying onto origin/main"
+            git rebase --abort 2>/dev/null || true   # clear wreckage from any earlier attempt
+            git fetch origin main
+            git reset --soft FETCH_HEAD              # keep our freshly built file
+            git add local_adds.json
+            git commit -m "local-units: refresh harvest [skip ci]" || true
+            sleep $((attempt * 5))
           done
           echo "::error::push failed after 5 attempts; artifact local-adds-merged still holds the data"
           exit 1

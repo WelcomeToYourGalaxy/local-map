@@ -79,12 +79,23 @@ jobs:
           if git diff --staged --quiet; then echo "no changes"; exit 0; fi
           git commit -m "chore: refresh projects.json (OSM sweep, 8 shards)"
           BR="$(git rev-parse --abbrev-ref HEAD)"
-          for i in 1 2 3 4 5; do
-            git fetch origin "$BR" || true
-            if git merge -X ours FETCH_HEAD -m "merge remote; keep fresh projects.json" && git push origin HEAD:"$BR"; then
-              echo "pushed"; exit 0
+          # safe-push (patch_workflow_push)
+          # The file is BINARY and fully regenerated each run, so it can never be
+          # merged and never needs to be: our version simply has to land on top of
+          # whatever main is now. Rebasing here is what broke earlier runs - it
+          # conflicted on the binary file and left a detached HEAD that every
+          # subsequent retry inherited.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
             fi
-            git merge --abort 2>/dev/null || true
-            echo "push race, retry $i"; sleep 6
+            echo "push attempt $attempt rejected (main advanced); replaying onto origin/main"
+            git rebase --abort 2>/dev/null || true   # clear wreckage from any earlier attempt
+            git fetch origin main
+            git reset --soft FETCH_HEAD              # keep our freshly built file
+            git add projects.json.gz
+            git commit -m "chore: refresh projects.json (OSM sweep, 8 shards)" || true
+            sleep $((attempt * 5))
           done
           echo "push failed after retries"; exit 1

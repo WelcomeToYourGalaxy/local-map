@@ -78,16 +78,23 @@ jobs:
           # changes projects.json.gz, which it FULLY regenerates each run, so rebasing our
           # single commit onto the latest main is always safe (our freshly-harvested file
           # wins). Retry a few times to ride out concurrent pushes to the same ref.
-          git config pull.rebase true
+          # safe-push (patch_workflow_push)
+          # The file is BINARY and fully regenerated each run, so it can never be
+          # merged and never needs to be: our version simply has to land on top of
+          # whatever main is now. Rebasing here is what broke earlier runs - it
+          # conflicted on the binary file and left a detached HEAD that every
+          # subsequent retry inherited.
           for attempt in 1 2 3 4 5; do
             if git push; then
               echo "pushed on attempt $attempt"
               exit 0
             fi
-            echo "push attempt $attempt rejected (main advanced); rebasing onto origin/main and retrying"
-            # --autostash keeps us safe if anything is dirty; -X theirs would only matter
-            # on a conflict, which cannot happen here since we're the only writer of this file.
-            git pull --rebase --autostash origin main || true
+            echo "push attempt $attempt rejected (main advanced); replaying onto origin/main"
+            git rebase --abort 2>/dev/null || true   # clear wreckage from any earlier attempt
+            git fetch origin main
+            git reset --soft FETCH_HEAD              # keep our freshly built file
+            git add projects.json.gz
+            git commit -m "chore(projects): daily harvest $(date -u +%Y-%m-%d)" || true
             sleep $((attempt * 5))
           done
           echo "::error::projects.json.gz push failed after 5 rebase attempts (main kept advancing)"

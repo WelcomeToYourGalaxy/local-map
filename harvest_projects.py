@@ -7312,6 +7312,27 @@ def _ll_ok(lat, lng):
     return None
 
 
+
+# federation-gate (patch_harvester_federation)
+# Open-data portals publish reference datasets - addresses, parcels, cycle
+# networks, population grids - whose titles happen to contain planning words.
+# Require a POSITIVE indication that the dataset is about a permit, works or
+# proposal before any of its rows are emitted as projects.
+_FED_PROJECT = _re.compile(
+    r"(permis|permit|chantier|travaux|works|construction|building|d[e\u00e9]molition|"
+    r"lotissement|amenagement (?:urbain|foncier)|projet|project|zac\b|"
+    r"autorisation|licen[cs]e|icpe|installation class|"
+    r"[e\u00e9]olien|photovolta|solaire|carri[e\u00e8]re|mine|quarry|d[e\u00e9]charge|"
+    r"m[e\u00e9]thanis|incin[e\u00e9]rat|station d.?[e\u00e9]puration|barrage|"
+    r"development|planning application|declaration prealable|"
+    r"obra|licencia|proyecto|vergunning|bouw|omgeving)", _re.I)
+
+
+def _fed_is_project(title):
+    """A federated dataset title that indicates works, not a reference layer."""
+    return bool(_FED_PROJECT.search(str(title or "")))
+
+
 _WFS_KEEP = _re.compile(
     r"permit|planning|develop|construct|mining|\bmine\b|quarr|pipeline|concession|"
     r"infrastructur|\bproject|licen[cs]e|environ|impact|zoning|"

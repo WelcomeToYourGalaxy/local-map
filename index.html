@@ -320,7 +320,7 @@ body.info-open.wire-up #indexPanel{top:122px !important;}
     <div class="wire-lead">The modern development machine runs on paper: an environmental review filed, a wetland permit sought, a rezoning buried in a legal ad no one reads. That paperwork is also its weakness &mdash; every notice is a comment window, every review a place to intervene, every permit a decision that can be challenged.<br><br>Against that machine grew a web of defenders — riverkeepers and land trusts, tribal nations and neighborhood coalitions, wilderness alliances and environmental-law firms that sue for free. They learned that a listed species, a floodplain, a buried document or a company’s own record can stop a project cold.<br><br>The fights are everywhere at once — lithium mines and data centers, pipelines and warehouses, LNG terminals and clear-cuts — and they move fast. This <b>land-defense news wire</b> watches for them: the projects entering the pipeline, the companies behind them, and the places worth defending. Find the fight.</div>
     <div class="wire-tabs"><span class="wire-tab on" data-wm="live" onclick="setWireMode('live')"> Live</span><span class="wire-tab" data-wm="timeline" onclick="setWireMode('timeline')"> Timeline</span></div>
     <div id="wireRegionWrap" style="display:none;"><select id="wireRegion" onchange="setWireRegion(this.value)" title="Filter the wire by place"><option value="">All regions</option></select><select id="wireLang" onchange="setWireLang(this.value)" title="Filter the wire by language" style="margin-top:5px;"><option value="">All languages</option></select><select id="wireDays" onchange="setWireDays(this.value)" title="How far back to show" style="margin-top:5px;"><option value="7">Last 7 days</option><option value="30" selected>Last 30 days</option><option value="90">Last 90 days</option><option value="365">Last year</option><option value="0">Everything held</option></select><select id="wireSort" onchange="setWireSort(this.value)" title="How to order the feed" style="margin-top:5px;"><option value="smart" selected>Sort: project size / impact</option><option value="hits">Sort: most covered (news hits)</option><option value="new">Sort: newest first</option><option value="old">Sort: oldest first</option><option value="lang">Sort: by language</option><option value="az">Sort: A–Z by place</option></select></div>
-    <div id="wireItems"><div class="wire-load">Loading the wire&hellip;</div></div>
+    <label class="fac-toggle" style="margin:6px 0 2px;"><input type="checkbox" id="wireToggle"> Pin these stories on the map</label><div class="facf-hint" style="margin-bottom:6px;">Only stories matched to a specific project are pinned \u2014 sector and market coverage stays in the feed. Each pin names the project it was matched to.</div><div id="wireItems"><div class="wire-load">Loading the wire&hellip;</div></div>
     <div class="wire-foot"><span id="wireSrc"></span><span class="wire-refresh" onclick="loadWire(true)">&#8635; refresh</span></div>
   </div>
 </div>
@@ -456,7 +456,7 @@ body.info-open.wire-up #indexPanel{top:122px !important;}
   <div id="projSrcBox" class="proj-src-box"></div>
   <div id="projTypeBox" class="proj-src-box"></div>
   <div id="overlayBox" class="proj-src-box"></div>
-  <div class="leg-title" style="margin-top:9px;">News</div><label class="fac-toggle" style="margin:2px 0 0;"><input type="checkbox" id="wireToggle"> Show news pinned to projects</label><div class="facf-hint">Recent reporting matched to a specific project and placed at its location. Only local, place-specific stories are pinned \u2014 sector and market coverage is left in the feed. Each popup names the project it was matched to, so a wrong match is visible.</div><div class="leg-title" style="margin-top:9px;">Facility dots</div>
+  <div class="leg-title" style="margin-top:9px;">Facility dots</div>
   <label class="fac-toggle" style="margin:2px 0 0;"><input type="checkbox" id="facToggle" checked> Show facilities on map</label>
   <div class="facf-hint">Local facility buildings drawn from OpenStreetMap. Toggle each type on or off; click a stack of overlapping pins to list every source in it.</div>
   <div id="facFilter"></div>
@@ -1498,12 +1498,18 @@ function _wireBuild(){ if(_wireLoaded)return Promise.resolve();
     .then(function(r){ return r.ok?r.json():[]; })
     .then(function(rows){
       _wireItems=Array.isArray(rows)?rows:[];
+      if(!map.getPane('wirePane')){ map.createPane('wirePane');
+        map.getPane('wirePane').style.zIndex=650;
+        map.getPane('wirePane').style.pointerEvents='auto'; }
       _wireLayer=L.layerGroup();
       for(var i=0;i<_wireItems.length;i++){ var it=_wireItems[i];
         var la=parseFloat(it.lat), lo=parseFloat(it.lng);
         if(!isFinite(la)||!isFinite(lo))continue;
-        var mk=L.circleMarker([la,lo],{radius:5,weight:1.5,color:'#e8c46a',
-          fillColor:'#c9922c',fillOpacity:0.85,pane:'markerPane'});
+        /* Own pane ABOVE projPane (620), with pointer events on, and a class
+           so ProjectLayer's capture-phase click handler can stand down. */
+        var mk=L.circleMarker([la,lo],{radius:6,weight:2,color:'#fff2cc',
+          fillColor:'#d98b2b',fillOpacity:0.95,pane:'wirePane',
+          className:'wire-mk'});
         mk.bindPopup(_wirePop(it),{maxWidth:340});
         _wireLayer.addLayer(mk); }
     })
@@ -1520,12 +1526,50 @@ function toggleWire(on){
 (function wireInit(){ var cb=document.getElementById('wireToggle');
   if(cb) cb.addEventListener('change',function(){ toggleWire(cb.checked); }); })();
 
+
+/* policemerge (patch_index_policemerge) */
+/* One section instead of two, following the sequence a person actually goes
+   through, and naming a body to approach even where the country is unwired. */
+var CORR_FALLBACK="Where none is named above, look for the kinds of body that exist "
+  +"almost everywhere: an <b>anti-corruption commission</b>, the <b>public prosecutor</b>, "
+  +"an <b>ombudsman</b>, the <b>state audit office</b>, or an <b>ethics or standards "
+  +"commission</b> for elected members. Any of them will tell you if it is the wrong door.";
+function _plNote(la,lo){ try{
+  var iso=(typeof _fnCountry==='function')?_fnCountry(la,lo):'';
+  var s='<div class="fac-why"><b>What the police can and cannot do here</b><br>'+POLUNIV;
+  s+='<br><br>Most of what people want stopped is not a crime, so the rest of this is '
+   +'about where those complaints actually go.<br>'
+   +'<b>If you only suspect something.</b> A council that always sides with developers is '
+   +'not by itself an offence, and no officer can act on a pattern. Do not name anyone '
+   +'publicly yet \u2014 a defamation claim is the standard reply. Get the record first: the '
+   +'application file, declarations of interests, minutes, and correspondence via '
+   +'freedom-of-information.<br>'
+   +'<b>If you have evidence</b> \u2014 an undisclosed interest, a payment, a job or gift, a '
+   +'document showing the decision was taken before the hearing \u2014 that is reportable, but '
+   +'usually <b>not at this station</b>, which sits inside the same local structure. '
+   +'Keep an original copy somewhere else before you hand anything over.<br>'
+   +'<b>If it is legal but engineered</b> \u2014 one project split into several small '
+   +'applications to stay under a threshold, approval on a technicality, consultation run '
+   +'over a holiday, a member voting on someone they know \u2014 no crime has been committed '
+   +'and the police will not act. That fight is procedural: challenge the decision, use the '
+   +'standards or conflict-of-interest route, and treat it as an election issue.';
+  var lines=[];
+  if(iso&&typeof POLNOTES!=='undefined'&&POLNOTES[iso]) lines.push(POLNOTES[iso]);
+  if(iso&&typeof ANTICORR!=='undefined'&&ANTICORR[iso]) lines.push(ANTICORR[iso]);
+  if(lines.length) s+='<br><br><b>Where to take each of those here:</b><br>'+lines.join('<br>');
+  else s+='<br><br>'+CORR_FALLBACK;
+  if(!iso||!(typeof ANTICORR!=='undefined'&&ANTICORR[iso])) {
+    if(lines.length) s+='<br>'+CORR_FALLBACK; }
+  s+='<br><br>'+POLCAUTION+'</div>';
+  return s; }
+  catch(e){ return ''; } }
+
 function _facPop(p){ const label=FACLAB[p.k]||'Local facility';
   let s='<div class="ip-title">'+_esc(p.n||label)+'</div><div style="margin:6px 0;font-size:12px;color:#9dbca6">'+label+'</div>';
   if(p.u){ const disp=p.u.replace(/^https?:\/\//,'').slice(0,64); s+='<div><a href="'+_esc(_href(p.u))+'" target="_blank" rel="noopener">'+_esc(disp)+'</a></div>'; }
   else { s+='<div style="font-size:11px;color:#84a08c">No website on file \u2014 search the name of this office online; local governments publish agendas and permits on their own sites.</div>'; }
   if(p.k==='th'||p.k==='go'){ s+='<div class="fac-why">This is often where a local project\u2019s <b>documents actually live</b>: municipal and county governments post planning applications, agendas, hearing notices and permit files on their own websites \u2014 frequently before any national register catches up. Open the site above and look for <i>planning / development / agendas / public notices</i>.</div>'; s+=_fnNote(p.la,p.lo); s+=_dpNote(p.la,p.lo); }
-  if(p.k==='po'){ s+=_pnNote(p.la,p.lo); s+=_cnNote(p.la,p.lo); }
+  if(p.k==='po'){ s+=_plNote(p.la,p.lo); }
   if(p.k==='fs'){ s+=_firNote(p.la,p.lo); }
   if(p.k==='ch'){ s+=_crNote(p.la,p.lo); }
   if(p.k==='go'||p.k==='mi'){ s+=_gvNote(p.la,p.lo); }
@@ -1548,7 +1592,7 @@ const FacilityLayer=L.Layer.extend({
     map.getPane('facPane').appendChild(cv);
     map.on('moveend zoomend viewreset resize',this._draw,this);
     var self=this;
-    this._onClick=function(ev){ if(ev&&ev.target&&ev.target.closest&&ev.target.closest('.leaflet-control'))return;   /* zoom / home buttons sit inside the map container */ if(!courtVisible||map.getZoom()<PJ_CLICK_MINZ)return; var cp=map.mouseEventToContainerPoint(ev); var near=self._allNear(cp);
+    this._onClick=function(ev){ if(ev&&ev.target&&ev.target.closest&&(ev.target.closest('.leaflet-control')||ev.target.closest('.wire-mk')))return;   /* news pins handle their own clicks (patch_index_wireclick) */   /* zoom / home buttons sit inside the map container */ if(!courtVisible||map.getZoom()<PJ_CLICK_MINZ)return; var cp=map.mouseEventToContainerPoint(ev); var near=self._allNear(cp);
       if(near.length){ ev.stopPropagation(); ev.preventDefault(); gbClickTime=Date.now(); showInfoPanel(near.length===1?_facPop(near[0]):_facPopList(near)); } };
     map.getContainer().addEventListener('click',this._onClick,true);
     this._draw(); },
@@ -2729,7 +2773,70 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
       t=setTimeout(function(){ pjQ=v; pjRender(); }, 220);
     });
   })();
-  function pjLoad(){
+  
+/* tiles (patch_index_tiles) */
+/* Incremental, viewport-driven loading of projects/tiles/*.json.
+   Entirely optional: if projects/index.json is absent this stays dormant and
+   the original whole-file loader runs untouched. */
+var _tlIndex=null, _tlLoaded={}, _tlChecked=false, _tlBusy=false;
+var TL_MAX_TILES=24;          /* never request more than this for one view */
+function _tlName(la,lo,span){
+  function f(v,w){ var s=(v<0?'m':'p')+String(Math.abs(v)).padStart(w,'0'); return s; }
+  return 't_'+f(la,3)+'_'+f(lo,4)+'.json'; }
+function _tlNeeded(b,span){
+  var out=[], S=Math.floor(b.getSouth()/span)*span, N=Math.floor(b.getNorth()/span)*span,
+      W=Math.floor(b.getWest()/span)*span,  E=Math.floor(b.getEast()/span)*span;
+  for(var la=S;la<=N;la+=span) for(var lo=W;lo<=E;lo+=span) out.push([la,lo]);
+  return out; }
+function _tlInit(){ if(_tlChecked)return Promise.resolve(false);
+  _tlChecked=true;
+  return fetch('projects/index.json',{cache:'no-store'})
+    .then(function(r){ return r.ok?r.json():null; })
+    .then(function(j){
+      if(!j||!j.tiles||!j.tiles.length){ _tlIndex=null; return false; }
+      _tlIndex=j; _tlIndex._have={};
+      for(var i=0;i<j.tiles.length;i++) _tlIndex._have[j.tiles[i].file]=j.tiles[i].count;
+      return true; })
+    .catch(function(){ _tlIndex=null; return false; }); }
+function _tlMerge(rows){
+  if(!Array.isArray(rows)||!rows.length)return 0;
+  if(!pjData||!pjData.projects) pjData={projects:[],_meta:{tiled:true}};
+  var src=(_tlIndex&&_tlIndex.sources)||[], typ=(_tlIndex&&_tlIndex.types)||[];
+  for(var i=0;i<rows.length;i++){ var r=rows[i];
+    /* shard_projects.py interns source/type as integer ids in the index */
+    if(r.s!==undefined&&src[r.s]!==undefined){ r.source=src[r.s]; }
+    if(r.t!==undefined&&typ[r.t]!==undefined){ r.type=typ[r.t]; }
+    pjData.projects.push(r); }
+  return rows.length; }
+function _tlLoadView(){
+  if(!_tlIndex||_tlBusy)return Promise.resolve(0);
+  var span=_tlIndex.tile_span||5;
+  var want=_tlNeeded(map.getBounds(),span)
+    .map(function(c){ return _tlName(c[0],c[1],span); })
+    .filter(function(f){ return _tlIndex._have[f] && !_tlLoaded[f]; });
+  if(!want.length)return Promise.resolve(0);
+  if(want.length>TL_MAX_TILES)return Promise.resolve(0);   /* too zoomed out */
+  _tlBusy=true;
+  return Promise.all(want.map(function(f){
+      _tlLoaded[f]=1;
+      return fetch('projects/tiles/'+f,{cache:'force-cache'})
+        .then(function(r){ return r.ok?r.json():[]; })
+        .catch(function(){ return []; }); }))
+    .then(function(parts){ var n=0;
+      for(var i=0;i<parts.length;i++) n+=_tlMerge(parts[i]);
+      _tlBusy=false;
+      if(n){ try{ pjRender(); }catch(e){} }
+      return n; })
+    .catch(function(){ _tlBusy=false; return 0; }); }
+function _tlHook(){
+  _tlInit().then(function(on){
+    if(!on)return;                       /* no tiles deployed - stay dormant */
+    pjData={projects:[],_meta:{tiled:true}};
+    _tlLoadView();
+    map.on('moveend zoomend',function(){ if(pjOn)_tlLoadView(); }); }); }
+
+function pjLoad(){
+    if(_tlIndex){ _tlLoadView(); return; }   /* tiles are serving this map */
     var bust='?_='+Date.now();
     // Data is committed gzipped (projects.json.gz) because the raw JSON exceeds
     // GitHub's file-size limit. IMPORTANT: GitHub Pages serves files whose name
@@ -2766,7 +2873,7 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
       .then(function(d){ pjData=d; pjRender(); })
       .catch(function(err){ if(window&&window.console)console.error('projects data load failed; using seed set:',err); pjData=PJ_SEED; pjRender(); });
   }
-  function pjShow(){ pjOn=true; if(!pjData){pjLoad();} else { if(!_projLayer){_projLayer=new ProjectLayer();} if(!map.hasLayer(_projLayer))_projLayer.addTo(map); _projLayer.redraw(); } var b=document.getElementById('projChk'); if(b)b.checked=true; }
+  function pjShow(){ pjOn=true; try{_tlHook();}catch(e){} if(!pjData){pjLoad();} else { if(!_projLayer){_projLayer=new ProjectLayer();} if(!map.hasLayer(_projLayer))_projLayer.addTo(map); _projLayer.redraw(); } var b=document.getElementById('projChk'); if(b)b.checked=true; }
   function pjHide(){ pjOn=false; if(_projLayer)map.removeLayer(_projLayer); if(_pjPopup)map.closePopup(_pjPopup); var b=document.getElementById('projChk'); if(b)b.checked=false; }
   var pjPhases=new Set(['pre','post']);
   function pjPhase(p){ var s=((p.status||'')+' '+(p.type||'')).toLowerCase();

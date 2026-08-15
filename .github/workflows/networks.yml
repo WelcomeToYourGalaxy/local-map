@@ -1,0 +1,97 @@
+name: networks
+
+# Harvests NGO member directories into county/municipal/national entries.
+# Runs in Actions because the sandbox cannot reach the directory endpoints.
+
+on:
+  workflow_dispatch:
+    inputs:
+      network:
+        description: "Single network id (lta, waterkeeper, elaw, foei, ilc, lvc, surfrider, gaia, icca, ylnm, gfc) or blank for all"
+        required: false
+        default: ""
+      discover:
+        description: "Set to 'true' to probe every registry page for its data endpoint and stop (no harvest)"
+        required: false
+        default: "false"
+      limit:
+        description: "Max entries per network (0 = uncapped)"
+        required: false
+        default: "0"
+  schedule:
+    - cron: "11 3 15 * *"   # monthly; member directories change slowly
+
+concurrency:
+  group: networks
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests pycountry
+      - name: Selftest (no network)
+        run: python3 harvest_networks.py --selftest
+      - name: Discover endpoints
+        if: ${{ inputs.discover == 'true' }}
+        run: |
+          python3 harvest_networks.py \
+            --registry networks.json \
+            --discover-all \
+            --contact wheelock.chris@gmail.com
+
+      - name: Harvest
+        if: ${{ inputs.discover != 'true' }}
+        run: |
+          python3 harvest_networks.py \
+            --registry networks.json \
+            --network "${{ inputs.network }}" \
+            --limit "${{ inputs.limit }}" \
+            --contact wheelock.chris@gmail.com \
+            --out network_adds.json
+      - name: Summarise
+        if: ${{ inputs.discover != 'true' }}
+        run: |
+          python3 - <<'PY'
+          import json, collections
+          d = json.load(open("network_adds.json"))
+          e = d["entries"]
+          print("## network harvest")
+          print(f"- emitted: {len(e)}")
+          print(f"- gaps: {len(d['gaps'])}")
+          for k, n in collections.Counter(x["network"] for x in e).most_common():
+              print(f"  - {k}: {n}")
+          print("- countries covered:",
+                len({x['country'] for x in e if x['country'] != 'UNRESOLVED'}))
+          for r, n in collections.Counter(
+                  g["reason"].split(":")[0] for g in d["gaps"]).most_common():
+              print(f"  - gap {r}: {n}")
+          PY
+      - uses: actions/upload-artifact@v4
+        if: ${{ inputs.discover != 'true' }}
+        with:
+          name: network-adds
+          path: network_adds.json
+      - name: Commit
+        if: ${{ inputs.discover != 'true' }}
+        run: |
+          git config user.name  "network-harvester"
+          git config user.email "wheelock.chris@gmail.com"
+          git add network_adds.json
+          git diff --staged --quiet && echo "no change" && exit 0
+          git commit -m "networks: refresh harvest [skip ci]"
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash origin main || exit 1
+            sleep $((i * 5))
+          done
+          echo "::error::push failed after 5 attempts"
+          exit 1

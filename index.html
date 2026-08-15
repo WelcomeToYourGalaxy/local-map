@@ -1176,10 +1176,30 @@ function gbUnitPopup(iso,lvl,feat,latlng,bounds){
   const hasLocal=local.length;
   if(hasLocal){ body+='<div class="scope-head">Based in '+_esc(nm)+'</div>';
     if(local.length)body+=lensGroupsHTML(local,'country'); }
-  const hasHigher=higher.length;
-  if(hasHigher){ body+='<div class="scope-head" title="Placed by who they serve, not where their office is \u2014 a firm or group serving the whole state/country appears here even if it is based in one town.">Higher-level / region-wide sources</div>';
-    if(higher.length)body+=lensGroupsHTML(higher,'country'); }
-  if(!hasLocal&&!hasHigher){ body=regionNoDataHTML(iso, ownRegion||nm, badge).replace('</div>','</div>'+gbZoomBar(lvl),1); }
+    /* scopefix (patch_index_scopefix) */
+  /* County- and municipal-tier entries belong to a NAMED other place. Calling
+     them "region-wide" tells the reader a city programme covers their county,
+     which is how Davis ended up presenting itself at Rosamond. Split them out
+     and say what they are: someone else's local programme, kept because it is
+     the nearest working model. */
+  var elsewhere=[]; const regionWide=[];
+  higher.forEach(function(t){
+    var tr=t&&t.tier;
+    if(tr==='county'||tr==='municipal') elsewhere.push(t); else regionWide.push(t); });
+  const hasHigher=regionWide.length;
+  if(hasHigher){ body+='<div class="scope-head" title="Placed by who they serve, not where their office is \u2014 a firm or group serving the whole state/country appears here even if it is based in one town.">'+_esc(region||nm)+'-wide sources</div>';
+    body+=lensGroupsHTML(regionWide,'country'); }
+  /* scopefix2 */
+  /* County- and municipal-tier entries belong INSIDE a state. Show them when the
+     open unit is that state; drop them when it is one county, where another
+     county's programme is noise that buries the sources serving this one. */
+  var _unitIsRegion = (typeof ownRegion!=='undefined' && ownRegion && region
+                       && gbNorm(ownRegion)===gbNorm(region));
+  if(elsewhere.length && _unitIsRegion){
+    body+='<div class="scope-head" title="Programmes run by counties and municipalities within this state. Each serves its own area \u2014 open that area for the ones that apply there.">County and municipal programmes in '+_esc(region||nm)+'</div>';
+    body+=lensGroupsHTML(elsewhere,'country'); }
+  else if(elsewhere.length){ elsewhere=[]; }
+  if(!hasLocal&&!hasHigher&&!elsewhere.length){ body=regionNoDataHTML(iso, ownRegion||nm, badge).replace('</div>','</div>'+gbZoomBar(lvl),1); }
   showInfoPanel(body);
 }
 function gbDescend(lvl,isAdm4,feat,bounds,latlng){ if(!gbNav)return; gbUnitPopup(gbNav.iso,isAdm4?'ADM4':lvl,feat,latlng,bounds); gbFitWithPanel(bounds);
@@ -1454,10 +1474,10 @@ function _dpNote(la,lo){ try{
 var GOVUNIV="<b>This is where the permits above the council are decided:</b> environmental impact assessment, discharge and emissions, water abstraction, waste licences, mining and quarrying, protected species and habitat, major roads and energy. A council can approve a scheme that still <b>cannot lawfully operate</b> without one of these — so an agency permit is often a later and stronger place to object than the planning decision everyone was watching. Ask when the consultation on it opens.<br><b>And this is where the records are.</b> The <b>land registry</b> shows who really owns the site and what is charged against it; the <b>company registry</b> shows who is behind the applicant; the <b>cadastre</b> shows where the boundary actually runs; <b>monitoring and inspection data</b> shows whether the operator complied last time. Most are obtainable by anyone, often for a small fee — and they settle arguments that months of meetings will not.<br><b>What it will not do:</b> overturn the council's planning decision because you asked, or act as your advocate. Nothing arrives unless requested.<br><b>How to ask so you get an answer:</b> put it in writing, name the site and the <b>file or application reference</b>, ask for the <b>case officer</b>, ask one specific question, and ask for the <b>consultation responses</b> from other agencies — those are written by technical staff with no stake in approval and are frequently the most useful documents in the file. Keep the reply.";
 var GOVNOTES={"GBR": "In the UK: the <b>Environment Agency</b> (SEPA, NRW) for permits and abstraction, <b>Natural England</b> or equivalent for protected sites, the <b>Planning Inspectorate</b> for appeals and major infrastructure, and <b>HM Land Registry</b> for ownership and charges.", "USA": "In the US: the <b>state environmental agency</b> (DEQ/DEP/EPA-state) issues most permits, the <b>EPA regional office</b> handles federal programmes, the <b>Army Corps</b> handles wetlands, and the <b>county recorder or assessor</b> holds deeds and parcel records.", "CAN": "In Canada: the <b>provincial ministry of environment</b> issues approvals, the <b>Impact Assessment Agency</b> handles federal reviews, and <b>land titles</b> offices hold ownership.", "FRA": "In France: the <b>DREAL</b> and the <b>préfecture</b> handle ICPE authorisations and environmental assessment, the <b>OFB</b> protected species, and the <b>cadastre</b> with the service de publicité foncière holds parcels and ownership.", "DEU": "In Germany: the <b>Landesamt für Umwelt</b> or Regierungspräsidium issues immission-control permits, and the <b>Grundbuchamt</b> holds title while the Katasteramt holds boundaries.", "ESP": "In Spain: the <b>consejería de medio ambiente</b> of the autonomous community handles environmental authorisation and the confederación hidrográfica handles water; the <b>Catastro</b> and Registro de la Propiedad hold parcels and title.", "ITA": "In Italy: the <b>Regione</b> and <b>ARPA</b> handle environmental authorisation and monitoring, the Soprintendenza protects landscape and heritage, and the <b>Catasto</b> with the Conservatoria holds parcels and ownership.", "NLD": "In the Netherlands: the <b>omgevingsdienst</b> and province issue environmental permits, <b>Rijkswaterstaat</b> handles major water and roads, and the <b>Kadaster</b> holds ownership and boundaries.", "FIN": "In Finland: the <b>ELY Centre</b> and the Regional State Administrative Agency (AVI) issue environmental permits, and the <b>National Land Survey</b> holds title and cadastre.", "AUS": "In Australia: the <b>state EPA</b> licenses, state planning departments handle significant projects, federal EPBC referrals cover protected matters, and the <b>land titles office</b> holds ownership.", "NZL": "In New Zealand: the <b>regional council</b> issues resource consents for water, discharge and coastal work, the EPA handles national applications, and <b>LINZ</b> holds title.", "ZAF": "In South Africa: the provincial environment department and <b>DFFE</b> issue environmental authorisations, the Department of Water and Sanitation licenses water use, and the <b>Deeds Office</b> holds ownership.", "IND": "In India: the <b>State Pollution Control Board</b> issues consent to establish and operate, the <b>SEIAA/MoEFCC</b> grants environmental clearance, and the revenue department holds land records — often the decisive documents in a land dispute.", "BRA": "In Brazil: <b>IBAMA</b> or the state environmental agency issues licenciamento (prévia, instalação, operação — three separate chances to object), and the <b>cartório de registro de imóveis</b> holds title.", "MEX": "In Mexico: <b>SEMARNAT</b> decides the impacto ambiental, CONAGUA the water concession, and the <b>Registro Público de la Propiedad</b> — with the <b>RAN</b> for ejido land — holds ownership.", "PHL": "In the Philippines: the <b>DENR-EMB</b> issues the Environmental Compliance Certificate, the Mines and Geosciences Bureau handles mining, and the <b>Land Registration Authority</b> and assessor hold title and tax declarations.", "KEN": "In Kenya: <b>NEMA</b> approves the EIA licence and the Water Resources Authority the abstraction permit, while the <b>Ministry of Lands</b> registry holds title — a search there is cheap and often decisive.", "IRL": "In Ireland: the <b>EPA</b> for industrial and waste licences, the NPWS for protected sites, and <b>Tailte Éireann</b> for the land registry and valuation.", "POL": "In Poland: the <b>RDOŚ</b> issues the environmental decision, the WIOŚ inspects, and <b>księgi wieczyste</b> (land and mortgage registers) are searchable online.", "SWE": "In Sweden: the <b>länsstyrelsen</b> permits and supervises, Naturvårdsverket sets policy, and <b>Lantmäteriet</b> holds property and boundaries.", "PRT": "In Portugal: the <b>APA</b> handles environmental licensing and assessment, CCDR the regional side, and the <b>conservatória do registo predial</b> holds title.", "TUR": "In Turkey: the provincial directorate of the environment ministry handles ÇED and permits, and the <b>Tapu ve Kadastro</b> directorate holds title and boundaries.", "JPN": "In Japan: the <b>prefectural government</b> handles most environmental permits and assessment, and the <b>Legal Affairs Bureau</b> (法務局) holds the property register.", "IDN": "In Indonesia: environmental approval runs through <b>OSS</b> and the KLHK, while the <b>BPN/ATR</b> land agency holds certificates — overlapping claims are common, so check.", "NGA": "In Nigeria: <b>NESREA</b> and the federal environment ministry handle assessment, and the state <b>land registry</b> holds the Certificate of Occupancy — governor's consent is required for transfers.", "ARG": "In Argentina: the provincial environment agency issues the declaración de impacto ambiental, and the <b>Registro de la Propiedad Inmueble</b> holds title.", "CHL": "In Chile: the <b>SEA</b> runs evaluation, the SMA enforces, and the <b>Conservador de Bienes Raíces</b> holds property records."};
 function _gvNote(la,lo){ try{
-    var s='<div class="fac-why"><b>What this office decides \u2014 and what it holds</b><br>'+GOVUNIV;
     var iso=(typeof _fnCountry==='function')?_fnCountry(la,lo):'';
-    if(iso&&GOVNOTES[iso]) s+='<br>'+GOVNOTES[iso];
-    s+='</div>';
+    var s='<div class="fac-why"><b>What this office decides \u2014 and what it holds</b><br>';
+    if(iso&&GOVNOTES[iso]) s+=GOVNOTES[iso]+'<br><br>';
+    s+=GOVUNIV+'</div>';
     return s; }
   catch(e){ return ''; } }
 
@@ -1575,16 +1595,64 @@ function _plNote(la,lo){ try{
 var COMMENT_HOWTO="<b>How to comment, and what makes it count.</b> Every notice names the office handling the file and gives a reference \\u2014 send your comment there, in writing, quoting that reference; the same office (or the council secretariat) says how to register to speak, usually days before the meeting. Include your <b>name, address and the file reference</b>, and file <b>before the deadline</b>: late comments are frequently never put before the decision-makers. Whether yours is weighed turns on relevance to the grounds the law allows \\u2014 drainage, traffic, contamination, noise, protected habitat, conflict with the adopted plan \\u2014 not on how strongly it is written. <b>One specific, evidenced objection beats a hundred signatures</b>, and a hundred signatures each making the same specific point beats both.";
 function _cmNote(){ return '<div class="fac-why">'+COMMENT_HOWTO+'</div>'; }
 
+
+/* gofix (patch_index_gofix) */
+/* The government-office layer is every public building OSM knows about, so it
+   holds plenty of bodies with no power over a development. Say so plainly
+   rather than leaving a reader to guess why a DMV is on a map about land. */
+var GO_KINDS=[["\\b(dmv|motor vehicle|driver (and vehicle )?licens|vehicle registration|kraftfahrt|pr[ée]fecture des permis)\\b", "Vehicle licensing", "No role in development decisions — nothing here reviews, permits or records a project. The planning department is the office you want."], ["\\b(social security|ssa field office|pension service|centrelink|caisse d.allocations)\\b", "Social security", "No role in development decisions. Listed because it is a public office, not because it can act on a project."], ["\\b(uscis|application support cent|immigration (and )?(customs|services)|passport (office|agency)|visa cent)\\b", "Immigration or documents", "No role in development decisions, and not a records source for permits."], ["\\b(chamber of commerce|chambre de commerce|c[aá]mara de comercio|industrie- und handelskammer|business association)\\b", "Chamber of commerce", "This is an industry body, not a regulator — it usually lobbies FOR development. Useful only as a record of who is promoting a scheme and what they told officials; its submissions on an application are public."], ["\\b(economic development (authority|corporation|agency|board)|redevelopment (authority|agency|commission)|enterprise zone|industrial development (authority|agency|board)|investment promotion|urban development corporation)\\b", "Development authority", "This body exists to PROMOTE and often to finance development, sometimes with land assembly or compulsory purchase powers. It is on the other side of the table — but that makes its board minutes, incentive agreements and land deals some of the most revealing documents available, and its meetings are normally public."], ["\\b(assessor|recorder of deeds|county recorder|land registry|deeds office|cadastr|registro de la propiedad|catasto|kadaster|grundbuch)\\b", "Land records", "This is where ownership, boundaries and charges are recorded — often the cheapest way to establish who actually controls a site and what is secured against it."], ["\\b(tax (office|collector|assessor)|revenue (office|service)|finanzamt|hacienda|agenzia delle entrate)\\b", "Tax office", "No role in approving a project, but valuation and tax records can show ownership and what a site is officially worth."], ["\\b(post office|postal|correos|la poste|deutsche post)\\b", "Post office", "No role in development decisions. Occasionally where statutory notices are displayed in small communities."], ["\\b(library|biblioth[eè]que|biblioteca)\\b", "Public library", "No decision-making role, but many libraries hold the deposited copy of local plans and inquiry documents, and offer free internet and printing for filing objections."], ["\\b(embassy|consulate|high commission)\\b", "Diplomatic post", "No role in local development. Relevant only where a foreign state-owned company is the applicant."], ["\\b(employment|job cent|unemployment|arbeitsagentur)\\b", "Employment office", "No role in development decisions."], ["\\b(veterans|military recruit|conscription)\\b", "Military or veterans office", "No role in development decisions."]];
+function _goKind(name){ var n=String(name||'');
+  for(var i=0;i<GO_KINDS.length;i++){
+    try{ if(new RegExp(GO_KINDS[i][0],'i').test(n)) return GO_KINDS[i]; }catch(e){}
+  }
+  return null; }
+function _goKindNote(name){ var k=_goKind(name); if(!k)return '';
+  return '<div class="fac-why"><b>'+k[1]+'</b><br>'+k[2]+'</div>'; }
+
+
+/* courtdata (patch_index_courtdata) */
+/* Courthouses and prisons ship with the repo: the external set returned nothing
+   and a same-origin file removes the third-party dependency entirely. */
+var JUD_FILE='judicial_facilities.json';
+/* The data marks courthouses 'c' and prisons 'p'; the UI was written around
+   'ch' and 'pr'. Accept both rather than rewriting either dataset. */
+FACLAB.c=FACLAB.ch; FACLAB.p=FACLAB.pr;
+FACCOL.c=FACCOL.ch||'#1d2b3a'; FACCOL.p=FACCOL.pr;
+facActive.c=1; facActive.ch=1; facActive.p=0; facActive.pr=0;
+var FAC_EXTRA_NOTES={"pr": ["Prison / detention", "Detention estates are development in their own right — new prisons and immigration centres go through the same planning and environmental consents as any other large institution, and are frequently sited on cheap land beside communities with least capacity to object. If one is proposed near you, it is a planning application like any other: the notice, the consultation window and the objection routes are identical."], "dp": ["Embassy / consulate", "No role in local development decisions. Relevant in one situation only: where the applicant is a state-owned company, an embassy is the accountable channel for that state's conduct abroad — and its own government may run a national contact point for OECD complaints about companies it hosts."], "bd": ["Border / customs post", "No role in approving development. Occasionally useful where a project depends on cross-border movement of waste, minerals or hazardous cargo: customs records and shipment notifications are the paper trail behind waste exports."]};
+function _extraNote(k){ var e=FAC_EXTRA_NOTES[k]; if(!e)return '';
+  return '<div class="fac-why"><b>'+e[0]+'</b><br>'+e[1]+'</div>'; }
+function _loadJudicial(){
+  return fetch(JUD_FILE,{cache:'no-store'})
+    .then(function(r){ return r.ok?r.json():[]; })
+    .then(function(rows){
+      if(!Array.isArray(rows)||!rows.length)return 0;
+      var add=[];
+      for(var i=0;i<rows.length;i++){ var r=rows[i];
+        if(!isFinite(r.la)||!isFinite(r.lo))continue;
+        add.push({la:r.la,lo:r.lo,n:r.n||'',u:r.u||'',k:r.k||'c'}); }
+      facilityMarkers=(facilityMarkers||[]).concat(add);
+      _facPts=null;
+      try{ buildFacFilter(); }catch(e){}
+      if(_facLayer&&_facLayer._draw)_facLayer._draw();
+      return add.length; })
+    .catch(function(){ return 0; }); }
+
 function _facPop(p){ const label=FACLAB[p.k]||'Local facility';
   let s='<div class="ip-title">'+_esc(p.n||label)+'</div><div style="margin:6px 0;font-size:12px;color:#9dbca6">'+label+'</div>';
   if(p.u){ const disp=p.u.replace(/^https?:\/\//,'').slice(0,64); s+='<div><a href="'+_esc(_href(p.u))+'" target="_blank" rel="noopener">'+_esc(disp)+'</a></div>'; }
   else { s+='<div style="font-size:11px;color:#84a08c">No website on file \u2014 search the name of this office online; local governments publish agendas and permits on their own sites.</div>'; }
-  if(p.k==='th'||p.k==='go'){ s+='<div class="fac-why">This is often where a local project\u2019s <b>documents actually live</b>: municipal and county governments post planning applications, agendas, hearing notices and permit files on their own websites \u2014 frequently before any national register catches up. Open the site above and look for <i>planning / development / agendas / public notices</i>.</div>'; s+=_fnNote(p.la,p.lo); s+=_cmNote(); s+=_dpNote(p.la,p.lo); }
+  if(p.k==='th'){ s+='<div class="fac-why">This is often where a local project\u2019s <b>documents actually live</b>: municipal and county governments post planning applications, agendas, hearing notices and permit files on their own websites \u2014 frequently before any national register catches up. Open the site above and look for <i>planning / development / agendas / public notices</i>.</div>'; s+=_fnNote(p.la,p.lo); s+=_cmNote(); s+=_dpNote(p.la,p.lo); }
   if(p.k==='po'){ s+=_plNote(p.la,p.lo); }
   if(p.k==='fs'){ s+=_firNote(p.la,p.lo); }
-  if(p.k==='ch'){ s+=_crNote(p.la,p.lo); }
-  if(p.k==='go'||p.k==='mi'){ s+=_gvNote(p.la,p.lo); }
+  if(p.k==='ch'||p.k==='c'){ s+=_crNote(p.la,p.lo); }
+  if(p.k==='go'||p.k==='mi'){ var _gk=_goKindNote(p.n);
+    /* an office with no power over development says so, and skips the
+       permits-and-records briefing that does not apply to it */
+    if(_gk){ s+=_gk; } else { s+=_gvNote(p.la,p.lo); } }
   if(p.k==='mi'){ s+=_mnNote(p.la,p.lo); }
+  if(p.k==='pr'||p.k==='p'||p.k==='dp'||p.k==='bd'){
+    s+=_extraNote(p.k==='p'?'pr':p.k); }
   return s; }
 function _facPopList(list){ window._facCluster=list; var byCat={}; list.forEach(function(p,i){ p._ci=i; (byCat[p.k]=byCat[p.k]||[]).push(p); });
   var s='<div class="ip-title">'+list.length+' facilities here</div><div style="margin:4px 0 8px;font-size:11px;color:#9dbca6">Too close together to click apart \u2014 <b>zoom in further to select each one on the map</b>, or tap a name below to jump straight to it.</div>';
@@ -1639,7 +1707,7 @@ var FACDESC={
 };
 function buildFacFilter(){ var box=document.getElementById('facFilter'); if(!box)return;
   var counts={}; (facilityMarkers||[]).forEach(function(p){counts[p.k]=(counts[p.k]||0)+1;});
-  var order=['po','th','fs','go','mi','ch']; var html='';
+  var order=['po','th','fs','go','mi','ch','c','p']; var html='';
   order.forEach(function(k){ if(!FACLAB[k])return; var c=counts[k]||0;
     html+='<label class="facf-row"><input type="checkbox" data-fk="'+k+'"'+(facActive[k]?' checked':'')+'>'
         +'<span class="facf-sw" style="background:'+FACCOL[k]+'"></span>'
@@ -1661,6 +1729,7 @@ function buildCourtMarkers(){ if(courtBuilt)return; courtBuilt=true;
    .then(function(parts){ var out=[];
      parts.forEach(function(p){ for(var i=0;i<p.rows.length;i++){ var r=p.rows[i]; out.push({la:r[0],lo:r[1],n:r[2]||"",u:r[3]||"",k:p.k}); } });
      facilityMarkers=out; _facPts=null; buildFacFilter();
+     try{ _loadJudicial(); }catch(e){}
      if(_facLayer&&_facLayer._draw)_facLayer._draw();
    });
 })();
@@ -2193,7 +2262,7 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
   ]};
   var PC={5:"#3b1d12",4:"#2c1d27",3:"#2d2811",2:"#212b16",1:"#132b28"}, PR={5:15,4:12,3:9,2:7,1:5};
   try{ if(typeof map!=='undefined' && map.createPane && !map.getPane('projPane')){ map.createPane('projPane'); map.getPane('projPane').style.zIndex=620; } }catch(_e){}
-  window.PJ_CLICK_MINZ=6;
+  window.PJ_CLICK_MINZ=9;
   try{ if(typeof map!=='undefined' && map.on){ map.on('zoomend', function(){ var _pn=map.getPane&&map.getPane('projPane'); if(_pn) _pn.style.pointerEvents=(map.getZoom()>=PJ_CLICK_MINZ?'auto':'none'); }); } }catch(_e){}
   var _projRenderer=(typeof map!=='undefined' && L && L.svg)?L.svg({pane:'projPane'}):null;
   function stars(n){return Array(n+1).join("\u2605")+Array(6-n).join("\u2606");}

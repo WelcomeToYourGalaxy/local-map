@@ -520,6 +520,16 @@ def selftest():
     eq(resolve_country("Atlantis"), None, "iso/unknown-not-guessed")
     eq(resolve_country(""), None, "iso/empty")
 
+    def coerce(v):
+        try:
+            return int(str(v).strip() or 0)
+        except ValueError:
+            return 0
+    eq(coerce(""), 0, "args/empty-limit-is-zero")
+    eq(coerce("25"), 25, "args/numeric-limit")
+    eq(coerce(" "), 0, "args/whitespace-limit")
+    eq(coerce("junk"), 0, "args/junk-limit-does-not-crash")
+
     eq(bool(PARKED.search("This domain is for sale")), True, "parked/for-sale")
     eq(bool(PARKED.search("Sonoma Land Trust — Home")), False, "parked/real")
 
@@ -595,7 +605,7 @@ def selftest():
         for f in fails:
             print("  -", f)
         return 1
-    print("SELFTEST OK (42 checks)")
+    print("SELFTEST OK (46 checks)")
     return 0
 
 
@@ -605,7 +615,10 @@ def main():
     ap.add_argument("--network", default="")
     ap.add_argument("--out", default="network_adds.json")
     ap.add_argument("--contact", default=os.environ.get("HARVEST_CONTACT", ""))
-    ap.add_argument("--limit", type=int, default=0)
+    # Scheduled runs and blank workflow inputs arrive as "", which argparse
+    # rejects as an int. Parse as text and coerce, so an empty field means
+    # "no limit" rather than a failed job.
+    ap.add_argument("--limit", default="0")
     ap.add_argument("--discover", default="",
                     help="directory page URL: find its data endpoint and stop")
     ap.add_argument("--discover-all", action="store_true",
@@ -646,6 +659,11 @@ def main():
         print(f"no registry at {args.registry}", file=sys.stderr)
         return 1
 
+    try:
+        limit = int(str(args.limit).strip() or 0)
+    except ValueError:
+        limit = 0
+
     specs = json.load(open(args.registry)).get("networks", [])
     if args.network:
         specs = [s for s in specs if s.get("network") == args.network]
@@ -656,7 +674,7 @@ def main():
     all_entries, all_gaps, totals = [], [], collections.Counter()
     for spec in specs:
         try:
-            e, g, s = harvest(spec, args.contact, args.limit or None)
+            e, g, s = harvest(spec, args.contact, limit or None)
         except Exception as exc:  # noqa: BLE001
             all_gaps.append({"network": spec.get("network"),
                              "reason": f"unreachable:{type(exc).__name__}"})

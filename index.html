@@ -262,16 +262,7 @@ body.info-open.wire-up #indexPanel{top:122px !important;}
 #sidebar,#rightbar{height:calc(100vh - 90px)!important;max-height:calc(100vh - 90px)!important;}#sidebar>#helpPanel:not(.collapsed),#sidebar>#indexPanel:not(.collapsed),#rightbar>#controls,#rightbar>#legend:not(.collapsed){flex:1 1 50%!important;min-height:0!important;max-height:50%!important;overflow:hidden;display:flex;flex-direction:column;}#sidebar>#helpPanel:not(.collapsed) .help-body,#rightbar>#legend:not(.collapsed) #legBody,#rightbar>#controls{overflow-y:auto!important;max-height:none!important;flex:1 1 auto;}#sidebar>#indexPanel #idxBody{overflow-y:auto!important;flex:1 1 auto;min-height:0;}#sidebar>#indexPanel.collapsed{flex:0 0 auto!important;min-height:0!important;max-height:none!important;overflow:visible!important;}
 </style>
 <style>
-.pjm-pin{ background:none!important; border:none!important; filter:drop-shadow(0 0 1.6px rgba(255,255,255,0.9)) drop-shadow(0 2px 3px rgba(0,0,0,0.6)); }
-.pjm-approx{ filter:drop-shadow(0 0 1.6px rgba(255,255,255,0.85)); }
-  .gb-pickhead{ display:flex; align-items:center; justify-content:space-between; gap:8px; font-size:9.5px; font-weight:700; text-transform:uppercase; letter-spacing:0.8px; color:#8a9a8c; margin:8px 0 6px; }
-  .gb-pickback{ background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.16); color:#cfe0d2; border-radius:5px; font-size:10px; padding:3px 7px; cursor:pointer; }
-  .gb-pickback:hover{ background:rgba(255,255,255,0.13); }
-  .gb-picklist{ display:flex; flex-direction:column; gap:2px; max-height:52vh; overflow:auto; }
-  .gb-pickrow{ display:flex; align-items:center; gap:7px; width:100%; text-align:left; background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.08); color:#e6efe8; border-radius:6px; padding:6px 9px; font-size:12.5px; cursor:pointer; }
-  .gb-pickrow:hover{ background:rgba(147,194,78,0.16); border-color:rgba(147,194,78,0.45); }
-  .gb-pickdot{ flex:0 0 auto; width:7px; height:7px; border-radius:50%; background:rgba(255,255,255,0.16); }
-  .gb-pickrow.has-data .gb-pickdot{ background:#93c24e; box-shadow:0 0 5px rgba(147,194,78,0.7); }
+.pjm-pin{ background:none!important; border:none!important; filter:drop-shadow(0 2px 3px rgba(0,0,0,0.55)); }
 .pjm-cl{ background:none!important; }
 .pjm-cl-inner{ width:100%; height:100%; border-radius:50%; display:flex; align-items:center; justify-content:center;
   background:radial-gradient(circle at 34% 30%, rgba(80,190,125,0.96), rgba(28,104,66,0.94));
@@ -419,7 +410,6 @@ body.info-open.wire-up #indexPanel{top:122px !important;}
   <div class="sub-wrap" id="subFilterWrap" style="margin-top:9px;"><div id="subBox"></div></div>
   <div class="src-wrap"><div class="ctl-title">Source type</div><div id="srcPills"></div></div>
   <div class="skind-wrap"><div class="ctl-title">Source kind</div><div id="skindPills"></div></div>
-  <div class="skind-wrap"><div class="ctl-title">Resource or mechanism</div><div id="restypePills"></div></div>
   <div class="media-wrap"><div class="ctl-title">Government level</div><div id="levelPills"></div></div>
   <div class="media-wrap"><div class="ctl-title">Media type</div><div id="mediaPills"></div></div>
   <div class="trust-wrap"><div class="ctl-title">Trust level</div><div id="trustPills"></div></div>
@@ -533,9 +523,6 @@ const SKINDS = [['court','Government portal','The official website of a governme
 const SKINDLABEL={}; SKINDS.forEach(k=>SKINDLABEL[k[0]]=k[1]);
 function skindOf(t){ return t.skind||'other'; }
 let activeSkinds=new Set(SKINDS.map(k=>k[0]));
-const RESTYPES=[['resource','Resource','A body, fund, court, registry or scheme you can actually approach \u2014 something with a door.'],['mechanism','Mechanism','A statute, article, treaty or doctrine. You cannot write to it, but it may be the only honest answer for that country.']];
-function restypeOf(t){ return t.restype||'resource'; }
-let activeRestypes=new Set(RESTYPES.map(k=>k[0]));
 function mediaKS(k,s){ k=k||'structured'; s=s||'other';
   if(k==='video')return 'video'; if(k==='podcast')return 'podcast'; if(k==='newsletter'||k==='blog')return 'blog';
   if(k==='journalism')return 'investigative'; if(s==='media')return 'news';
@@ -564,7 +551,7 @@ function isBest(t){ if(bestMode.has('authoritative') && voiceOf(t)==='official' 
   if(bestMode.has('popular') && BEST_POPULAR.has(d)) return true;
   if(bestMode.has('helpful') && (BEST_HELPFUL.has(d) || (t.tags||[]).some(function(x){return x.indexOf(':directory')>=0;}))) return true;
   return false; }
-function trackerVisible(t){ if(bestMode.size && !isBest(t)) return false; if(!showHistorical && statusOf(t)!=='active') return false; if(!activeTrust.has(trustOf(t))) return false; if(!activeKinds.has(kindOf(t))) return false; if(!activeSkinds.has(skindOf(t))) return false; if(!activeRestypes.has(restypeOf(t))) return false; if(!activeLevels.has(t._lvl||'National')) return false; if(!activeMedia.has(mediaOf(t))) return false; if(!activeVoices.has(voiceOf(t))) return false; if(!_angleOk(t)) return false; return domain==='all'?true:(t.tags||[]).some(x=>x.startsWith(domain+':')&&activeSubs.has(x)); }
+function trackerVisible(t){ if(bestMode.size && !isBest(t)) return false; if(!showHistorical && statusOf(t)!=='active') return false; if(!activeTrust.has(trustOf(t))) return false; if(!activeKinds.has(kindOf(t))) return false; if(!activeSkinds.has(skindOf(t))) return false; if(!activeLevels.has(t._lvl||'National')) return false; if(!activeMedia.has(mediaOf(t))) return false; if(!activeVoices.has(voiceOf(t))) return false; if(!_angleOk(t)) return false; return domain==='all'?true:(t.tags||[]).some(x=>x.startsWith(domain+':')&&activeSubs.has(x)); }
 function vis(arr){ return (arr||[]).filter(trackerVisible); }
 const SUB_LOADED=new Set();
 function isSub(iso){ return SUB_LOADED.has(iso); }
@@ -643,15 +630,6 @@ function renderSkindPills(){ const b=document.getElementById('skindPills'); if(!
     p.innerHTML=v[1]+'<span class="skn">'+(cnt[v[0]]||0)+'</span>'; const sd=document.createElement('span'); sd.className='sd'; sd.textContent=v[2]||''; row.appendChild(p); row.appendChild(sd); b.appendChild(row); }); }
 document.getElementById('skindPills').addEventListener('click',e=>{ const p=e.target.closest('.skpill'); if(!p)return; const v=p.dataset.skind;
   if(activeSkinds.has(v)){ if(activeSkinds.size>1){ activeSkinds.delete(v); p.classList.remove('on'); } } else { activeSkinds.add(v); p.classList.add('on'); }
-  rebuild(); if(typeof renderIndex==='function') renderIndex(); });
-function restypeCounts(){ const m={resource:0,mechanism:0}; const add=t=>{ const k=restypeOf(t); m[k]=(m[k]||0)+1; };
-  Object.keys(trackerData).forEach(iso=>{ const c=trackerData[iso]; (c.trackers||[]).forEach(add); if(c.sub) for(const r in c.sub)(c.sub[r].trackers||[]).forEach(add); });
-  if(typeof internationalBodies!=='undefined') internationalBodies.forEach(b=>(b.trackers||[]).forEach(add)); return m; }
-function renderRestypePills(){ const b=document.getElementById('restypePills'); if(!b) return; b.innerHTML=''; const cnt=restypeCounts();
-  RESTYPES.forEach(v=>{ const z=!cnt[v[0]]; const row=document.createElement('div'); row.className='subrow'; const p=document.createElement('span'); p.className='skpill'+(activeRestypes.has(v[0])?' on':'')+(z?' empty':''); p.dataset.restype=v[0];
-    p.innerHTML=v[1]+'<span class="skn">'+(cnt[v[0]]||0)+'</span>'; const sd=document.createElement('span'); sd.className='sd'; sd.textContent=v[2]||''; row.appendChild(p); row.appendChild(sd); b.appendChild(row); }); }
-document.getElementById('restypePills').addEventListener('click',e=>{ const p=e.target.closest('.skpill'); if(!p)return; const v=p.dataset.restype;
-  if(activeRestypes.has(v)){ if(activeRestypes.size>1){ activeRestypes.delete(v); p.classList.remove('on'); } } else { activeRestypes.add(v); p.classList.add('on'); }
   rebuild(); if(typeof renderIndex==='function') renderIndex(); });
 function mediaCounts(){ const m={}; const add=t=>{ const k=mediaOf(t); m[k]=(m[k]||0)+1; };
   Object.keys(trackerData).forEach(iso=>{ const c=trackerData[iso]; (c.trackers||[]).forEach(add); if(c.sub) for(const r in c.sub)(c.sub[r].trackers||[]).forEach(add); });
@@ -1244,48 +1222,9 @@ function gbZoomBar(lvl){
     +'<button type="button" class="gb-zoombtn" onclick="gbUnitUp();return false;" title="Step out to the higher level">\u2191 Higher level</button>'
     +'<button type="button" class="gb-zoombtn" onclick="gbUnitDown();return false;" title="Drill into the sub-areas of this unit">\u2193 Lower level</button>'
     +'</div>'; }
-/* "Lower level" opens a picker of this unit's sub-units IN THE PANEL, in place of the
-   resources. Previously it only redrew boundaries on the map, leaving the same resources on
-   screen and no way to choose a sub-unit without hunting for a polygon. Choosing a row calls
-   gbDescend() - the same path a polygon click takes - so downstream behaviour is identical. */
-var gbPickFeats=[], gbPickLvl=null, gbPickIsAdm4=false, gbPickBack=null;
-function gbPickList(res,parentName){
-  gbPickFeats=(res&&res.feats)||[]; gbPickLvl=res?res.lvl:null; gbPickIsAdm4=!!(res&&res.isAdm4);
-  var iso=gbNav?gbNav.iso:null;
-  var rows=gbPickFeats.map(function(f,i){ return {i:i,n:gbChildName(f)||'\u2014',
-      d:(iso?!!gbMatchRegion(iso,gbChildName(f)):false)}; });
-  rows.sort(function(a,b){ return a.n.localeCompare(b.n); });
-  var h='<div class="popup-country">'+_esc(parentName||'')+'</div>'
-    +'<div class="gb-pickhead">Choose a sub-area \u2014 '+rows.length+' available'
-    +'<button type="button" class="gb-pickback" onclick="gbPickCancel();return false;">\u2190 Back</button></div>';
-  if(!rows.length){ h+='<div class="no-data">This unit has no mapped sub-areas.</div>'; }
-  else { h+='<div class="gb-picklist">'+rows.map(function(r){
-      return '<button type="button" class="gb-pickrow'+(r.d?' has-data':'')+'" onclick="gbPickGo('+r.i+');return false;">'
-        +'<span class="gb-pickdot"></span>'+_esc(r.n)+'</button>'; }).join('')+'</div>'; }
-  showInfoPanel(h);
-}
-function gbPickGo(i){ var f=gbPickFeats[i]; if(!f)return;
-  try{ gbDescend(gbPickIsAdm4?'ADM4':gbPickLvl,gbPickIsAdm4,f,gbFeatBounds(f),null); }catch(e){} }
-function gbPickCancel(){ if(gbPickBack){ showInfoPanel(gbPickBack); } }
 function gbUnitDown(){ if(!gbNav||!gbPopupCtx||!gbPopupCtx.feat)return;
-  var pc=gbPopupCtx, nm='';
-  /* mirrors how gbEnterCountry names the country: file name, then feature name, then ISO.
-     An earlier draft called a cName() helper that does not exist in this file. */
-  try{ nm=(pc.lvl==='ADM0')
-        ? ((trackerData[pc.iso]&&trackerData[pc.iso].name)||(pc.feat.properties&&pc.feat.properties.name)||pc.iso||'')
-        : (gbChildName(pc.feat)||''); }catch(e){}
-  try{ var ib=document.getElementById('infoBody'); gbPickBack=ib?ib.innerHTML:null; }catch(e){ gbPickBack=null; }
-  var top=(pc.lvl==='ADM0')
-    ? {type:'country',feat:pc.feat,bounds:pc.bounds}
-    : {type:(pc.lvl==='ADM4'?'adm4':'unit'),lvl:pc.lvl,feat:pc.feat,bounds:pc.bounds};
-  try{ showInfoPanel('<div class="popup-country">'+_esc(nm)+'</div><div class="no-data">Loading sub-areas\u2026</div>'); }catch(e){}
-  try{ gbChildren(top,function(res){ if(!res||!res.feats||!res.feats.length){
-        showInfoPanel('<div class="popup-country">'+_esc(nm)+'</div>'
-          +'<div class="no-data">This unit has no mapped sub-areas.</div>'
-          +'<div class="gb-zoombar"><button type="button" class="gb-zoombtn" onclick="gbPickCancel();return false;">\u2190 Back</button></div>');
-        return; }
-      gbPickList(res,nm); }); }catch(e){}
-  try{ gbShow(); }catch(e){} }
+  if(gbPopupCtx.lvl==='ADM0'){ try{ gbShow(); }catch(e){} return; }   /* national box: (re)draw the country's regions to click into */
+  try{ var bnds=gbPopupCtx.bounds||gbFeatBounds(gbPopupCtx.feat); gbDescend(gbPopupCtx.lvl,false,gbPopupCtx.feat,bnds,null); }catch(e){} }
 function gbUnitUp(){ if(!gbNav)return;
   var idx=-1; if(gbPopupCtx&&gbPopupCtx.feat){ for(var i=gbStack.length-1;i>=0;i--){ if(gbStack[i].feat===gbPopupCtx.feat){ idx=i; break; } } }
   if(idx>0){ gbCrumbTo(idx-1); }
@@ -2024,7 +1963,7 @@ function syncHistToggle(){ try{ var cb=document.getElementById('histToggle'); if
   for(var iso in trackerData){ var c=trackerData[iso]; if(!c)continue; var tl=c.trackers||[]; for(var i=0;i<tl.length;i++){ if(statusOf(tl[i])!=='active'){any=true;break;} } if(any)break;
     var sub=c.sub||{}; for(var rg in sub){ var stt=(sub[rg]&&sub[rg].trackers)||[]; for(var j=0;j<stt.length;j++){ if(statusOf(stt[j])!=='active'){any=true;break;} } if(any)break; } if(any)break; }
   lbl.style.display=any?'':'none'; }catch(e){} }
-renderPills(); renderSubs(); renderSrcPills(); renderSkindPills(); renderRestypePills(); renderMediaPills(); renderLevelPills(); renderTrustPills(); renderVoicePills(); applyAccent(); updateStats();
+renderPills(); renderSubs(); renderSrcPills(); renderSkindPills(); renderMediaPills(); renderLevelPills(); renderTrustPills(); renderVoicePills(); applyAccent(); updateStats();
 initIndex(); syncHistToggle();
 </script>
 <script>(function(){ var el=document.querySelector('#helpPanel .help-body'); if(!el)return;
@@ -2430,7 +2369,7 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
    {"name":"Resolution Copper (Oak Flat)","source":"public_land_nepa","type":"Copper mine","state":"AZ","lat":33.31,"lng":-111.05,"impact":5,"company":"Rio Tinto / BHP","size":"~2-mi subsidence","status":"Litigated","desc":"Block-cave mine that would swallow Oak Flat, sacred to San Carlos Apache; land swap litigated."},
    {"name":"Pebble Mine","source":"public_land_nepa","type":"Gold/copper mine","state":"AK","lat":59.90,"lng":-155.30,"impact":5,"company":"Northern Dynasty","size":"Headwaters pit","status":"EPA-vetoed","desc":"Proposed mine in Bristol Bay salmon headwaters; developers seek to overturn the CWA veto."}
   ]};
-  var PC={5:"#d2703f",4:"#b57aa8",3:"#d9b23c",2:"#93c24e",1:"#4fb9a8"}, PR={5:15,4:12,3:9,2:7,1:5};   /* same hue order as before (rust, plum, gold, olive-green, teal) raised into legibility over satellite imagery, where the old 12-18% luminance values matched the terrain */
+  var PC={5:"#3b1d12",4:"#2c1d27",3:"#2d2811",2:"#212b16",1:"#132b28"}, PR={5:15,4:12,3:9,2:7,1:5};
   try{ if(typeof map!=='undefined' && map.createPane && !map.getPane('projPane')){ map.createPane('projPane'); map.getPane('projPane').style.zIndex=620; } }catch(_e){}
   window.PJ_CLICK_MINZ=9;
   try{ if(typeof map!=='undefined' && map.on){ map.on('zoomend', function(){ var _pn=map.getPane&&map.getPane('projPane'); if(_pn) _pn.style.pointerEvents=(map.getZoom()>=PJ_CLICK_MINZ?'auto':'none'); }); } }catch(_e){}
@@ -2624,7 +2563,7 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
     {k:"other",      g:"Other",               label:"Other / unclassified"},
   ];
   var PJ_TYPE_LABEL={}; PJ_TYPES.forEach(function(t){ PJ_TYPE_LABEL[t.k]=t.label; });
-  var PJGROUPCOL={"Buildings":"#e4e08c","Extraction":"#9dbb52","Oil & gas":"#d2a341","Power":"#e0b33a","Renewables & nuclear":"#b7d055","Transport":"#d2d268","Facilities":"#b3af52","Land & water":"#9dc63f","Other":"#8fb06a"};
+  var PJGROUPCOL={"Buildings":"#d0cd78","Extraction":"#6c8233","Oil & gas":"#967528","Power":"#a88320","Renewables & nuclear":"#8a9a30","Transport":"#b0b048","Facilities":"#83802f","Land & water":"#6e8e23","Other":"#688547"};
   var PJTYPE2GROUP={}; PJ_TYPES.forEach(function(t){ PJTYPE2GROUP[t.k]=t.g; });
   function pjCatColor(p){ return PJGROUPCOL[PJTYPE2GROUP[pjTypeCat(p)]]||"#688547"; }
   // Classify a project into ONE type from keywords in its text + source.
@@ -2757,7 +2696,7 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
       // approximate (country/state-level) -> dashed hollow ring, centered: reads as an AREA, not a point
       var d=impact>=5?30:impact>=4?26:impact>=3?23:20;
       var rsvg='<svg width="'+d+'" height="'+d+'" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">'
-        +'<circle cx="16" cy="16" r="12" fill="'+c+'" fill-opacity="0.26" stroke="'+c+'" stroke-width="2.8" stroke-dasharray="4 3"/>'
+        +'<circle cx="16" cy="16" r="12" fill="'+c+'" fill-opacity="0.18" stroke="'+c+'" stroke-width="2.4" stroke-dasharray="4 3"/>'
         +'<circle cx="16" cy="16" r="2.6" fill="'+c+'"/></svg>';
       return L.divIcon({html:rsvg,className:"pjm-approx",iconSize:[d,d],iconAnchor:[d/2,d/2],popupAnchor:[0,-d/2]});
     }
@@ -2995,13 +2934,10 @@ try{ document.querySelectorAll('#helpPanel .help-body, #wirePanel .wire-body, #i
       var b=m.getBounds(),z=m.getZoom(),N=b.getNorth(),S=b.getSouth(),W=b.getWest(),E=b.getEast();
       var vis=pjInView(S,N,W,E);
       for(var k=0;k<vis.length;k++){ var o=vis[k]; var pt=m.latLngToContainerPoint([o.la,o.lo]); var r=pjRad(z,o.i);
-        if(o.ap){ ctx.globalAlpha=0.30; ctx.beginPath(); ctx.arc(pt.x,pt.y,r+1,0,6.2832); ctx.fillStyle=o.c; ctx.fill(); ctx.globalAlpha=1;
+        if(o.ap){ ctx.globalAlpha=0.22; ctx.beginPath(); ctx.arc(pt.x,pt.y,r+1,0,6.2832); ctx.fillStyle=o.c; ctx.fill(); ctx.globalAlpha=1;
           ctx.beginPath(); ctx.arc(pt.x,pt.y,r+1,0,6.2832); ctx.lineWidth=1.4; ctx.strokeStyle=o.c; ctx.stroke(); }
         else { ctx.beginPath(); ctx.arc(pt.x,pt.y,r,0,6.2832); ctx.fillStyle=o.c; ctx.fill();
-          /* two rings: a pale one for dark terrain, a dark one for light terrain, so the
-             dot stays legible over satellite imagery of any brightness */
-          if(r>=2.4){ ctx.lineWidth=2.2; ctx.strokeStyle="rgba(255,255,255,0.75)"; ctx.stroke();
-                      ctx.lineWidth=1; ctx.strokeStyle="#0a1f12"; ctx.stroke(); } }
+          if(r>=2.4){ ctx.lineWidth=1; ctx.strokeStyle="#0a1f12"; ctx.stroke(); } }
       } },
     _nearest:function(cp){ var m=this._map,z=m.getZoom();
       var ll=m.containerPointToLatLng(cp), ll2=m.containerPointToLatLng([cp.x+16,cp.y+16]);

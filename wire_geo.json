@@ -160,6 +160,24 @@
   "matched_on": "name"
  },
  {
+  "name": "Front: Trans Mountain pipeline Canada",
+  "title": "Varcoe: Trans Mountain files pitch for new pipeline expansion, as Canada aims to boost oil exports to Asia - ca.news.yahoo.com",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vVlA3Mm1MeWdIa0twSFpmRW14VXVMc0RIcW5BdFBOZG54dE5kUUFoM1VnVTBFb1VfRmc1YjRJZjd5c1p1b0Qzb1djZ2dYMFJrRTZGZ0s5bVh1YzJrd0hCSTY3c0U4ODR2TG1CWUVabFByelRlbU9tdUpxXzVwM2s?oc=5",
+  "date": 1787960314000,
+  "sig": 2,
+  "snippet": "Varcoe: Trans Mountain files pitch for new pipeline expansion, as Canada aims to boost oil exports to Asia  ca.news.yahoo.com",
+  "iso": "CAN",
+  "region": "",
+  "lat": 53.5442,
+  "lng": -113.4908,
+  "level": "point",
+  "project": "Trans Mountain Expansion Project",
+  "project_url": "https://www.iaac-aeic.gc.ca/050/evaluations/proj/80061?culture=en-CA",
+  "admin1": "Alberta",
+  "match_score": 3,
+  "matched_on": "name"
+ },
+ {
   "name": "Panama",
   "title": "Every drop of water counts -   Panama Canal Administrator",
   "link": "https://gcaptain.com/every-drop-of-water-counts-panama-canal-administrator/",

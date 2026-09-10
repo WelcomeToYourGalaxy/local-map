@@ -1,0 +1,126 @@
+{
+ "_meta": {
+  "task": "tier amendment 01 — corrections found by blind re-sampling",
+  "apply": "run apply_tier_patch.py with this file AFTER TIER_PATCH_ALL.json; same schema, same script",
+  "count": 16,
+  "finding": "a national association OF local governments is national, not the tier of its members. Brazil's national confederation of municipalities was already filed national; the same body type in eleven other countries was filed at member level. Inter-municipal bodies (commonwealths, mancomunidades, consorcios, joint boards) are NOT in this class and are unchanged — their own jurisdiction really is the member territories.",
+  "also": "two single corrections from the 130-row sample: a village-association movement filed national, and a national body filed international on a regional reach.",
+  "was_field": "'was' records the superseded value; it is metadata for review and is ignored by the applier",
+  "provenance": "12 rows from a name sweep for the association-of-local-governments class; 4 rows from two independent blind re-reads of 130-row stratified samples. Two of the four (TUR, COM) were in classes the sweep should have caught and did not — the sampling is what found them, which is the argument for keeping both methods."
+ },
+ "rows": [
+  {
+   "country": "MEX",
+   "url": "http://www.aalmac.org/aalmac/nuestra-funcion.html",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Mexico's national and regional municipal associations - technical support to ELABORATE AND REVIEW THE TECHNICAL FILES a council needs to request public money, donations and tenders, plus a joint national conference and state-level associations"
+  },
+  {
+   "country": "PER",
+   "url": "https://remurpe.org.pe/servicios/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Peru's rural municipalities network - joint and personalised technical accompaniment for small district councils, dialogue spaces open to non-governmental institutions, a water resources guide for local governments, and a national annual conference"
+  },
+  {
+   "country": "PRY",
+   "url": "http://gestionlocal.org.py/proyectos/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Paraguay's association of municipal boards, association of departmental boards, council of governors and women officeholders' network - with an NGO that has trained councillors on budget scrutiny, and an honest warning about the inter-municipal organisation"
+  },
+  {
+   "country": "COL",
+   "url": "https://www.fcm.org.co/serpot/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Colombia's federation of municipalities - a TERRITORIAL ORDERING SERVICE of urbanistic, environmental and legal experts for less than one consultant's fee, three-day training open to actors the mayor designates, a weekly legal bulletin and a threatened-mayors protection programme"
+  },
+  {
+   "country": "BOL",
+   "url": "https://fam.org.bo/fam-bolivia/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Bolivia's municipal associative system - a federation of 300+ municipalities with its own legal personality, nine departmental associations, a multidisciplinary technical team, and a learning network where NGOs may publish training for town halls"
+  },
+  {
+   "country": "CHL",
+   "url": "https://www.achm.cl/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Chile's municipalities' association - MODEL ORDINANCES and studies for all 346 councils, a standing environment commission of mayors and councillors, regional associations in every region, and state help to give a multi-municipality association legal personality"
+  },
+  {
+   "country": "PAN",
+   "url": "https://amupa.org.pa/amupa-y-ancon-firman-convenio-de-cooperacion/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Panama's municipalities' association and its framework agreement with a conservation organisation for CREATION OF DISTRICT PROTECTED AREAS in all 81 districts, plus staffed municipal environment directorates and the legal map of municipal protection agreements"
+  },
+  {
+   "country": "CRI",
+   "url": "https://www.ungl.or.cr/index.php/areas-de-gestion/direccion-ejecutiva/ambiente",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Costa Rica's union of local governments - a public-law body with a NATIONAL DATABASE OF MUNICIPAL ENVIRONMENTAL MANAGERS and a technical network, chairing the municipal ecological flag committee, alongside regional federations of municipalities"
+  },
+  {
+   "country": "ARM",
+   "url": "https://www.caa.am/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Communities association and inter-community unions — the municipalities' own membership body, chaired by a mayor"
+  },
+  {
+   "country": "ARG",
+   "url": "https://www.ramcc.net/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Argentina's municipal climate network - free consultancies that produced DRAFT ORDINANCES for councils, technical accompaniment for local plans, pooled network financing for small communes, and a green jobs mapping programme"
+  },
+  {
+   "country": "ECU",
+   "url": "https://www.congope.gob.ec/direcciones/",
+   "tier": "national",
+   "was": "state",
+   "name": "Ecuador's associations of provinces, municipalities and rural parishes - free technical assistance including drafting LOCAL CONSERVATION NORMATIVE, provincial offices that expedite parish procedures, and parish representatives elected onto provincial councils"
+  },
+  {
+   "country": "KGZ",
+   "url": "http://www.jayit.kg/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Kyrgyz Jayity — the national association of the pasture committees that actually hold the land-use right"
+  },
+  {
+   "country": "COM",
+   "url": "https://conservationallies.org/partners/dahari/",
+   "tier": "municipal",
+   "was": "national",
+   "name": "The village Ulanga movement — associations called Nature founded in most Comorian villages on two islands — plus Malezi Mema's first permanent community marine reserve, the Mrémani seedling nursery and 950 metres of anti-erosion lines"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.edo.org.au/",
+   "tier": "national",
+   "was": "international",
+   "name": "Environmental Defenders Office (EDO) — public-interest environmental law"
+  },
+  {
+   "country": "TUR",
+   "url": "https://www.tarihikentlerbirligi.org/",
+   "tier": "national",
+   "was": "municipal",
+   "name": "Union of 480 municipalities for historic towns — dues turned back into conservation grants, and a competition open to a whole settlement"
+  },
+  {
+   "country": "EGY",
+   "url": "https://www.ecchr.eu/en/case/investigative-commons/",
+   "tier": "national",
+   "was": "national",
+   "name": "Research agencies that work on behalf of communities harmed by environmental violence and build evidence for courtrooms — 100+ investigations in 31 countries, plus a completed African partnership whose evidence communities can use in a reparations claim",
+   "reclassified_from": "international"
+  }
+ ]
+}

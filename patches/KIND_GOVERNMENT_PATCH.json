@@ -1,0 +1,4495 @@
+{
+ "_meta": {
+  "task": "set kind=government on public bodies",
+  "requires": "patch_index_kind_government.py must be applied to index.html first, or these entries fail activeKinds.has() and vanish",
+  "target": "entries at any depth, matched on country + url",
+  "count": 747,
+  "method": "name-based and deliberately conservative. The entry name must lead with a public-body word (ministry, supreme audit, statistical office, company/land registry, procurement portal, court, tribunal, agency, authority, commission, directorate, inspectorate, ombudsman) within its first 45 characters, must not carry an NGO or IGO marker, and must not read as a statute, procedure or how-to entry.",
+  "not_used": "kind=='institution' AND voice=='official' (4,227 rows) was tested as a blanket rule and REJECTED: sampling returned GEF small grants, COICA, a farmers' confederation and a university centre alongside the ministries. The pairing does not mean government body.",
+  "trust": "government maps to high in KIND2TIER, the same as structured and institution, so no entry changes trust tier"
+ },
+ "rows": [
+  {
+   "country": "AFG",
+   "url": "https://sao.gov.af/",
+   "name": "Supreme Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "AGO",
+   "url": "https://tribunalconstitucional.ao/",
+   "name": "Constitutional Court of Angola",
+   "kind": "government"
+  },
+  {
+   "country": "AGO",
+   "url": "https://www.tcontas.ao/",
+   "name": "Tribunal de Contas",
+   "kind": "government"
+  },
+  {
+   "country": "AIA",
+   "url": "https://www.eccourts.org/",
+   "name": "Eastern Caribbean Supreme Court (ECSC)",
+   "kind": "government"
+  },
+  {
+   "country": "ALB",
+   "url": "https://app.gov.al/",
+   "name": "Public Procurement Agency",
+   "kind": "government"
+  },
+  {
+   "country": "ALB",
+   "url": "https://www.gjykataelarte.gov.al/",
+   "name": "Supreme Court of Albania",
+   "kind": "government"
+  },
+  {
+   "country": "ALB",
+   "url": "https://www.klsh.org.al/",
+   "name": "Supreme State Audit (KLSH)",
+   "kind": "government"
+  },
+  {
+   "country": "AND",
+   "url": "https://www.tribunaldecomptes.ad/",
+   "name": "Tribunal de Comptes",
+   "kind": "government"
+  },
+  {
+   "country": "ARE",
+   "url": "https://saiuae.gov.ae/",
+   "name": "State Audit Institution (SAI)",
+   "kind": "government"
+  },
+  {
+   "country": "ARE",
+   "url": "https://uaeaa.gov.ae/en",
+   "name": "UAE Accountability Authority",
+   "kind": "government"
+  },
+  {
+   "country": "ARE",
+   "url": "https://www.moj.gov.ae/",
+   "name": "UAE Ministry of Justice",
+   "kind": "government"
+  },
+  {
+   "country": "ARG",
+   "url": "https://www.defensachubut.gov.ar/",
+   "name": "Ministerio de la Defensa Pública del Chubut",
+   "kind": "government"
+  },
+  {
+   "country": "ARM",
+   "url": "https://armsai.am/",
+   "name": "Audit Chamber",
+   "kind": "government"
+  },
+  {
+   "country": "ARM",
+   "url": "https://cpcarmenia.am/",
+   "name": "Corruption Prevention Commission",
+   "kind": "government"
+  },
+  {
+   "country": "ARM",
+   "url": "https://armstat.am/",
+   "name": "Statistical Committee of Armenia (ArmStat)",
+   "kind": "government"
+  },
+  {
+   "country": "ATG",
+   "url": "https://www.eccourts.org/",
+   "name": "Eastern Caribbean Supreme Court (ECSC)",
+   "kind": "government"
+  },
+  {
+   "country": "ATG",
+   "url": "https://audit.gov.ag/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.wikidata.org/wiki/Q4057825",
+   "name": "Administrative Appeals Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.abs.gov.au/",
+   "name": "Australian Bureau of Statistics (ABS)",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.anao.gov.au/",
+   "name": "Australian National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.wikidata.org/wiki/Q5283304",
+   "name": "District Court of South Australia",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.fwc.gov.au/",
+   "name": "Fair Work Commission",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.hcourt.gov.au/cases/recent-judgments",
+   "name": "High Court of Australia",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.wikidata.org/wiki/Q6974542",
+   "name": "National Native Title Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.naaja.org.au/",
+   "name": "North Australian Aboriginal Justice Agency (NAAJA)",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.wikidata.org/wiki/Q48804818",
+   "name": "South Australian Civil and Administrative Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "http://www.saet.sa.gov.au/",
+   "name": "South Australian Employment Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.wikidata.org/wiki/Q356259",
+   "name": "Supreme Court of South Australia",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.wikidata.org/wiki/Q7925608",
+   "name": "Victims Compensation Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.audit.vic.gov.au",
+   "name": "Victorian Auditor-General's Office",
+   "kind": "government"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.vcat.vic.gov.au/",
+   "name": "Victorian Civil and Administrative Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "AUT",
+   "url": "http://www.rechnungshof.gv.at/",
+   "name": "Rechnungshof (Court of Audit)",
+   "kind": "government"
+  },
+  {
+   "country": "AUT",
+   "url": "https://www.ogh.gv.at/",
+   "name": "Supreme Court of Justice",
+   "kind": "government"
+  },
+  {
+   "country": "AZE",
+   "url": "http://sai.gov.az/",
+   "name": "Accounts Chamber (Hesablama Palatası)",
+   "kind": "government"
+  },
+  {
+   "country": "AZE",
+   "url": "http://www.constcourt.gov.az",
+   "name": "Constitutional Court of Azerbaijan",
+   "kind": "government"
+  },
+  {
+   "country": "AZE",
+   "url": "https://www.etender.gov.az/",
+   "name": "State Procurement Portal",
+   "kind": "government"
+  },
+  {
+   "country": "AZE",
+   "url": "https://www.stat.gov.az/",
+   "name": "State Statistical Committee",
+   "kind": "government"
+  },
+  {
+   "country": "AZE",
+   "url": "https://supremecourt.gov.az/",
+   "name": "Supreme Court of Azerbaijan",
+   "kind": "government"
+  },
+  {
+   "country": "BDI",
+   "url": "http://www.courdescomptes.bi",
+   "name": "Cour des comptes du Burundi",
+   "kind": "government"
+  },
+  {
+   "country": "BEL",
+   "url": "https://www.publicprocurement.be/",
+   "name": "Belgium e-Procurement",
+   "kind": "government"
+  },
+  {
+   "country": "BEL",
+   "url": "http://www.bestuursdocumenten.be/",
+   "name": "Commission for Access to Administrative Documents (CADA/CTB, Belgium)",
+   "kind": "government"
+  },
+  {
+   "country": "BEL",
+   "url": "https://www.const-court.be/",
+   "name": "Constitutional Court of Belgium",
+   "kind": "government"
+  },
+  {
+   "country": "BEN",
+   "url": "http://www.coursupremebenin.com",
+   "name": "Cour des comptes du Bénin",
+   "kind": "government"
+  },
+  {
+   "country": "BFA",
+   "url": "http://www.cour-comptes.gov.bf/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "BGD",
+   "url": "https://www.bbs.gov.bd/",
+   "name": "Bangladesh Bureau of Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "BGD",
+   "url": "http://www.cagbd.org/",
+   "name": "Comptroller and Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "BGD",
+   "url": "https://www.cag.gov.bd/",
+   "name": "Comptroller and Auditor General of Bangladesh",
+   "kind": "government"
+  },
+  {
+   "country": "BGD",
+   "url": "https://infocom.gov.bd/",
+   "name": "Information Commission (Bangladesh)",
+   "kind": "government"
+  },
+  {
+   "country": "BGD",
+   "url": "https://www.supremecourt.gov.bd/",
+   "name": "Supreme Court of Bangladesh",
+   "kind": "government"
+  },
+  {
+   "country": "BGR",
+   "url": "http://www.brra.bg/Default.ra",
+   "name": "Bulgaria Registry Agency (company register)",
+   "kind": "government"
+  },
+  {
+   "country": "BGR",
+   "url": "https://www.cpdp.bg/",
+   "name": "Commission for Personal Data Protection (CPDP)",
+   "kind": "government"
+  },
+  {
+   "country": "BGR",
+   "url": "http://www.bulnao.government.bg/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "BGR",
+   "url": "https://www.nsi.bg/",
+   "name": "National Statistical Institute",
+   "kind": "government"
+  },
+  {
+   "country": "BGR",
+   "url": "https://www.registryagency.bg/bg",
+   "name": "Registry Agency",
+   "kind": "government"
+  },
+  {
+   "country": "BGR",
+   "url": "https://www.vks.bg/",
+   "name": "Supreme Court of Cassation",
+   "kind": "government"
+  },
+  {
+   "country": "BHR",
+   "url": "https://www.moj.gov.bh/",
+   "name": "Ministry of Justice (Bahrain)",
+   "kind": "government"
+  },
+  {
+   "country": "BHR",
+   "url": "https://www.nao.bh/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "BHR",
+   "url": "https://www.nao.gov.bh/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "BHR",
+   "url": "https://www.pdp.gov.bh/en/index.html",
+   "name": "Personal Data Protection Authority (PDPA)",
+   "kind": "government"
+  },
+  {
+   "country": "BHR",
+   "url": "https://www.tenderboard.gov.bh/",
+   "name": "Tender Board",
+   "kind": "government"
+  },
+  {
+   "country": "BHS",
+   "url": "https://www.auditorgeneral.gov.bs/",
+   "name": "Office of the Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "BHS",
+   "url": "https://www.wikidata.org/wiki/Q7645002",
+   "name": "Supreme Court of the Bahamas",
+   "kind": "government"
+  },
+  {
+   "country": "BIH",
+   "url": "https://bhas.gov.ba/",
+   "name": "Agency for Statistics of BiH",
+   "kind": "government"
+  },
+  {
+   "country": "BIH",
+   "url": "http://www.ustavnisud.ba/en/home",
+   "name": "Constitutional Court of Bosnia and Herzegovina",
+   "kind": "government"
+  },
+  {
+   "country": "BIH",
+   "url": "http://www.ustavnisud.org/",
+   "name": "Constitutional Court of Republika Srpska",
+   "kind": "government"
+  },
+  {
+   "country": "BIH",
+   "url": "https://www.ejn.gov.ba/",
+   "name": "Public Procurement Portal (eJN)",
+   "kind": "government"
+  },
+  {
+   "country": "BLR",
+   "url": "https://www.belstat.gov.by/",
+   "name": "National Statistical Committee (Belstat)",
+   "kind": "government"
+  },
+  {
+   "country": "BLZ",
+   "url": "https://www.audit.gov.bz/",
+   "name": "Office of the Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "BMU",
+   "url": "https://www.gov.bm/supreme-court",
+   "name": "Supreme Court of Bermuda",
+   "kind": "government"
+  },
+  {
+   "country": "BOL",
+   "url": "https://www.contraloria.gob.bo/",
+   "name": "Contraloría General del Estado",
+   "kind": "government"
+  },
+  {
+   "country": "BOL",
+   "url": "http://www.tcpbolivia.bo",
+   "name": "Plurinational Constitutional Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "BOL",
+   "url": "https://tsj.bo/",
+   "name": "Tribunal Supremo de Justicia (Bolivia)",
+   "kind": "government"
+  },
+  {
+   "country": "BRA",
+   "url": "http://www.tcu.gov.br/",
+   "name": "Tribunal de Contas da União (TCU)",
+   "kind": "government"
+  },
+  {
+   "country": "BRA",
+   "url": "https://portal.tcu.gov.br/",
+   "name": "Tribunal de Contas da União (TCU)",
+   "kind": "government"
+  },
+  {
+   "country": "BRA",
+   "url": "http://www5.tjba.jus.br/",
+   "name": "Tribunal de Justiça do Estado da Bahia",
+   "kind": "government"
+  },
+  {
+   "country": "BRB",
+   "url": "https://bao.gov.bb/",
+   "name": "Barbados Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "BRB",
+   "url": "https://www.wikidata.org/wiki/Q7644922",
+   "name": "Supreme Court of Judicature",
+   "kind": "government"
+  },
+  {
+   "country": "BTN",
+   "url": "https://www.acc.org.bt",
+   "name": "Anti-Corruption Commission of Bhutan (ACC)",
+   "kind": "government"
+  },
+  {
+   "country": "BTN",
+   "url": "http://www.bhutanaudit.gov.bt/",
+   "name": "Royal Audit Authority",
+   "kind": "government"
+  },
+  {
+   "country": "BWA",
+   "url": "https://www.cipa.co.bw",
+   "name": "Companies and Intellectual Property Authority",
+   "kind": "government"
+  },
+  {
+   "country": "BWA",
+   "url": "https://www.gov.bw/ministries/office-auditor-general",
+   "name": "Office of the Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "http://www.courts.gov.bc.ca/ca/",
+   "name": "British Columbia Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.wikidata.org/wiki/Q3369857",
+   "name": "Canadian International Trade Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.wikidata.org/wiki/Q5030630",
+   "name": "Canadian Transportation Agency",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.wikidata.org/wiki/Q5178319",
+   "name": "Court of Appeal for Saskatchewan",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://albertacourts.ca/court-of-appeal",
+   "name": "Court of Appeal of Alberta",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.court.nl.ca/appeal/",
+   "name": "Court of Appeal of Newfoundland and Labrador",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "http://www.yukoncourts.ca/courts/appeal.html",
+   "name": "Court of Appeal of the Yukon Territory",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.fca-caf.gc.ca/",
+   "name": "Federal Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.canada.ca/en/impact-assessment-agency.html",
+   "name": "Impact Assessment Agency of Canada",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.wikidata.org/wiki/Q21188634",
+   "name": "Nunavut Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.oag-bvg.gc.ca/",
+   "name": "Office of the Auditor General of Canada",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.wikidata.org/wiki/Q3000989",
+   "name": "Quebec Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.scc-csc.ca/case-dossier/info/judg-juge-eng.aspx",
+   "name": "Supreme Court of Canada",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.scc-csc.gc.ca/",
+   "name": "Supreme Court of Canada",
+   "kind": "government"
+  },
+  {
+   "country": "CAN",
+   "url": "https://www.wikidata.org/wiki/Q3538845",
+   "name": "Tribunal administratif du Québec",
+   "kind": "government"
+  },
+  {
+   "country": "CHE",
+   "url": "https://www.ubi.admin.ch",
+   "name": "Independent Complaints Authority for Radio and Television",
+   "kind": "government"
+  },
+  {
+   "country": "CHE",
+   "url": "https://www.simap.ch/",
+   "name": "SIMAP (Public Procurement)",
+   "kind": "government"
+  },
+  {
+   "country": "CHE",
+   "url": "https://www.efk.admin.ch/",
+   "name": "Swiss Federal Audit Office (EFK)",
+   "kind": "government"
+  },
+  {
+   "country": "CHE",
+   "url": "https://www.bfs.admin.ch/",
+   "name": "Swiss Federal Statistical Office",
+   "kind": "government"
+  },
+  {
+   "country": "CHE",
+   "url": "https://www.bger.ch/",
+   "name": "Swiss Federal Supreme Court",
+   "kind": "government"
+  },
+  {
+   "country": "CHL",
+   "url": "http://www.contraloria.cl/",
+   "name": "Contraloría General de la República",
+   "kind": "government"
+  },
+  {
+   "country": "CHN",
+   "url": "http://www.judiciary.gov.hk/en/index/index.htm",
+   "name": "Court of Appeal of the High Court",
+   "kind": "government"
+  },
+  {
+   "country": "CHN",
+   "url": "https://www.stats.gov.cn/",
+   "name": "National Bureau of Statistics of China",
+   "kind": "government"
+  },
+  {
+   "country": "CIV",
+   "url": "http://www.caidp.ci/",
+   "name": "Commission d’Accès à l’Information (CAIDP)",
+   "kind": "government"
+  },
+  {
+   "country": "CIV",
+   "url": "http://www.courdescomptes.ci/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "CIV",
+   "url": "https://www.marchespublics.gouv.ci/",
+   "name": "Marchés Publics",
+   "kind": "government"
+  },
+  {
+   "country": "CMR",
+   "url": "https://conac.cm/en/",
+   "name": "Commission Nationale Anti-Corruption (CONAC)",
+   "kind": "government"
+  },
+  {
+   "country": "COD",
+   "url": "https://courdescomptes.cd/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "COG",
+   "url": "http://courdescomptes.cg/",
+   "name": "Cour des comptes et de discipline budgétaire",
+   "kind": "government"
+  },
+  {
+   "country": "COK",
+   "url": "http://www.auditoffice.gov.ck/",
+   "name": "Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "COL",
+   "url": "http://www.corteconstitucional.gov.co",
+   "name": "Constitutional Court of Colombia",
+   "kind": "government"
+  },
+  {
+   "country": "COL",
+   "url": "http://www.cortesuprema.gov.co/",
+   "name": "Supreme Court of Justice of Colombia",
+   "kind": "government"
+  },
+  {
+   "country": "CPV",
+   "url": "http://www.stj.cv/",
+   "name": "Cabo Verde. Supremo Tribunal de Justiça",
+   "kind": "government"
+  },
+  {
+   "country": "CPV",
+   "url": "http://www.tribunalcontas.cv/",
+   "name": "Tribunal de Contas",
+   "kind": "government"
+  },
+  {
+   "country": "CRI",
+   "url": "https://www.cgr.go.cr/",
+   "name": "Contraloría General de la República",
+   "kind": "government"
+  },
+  {
+   "country": "CUB",
+   "url": "https://www.contraloria.gob.cu/",
+   "name": "Contraloría General de la República",
+   "kind": "government"
+  },
+  {
+   "country": "CUB",
+   "url": "https://www.wikidata.org/wiki/Q7644899",
+   "name": "People's Supreme Court of Cuba",
+   "kind": "government"
+  },
+  {
+   "country": "CYP",
+   "url": "http://www.audit.gov.cy/",
+   "name": "Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "CYP",
+   "url": "https://www.companies.gov.cy/",
+   "name": "Registrar of Companies",
+   "kind": "government"
+  },
+  {
+   "country": "CYP",
+   "url": "https://www.eprocurement.gov.cy/",
+   "name": "eProcurement",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.usoud.cz/",
+   "name": "Constitutional Court (NALUS)",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.czso.cz/",
+   "name": "Czech Statistical Office",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-brno-venkov/",
+   "name": "District Court Brno-venkov",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/obvodni-soud-pro-prahu-10/",
+   "name": "District Court for Prague 10",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/obvodni-soud-pro-prahu-4/",
+   "name": "District Court for Prague 4",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/obvodni-soud-pro-prahu-6/",
+   "name": "District Court for Prague 6",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/obvodni-soud-pro-prahu-8/",
+   "name": "District Court for Prague 8",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/obvodni-soud-pro-prahu-9/",
+   "name": "District Court for Prague 9",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-beroune/",
+   "name": "District Court in Beroun",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-bruntale/",
+   "name": "District Court in Bruntál",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-breclavi/",
+   "name": "District Court in Břeclav",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "http://www.justice.cz/web/okresni-soud-v-chomutove",
+   "name": "District Court in Chomutov",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-chrudimi/",
+   "name": "District Court in Chrudim",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-decine/",
+   "name": "District Court in Děčín",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-ve-frydku-mistku/",
+   "name": "District Court in Frýdek-Místek",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-jeseniku/",
+   "name": "District Court in Jeseník",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-karvine/",
+   "name": "District Court in Karviná",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-koline/",
+   "name": "District Court in Kolín",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-litomericich/",
+   "name": "District Court in Litoměřice",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-moste/",
+   "name": "District Court in Most",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-nymburce/",
+   "name": "District Court in Nymburk",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-nachode/",
+   "name": "District Court in Náchod",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-olomouci/",
+   "name": "District Court in Olomouc",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-pelhrimove/",
+   "name": "District Court in Pelhřimov",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-prachaticich/",
+   "name": "District Court in Prachatice",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-prostejove/",
+   "name": "District Court in Prostějov",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-pisku/",
+   "name": "District Court in Písek",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-prerove/",
+   "name": "District Court in Přerov",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "http://www.justice.cz/web/okresni-soud-v-pribrami",
+   "name": "District Court in Příbram",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-semilech/",
+   "name": "District Court in Semily",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-teplicich/",
+   "name": "District Court in Teplice",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-trebici/",
+   "name": "District Court in Třebíč",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-uherskem-hradisti/",
+   "name": "District Court in Uherské Hradiště",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-ve-vsetine/",
+   "name": "District Court in Vsetín",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-ceskych-budejovicich/",
+   "name": "District Court in České Budějovice",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "http://www.justice.cz/web/okresni-soud-v-ceskem-krumlove",
+   "name": "District Court in Český Krumlov",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-sumperku/",
+   "name": "District Court in Šumperk",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-ve-zdaru-nad-sazavou/",
+   "name": "District Court in Žďár nad Sázavou",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/okresni-soud-v-pardubicich/",
+   "name": "District Court of Pardubice",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/vrchni-soud-v-olomouci/",
+   "name": "High Court in Olomouc",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz/web/vrchni-soud-v-praze/",
+   "name": "High Court in Prague",
+   "kind": "government"
+  },
+  {
+   "country": "CZE",
+   "url": "https://www.justice.cz",
+   "name": "Register of Lobbyists (Ministry of Justice)",
+   "kind": "government"
+  },
+  {
+   "country": "DEU",
+   "url": "https://schiedsgerichtsbarkeit-ns-raubgut.de/en",
+   "name": "Arbitration Tribunal (Schiedsgerichtsbarkeit NS-Raubgut)",
+   "kind": "government"
+  },
+  {
+   "country": "DEU",
+   "url": "https://www.bayern.verfassungsgerichtshof.de/",
+   "name": "Bavarian Constitutional Court",
+   "kind": "government"
+  },
+  {
+   "country": "DEU",
+   "url": "http://www.berlin.de/sen/justiz/gerichte/lverfgh/",
+   "name": "Constitutional Court of the State of Berlin",
+   "kind": "government"
+  },
+  {
+   "country": "DEU",
+   "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/",
+   "name": "District Court München I",
+   "kind": "government"
+  },
+  {
+   "country": "DEU",
+   "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-2/",
+   "name": "District Court München II",
+   "kind": "government"
+  },
+  {
+   "country": "DEU",
+   "url": "https://www.destatis.de/",
+   "name": "Federal Statistical Office (Destatis)",
+   "kind": "government"
+  },
+  {
+   "country": "DEU",
+   "url": "https://www.wikidata.org/wiki/Q1758362",
+   "name": "State Constitutional Court of Schleswig-Holstein",
+   "kind": "government"
+  },
+  {
+   "country": "DEU",
+   "url": "https://verfassungsgerichtshof.thueringen.de/",
+   "name": "Thuringian Constitutional Court",
+   "kind": "government"
+  },
+  {
+   "country": "DEU",
+   "url": "https://www.berlin.de/gerichte/amtsgericht-wedding/",
+   "name": "district court Wedding",
+   "kind": "government"
+  },
+  {
+   "country": "DJI",
+   "url": "http://www.courdescomptes.dj/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "DMA",
+   "url": "https://www.eccourts.org/",
+   "name": "Eastern Caribbean Supreme Court (ECSC)",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://naevneneshus.dk/start-din-klage/konkurrenceankenaevnet/",
+   "name": "Danish Competition Appeals Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q113581428",
+   "name": "District Court of Holstebro",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q113585198",
+   "name": "District Court of Kolding",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q113581418",
+   "name": "Herning District Court",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q20729415",
+   "name": "Hjørring District Court",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q12333323",
+   "name": "Holbæk District Court",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q113581433",
+   "name": "Horsens District Court",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://skatteankestyrelsen.dk/om-os/landsskatteretten",
+   "name": "National Tax Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q113585241",
+   "name": "Randers District Court",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q1652019",
+   "name": "Supreme Court of Denmark",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q113585257",
+   "name": "Svendborg District Court",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.udbud.dk/",
+   "name": "Udbud.dk (Public Procurement)",
+   "kind": "government"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.wikidata.org/wiki/Q21014527",
+   "name": "Viborg District Court",
+   "kind": "government"
+  },
+  {
+   "country": "DOM",
+   "url": "https://ambiente.gob.do/",
+   "name": "Ministerio de Medio Ambiente y Recursos Naturales (República Dominicana)",
+   "kind": "government"
+  },
+  {
+   "country": "DZA",
+   "url": "https://www.ccomptes.dz/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "DZA",
+   "url": "http://www.ccomptes.org.dz",
+   "name": "Cour des comptes (Algérie)",
+   "kind": "government"
+  },
+  {
+   "country": "ECU",
+   "url": "https://www.corteconstitucional.gob.ec/",
+   "name": "Constitutional Court of Ecuador",
+   "kind": "government"
+  },
+  {
+   "country": "ECU",
+   "url": "https://www.contraloria.gob.ec/",
+   "name": "Contraloría General del Estado",
+   "kind": "government"
+  },
+  {
+   "country": "EGY",
+   "url": "https://asa.gov.eg/",
+   "name": "Accountability State Authority",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "https://www.sepblac.es",
+   "name": "Executive Service of the Commission for the Prevention of Money Laundering and Monetary Offences",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/",
+   "name": "High Court of Justice of Andalusia",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Asturias/",
+   "name": "High Court of Justice of Asturias",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Cantabria/",
+   "name": "High Court of Justice of Cantabria",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "http://www.poderjudicial.es/cgpj/es/Poder_Judicial/Tribunales_Superiores_de_Justicia/TSJ_Extremadura",
+   "name": "High Court of Justice of Extremadura",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Galicia/",
+   "name": "High Court of Justice of Galicia",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-La-Rioja/",
+   "name": "High Court of Justice of La Rioja",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Madrid/",
+   "name": "High Court of Justice of Madrid",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Canarias/",
+   "name": "High Court of Justice of the Canary Islands",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/",
+   "name": "High Court of Justice of the Land of Valencia",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "http://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Region-de-Murcia/",
+   "name": "High Court of Justice of the Region of Murcia",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "http://www.poderjudicial.es/cgpj/",
+   "name": "Second Chamber of the Supreme Court of Spain",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "https://www.tcu.es/",
+   "name": "Tribunal de Cuentas",
+   "kind": "government"
+  },
+  {
+   "country": "ESP",
+   "url": "https://www.nunciaturapostolica.es/index.php/tribunal-de-la-rota/",
+   "name": "Tribunal of the Rota of the Apostolic Nunciature in Spain",
+   "kind": "government"
+  },
+  {
+   "country": "EST",
+   "url": "http://www.riigikontroll.ee/",
+   "name": "National Audit Office (Riigikontroll)",
+   "kind": "government"
+  },
+  {
+   "country": "EST",
+   "url": "https://www.riigikohus.ee/",
+   "name": "Supreme Court of Estonia",
+   "kind": "government"
+  },
+  {
+   "country": "EST",
+   "url": "https://www.wikidata.org/wiki/Q1514159",
+   "name": "Supreme Court of Estonia",
+   "kind": "government"
+  },
+  {
+   "country": "ETH",
+   "url": "https://www.fsc.gov.et/",
+   "name": "Federal Supreme Court of Ethiopia",
+   "kind": "government"
+  },
+  {
+   "country": "ETH",
+   "url": "http://www.ofag.gov.et/",
+   "name": "Office of the Federal Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "FIN",
+   "url": "http://www.vtv.fi/",
+   "name": "National Audit Office (VTV)",
+   "kind": "government"
+  },
+  {
+   "country": "FIN",
+   "url": "https://www.wikidata.org/wiki/Q98447435",
+   "name": "National Non-Discrimination and Equality Tribunal of Finland",
+   "kind": "government"
+  },
+  {
+   "country": "FIN",
+   "url": "https://www.yvtltk.fi/en/index.html",
+   "name": "National Non-Discrimination and Equality Tribunal of Finland",
+   "kind": "government"
+  },
+  {
+   "country": "FIN",
+   "url": "https://oikeus.fi/hovioikeudet/rovaniemenhovioikeus/fi/index.html",
+   "name": "Rovaniemi Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "FJI",
+   "url": "https://www.statsfiji.gov.fj/",
+   "name": "Fiji Bureau of Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "FJI",
+   "url": "http://www.oag.gov.fj/",
+   "name": "Office of the Auditor-General",
+   "kind": "government"
+  },
+  {
+   "country": "FRA",
+   "url": "http://paris.cour-administrative-appel.fr/",
+   "name": "Administrative Court of Appeal of Paris",
+   "kind": "government"
+  },
+  {
+   "country": "FRA",
+   "url": "https://www.ccomptes.fr/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "FRA",
+   "url": "https://www.marches-publics.gouv.fr/",
+   "name": "PLACE – Marchés Publics",
+   "kind": "government"
+  },
+  {
+   "country": "FRA",
+   "url": "https://www.cours-appel.justice.fr/rennes/tribunal-judiciaire-de-rennes",
+   "name": "Tribunal judiciaire de Rennes",
+   "kind": "government"
+  },
+  {
+   "country": "FRA",
+   "url": "https://www.cours-appel.justice.fr/toulouse/palais-de-justice-de-toulouse",
+   "name": "Tribunal judiciaire de Toulouse",
+   "kind": "government"
+  },
+  {
+   "country": "FRA",
+   "url": "https://www.cours-appel.justice.fr/nimes/les-tribunaux-de-nimes",
+   "name": "tribunal judiciaire de Nîmes",
+   "kind": "government"
+  },
+  {
+   "country": "FRO",
+   "url": "https://www.wikidata.org/wiki/Q11997657",
+   "name": "Faroe Islands District Court",
+   "kind": "government"
+  },
+  {
+   "country": "GAB",
+   "url": "https://www.wikidata.org/wiki/Q65119209",
+   "name": "Constitutional Court of Gabon",
+   "kind": "government"
+  },
+  {
+   "country": "GAB",
+   "url": "https://courcomptes.ga/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "GAB",
+   "url": "http://www.ccomptes.ga",
+   "name": "Cour des comptes du Gabon",
+   "kind": "government"
+  },
+  {
+   "country": "GAB",
+   "url": "https://www.journal-officiel.ga/21717-0136-pr-mjgs-/",
+   "name": "Tribunal de première instance (Gabon)",
+   "kind": "government"
+  },
+  {
+   "country": "GAB",
+   "url": "https://www.wikidata.org/wiki/Q139566915",
+   "name": "Tribunal de première instance (Gabon)",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.gov.uk/government/organisations/companies-house",
+   "name": "Companies House – PSC (People with Significant Control)",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.catribunal.org.uk/",
+   "name": "Competition Appeal Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.judiciary.gov.uk/you-and-the-judiciary/going-to-court/court-of-appeal-home/",
+   "name": "Court of Appeal of England and Wales",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://environment.data.gov.uk/public-register/view/index",
+   "name": "Environment Agency public registers",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.companieshouse.gi/",
+   "name": "Gibraltar Companies House (company register)",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "http://www.justice.gov.uk/about/hmcts/",
+   "name": "High Court of Justice",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.scotcourts.gov.uk/courts-and-tribunals/the-supreme-courts/the-high-court-of-justiciary/",
+   "name": "High Court of Justiciary",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.justice.org.uk",
+   "name": "JUSTICE (UK Section of the International Commission of Jurists)",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.wikidata.org/wiki/Q6485009",
+   "name": "Lands Tribunal for Scotland",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.gov.uk/government/organisations/legal-aid-agency",
+   "name": "Legal Aid Agency",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.mhtscotland.gov.uk/mhts/Home/Welcome_to_the_Mental_Health_Tribunal",
+   "name": "Mental Health Tribunal for Scotland",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.nao.org.uk/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.patscotland.org.uk/",
+   "name": "Pensions Appeal Tribunal Scotland",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.gov.uk/government/organisations/plant-varieties-and-seeds-tribunal",
+   "name": "Plant Varieties and Seeds Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.gov.uk/government/organisations/police-discipline-appeals-tribunal",
+   "name": "Police Discipline Appeals Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.solicitorstribunal.org.uk/",
+   "name": "Solicitors Disciplinary Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.thebureauinvestigates.com/",
+   "name": "The Bureau of Investigative Journalism (TBIJ)",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.supremecourt.uk/",
+   "name": "UK Supreme Court",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.scotcourts.gov.uk/the-courts/tribunal-locations/the-upper-tribunal-for-scotland",
+   "name": "Upper Tribunal for Scotland",
+   "kind": "government"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.gov.uk/government/organisations/valuation-tribunal-for-england",
+   "name": "Valuation Tribunal for England",
+   "kind": "government"
+  },
+  {
+   "country": "GEO",
+   "url": "https://rcda.ge/",
+   "name": "Rural communities development agency — 1,200 members, offices in eight regions, and staff who help write district and community development plans",
+   "kind": "government"
+  },
+  {
+   "country": "GEO",
+   "url": "http://www.sao.ge/",
+   "name": "State Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "GEO",
+   "url": "https://www.supremecourt.ge/",
+   "name": "Supreme Court of Georgia",
+   "kind": "government"
+  },
+  {
+   "country": "GHA",
+   "url": "https://chraj.gov.gh",
+   "name": "Commission on Human Rights and Administrative Justice (CHRAJ)",
+   "kind": "government"
+  },
+  {
+   "country": "GHA",
+   "url": "https://dataprotection.org.gh/",
+   "name": "Data Protection Commission (Ghana)",
+   "kind": "government"
+  },
+  {
+   "country": "GHA",
+   "url": "https://www.statsghana.gov.gh/",
+   "name": "Ghana Statistical Service",
+   "kind": "government"
+  },
+  {
+   "country": "GHA",
+   "url": "https://orc.gov.gh",
+   "name": "Office of the Registrar of Companies (ORC)",
+   "kind": "government"
+  },
+  {
+   "country": "GHA",
+   "url": "https://rtic.gov.gh",
+   "name": "Right to Information Commission (Ghana)",
+   "kind": "government"
+  },
+  {
+   "country": "GIN",
+   "url": "http://www.ccomptes.org.gn/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "GMB",
+   "url": "https://nea.gm/inspectorate-overview",
+   "name": "NEA Inspectorate — 26 inspectors for the whole country, and every enforcement notice on record fell inside Greater Banjul",
+   "kind": "government"
+  },
+  {
+   "country": "GMB",
+   "url": "https://www.nao.gm/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "GNB",
+   "url": "http://www.tribunaldecontas.gw/",
+   "name": "Tribunal de Contas",
+   "kind": "government"
+  },
+  {
+   "country": "GRC",
+   "url": "https://www.areiospagos.gr/",
+   "name": "Areios Pagos (Supreme Court)",
+   "kind": "government"
+  },
+  {
+   "country": "GRC",
+   "url": "https://www.dpa.gr/",
+   "name": "Hellenic Data Protection Authority (HDPA)",
+   "kind": "government"
+  },
+  {
+   "country": "GRC",
+   "url": "https://www.statistics.gr/",
+   "name": "Hellenic Statistical Authority (ELSTAT)",
+   "kind": "government"
+  },
+  {
+   "country": "GRD",
+   "url": "https://www.eccourts.org/",
+   "name": "Eastern Caribbean Supreme Court (ECSC)",
+   "kind": "government"
+  },
+  {
+   "country": "GTM",
+   "url": "https://www.contraloria.gob.gt/",
+   "name": "Contraloría General de Cuentas",
+   "kind": "government"
+  },
+  {
+   "country": "GTM",
+   "url": "https://www.registromercantil.gob.gt/",
+   "name": "Registro Mercantil",
+   "kind": "government"
+  },
+  {
+   "country": "GUY",
+   "url": "https://www.audit.org.gy/",
+   "name": "Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "HND",
+   "url": "https://www.wikidata.org/wiki/Q7644913",
+   "name": "Supreme Court of Honduras",
+   "kind": "government"
+  },
+  {
+   "country": "HND",
+   "url": "https://www.tsc.gob.hn/",
+   "name": "Tribunal Superior de Cuentas",
+   "kind": "government"
+  },
+  {
+   "country": "HRV",
+   "url": "https://www.sukobinteresa.hr/",
+   "name": "Conflict of Interest Commission",
+   "kind": "government"
+  },
+  {
+   "country": "HRV",
+   "url": "https://www.dzs.hr/",
+   "name": "Croatian Bureau of Statistics (DZS)",
+   "kind": "government"
+  },
+  {
+   "country": "HRV",
+   "url": "http://www.revizija.hr/",
+   "name": "State Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "HRV",
+   "url": "https://www.vsrh.hr/",
+   "name": "Supreme Court of Croatia",
+   "kind": "government"
+  },
+  {
+   "country": "HUN",
+   "url": "https://www.ksh.hu/",
+   "name": "Hungarian Central Statistical Office (KSH)",
+   "kind": "government"
+  },
+  {
+   "country": "HUN",
+   "url": "https://www.naih.hu/",
+   "name": "Hungarian National Authority for Data Protection and Freedom of Information (NAIH)",
+   "kind": "government"
+  },
+  {
+   "country": "HUN",
+   "url": "http://www.asz.hu/",
+   "name": "State Audit Office (ÁSZ)",
+   "kind": "government"
+  },
+  {
+   "country": "HUN",
+   "url": "https://pafi.hu/p/kornyezetvedelmi-palyazat-civil-szervezetek-szamara",
+   "name": "The ministry's environmental call for civil organisations — 100 per cent of eligible costs",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q25459930",
+   "name": "Banda Aceh High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q25463528",
+   "name": "Banjarmasin High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.pn-bobong.go.id/",
+   "name": "Bobong district court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://sipp.pn-calang.go.id/",
+   "name": "Calang District Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q25463547",
+   "name": "Central Sulawesi High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q25462919",
+   "name": "Gorontalo High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q25463455",
+   "name": "Jambi High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.kpk.go.id/",
+   "name": "KPK – Corruption Eradication Commission",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://komisiinformasi.go.id",
+   "name": "Komisi Informasi Pusat (Central Information Commission)",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.pt-mataram.go.id",
+   "name": "Mataram High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q136644810",
+   "name": "North Kalimantan High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q25463536",
+   "name": "Palangka Raya High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q25463510",
+   "name": "Palembang High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q130305208",
+   "name": "Sanana District Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q25463552",
+   "name": "Southeast Sulawesi High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.wikidata.org/wiki/Q25463453",
+   "name": "Tanjung Karang High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://pn-wamena.go.id/new/",
+   "name": "Wamena District Court",
+   "kind": "government"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.pt-papuabarat.go.id",
+   "name": "West Papua High Court",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://cic.gov.in/",
+   "name": "Central Information Commission (CIC)",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://eprocure.gov.in/",
+   "name": "Central Public Procurement Portal",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://cag.gov.in/",
+   "name": "Comptroller & Auditor General of India",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.wikidata.org/wiki/Q50322321",
+   "name": "District Court, Dhemaji, Assam",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.wikidata.org/wiki/Q50322373",
+   "name": "District Court, Goalpara, Assam",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.wikidata.org/wiki/Q50348792",
+   "name": "District Court, Sivasagar, Assam",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.wikidata.org/wiki/Q3536613",
+   "name": "High Court of Jammu and Kashmir and Ladakh",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.mca.gov.in/",
+   "name": "MCA – Ministry of Corporate Affairs",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.mospi.gov.in/",
+   "name": "Ministry of Statistics & Programme Implementation (MoSPI)",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://nalsa.gov.in/",
+   "name": "NALSA (Legal Services Authority)",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.sci.gov.in/",
+   "name": "Supreme Court of India",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.sci.gov.in/judgements-case-no/",
+   "name": "Supreme Court of India – Judgments",
+   "kind": "government"
+  },
+  {
+   "country": "IND",
+   "url": "https://judgments.ecourts.gov.in/",
+   "name": "eCourts – Judgments (Supreme Court & High Courts)",
+   "kind": "government"
+  },
+  {
+   "country": "IRL",
+   "url": "https://www.audit.gov.ie/",
+   "name": "Office of the Comptroller and Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "IRN",
+   "url": "https://dmk.ir/",
+   "name": "Supreme Audit Court (Divan Mohasebat)",
+   "kind": "government"
+  },
+  {
+   "country": "IRN",
+   "url": "https://www.wikidata.org/wiki/Q13107481",
+   "name": "Supreme Court of Iran",
+   "kind": "government"
+  },
+  {
+   "country": "IRQ",
+   "url": "https://www.fbsa.gov.iq/",
+   "name": "Federal Board of Supreme Audit",
+   "kind": "government"
+  },
+  {
+   "country": "IRQ",
+   "url": "https://www.wikidata.org/wiki/Q3001100",
+   "name": "Supreme Court of Iraq",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q120295723",
+   "name": "Austurlands District Court (Iceland)",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q50296037",
+   "name": "Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://rikisendurskodun.is/",
+   "name": "Icelandic National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q120295347",
+   "name": "Norðurlands eystra District Court (Iceland)",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q120295153",
+   "name": "Norðurlands vestra District Court (Iceland)",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q120296176",
+   "name": "Reykjaness District Court (Iceland)",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q120292599",
+   "name": "Reykjavík District Court (Iceland)",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q135356",
+   "name": "Supreme Court of Iceland",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.haestirettur.is/",
+   "name": "Supreme Court of Iceland (Hæstiréttur)",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q120295904",
+   "name": "Suðurlands District Court (Iceland)",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q120294956",
+   "name": "Vestfjarða District Court (Iceland)",
+   "kind": "government"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.wikidata.org/wiki/Q120294413",
+   "name": "Vesturlands District Court (Iceland)",
+   "kind": "government"
+  },
+  {
+   "country": "ISR",
+   "url": "https://www.cbs.gov.il/",
+   "name": "Central Bureau of Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "ISR",
+   "url": "https://www.gov.il/en/departments/corporations_authority",
+   "name": "Corporations Authority",
+   "kind": "government"
+  },
+  {
+   "country": "ISR",
+   "url": "https://www.gov.il/en/departments/israel_corporations_authority/govil-landing-page",
+   "name": "Israel Corporations Authority",
+   "kind": "government"
+  },
+  {
+   "country": "ISR",
+   "url": "https://www.gov.il/he/departments/topics/registrar_of_companies/govil-landing-page",
+   "name": "Israeli registrar of companies",
+   "kind": "government"
+  },
+  {
+   "country": "ISR",
+   "url": "https://supreme.court.gov.il/",
+   "name": "Supreme Court of Israel",
+   "kind": "government"
+  },
+  {
+   "country": "ISR",
+   "url": "https://www.gov.il/en/departments/the_privacy_protection_authority/govil-landing-page",
+   "name": "The Privacy Protection Authority (PPA)",
+   "kind": "government"
+  },
+  {
+   "country": "ITA",
+   "url": "http://www.corteconti.it/",
+   "name": "Corte dei conti",
+   "kind": "government"
+  },
+  {
+   "country": "ITA",
+   "url": "https://www.cortedicassazione.it",
+   "name": "Supreme Court of Cassation",
+   "kind": "government"
+  },
+  {
+   "country": "JAM",
+   "url": "http://www.auditorgeneral.gov.jm/",
+   "name": "Auditor General's Department",
+   "kind": "government"
+  },
+  {
+   "country": "JAM",
+   "url": "https://www.gojep.gov.jm/",
+   "name": "GOJEP e-Procurement",
+   "kind": "government"
+  },
+  {
+   "country": "JAM",
+   "url": "https://statinja.gov.jm/",
+   "name": "Statistical Institute of Jamaica",
+   "kind": "government"
+  },
+  {
+   "country": "JAM",
+   "url": "https://supremecourt.gov.jm/",
+   "name": "Supreme Court of Jamaica",
+   "kind": "government"
+  },
+  {
+   "country": "JOR",
+   "url": "https://ab.gov.jo/",
+   "name": "Audit Bureau",
+   "kind": "government"
+  },
+  {
+   "country": "JOR",
+   "url": "https://dosweb.dos.gov.jo/",
+   "name": "Department of Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "JOR",
+   "url": "https://www.moj.gov.jo",
+   "name": "Financial Disclosure Department (Ministry of Justice)",
+   "kind": "government"
+  },
+  {
+   "country": "JOR",
+   "url": "https://www.joneps.gov.jo/",
+   "name": "JONEPS e-Procurement",
+   "kind": "government"
+  },
+  {
+   "country": "JOR",
+   "url": "https://www.wikidata.org/wiki/Q3000935",
+   "name": "Jordanian Constitutional Court",
+   "kind": "government"
+  },
+  {
+   "country": "JPN",
+   "url": "https://www.mof.go.jp/",
+   "name": "Ministry of Finance – Budget",
+   "kind": "government"
+  },
+  {
+   "country": "JPN",
+   "url": "https://www.houjin-bangou.nta.go.jp/",
+   "name": "National Tax Agency – Corporate Number",
+   "kind": "government"
+  },
+  {
+   "country": "JPN",
+   "url": "https://www.ppc.go.jp/en/",
+   "name": "Personal Information Protection Commission (PPC)",
+   "kind": "government"
+  },
+  {
+   "country": "JPN",
+   "url": "https://www.stat.go.jp/",
+   "name": "Statistics Bureau of Japan",
+   "kind": "government"
+  },
+  {
+   "country": "KAZ",
+   "url": "https://stat.gov.kz/",
+   "name": "Bureau of National Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "KAZ",
+   "url": "https://www.gov.kz/memleket/entities/ksrk",
+   "name": "Constitutional Court of the Republic of Kazakhstan",
+   "kind": "government"
+  },
+  {
+   "country": "KAZ",
+   "url": "https://www.gov.kz/memleket/entities/esep",
+   "name": "Supreme Audit Chamber",
+   "kind": "government"
+  },
+  {
+   "country": "KAZ",
+   "url": "https://sud.gov.kz/",
+   "name": "Supreme Court of Kazakhstan",
+   "kind": "government"
+  },
+  {
+   "country": "KEN",
+   "url": "https://www.ombudsman.go.ke/",
+   "name": "Commission on Administrative Justice (Office of the Ombudsman, Kenya)",
+   "kind": "government"
+  },
+  {
+   "country": "KEN",
+   "url": "https://eacc.go.ke",
+   "name": "Ethics and Anti-Corruption Commission (EACC)",
+   "kind": "government"
+  },
+  {
+   "country": "KEN",
+   "url": "https://icj-kenya.org/",
+   "name": "ICJ Kenya (Kenyan Section, International Commission of Jurists)",
+   "kind": "government"
+  },
+  {
+   "country": "KEN",
+   "url": "https://www.knbs.or.ke/",
+   "name": "Kenya National Bureau of Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "KEN",
+   "url": "https://new.kenyalaw.org/judgments/KELAT/2026/2/",
+   "name": "Land Acquisition Tribunal — 30 days to appeal an award, and going to court first gets your case struck out",
+   "kind": "government"
+  },
+  {
+   "country": "KEN",
+   "url": "https://new.kenyalaw.org/akn/ke/act/ln/2003/177/eng@2022-12-31",
+   "name": "National Environment Tribunal — 60 days to appeal a decision nobody is required to tell you about, and six copies of the notice",
+   "kind": "government"
+  },
+  {
+   "country": "KEN",
+   "url": "https://www.oagkenya.go.ke/",
+   "name": "Office of the Auditor-General",
+   "kind": "government"
+  },
+  {
+   "country": "KEN",
+   "url": "https://tenders.go.ke/",
+   "name": "Public Procurement Portal",
+   "kind": "government"
+  },
+  {
+   "country": "KGZ",
+   "url": "http://www.esep.kg/",
+   "name": "Accounts Chamber",
+   "kind": "government"
+  },
+  {
+   "country": "KHM",
+   "url": "http://www.naa.gov.kh/",
+   "name": "National Audit Authority",
+   "kind": "government"
+  },
+  {
+   "country": "KIR",
+   "url": "https://kao.gov.ki/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "KNA",
+   "url": "https://www.eccourts.org/",
+   "name": "Eastern Caribbean Supreme Court (ECSC)",
+   "kind": "government"
+  },
+  {
+   "country": "KOR",
+   "url": "http://dggodung.scourt.go.kr/",
+   "name": "Daegu High Court",
+   "kind": "government"
+  },
+  {
+   "country": "KOR",
+   "url": "http://gjgodung.scourt.go.kr/",
+   "name": "Gwangju High Court",
+   "kind": "government"
+  },
+  {
+   "country": "KOR",
+   "url": "https://www.g2b.go.kr/",
+   "name": "KONEPS (Public Procurement Service)",
+   "kind": "government"
+  },
+  {
+   "country": "KOR",
+   "url": "https://seoul.scourt.go.kr/",
+   "name": "Seoul Central District Court",
+   "kind": "government"
+  },
+  {
+   "country": "KOR",
+   "url": "https://sldongbu.scourt.go.kr/",
+   "name": "Seoul Eastern District Court",
+   "kind": "government"
+  },
+  {
+   "country": "KOR",
+   "url": "https://eng.scourt.go.kr/",
+   "name": "Supreme Court of Korea",
+   "kind": "government"
+  },
+  {
+   "country": "KOR",
+   "url": "https://portal.scourt.go.kr/",
+   "name": "Supreme Court of Korea – Comprehensive Legal Information",
+   "kind": "government"
+  },
+  {
+   "country": "KOR",
+   "url": "http://swgodung.scourt.go.kr/",
+   "name": "Suwon High Court",
+   "kind": "government"
+  },
+  {
+   "country": "KWT",
+   "url": "https://www.capt.gov.kw/",
+   "name": "Central Agency for Public Tenders (CAPT)",
+   "kind": "government"
+  },
+  {
+   "country": "KWT",
+   "url": "https://www.moj.gov.kw/",
+   "name": "Ministry of Justice (Kuwait)",
+   "kind": "government"
+  },
+  {
+   "country": "KWT",
+   "url": "https://www.sab.gov.kw/",
+   "name": "State Audit Bureau",
+   "kind": "government"
+  },
+  {
+   "country": "LBR",
+   "url": "https://www.gac.gov.lr/",
+   "name": "General Auditing Commission",
+   "kind": "government"
+  },
+  {
+   "country": "LBR",
+   "url": "https://iicliberia.info",
+   "name": "Independent Information Commission (Liberia)",
+   "kind": "government"
+  },
+  {
+   "country": "LBY",
+   "url": "https://audit.gov.ly/",
+   "name": "Audit Bureau",
+   "kind": "government"
+  },
+  {
+   "country": "LCA",
+   "url": "https://www.eccourts.org/",
+   "name": "Eastern Caribbean Supreme Court (ECSC)",
+   "kind": "government"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.dpa.gov.lk/",
+   "name": "Data Protection Authority of Sri Lanka",
+   "kind": "government"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.statistics.gov.lk/",
+   "name": "Department of Census and Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.drc.gov.lk",
+   "name": "Department of the Registrar of Companies (Sri Lanka)",
+   "kind": "government"
+  },
+  {
+   "country": "LKA",
+   "url": "https://legalaid.gov.lk/",
+   "name": "Legal Aid Commission — 77 centres island-wide, advice regardless of means, representation under an income line",
+   "kind": "government"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.moj.gov.lk/index.php/en/departments-institutes/institutions/legal-aid-commission-of-sri-lanka",
+   "name": "Legal Aid Commission — 77 centres, focused on litigation",
+   "kind": "government"
+  },
+  {
+   "country": "LKA",
+   "url": "https://auditorgeneral.gov.lk",
+   "name": "National Audit Office (Sri Lanka)",
+   "kind": "government"
+  },
+  {
+   "country": "LKA",
+   "url": "https://eroc.drc.gov.lk/",
+   "name": "Registrar of Companies",
+   "kind": "government"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.rticommission.lk/",
+   "name": "Right to Information Commission (RTIC)",
+   "kind": "government"
+  },
+  {
+   "country": "LSO",
+   "url": "https://www.dceo.org.ls",
+   "name": "Directorate on Corruption and Economic Offences (DCEO)",
+   "kind": "government"
+  },
+  {
+   "country": "LSO",
+   "url": "http://www.auditgen.org.ls/",
+   "name": "Office of the Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "LSO",
+   "url": "https://auditorgeneral.org.ls/",
+   "name": "Office of the Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "LTU",
+   "url": "https://www.vtek.lt/",
+   "name": "Chief Official Ethics Commission (VTEK)",
+   "kind": "government"
+  },
+  {
+   "country": "LTU",
+   "url": "https://www.valstybeskontrole.lt/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "LTU",
+   "url": "https://vdai.lrv.lt/",
+   "name": "State Data Protection Inspectorate (VDAI)",
+   "kind": "government"
+  },
+  {
+   "country": "LTU",
+   "url": "https://www.lat.lt/",
+   "name": "Supreme Court of Lithuania",
+   "kind": "government"
+  },
+  {
+   "country": "LTU",
+   "url": "https://aaa.lrv.lt/lt/nuorodos/aplinkosaugines-organizacijos-lietuvoje/",
+   "name": "The state agency's OWN list of Lithuanian environmental organisations",
+   "kind": "government"
+  },
+  {
+   "country": "LUX",
+   "url": "https://cnpd.lu/",
+   "name": "Commission Nationale pour la Protection des Données (CNPD)",
+   "kind": "government"
+  },
+  {
+   "country": "LUX",
+   "url": "http://www.cour-des-comptes.lu/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "LUX",
+   "url": "https://www.cc.public.lu/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "LUX",
+   "url": "https://www.wikidata.org/wiki/Q1142069",
+   "name": "European Union Civil Service Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "LUX",
+   "url": "https://marches.public.lu/",
+   "name": "Marchés Publics",
+   "kind": "government"
+  },
+  {
+   "country": "LUX",
+   "url": "https://www.lbr.lu/",
+   "name": "RCS (Registre de Commerce)",
+   "kind": "government"
+  },
+  {
+   "country": "LVA",
+   "url": "https://www.csb.gov.lv/",
+   "name": "Central Statistical Bureau of Latvia",
+   "kind": "government"
+  },
+  {
+   "country": "LVA",
+   "url": "http://www.satv.tiesa.gov.lv",
+   "name": "Constitutional Court of the Republic of Latvia",
+   "kind": "government"
+  },
+  {
+   "country": "LVA",
+   "url": "https://www.dvi.gov.lv/",
+   "name": "Data State Inspectorate (DVI)",
+   "kind": "government"
+  },
+  {
+   "country": "LVA",
+   "url": "http://www.lrvk.gov.lv/",
+   "name": "State Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "LVA",
+   "url": "https://www.at.gov.lv/",
+   "name": "Supreme Court of Latvia",
+   "kind": "government"
+  },
+  {
+   "country": "MAR",
+   "url": "https://www.cdai.ma",
+   "name": "Commission du Droit d’Accès à l’Information (CDAI)",
+   "kind": "government"
+  },
+  {
+   "country": "MAR",
+   "url": "https://www.courdescomptes.ma/",
+   "name": "Cour des comptes",
+   "kind": "government"
+  },
+  {
+   "country": "MAR",
+   "url": "https://www.marchespublics.gov.ma/",
+   "name": "Marchés Publics",
+   "kind": "government"
+  },
+  {
+   "country": "MDA",
+   "url": "https://www.constcourt.md/?l=en",
+   "name": "Constitutional Court of Moldova",
+   "kind": "government"
+  },
+  {
+   "country": "MDA",
+   "url": "https://mtender.gov.md/en",
+   "name": "MTender (Public e-Procurement System)",
+   "kind": "government"
+  },
+  {
+   "country": "MDA",
+   "url": "https://www.statistica.md/",
+   "name": "National Bureau of Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "MDA",
+   "url": "https://www.ani.md/",
+   "name": "National Integrity Authority (ANI)",
+   "kind": "government"
+  },
+  {
+   "country": "MDA",
+   "url": "https://www.asp.gov.md/",
+   "name": "Public Services Agency (ASP)",
+   "kind": "government"
+  },
+  {
+   "country": "MDG",
+   "url": "http://www.hcc.gov.mg/",
+   "name": "High Constitutional Court of Madagascar",
+   "kind": "government"
+  },
+  {
+   "country": "MDV",
+   "url": "http://www.audit.gov.mv/",
+   "name": "Auditor General's Office",
+   "kind": "government"
+  },
+  {
+   "country": "MDV",
+   "url": "https://www.supremecourt.gov.mv/",
+   "name": "Supreme Court of Maldives",
+   "kind": "government"
+  },
+  {
+   "country": "MEX",
+   "url": "https://www.scjn.gob.mx/",
+   "name": "Supreme Court of Justice of the Nation",
+   "kind": "government"
+  },
+  {
+   "country": "MEX",
+   "url": "https://www.poderjudicialcdmx.gob.mx/tribunal/",
+   "name": "Tribunal Superior de Justicia de la Ciudad de México",
+   "kind": "government"
+  },
+  {
+   "country": "MHL",
+   "url": "http://www.rmioag.com/",
+   "name": "Office of the Auditor-General",
+   "kind": "government"
+  },
+  {
+   "country": "MKD",
+   "url": "http://komspi.mk",
+   "name": "Agency for Free Access to Public Information (KOMSPI)",
+   "kind": "government"
+  },
+  {
+   "country": "MKD",
+   "url": "https://aspi.mk/",
+   "name": "Agency for Protection of the Right to Free Access to Public Information (North Macedonia)",
+   "kind": "government"
+  },
+  {
+   "country": "MKD",
+   "url": "https://ustavensud.mk/en",
+   "name": "Constitutional Court of North Macedonia",
+   "kind": "government"
+  },
+  {
+   "country": "MKD",
+   "url": "https://azlp.mk/en/",
+   "name": "Personal Data Protection Agency (DZLP)",
+   "kind": "government"
+  },
+  {
+   "country": "MKD",
+   "url": "http://www.dzr.mk/",
+   "name": "State Audit Office (DZR)",
+   "kind": "government"
+  },
+  {
+   "country": "MKD",
+   "url": "https://www.dksk.mk/",
+   "name": "State Commission for Prevention of Corruption",
+   "kind": "government"
+  },
+  {
+   "country": "MKD",
+   "url": "https://www.stat.gov.mk/",
+   "name": "State Statistical Office",
+   "kind": "government"
+  },
+  {
+   "country": "MLT",
+   "url": "https://nao.gov.mt/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "MMR",
+   "url": "https://www.oagmac.gov.mm/",
+   "name": "Office of the Auditor General of the Union",
+   "kind": "government"
+  },
+  {
+   "country": "MNE",
+   "url": "https://www.azlp.me/en/home",
+   "name": "Agency for Personal Data Protection & Free Access to Information",
+   "kind": "government"
+  },
+  {
+   "country": "MNE",
+   "url": "https://www.azlp.me",
+   "name": "Agency for Personal Data Protection & Free Access to Information (AZLP)",
+   "kind": "government"
+  },
+  {
+   "country": "MNE",
+   "url": "https://www.ask.org.me/",
+   "name": "Agency for Prevention of Corruption (ASK)",
+   "kind": "government"
+  },
+  {
+   "country": "MNE",
+   "url": "https://www.cejn.gov.me/",
+   "name": "Electronic Public Procurement (CeJN)",
+   "kind": "government"
+  },
+  {
+   "country": "MNE",
+   "url": "http://www.dri.co.me/",
+   "name": "State Audit Institution",
+   "kind": "government"
+  },
+  {
+   "country": "MNE",
+   "url": "https://www.monstat.org/",
+   "name": "Statistical Office of Montenegro (MONSTAT)",
+   "kind": "government"
+  },
+  {
+   "country": "MNE",
+   "url": "https://sudovi.me/vrhs/",
+   "name": "Supreme Court of Montenegro",
+   "kind": "government"
+  },
+  {
+   "country": "MNG",
+   "url": "http://eng.burtgel.gov.mn/",
+   "name": "General Authority for State Registration",
+   "kind": "government"
+  },
+  {
+   "country": "MNG",
+   "url": "https://opendata.gov.mn",
+   "name": "General Authority for State Registration",
+   "kind": "government"
+  },
+  {
+   "country": "MNG",
+   "url": "https://www.tender.gov.mn/",
+   "name": "Government e-Procurement",
+   "kind": "government"
+  },
+  {
+   "country": "MNG",
+   "url": "http://www.audit.mn/",
+   "name": "Mongolian National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "MNG",
+   "url": "https://www.supremecourt.mn/",
+   "name": "Supreme Court of Mongolia",
+   "kind": "government"
+  },
+  {
+   "country": "MNG",
+   "url": "https://www.supremecourt.mn/en",
+   "name": "Supreme Court of Mongolia",
+   "kind": "government"
+  },
+  {
+   "country": "MRT",
+   "url": "http://www.cdcmr.mr",
+   "name": "Cour des comptes de Mauritanie",
+   "kind": "government"
+  },
+  {
+   "country": "MSR",
+   "url": "https://www.eccourts.org/",
+   "name": "Eastern Caribbean Supreme Court (ECSC)",
+   "kind": "government"
+  },
+  {
+   "country": "MUS",
+   "url": "https://eproc.publicprocurement.govmu.org/",
+   "name": "Mauritius e-Procurement",
+   "kind": "government"
+  },
+  {
+   "country": "MUS",
+   "url": "https://nao.govmu.org/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "MUS",
+   "url": "https://supremecourt.govmu.org/judgment-search",
+   "name": "Supreme Court of Mauritius",
+   "kind": "government"
+  },
+  {
+   "country": "MWI",
+   "url": "https://www.mhrcmw.org/",
+   "name": "Malawi Human Rights Commission (MHRC)",
+   "kind": "government"
+  },
+  {
+   "country": "MWI",
+   "url": "http://www.nao.gov.mw/",
+   "name": "National Audit Office",
+   "kind": "government"
+  },
+  {
+   "country": "MYS",
+   "url": "https://www.ssm-einfo.my/index.php",
+   "name": "Companies Commission of Malaysia",
+   "kind": "government"
+  },
+  {
+   "country": "MYS",
+   "url": "https://www.dosm.gov.my/",
+   "name": "Department of Statistics Malaysia (DOSM)",
+   "kind": "government"
+  },
+  {
+   "country": "MYS",
+   "url": "https://www.wikidata.org/wiki/Q118930250",
+   "name": "Department of Syariah Judiciary, Terengganu",
+   "kind": "government"
+  },
+  {
+   "country": "MYS",
+   "url": "https://www.sprm.gov.my/index.php/en/",
+   "name": "Malaysian Anti-Corruption Commission (MACC / SPRM)",
+   "kind": "government"
+  },
+  {
+   "country": "NAM",
+   "url": "https://www.bipa.na",
+   "name": "Business and Intellectual Property Authority (BIPA)",
+   "kind": "government"
+  },
+  {
+   "country": "NAM",
+   "url": "https://www.wikidata.org/wiki/Q1617731",
+   "name": "High Court of Namibia",
+   "kind": "government"
+  },
+  {
+   "country": "NAM",
+   "url": "https://egp1.gov.na/",
+   "name": "Namibia e-Procurement",
+   "kind": "government"
+  },
+  {
+   "country": "NAM",
+   "url": "https://oag.gov.na/",
+   "name": "Office of the Auditor-General",
+   "kind": "government"
+  },
+  {
+   "country": "NAM",
+   "url": "https://www.wikidata.org/wiki/Q1408827",
+   "name": "Supreme Court of Namibia",
+   "kind": "government"
+  },
+  {
+   "country": "NER",
+   "url": "http://www.courdescomptes.ne/",
+   "name": "Cour des Comptes",
+   "kind": "government"
+  },
+  {
+   "country": "NGA",
+   "url": "https://www.bpp.gov.ng/",
+   "name": "Bureau of Public Procurement (NOCOPO)",
+   "kind": "government"
+  },
+  {
+   "country": "NGA",
+   "url": "https://www.cac.gov.ng/",
+   "name": "Corporate Affairs Commission",
+   "kind": "government"
+  },
+  {
+   "country": "NGA",
+   "url": "https://www.efcc.gov.ng",
+   "name": "Economic and Financial Crimes Commission (EFCC)",
+   "kind": "government"
+  },
+  {
+   "country": "NGA",
+   "url": "https://www.wikidata.org/wiki/Q111943786",
+   "name": "Federal High Court of Nigeria",
+   "kind": "government"
+  },
+  {
+   "country": "NGA",
+   "url": "https://www.fcthighcourt.gov.ng",
+   "name": "High Court of the Federal Capital Territory",
+   "kind": "government"
+  },
+  {
+   "country": "NGA",
+   "url": "https://icpc.gov.ng",
+   "name": "Independent Corrupt Practices Commission (ICPC)",
+   "kind": "government"
+  },
+  {
+   "country": "NGA",
+   "url": "https://www.nigerianstat.gov.ng/",
+   "name": "National Bureau of Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "NGA",
+   "url": "https://ndpc.gov.ng/",
+   "name": "Nigeria Data Protection Commission (NDPC)",
+   "kind": "government"
+  },
+  {
+   "country": "NGA",
+   "url": "https://oaugf.ng/",
+   "name": "Office of the Auditor-General",
+   "kind": "government"
+  },
+  {
+   "country": "NIC",
+   "url": "https://www.cgr.gob.ni/",
+   "name": "Contraloría General de la República",
+   "kind": "government"
+  },
+  {
+   "country": "NLD",
+   "url": "https://njcm.nl",
+   "name": "NJCM (Dutch Section, International Commission of Jurists)",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "http://www.domstol.no/agder",
+   "name": "Agder Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/alstahaug",
+   "name": "Alstahaug District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "http://www.domstol.no/alta",
+   "name": "Alta District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/abtingrett",
+   "name": "Asker and Bærum District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/aust-telemark",
+   "name": "Aust-Telemark District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/bergen",
+   "name": "Bergen District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/drammen",
+   "name": "Drammen District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "http://www.domstol.no/eidsivating",
+   "name": "Eidsivating Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.klagenemndssekretariatet.no/energiklagenemnda",
+   "name": "Energy Tribunal of Norway",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/follo-og-nordre-ostfold-tingrett/",
+   "name": "Follo og Nordre Østfold District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/fosen",
+   "name": "Fosen District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/fredrikstad",
+   "name": "Fredrikstad District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/no/domstoler/lagmannsrett/frostating-lagmannsrett/",
+   "name": "Frostating Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/gjovik",
+   "name": "Gjøvik District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/glamdal",
+   "name": "Glåmdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/halden",
+   "name": "Halden District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/hallingdal",
+   "name": "Hallingdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/hammerfest",
+   "name": "Hammerfest District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/hardanger",
+   "name": "Hardanger District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/no/domstoler/tingrett/hardanger-og-voss-tingrett/",
+   "name": "Hardanger og Voss District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/haugaland",
+   "name": "Haugaland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/haugaland-og-sunnhordland-tingrett/",
+   "name": "Haugaland og Sunnhordland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/hedmarken",
+   "name": "Hedmarken District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/ostre-innlandet-tingrett/",
+   "name": "Hedmarken og Østerdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/heggenogfroland",
+   "name": "Heggen and Frøland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/helgeland-tingrett/",
+   "name": "Helgeland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/hordaland-tingrett/",
+   "name": "Hordaland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/en/enkelt-domstol/halogaland-lagmannsrett/",
+   "name": "Hålogaland Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "http://www.domstol.no/indrefinnmark",
+   "name": "Indre Finnmark District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/indre-og-ostre-finnmark-tingrett/",
+   "name": "Indre og Østre Finnmark District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/inntrondelag",
+   "name": "Inntrøndelag District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/jaren",
+   "name": "Jæren District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/larvik",
+   "name": "Larvik District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/lister",
+   "name": "Lister District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/lofoten",
+   "name": "Lofoten District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/moss",
+   "name": "Moss District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/more-og-romsdal/",
+   "name": "Møre og Romsdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/namdal",
+   "name": "Namdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/nero",
+   "name": "Nedre Romerike District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/nedre-telemark",
+   "name": "Nedre Telemark District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/nord-gudbrandsdal",
+   "name": "Nord-Gudbrandsdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/nordtroms",
+   "name": "Nord-Troms District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/nord-troms-og-senja-tingrett/",
+   "name": "Nord-Troms og Senja District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/nord-osterdal",
+   "name": "Nord-Østerdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/nordmore",
+   "name": "Nordmøre District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "http://www.riksrevisjonen.no/",
+   "name": "Office of the Auditor General (Riksrevisjonen)",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/ofoten",
+   "name": "Ofoten District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/oslo",
+   "name": "Oslo District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/rana",
+   "name": "Rana District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/ringerike",
+   "name": "Ringerike District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/no/domstoler/tingrett/ringerike-og-hallingdal-tingrett/",
+   "name": "Ringerike og Hallingdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/no/domstoler/tingrett/ringerike-asker-og-barum-tingrett/",
+   "name": "Ringerike, Asker og Bærum District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/romerike-og-glamdal-tingrett/",
+   "name": "Romerike og Glåmdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/romsdal",
+   "name": "Romsdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/salten",
+   "name": "Salten District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/salten-og-lofoten-tingrett/",
+   "name": "Salten og Lofoten District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/sandefjord",
+   "name": "Sandefjord District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/sarpsborg",
+   "name": "Sarpsborg District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "http://www.domstol.no/senja",
+   "name": "Senja District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/no/domstoler/tingrett/sogn-og-fjordane-tingrett/",
+   "name": "Sogn og Fjordane District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/sunnhordland",
+   "name": "Sunnhordland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/no/domstoler/tingrett/sondre-ostfold-tingrett/",
+   "name": "Søndre Østfold District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/sor-gudbrandsdal",
+   "name": "Sør-Gudbrandsdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/no/domstoler/tingrett/sor-rogaland-tingrett/",
+   "name": "Sør-Rogaland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/sor-osterdal",
+   "name": "Sør-Østerdal District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/sore",
+   "name": "Søre Sunnmøre District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/telemark-tingrett/",
+   "name": "Telemark District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/se/enkelt-domstol/Finnmarkku-meahcceduopmostuollu/",
+   "name": "The Finnmark Land Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "http://www.domstol.no/trondenes",
+   "name": "Trondenes District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/trondelag-tingrett/",
+   "name": "Trøndelag District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/tonsberg",
+   "name": "Tønsberg District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/valdres",
+   "name": "Valdres District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/vest-telemark",
+   "name": "Vest-Telemark District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/vesteralen",
+   "name": "Vesterålen District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/vestfold",
+   "name": "Vestfold District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/vestre-finnmark-tingrett/",
+   "name": "Vestre Finnmark District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/enkelt-domstol/vestre-innlandet--tingrett/",
+   "name": "Vestre Innlandet District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "http://www.domstol.no/ost-finnmark",
+   "name": "Øst-Finnmark District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NOR",
+   "url": "https://www.domstol.no/ovre-romerike",
+   "name": "Øvre Romerike District Court",
+   "kind": "government"
+  },
+  {
+   "country": "NPL",
+   "url": "https://ciaa.gov.np",
+   "name": "Commission for the Investigation of Abuse of Authority (CIAA)",
+   "kind": "government"
+  },
+  {
+   "country": "NPL",
+   "url": "https://www.nic.gov.np/",
+   "name": "National Information Commission (Nepal)",
+   "kind": "government"
+  },
+  {
+   "country": "NPL",
+   "url": "https://supremecourt.gov.np/",
+   "name": "Supreme Court of Nepal",
+   "kind": "government"
+  },
+  {
+   "country": "NZL",
+   "url": "https://www.courtsofnz.govt.nz/the-courts/high-court",
+   "name": "High Court of New Zealand",
+   "kind": "government"
+  },
+  {
+   "country": "NZL",
+   "url": "https://oag.parliament.nz/",
+   "name": "Office of the Auditor-General",
+   "kind": "government"
+  },
+  {
+   "country": "OMN",
+   "url": "https://www.sai.gov.om/",
+   "name": "State Audit Institution",
+   "kind": "government"
+  },
+  {
+   "country": "OMN",
+   "url": "https://etendering.tenderboard.gov.om/",
+   "name": "Tender Board e-Tendering",
+   "kind": "government"
+  },
+  {
+   "country": "PAK",
+   "url": "https://www.ecp.gov.pk/",
+   "name": "Election Commission – Asset Declarations",
+   "kind": "government"
+  },
+  {
+   "country": "PAK",
+   "url": "https://www.pbs.gov.pk/",
+   "name": "Pakistan Bureau of Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "PAK",
+   "url": "https://pic.gov.pk/",
+   "name": "Pakistan Information Commission",
+   "kind": "government"
+  },
+  {
+   "country": "PAK",
+   "url": "https://rti.gov.pk",
+   "name": "Pakistan Information Commission (PIC)",
+   "kind": "government"
+  },
+  {
+   "country": "PAK",
+   "url": "https://rti.punjab.gov.pk/",
+   "name": "Punjab Information Commission (Pakistan)",
+   "kind": "government"
+  },
+  {
+   "country": "PAK",
+   "url": "https://www.pakistanpressfoundation.org/",
+   "name": "Supreme Court of Pakistan",
+   "kind": "government"
+  },
+  {
+   "country": "PAK",
+   "url": "https://www.scp.gov.pk/",
+   "name": "Supreme Court of Pakistan",
+   "kind": "government"
+  },
+  {
+   "country": "PAK",
+   "url": "https://www.wikidata.org/wiki/Q2989473",
+   "name": "Supreme Court of Pakistan",
+   "kind": "government"
+  },
+  {
+   "country": "PAN",
+   "url": "http://www.contraloria.gob.pa/",
+   "name": "Contraloría General de la República",
+   "kind": "government"
+  },
+  {
+   "country": "PER",
+   "url": "https://www.gob.pe/contraloria",
+   "name": "Contraloría General de la República del Perú",
+   "kind": "government"
+  },
+  {
+   "country": "PER",
+   "url": "https://apps1.contraloria.gob.pe/ddjj/",
+   "name": "Declaraciones Juradas (Contraloría)",
+   "kind": "government"
+  },
+  {
+   "country": "PER",
+   "url": "https://www.minjus.gob.pe/tribunal-de-transparencia-y-acceso-a-la-informacion-publica/",
+   "name": "Tribunal de Transparencia y Acceso a la Informacion Publica (Peru)",
+   "kind": "government"
+  },
+  {
+   "country": "PHL",
+   "url": "https://www.coa.gov.ph/",
+   "name": "Commission on Audit (COA)",
+   "kind": "government"
+  },
+  {
+   "country": "PHL",
+   "url": "https://www.dbm.gov.ph/",
+   "name": "Department of Budget and Management (DBM)",
+   "kind": "government"
+  },
+  {
+   "country": "PHL",
+   "url": "https://www.psa.gov.ph/",
+   "name": "Philippine Statistics Authority",
+   "kind": "government"
+  },
+  {
+   "country": "PHL",
+   "url": "https://elibrary.judiciary.gov.ph/",
+   "name": "Supreme Court E-Library",
+   "kind": "government"
+  },
+  {
+   "country": "PNG",
+   "url": "http://www.ago.gov.pg/",
+   "name": "Office of the Auditor-General",
+   "kind": "government"
+  },
+  {
+   "country": "PRY",
+   "url": "http://www.contraloria.gov.py/",
+   "name": "Contraloría General de la República",
+   "kind": "government"
+  },
+  {
+   "country": "PSE",
+   "url": "http://www.saacb.ps/",
+   "name": "State Audit & Administrative Control Bureau",
+   "kind": "government"
+  },
+  {
+   "country": "PSE",
+   "url": "https://www.tscc.pna.ps/",
+   "name": "Supreme Constitutional Court of the State of Palestine",
+   "kind": "government"
+  },
+  {
+   "country": "ROU",
+   "url": "https://www.integritate.eu/",
+   "name": "ANI – National Integrity Agency",
+   "kind": "government"
+  },
+  {
+   "country": "ROU",
+   "url": "https://www.wikidata.org/wiki/Q18215791",
+   "name": "Bucharest Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "ROU",
+   "url": "https://www.wikidata.org/wiki/Q1743625",
+   "name": "Constitutional Court of Romania",
+   "kind": "government"
+  },
+  {
+   "country": "ROU",
+   "url": "https://www.wikidata.org/wiki/Q5755230",
+   "name": "High Court of Cassation and Justice",
+   "kind": "government"
+  },
+  {
+   "country": "RUS",
+   "url": "https://ach.gov.ru/",
+   "name": "Accounts Chamber",
+   "kind": "government"
+  },
+  {
+   "country": "RUS",
+   "url": "https://www.wikidata.org/wiki/Q106506762",
+   "name": "Babushkinsky District Court",
+   "kind": "government"
+  },
+  {
+   "country": "RUS",
+   "url": "https://www.ksrf.ru/",
+   "name": "Constitutional Court of Russia",
+   "kind": "government"
+  },
+  {
+   "country": "RUS",
+   "url": "http://arbitr.ru/",
+   "name": "Supreme Court of Arbitration of Russia",
+   "kind": "government"
+  },
+  {
+   "country": "RUS",
+   "url": "http://vs.ing.sudrf.ru",
+   "name": "Supreme court of the Republic of Ingushetia",
+   "kind": "government"
+  },
+  {
+   "country": "RUS",
+   "url": "https://zakupki.gov.ru/",
+   "name": "Unified Procurement Portal (Zakupki)",
+   "kind": "government"
+  },
+  {
+   "country": "SAU",
+   "url": "https://www.stats.gov.sa/",
+   "name": "General Authority for Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "SAU",
+   "url": "https://mc.gov.sa/",
+   "name": "Ministry of Commerce",
+   "kind": "government"
+  },
+  {
+   "country": "SAU",
+   "url": "https://www.moj.gov.sa/",
+   "name": "Ministry of Justice (Saudi Arabia)",
+   "kind": "government"
+  },
+  {
+   "country": "SDN",
+   "url": "https://www.audit.gov.sd",
+   "name": "National Audit Chamber (Sudan)",
+   "kind": "government"
+  },
+  {
+   "country": "SEN",
+   "url": "http://www.courdescomptes.sn",
+   "name": "Cour des comptes du Sénégal",
+   "kind": "government"
+  },
+  {
+   "country": "SEN",
+   "url": "https://www.marchespublics.sn/",
+   "name": "Marchés Publics",
+   "kind": "government"
+  },
+  {
+   "country": "SGP",
+   "url": "https://www.pdpc.gov.sg/",
+   "name": "Personal Data Protection Commission (PDPC)",
+   "kind": "government"
+  },
+  {
+   "country": "SGP",
+   "url": "https://www.singstat.gov.sg/",
+   "name": "Singapore Department of Statistics",
+   "kind": "government"
+  },
+  {
+   "country": "SLE",
+   "url": "https://www.anticorruption.gov.sl",
+   "name": "Anti-Corruption Commission (Sierra Leone)",
+   "kind": "government"
+  },
+  {
+   "country": "SLE",
+   "url": "https://raic.gov.sl",
+   "name": "Right to Access Information Commission (RAIC)",
+   "kind": "government"
+  },
+  {
+   "country": "SRB",
+   "url": "https://www.apr.gov.rs/",
+   "name": "APR (Business Registers Agency)",
+   "kind": "government"
+  },
+  {
+   "country": "SRB",
+   "url": "https://www.acas.rs/",
+   "name": "Agency for Prevention of Corruption",
+   "kind": "government"
+  },
+  {
+   "country": "SRB",
+   "url": "http://www.ustavni.sud.rs",
+   "name": "Constitutional Court of Serbia",
+   "kind": "government"
+  },
+  {
+   "country": "SRB",
+   "url": "https://www.stat.gov.rs/",
+   "name": "Statistical Office of the Republic of Serbia",
+   "kind": "government"
+  },
+  {
+   "country": "SRB",
+   "url": "https://www.vk.sud.rs/",
+   "name": "Supreme Court of Republic of Serbia",
+   "kind": "government"
+  },
+  {
+   "country": "SRB",
+   "url": "https://www.wikidata.org/wiki/Q3608414",
+   "name": "Supreme Court of Republic of Serbia",
+   "kind": "government"
+  },
+  {
+   "country": "SRB",
+   "url": "https://www.vrh.sud.rs/en/",
+   "name": "Supreme Court of Serbia",
+   "kind": "government"
+  },
+  {
+   "country": "SVK",
+   "url": "https://slovak.statistics.sk/",
+   "name": "Statistical Office of the Slovak Republic",
+   "kind": "government"
+  },
+  {
+   "country": "SVN",
+   "url": "https://www.kpk-rs.si/",
+   "name": "Commission for the Prevention of Corruption – Lobbying",
+   "kind": "government"
+  },
+  {
+   "country": "SVN",
+   "url": "https://www.stat.si/",
+   "name": "Statistical Office of the Republic of Slovenia (SURS)",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.attundatingsratt.domstol.se/",
+   "name": "Attunda District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.blekingetingsratt.domstol.se/",
+   "name": "Blekinge District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.vastrahovratten.domstol.se/",
+   "name": "Court of Appeal for Western Sweden",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.eksjotingsratt.domstol.se/",
+   "name": "Eksjö District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.eskilstunatingsratt.domstol.se/",
+   "name": "Eskilstuna District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.falutingsratt.domstol.se/",
+   "name": "Falun District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.gotlandstingsratt.domstol.se/",
+   "name": "Gotland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.gavletingsratt.domstol.se/",
+   "name": "Gävle District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.gotahovratt.se/",
+   "name": "Göta Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.haparandatingsratt.domstol.se/",
+   "name": "Haparanda District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.hudiksvallstingsratt.domstol.se/",
+   "name": "Hälsingland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.hassleholmstingsratt.domstol.se/",
+   "name": "Hässleholm District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.jonkopingstingsratt.domstol.se/",
+   "name": "Jönköping District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.kalmartingsratt.domstol.se/",
+   "name": "Kalmar District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.markochmiljooverdomstolen.se/",
+   "name": "Land and Environment Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.linkopingstingsratt.domstol.se/",
+   "name": "Linköping District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.luleatingsratt.domstol.se/",
+   "name": "Luleå District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.lundstingsratt.domstol.se/",
+   "name": "Lund District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.lyckseletingsratt.domstol.se/",
+   "name": "Lycksele District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.moratingsratt.domstol.se/",
+   "name": "Mora District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.nackatingsratt.domstol.se/",
+   "name": "Nacka District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.norrkopingstingsratt.domstol.se/",
+   "name": "Norrköping District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.norrtaljetingsratt.domstol.se/",
+   "name": "Norrtälje District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.nykopingstingsratt.domstol.se/",
+   "name": "Nyköping District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.hovrattenskaneblekinge.domstol.se/",
+   "name": "Scania and Blekinge Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.skaraborgstingsratt.domstol.se/",
+   "name": "Skaraborg District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.skellefteatingsratt.domstol.se/",
+   "name": "Skellefteå District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.domstol.se/stockholms-tingsratt/",
+   "name": "Stockholm District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.sundsvallstingsratt.se/",
+   "name": "Sundsvall District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.domstol.se/hogsta-domstolen/",
+   "name": "Supreme Court of Sweden",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.svea.se/",
+   "name": "Svea Court of Appeal",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.va-namnden.se/",
+   "name": "Swedish Water Supply and Sewage Tribunal",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.uddevallatingsratt.domstol.se/",
+   "name": "Uddevalla district court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.domstol.se/umea-tingsratt/",
+   "name": "Umeå District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.uppsalatingsratt.domstol.se/",
+   "name": "Uppsala District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.wikidata.org/wiki/Q10710259",
+   "name": "Uppsala District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.varbergstingsratt.domstol.se/",
+   "name": "Varberg District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.vanersborgstingsratt.domstol.se/",
+   "name": "Vänersborg District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.wikidata.org/wiki/Q10717357",
+   "name": "Vänersborg District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.varmlandstingsratt.domstol.se/",
+   "name": "Värmland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.wikidata.org/wiki/Q10717670",
+   "name": "Värmland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.vastmanlandstingsratt.domstol.se/",
+   "name": "Västmanland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.wikidata.org/wiki/Q10718192",
+   "name": "Västmanland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.vaxjotingsratt.domstol.se/",
+   "name": "Växjö District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.ystadstingsratt.domstol.se/",
+   "name": "Ystad District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.wikidata.org/wiki/Q10723797",
+   "name": "Ystad District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.kammarrattenigoteborg.domstol.se/",
+   "name": "administrative court of appeal in Gothenburg",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.kammarrattenijonkoping.domstol.se/",
+   "name": "administrative court of appeal in Jönköping",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.kammarrattenisundsvall.se/",
+   "name": "administrative court of appeal in Sundsvall",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.angermanlandstingsratt.domstol.se/",
+   "name": "Ångermanland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.wikidata.org/wiki/Q10726549",
+   "name": "Ångermanland District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "http://www.ostersundstingsratt.domstol.se/",
+   "name": "Östersund District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.wikidata.org/wiki/Q10728135",
+   "name": "Östersund District Court",
+   "kind": "government"
+  },
+  {
+   "country": "SWZ",
+   "url": "https://acc.gov.sz",
+   "name": "Anti-Corruption Commission (Eswatini)",
+   "kind": "government"
+  },
+  {
+   "country": "SWZ",
+   "url": "http://www.gov.sz/index.php/ministries-departments/auditor-general",
+   "name": "Office of the Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "SWZ",
+   "url": "https://www.online.gov.sz/",
+   "name": "Registrar of Companies (online.gov.sz)",
+   "kind": "government"
+  },
+  {
+   "country": "SYC",
+   "url": "https://www.accsey.com",
+   "name": "Anti-Corruption Commission Seychelles (ACCS)",
+   "kind": "government"
+  },
+  {
+   "country": "TGO",
+   "url": "https://www.courdescomptes.tg",
+   "name": "Cour des comptes du Togo",
+   "kind": "government"
+  },
+  {
+   "country": "TGO",
+   "url": "https://www.wikidata.org/wiki/Q135488532",
+   "name": "High Court of Justice",
+   "kind": "government"
+  },
+  {
+   "country": "THA",
+   "url": "https://www.dbd.go.th/en",
+   "name": "Department of Business Development (DBD)",
+   "kind": "government"
+  },
+  {
+   "country": "THA",
+   "url": "https://www.nacc.go.th/english",
+   "name": "National Anti-Corruption Commission (NACC)",
+   "kind": "government"
+  },
+  {
+   "country": "THA",
+   "url": "http://www.nso.go.th/",
+   "name": "National Statistical Office of Thailand",
+   "kind": "government"
+  },
+  {
+   "country": "THA",
+   "url": "https://www.oic.go.th",
+   "name": "Office of the Official Information Commission (OIC)",
+   "kind": "government"
+  },
+  {
+   "country": "THA",
+   "url": "https://www.supremecourt.or.th/",
+   "name": "Supreme Court of Thailand",
+   "kind": "government"
+  },
+  {
+   "country": "TJK",
+   "url": "https://constcourt.tj/",
+   "name": "Constitutional Court of Tajikistan",
+   "kind": "government"
+  },
+  {
+   "country": "TTO",
+   "url": "https://cso.gov.tt/",
+   "name": "Central Statistical Office",
+   "kind": "government"
+  },
+  {
+   "country": "TUN",
+   "url": "http://www.courdescomptes.nat.tn",
+   "name": "Cour des comptes de Tunisie",
+   "kind": "government"
+  },
+  {
+   "country": "TUR",
+   "url": "https://kararlarbilgibankasi.anayasa.gov.tr/",
+   "name": "Constitutional Court Decisions Database",
+   "kind": "government"
+  },
+  {
+   "country": "TUR",
+   "url": "https://www.anayasa.gov.tr/",
+   "name": "Constitutional Court of Turkey",
+   "kind": "government"
+  },
+  {
+   "country": "TUR",
+   "url": "https://www.turkstat.gov.tr/",
+   "name": "Turkish Statistical Institute (TurkStat)",
+   "kind": "government"
+  },
+  {
+   "country": "TUR",
+   "url": "https://emsal.uyap.gov.tr/",
+   "name": "UYAP Emsal Karar Arama (Ministry of Justice)",
+   "kind": "government"
+  },
+  {
+   "country": "TWN",
+   "url": "https://cons.judicial.gov.tw/",
+   "name": "Constitutional Court",
+   "kind": "government"
+  },
+  {
+   "country": "TWN",
+   "url": "https://www.wikidata.org/wiki/Q15905287",
+   "name": "Fuchien High Court Kinmen Branch Court",
+   "kind": "government"
+  },
+  {
+   "country": "TWN",
+   "url": "https://www.wikidata.org/wiki/Q15911529",
+   "name": "Fuchien Kinmen District Court",
+   "kind": "government"
+  },
+  {
+   "country": "TWN",
+   "url": "https://web.pcc.gov.tw/",
+   "name": "Government e-Procurement (PCC)",
+   "kind": "government"
+  },
+  {
+   "country": "TZA",
+   "url": "https://www.brela.go.tz",
+   "name": "Business Registrations and Licensing Agency (BRELA)",
+   "kind": "government"
+  },
+  {
+   "country": "TZA",
+   "url": "https://www.nao.go.tz",
+   "name": "National Audit Office (Tanzania)",
+   "kind": "government"
+  },
+  {
+   "country": "TZA",
+   "url": "https://www.pccb.go.tz",
+   "name": "Prevention and Combating of Corruption Bureau (PCCB)",
+   "kind": "government"
+  },
+  {
+   "country": "UGA",
+   "url": "https://gpp.ppda.go.ug/",
+   "name": "Government Procurement Portal (PPDA)",
+   "kind": "government"
+  },
+  {
+   "country": "UGA",
+   "url": "https://www.igg.go.ug",
+   "name": "Inspectorate of Government (IGG)",
+   "kind": "government"
+  },
+  {
+   "country": "UGA",
+   "url": "https://www.oag.go.ug",
+   "name": "Office of the Auditor General (Uganda)",
+   "kind": "government"
+  },
+  {
+   "country": "UGA",
+   "url": "https://ursb.go.ug",
+   "name": "Uganda Registration Services Bureau (URSB)",
+   "kind": "government"
+  },
+  {
+   "country": "UKR",
+   "url": "https://prozorro.gov.ua/",
+   "name": "Prozorro (Public e-Procurement System)",
+   "kind": "government"
+  },
+  {
+   "country": "URY",
+   "url": "http://www.tcr.gub.uy",
+   "name": "Tribunal de Cuentas de la República",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://doa.alaska.gov/apoc/",
+   "name": "Alaska Public Offices Commission (APOC)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "http://www.courts.alaska.gov/index.htm",
+   "name": "Alaska Supreme Court",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.agfc.com/",
+   "name": "Arkansas Game & Fish Commission",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.blm.gov/",
+   "name": "Bureau of Land Management (BLM)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://calepa.ca.gov/",
+   "name": "California Environmental Protection Agency (CalEPA)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://portal.ct.gov/pura",
+   "name": "Connecticut Public Utilities Regulatory Authority",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://raleighnc.gov/planning-and-development/design-review-commission",
+   "name": "Design Review Commission",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.eeoc.gov/",
+   "name": "Equal Employment Opportunity Commission",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://myfwc.com/",
+   "name": "Florida Fish & Wildlife Conservation Commission (FWC)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://epa.illinois.gov/",
+   "name": "Illinois Environmental Protection Agency (IEPA)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.leadagency.org/",
+   "name": "LEAD Agency (Tar Creek)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.mvlandbank.com/about/about-the-land-bank",
+   "name": "Martha's Vineyard Land Bank Commission",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.pca.state.mn.us/",
+   "name": "Minnesota Pollution Control Agency (MPCA)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://outdoornebraska.gov/",
+   "name": "Nebraska Game & Parks Commission",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.ncwildlife.org/",
+   "name": "North Carolina Wildlife Resources Commission",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.nrc.gov/",
+   "name": "Nuclear Regulatory Commission (NRC)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://epa.ohio.gov/",
+   "name": "Ohio Environmental Protection Agency (Ohio EPA)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.wikidata.org/wiki/Q139078130",
+   "name": "Ohio Fourth District Court of Appeals",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.pgc.pa.gov/",
+   "name": "Pennsylvania Game Commission",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.wikidata.org/wiki/Q7644911",
+   "name": "Supreme Court of Guam",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.wikidata.org/wiki/Q2493768",
+   "name": "Supreme Court of Missouri",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://nvcourts.gov/supreme/",
+   "name": "Supreme Court of Nevada",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "http://www.txcourts.gov/supreme",
+   "name": "Supreme Court of Texas",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "http://www.navajocourts.org/",
+   "name": "Supreme Court of the Navajo Nation",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.supremecourt.gov/",
+   "name": "Supreme Court of the United States",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.tncourts.gov/courts/supreme-court",
+   "name": "Tennessee Supreme Court",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.tn.gov/twra/",
+   "name": "Tennessee Wildlife Resources Agency (TWRA)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.tceq.texas.gov/",
+   "name": "Texas Commission on Environmental Quality (TCEQ)",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.census.gov/",
+   "name": "U.S. Census Bureau",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "http://www.dcd.uscourts.gov/",
+   "name": "United States District Court for the District of Columbia",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.nmd.uscourts.gov",
+   "name": "United States District Court for the District of New Mexico",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "http://www.almd.uscourts.gov/",
+   "name": "United States District Court for the Middle District of Alabama",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "http://www.pamd.uscourts.gov/",
+   "name": "United States District Court for the Middle District of Pennsylvania",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://cand.uscourts.gov",
+   "name": "United States District Court for the Northern District of California",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "http://www.ilnd.uscourts.gov/",
+   "name": "United States District Court for the Northern District of Illinois",
+   "kind": "government"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.casd.uscourts.gov/",
+   "name": "United States District Court for the Southern District of California",
+   "kind": "government"
+  },
+  {
+   "country": "UZB",
+   "url": "https://stat.uz/",
+   "name": "Statistics Agency of Uzbekistan",
+   "kind": "government"
+  },
+  {
+   "country": "UZB",
+   "url": "https://www.sud.uz/",
+   "name": "Supreme Court of Uzbekistan",
+   "kind": "government"
+  },
+  {
+   "country": "UZB",
+   "url": "https://xarid.uzex.uz/",
+   "name": "Xarid e-Procurement",
+   "kind": "government"
+  },
+  {
+   "country": "VAT",
+   "url": "https://www.vatican.va/roman_curia/uffici/uff-revisore-generale/index.htm",
+   "name": "Office of the Auditor General",
+   "kind": "government"
+  },
+  {
+   "country": "VCT",
+   "url": "https://www.eccourts.org/",
+   "name": "Eastern Caribbean Supreme Court (ECSC)",
+   "kind": "government"
+  },
+  {
+   "country": "VEN",
+   "url": "https://www.cgr.gob.ve/",
+   "name": "Contraloría General de la República (Venezuela)",
+   "kind": "government"
+  },
+  {
+   "country": "VEN",
+   "url": "http://tsjlegitimo.org/",
+   "name": "Supreme Tribunal of Justice of Venezuela in exile",
+   "kind": "government"
+  },
+  {
+   "country": "VEN",
+   "url": "https://www.tsj.gob.ve/",
+   "name": "Tribunal Supremo de Justicia",
+   "kind": "government"
+  },
+  {
+   "country": "XKX",
+   "url": "https://arbk.rks-gov.net/",
+   "name": "ARBK – Kosovo Business Registration Agency",
+   "kind": "government"
+  },
+  {
+   "country": "XKX",
+   "url": "https://aip.rks-gov.net/",
+   "name": "Agency for Information and Privacy (AIP)",
+   "kind": "government"
+  },
+  {
+   "country": "XKX",
+   "url": "https://gjk-ks.org/en/",
+   "name": "Constitutional Court of Kosovo",
+   "kind": "government"
+  },
+  {
+   "country": "XKX",
+   "url": "https://aip.rks-gov.net/en/aip-english/",
+   "name": "Information and Privacy Agency (Kosovo)",
+   "kind": "government"
+  },
+  {
+   "country": "XKX",
+   "url": "https://www.zka-rks.org/",
+   "name": "National Audit Office (ZKA)",
+   "kind": "government"
+  },
+  {
+   "country": "XKX",
+   "url": "https://e-prokurimi.rks-gov.net/",
+   "name": "e-Procurement Kosovo",
+   "kind": "government"
+  },
+  {
+   "country": "ZAF",
+   "url": "https://www.agsa.co.za/",
+   "name": "Auditor-General South Africa",
+   "kind": "government"
+  },
+  {
+   "country": "ZAF",
+   "url": "https://www.concourt.org.za/index.php/judgements/",
+   "name": "Constitutional Court of South Africa",
+   "kind": "government"
+  },
+  {
+   "country": "ZMB",
+   "url": "https://acc.gov.zm",
+   "name": "Anti-Corruption Commission (Zambia)",
+   "kind": "government"
+  },
+  {
+   "country": "ZMB",
+   "url": "https://www.ago.gov.zm",
+   "name": "Office of the Auditor General (Zambia)",
+   "kind": "government"
+  },
+  {
+   "country": "ZMB",
+   "url": "https://search.pacra.org.zm/",
+   "name": "Patent And Company Registration Agency",
+   "kind": "government"
+  },
+  {
+   "country": "ZMB",
+   "url": "https://www.pacra.org.zm",
+   "name": "Patents and Companies Registration Agency (PACRA)",
+   "kind": "government"
+  },
+  {
+   "country": "ZWE",
+   "url": "https://zacc.co.zw",
+   "name": "Zimbabwe Anti-Corruption Commission (ZACC)",
+   "kind": "government"
+  }
+ ]
+}

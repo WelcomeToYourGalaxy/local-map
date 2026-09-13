@@ -1,0 +1,121 @@
+{
+ "_meta": {
+  "task": "fix URLs whose host resolves only with the www prefix toggled",
+  "note": "these are data defects, not dead bodies. Verify one or two before applying.",
+  "count": 16
+ },
+ "rows": [
+  {
+   "country": "AGO",
+   "url": "https://www.adra-angola.org/",
+   "name": "ADRA Angola — assembles the paperwork rural communities need to legalise their land, including the free perpetual community title",
+   "suggested_url": "https://adra-angola.org/",
+   "evidence": "www.adra-angola.org does not resolve; adra-angola.org does"
+  },
+  {
+   "country": "ARE",
+   "url": "https://saiuae.gov.ae/",
+   "name": "State Audit Institution (SAI)",
+   "suggested_url": "https://www.saiuae.gov.ae/",
+   "evidence": "saiuae.gov.ae does not resolve; www.saiuae.gov.ae does"
+  },
+  {
+   "country": "CHN",
+   "url": "https://clapv.org/wrzx/wap_doc/21474060_3759442_3947103_0.html?style=1&u_u_id=",
+   "name": "污染受害者法律帮助中心 — a university-based centre with a free hotline for pollution victims, lawyers advanced for major or poor cases, and litigation and appraisal fees paid up front",
+   "suggested_url": "https://www.clapv.org/wrzx/wap_doc/21474060_3759442_3947103_0.html?style=1&u_u_id=",
+   "evidence": "clapv.org does not resolve; www.clapv.org does"
+  },
+  {
+   "country": "DEU",
+   "url": "http://www.ag-frankfurt-oder.brandenburg.de/",
+   "name": "Local Court Frankfurt (Oder)",
+   "suggested_url": "http://ag-frankfurt-oder.brandenburg.de/",
+   "evidence": "www.ag-frankfurt-oder.brandenburg.de does not resolve; ag-frankfurt-oder.brandenburg.de does"
+  },
+  {
+   "country": "DZA",
+   "url": "http://www.ccomptes.org.dz",
+   "name": "Cour des comptes (Algérie)",
+   "suggested_url": "http://ccomptes.org.dz",
+   "evidence": "www.ccomptes.org.dz does not resolve; ccomptes.org.dz does"
+  },
+  {
+   "country": "ERI",
+   "url": "http://ercoe.org.er/",
+   "name": "NARI's seed bank and ERCOE's environmental plan update — 6,300 seed accessions across 160 crop and tree species, and the body commissioned to rewrite the national environment plan",
+   "suggested_url": "http://www.ercoe.org.er/",
+   "evidence": "ercoe.org.er does not resolve; www.ercoe.org.er does"
+  },
+  {
+   "country": "GUY",
+   "url": "https://dcra.gov.gy/",
+   "name": "Commercial Registry (DCRA)",
+   "suggested_url": "https://www.dcra.gov.gy/",
+   "evidence": "dcra.gov.gy does not resolve; www.dcra.gov.gy does"
+  },
+  {
+   "country": "GUY",
+   "url": "https://dcra.gov.gy/aml/",
+   "name": "Commercial Registry AML",
+   "suggested_url": "https://www.dcra.gov.gy/aml/",
+   "evidence": "dcra.gov.gy does not resolve; www.dcra.gov.gy does"
+  },
+  {
+   "country": "KHM",
+   "url": "http://www.gid.mef.gov.kh/bidding-announcement/announcement",
+   "name": "General Department of Public Procurement — bidding announcements listed by agency and year",
+   "suggested_url": "http://gid.mef.gov.kh/bidding-announcement/announcement",
+   "evidence": "www.gid.mef.gov.kh does not resolve; gid.mef.gov.kh does"
+  },
+  {
+   "country": "KWT",
+   "url": "https://paaf.gov.kw/",
+   "name": "Fisheries authority's marine control directorate — patrols, permits, and a bay described as one of the world's largest fish nurseries",
+   "suggested_url": "https://www.paaf.gov.kw/",
+   "evidence": "paaf.gov.kw does not resolve; www.paaf.gov.kw does"
+  },
+  {
+   "country": "MNE",
+   "url": "https://www.cejn.gov.me/",
+   "name": "Electronic Public Procurement (CeJN)",
+   "suggested_url": "https://cejn.gov.me/",
+   "evidence": "www.cejn.gov.me does not resolve; cejn.gov.me does"
+  },
+  {
+   "country": "NGA",
+   "url": "https://www.bpp.gov.ng/",
+   "name": "Bureau of Public Procurement (NOCOPO)",
+   "suggested_url": "https://bpp.gov.ng/",
+   "evidence": "www.bpp.gov.ng does not resolve; bpp.gov.ng does"
+  },
+  {
+   "country": "NGA",
+   "url": "https://tracka.ng/",
+   "name": "Tracka (BudgIT Foundation)",
+   "suggested_url": "https://www.tracka.ng/",
+   "evidence": "tracka.ng does not resolve; www.tracka.ng does"
+  },
+  {
+   "country": "PAK",
+   "url": "https://www.lda.gop.pk/page.php?p=TVRJPQ%3D%3D",
+   "name": "Katchi abadi regularisation — proprietary rights for people already living there, a survey list to be on, and equal title for husband and wife",
+   "suggested_url": "https://lda.gop.pk/page.php?p=TVRJPQ%3D%3D",
+   "evidence": "www.lda.gop.pk does not resolve; lda.gop.pk does"
+  },
+  {
+   "country": "TUN",
+   "url": "https://www.atpne.org/",
+   "name": "ATPNE, Tunis — created 1971, sits on Tunisia's national environmental commissions and chairs the national IUCN members committee, plus Notre Grand Bleu and the Jamaity association directory",
+   "suggested_url": "https://atpne.org/",
+   "evidence": "www.atpne.org does not resolve; atpne.org does"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.ago.ms.gov/",
+   "name": "Mississippi Attorney General",
+   "suggested_url": "https://ago.ms.gov/",
+   "evidence": "www.ago.ms.gov does not resolve; ago.ms.gov does"
+  }
+ ]
+}

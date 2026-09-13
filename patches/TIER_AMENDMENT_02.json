@@ -1,0 +1,16 @@
+{
+ "_meta": {
+  "task": "tier amendment 02 — corrections found during the full 5,275-row read",
+  "apply": "run apply_tier_patch.py with this file after TIER_AMENDMENT_01.json",
+  "count": 1
+ },
+ "rows": [
+  {
+   "country": "DEU",
+   "url": "https://www.vg-gelsenkirchen.nrw.de/",
+   "tier": "county",
+   "was": "national",
+   "name": "Alte Hauptpost"
+  }
+ ]
+}

@@ -1,0 +1,1027 @@
+{
+ "_meta": {
+  "task": "set status=defunct where the host is gone",
+  "method": "two independent runs from the Commander's machine plus a third resolver check here. A host counts as gone only if it fails to resolve on both networks AND in both www forms. Nothing is marked dormant: every 403, timeout, TLS error and stale deep link is left active.",
+  "count": 145,
+  "values_used": [
+   "defunct"
+  ]
+ },
+ "rows": [
+  {
+   "country": "AFG",
+   "url": "https://moci.acbr.gov.af/en",
+   "name": "ACBR — business names published in the Gazette, and a licence that can be checked by its QR code",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "AFG",
+   "url": "https://www.arazi.gov.af/english/index",
+   "name": "Afghanistan Land Authority — occupancy certificates, the state land bank, and the compensation delay",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "AFG",
+   "url": "https://acbr.gov.af",
+   "name": "Afghanistan — Central Business Registry (ACBR)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "AFG",
+   "url": "https://agcho.gov.af/8031",
+   "name": "Geodesy and Cartography Head Office — official maps and cadastral survey, and the openly published quadrangle sets",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "AFG",
+   "url": "https://www.ansa.gov.af/index.php/en",
+   "name": "Water testing — the national standard to test against, a Kabul laboratory that does the work, and documented field methods",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "AGO",
+   "url": "https://tis.sadc.int/key-documents/protocols/protocol-on-wildlife-conservation-and-law-enforcement/",
+   "name": "SADC Protocol on Wildlife Conservation and Law Enforcement",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "AND",
+   "url": "https://www.registres.ad",
+   "name": "Andorra — Registre de Societats",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "ARE",
+   "url": "https://www.emiratesmarineenvironmentalgroup.com/",
+   "name": "Emirates Marine Environmental Group — it holds 2,000 hectares including the last natural beach in Dubai",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "ARM",
+   "url": "https://www.armccms.org",
+   "name": "CCMS — founded by activists from ten villages, and it made a mining company admit its impact for the first time",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "AUS",
+   "url": "https://tacinc.org.au/",
+   "name": "Tasmanian Aboriginal Community Legal Service (TACLS)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "AZE",
+   "url": "https://tai.az/az/struct/16",
+   "name": "Agrochemistry laboratories in eleven regions — soil and plant analysis including heavy metals, with the soil science institute behind them",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BEN",
+   "url": "http://www.coursupremebenin.com",
+   "name": "Cour des comptes du Bénin",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BEN",
+   "url": "https://grabebenin.org/?page_id=3912&lang=en",
+   "name": "GRABE-Bénin, Avrankou — works through kings and traditional chiefs to save sacred forests, trained sixty religious dignitaries across two communes, and is drafting the legal framework for Benin's community conserved areas",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BEN",
+   "url": "https://legalresourcesfoundationzambia.org/",
+   "name": "Legal Resources Foundation Zambia and its own law firm, Legal Resources Chambers — salaried advocates appearing free in court for about 35,000 people a year, with paralegal desks inside police stations (NOT the same-named Zimbabwean LRF, filed separately)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BFA",
+   "url": "https://mbdhp.bf/",
+   "name": "MBDHP — free legal clinics run by a human rights movement with sections in all 45 provinces and committees down to village level",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BFA",
+   "url": "https://associationnatudev.org/",
+   "name": "NATUDEV and Burkina Faso's APACs — 53,858 community-conserved sites identified, 951 documented, and the documentation is the defence",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BFA",
+   "url": "https://www.orcade.org/",
+   "name": "ORCADE — the first Burkinabè NGO to take on the mining sector, and it explains the mining code to the councillors who have to apply it",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BFA",
+   "url": "https://data.gov.bf/",
+   "name": "data.gov.bf",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BGD",
+   "url": "https://www.cag.gov.bd/",
+   "name": "Comptroller and Auditor General of Bangladesh",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BGD",
+   "url": "https://nishorgo.org/wp-content/uploads/2017/02/1-6-Co-Mgmt-of-PAs-in-Bangladesh-Inst.framework.pdf",
+   "name": "Protected area co-management — the tiers, the seats, and the revenue share that is not always paid",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BHR",
+   "url": "https://www.nao.bh/",
+   "name": "National Audit Office",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BIH",
+   "url": "https://www.pravodaznam.ba/",
+   "name": "PravoDaZnam (Right to Know BiH)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BIH",
+   "url": "https://pravnabih.com/",
+   "name": "Udruženje TUTOR — free legal aid under the NAMED statutes, entity by entity",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BTN",
+   "url": "https://www.bhutanecolab.com/",
+   "name": "Bhutan Ecolab — a private laboratory for air, flue gas, soil and noise, where the state reference lab covers drinking water",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BTN",
+   "url": "http://csoa.org.bt/public/w/csoaauthority",
+   "name": "Civil Society Organizations Authority — the two categories, the endowment thresholds, and the offence of unlawful collection",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "BWA",
+   "url": "https://www.ditshwanelo.org.bw/",
+   "name": "DITSHWANELO — Botswana's human rights centre, gives free advice on civil matters, and sat on the negotiating team the Kalahari communities mandated",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "CHN",
+   "url": "http://www.cbcgdf.org/NewsShow/4855/4345.html",
+   "name": "中国绿发会 CBCGDF 保护地 — apply to have your own site made a conservation area",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "COD",
+   "url": "https://tis.sadc.int/key-documents/protocols/protocol-on-wildlife-conservation-and-law-enforcement/",
+   "name": "SADC Protocol on Wildlife Conservation and Law Enforcement",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "COG",
+   "url": "http://www.eiticongo.net",
+   "name": "ITIE Congo",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "COL",
+   "url": "https://fundepublico.org/",
+   "name": "Fundepúblico — Fundación para la Defensa del Interés Público",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "COM",
+   "url": "https://comorosparks.com/index.php?id=13",
+   "name": "Comoros' accords de cogestion — article 60 of loi 18-105/AU, one agreement PER VILLAGE, village écogardes, and a village committee that handles breaches before any court",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "COM",
+   "url": "https://comorosparks.com/index.php?id=3",
+   "name": "Parcs nationaux des Comores — check which law governs your site",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "CPV",
+   "url": "https://famb.cv/",
+   "name": "Fundo do Ambiente, Cape Verde — a public institute that finances environmental preservation projects, and it funds MUNICIPALITIES directly",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "FIN",
+   "url": "https://hakattumetsa.fi/",
+   "name": "'A felled forest does not answer' — a national appeal, and the TWO LOCKS on what it buys",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "GAB",
+   "url": "http://www.ccomptes.ga",
+   "name": "Cour des comptes du Gabon",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "GAB",
+   "url": "http://www.eitigabon.com",
+   "name": "ITIE Gabon",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "GAB",
+   "url": "https://beta.association.fr/asso/gabon-ecologie-302",
+   "name": "Named Gabonese environmental associations with contacts — Gabon Ecologie's 497 members and four phone lines, Gabon Environnement's eco-guide school, PROGRAM at Moukalaba-Doudou, and two association directories",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "GEO",
+   "url": "https://rcda.ge/",
+   "name": "Rural communities development agency — 1,200 members, offices in eight regions, and staff who help write district and community development plans",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "GHA",
+   "url": "https://mlnrgfip.com/crema/",
+   "name": "CREMA — a devolution certificate over land outside protected areas",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "GHA",
+   "url": "https://ghanalii.org/",
+   "name": "GhanaLII",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "GIN",
+   "url": "https://mdtgn.org",
+   "name": "Les Mêmes Droits Pour Tous (MDT)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "GNB",
+   "url": "https://www.sociedadecivilgb.org/business-directory/87/accao-para-o-desenvolvimento-2/",
+   "name": "Guinea-Bissau's searchable civil society directory, and the profile of AD — founded at Caboxanque in 1991 by former agriculture ministry officials to build base organisations, with micro-finance and human rights among its themes",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "GTM",
+   "url": "https://datos.transparencia.gob.gt/",
+   "name": "Datos Abiertos Guatemala",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "HND",
+   "url": "https://site.iaip.gob.hn/",
+   "name": "Instituto de Acceso a la Información Pública (IAIP)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IDN",
+   "url": "https://amdalnet.menlhk.go.id/",
+   "name": "AMDALNET — national environmental assessment system",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IDN",
+   "url": "https://ppid.menlhk.go.id/siaran_pers/browse/2136",
+   "name": "BPDLH — the state environmental fund, its community small grant, and the published criticism of its reach",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IDN",
+   "url": "https://sipp.menpan.go.id/pelayanan-publik/kementerian-agraria-dan-tata-ruangbadan-pertanahan-nasional/sekretariat-jenderal/kantor-wilayah-bpn-provinsi-bali/kantor-pertanahan-kota-denpasar/pengukuran-bidang-tanah-untuk-pengembalian-batas",
+   "name": "District and city land offices — the counter that re-marks a boundary on request, the complaint form that opens a dispute file, the receipt that proves it, and mediation before any court",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IDN",
+   "url": "https://sulawesi.gakkum.menlhk.go.id/index.php/download/pengaduan-lingkungan-hidup-dan-kehutanan/",
+   "name": "Environmental complaints — a statutory right, and a definition that reaches the planning stage",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IDN",
+   "url": "https://desacemaga.natunakab.go.id/musyawarah-perencanaan-pembangunan-desa-musrenbangdes/",
+   "name": "Musrenbang — the annual village planning forum held by the fourth week of January, its four required forms, the sub-district delegates who escort a proposal upward, and the indicative budget ceiling announced at it",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IDN",
+   "url": "https://pusfaster.bsilhk.menlhk.go.id/index.php/barangjasateknologi-ramah-lingkungan/lembaga-penyedia-jasa-pengelolaan-lingkungan-lpjl/pengujian-parameter-lingkunganlabeling/daftar-laboratorium-lingkungan-teregistrasi/",
+   "name": "Registered environmental laboratories — the published list, and why an unregistered lab's result cannot be used",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IDN",
+   "url": "https://dispmd.bulelengkab.go.id/informasi/detail/artikel/memahami-dan-mengerti-badan-usaha-milik-desa-bumdes-45",
+   "name": "Village-owned enterprises — a legal body the village creates by assembly decision and village regulation, capitalised from separated village wealth and from residents' own capital, to manage assets and natural resources",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IND",
+   "url": "https://envt.kerala.gov.in/wp-content/uploads/2025/02/CRZ-Notification-2019-with-Amendments.pdf",
+   "name": "Coastal Regulation Zone — the state authority, the management plan that fixes the map, and the no development zone distances",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IND",
+   "url": "https://hpforest.gov.in/storage/files/1/FRA%202006/FRA-Foresters'_Guide_English_15.8.2023%20(1).pdf",
+   "name": "Community Forest Resource rights — Form C and two pieces of evidence",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IND",
+   "url": "https://envt.kerala.gov.in/wp-content/uploads/2018/07/highlights_rti-act.pdf",
+   "name": "RTI — free if they miss the deadline, and a per-day penalty on the officer",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IRN",
+   "url": "https://ngokhorasan.ir/",
+   "name": "Provincial networks of environmental organisations — seats in the planning council, a legal working group for lawsuits, and environment houses in village administrations",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IRQ",
+   "url": "https://smeportal.unescwa.org/financing/zoomal",
+   "name": "Regional Arabic crowdfunding — five per cent on success, and the payout question to settle first",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IRQ",
+   "url": "https://www.ieiti.org.iq/",
+   "name": "Resource transparency authority — civil society elects its own seats on the board, and the licensing-round contracts are published",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "IRQ",
+   "url": "https://ar.parliament.iq/2021/03/16/%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7/",
+   "name": "The farmers' cooperative federations — statutory bodies whose job includes defending farmers' rights",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "JEY",
+   "url": "https://www9.gov.je/Benefits/Grants/Environmental/Pages/CountrysideRenewalFunding.aspx",
+   "name": "Countryside Enhancement Scheme — it funds delivery of treaty commitments",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "JOR",
+   "url": "https://www.jes.org.jo/",
+   "name": "Jordan Environment Society — fifteen branches outside the capital, and it teaches impact assessment",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "KGZ",
+   "url": "http://www.jayit.kg/",
+   "name": "Kyrgyz Jayity — the national association of the pasture committees that actually hold the land-use right",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "KOR",
+   "url": "https://www.eiass.go.kr/",
+   "name": "EIASS — Environmental Impact Assessment Support System",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "KOR",
+   "url": "https://www.eiass.go.kr/biz/base/info/eiaList.do?menu=biz&biz_gubn=E",
+   "name": "EIASS — Korea's assessment system, where scoping decisions and draft reports go on public view",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "KWT",
+   "url": "https://www.kuwaitbar.org/",
+   "name": "Lawyers' association since 1963 — judicial aid for those unable to pay, and certificates issued without attending",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "KWT",
+   "url": "https://www.kmc.gov.kw/",
+   "name": "Municipal council — the body that decides land use, now wholly appointed since May 2026, and what that changes for a resident",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "KWT",
+   "url": "https://www.ucfc.com.kw/",
+   "name": "Neighbourhood cooperative societies and their union — elected boards, member returns on purchases, and published rules on vacancies and handovers",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "LAO",
+   "url": "https://laoepf.org.la/en/",
+   "name": "Environment Protection Fund (ກປສ) — a state fund whose sub-grants have reached community groups",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "LAO",
+   "url": "http://www.laoservicesportal.gov.la/index.php?id=46&r=site%2Fdisplaylegal",
+   "name": "The Law on Lawyers and the bar association — provincial legal aid clinics, and the articles governing fees, ethics and independence",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "LBN",
+   "url": "https://project.lri-lb.org/nurseries.php",
+   "name": "Reforestation initiative and its native nursery cooperative — survival raised from a quarter to three quarters, paid forestry work, and municipal pine-nut revenue",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "LBR",
+   "url": "https://iicliberia.info",
+   "name": "Independent Information Commission (Liberia)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "LSO",
+   "url": "http://www.auditgen.org.ls/",
+   "name": "Office of the Auditor General",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "LTU",
+   "url": "https://lobistai.lt/",
+   "name": "Register of Lobbyists",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "LUX",
+   "url": "https://www.cc.public.lu/",
+   "name": "Cour des comptes",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MAC",
+   "url": "https://www.io.gov.mo/cn/legis/",
+   "name": "The legislation index — where the expropriation law sits, and the two rules to read before arguing about money",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MAC",
+   "url": "https://nature.iam.gov.mo/c/default",
+   "name": "《古樹名木保護名錄》 — the protected old-tree list, the four criteria for getting on it, and the one-tree-one-record inspection regime",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MAC",
+   "url": "https://bo.io.gov.mo/bo/i/2018/30/lei07_cn.asp",
+   "name": "《海域管理綱要法》 — the marine functional zoning that sea use must follow, the duty to create marine nature reserves and a monitoring network, and the fifty-day public consultation on all three instruments",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MAC",
+   "url": "https://bo.io.gov.mo/bo/i/2014/34/lei08_cn.asp",
+   "name": "《預防和控制環境噪音》 — no piling on Sundays and public holidays, an eighty-five decibel piling limit, the two-hundred-metre rule near homes and hospitals, and the binding opinion before a piling permit",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MAC",
+   "url": "https://bo.io.gov.mo/bo/i/88/33/lei21_cn.asp",
+   "name": "法律援助 legal aid — the right to be accompanied by a lawyer before any public authority",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MDA",
+   "url": "https://ies.gov.md/protectia-mediului-si-biodiversitate/arii-protejate/",
+   "name": "Moldova's fondul ariilor protejate register — every protected area, its hectares and its LANDHOLDER",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MDG",
+   "url": "https://www.tanymeva.org.mg/",
+   "name": "Fondation Tany Meva — a Malagasy foundation whose entire purpose is funding community environmental projects, about 1,850 of them so far",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MDG",
+   "url": "https://tis.sadc.int/key-documents/protocols/protocol-on-wildlife-conservation-and-law-enforcement/",
+   "name": "SADC Protocol on Wildlife Conservation and Law Enforcement",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MDV",
+   "url": "https://www.supremecourt.gov.mv/en/structure-of-courts.html",
+   "name": "Island magistrate courts — a court on every inhabited island under a named section of the judicature legislation, a resident magistrate where the population reaches 500, and a neighbouring magistrate where it does not",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MDV",
+   "url": "https://www.supremecourt.gov.mv/",
+   "name": "Supreme Court of Maldives",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MEX",
+   "url": "https://compranetinfo.hacienda.gob.mx/",
+   "name": "CompraNet",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MKD",
+   "url": "https://www.front.org.mk/",
+   "name": "FRONT 21/42",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MLI",
+   "url": "https://www.cafomali.org/",
+   "name": "CAFO — 2,500+ member associations represented in every region and cercle of Mali, with its Bamako door number, and the interface it runs between members and the public authorities",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MLI",
+   "url": "http://www.itie.mines.gouv.ml",
+   "name": "ITIE Mali",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MLI",
+   "url": "http://cssc.gouv.ml",
+   "name": "Section des comptes de la Cour suprême du Mali",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MNE",
+   "url": "https://www.ask.org.me/",
+   "name": "Agency for Prevention of Corruption (ASK)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MNG",
+   "url": "https://swbm.wordpress.com/corporate-introduction/",
+   "name": "Steps Without Borders and the participatory environmental monitoring committees — herders, companies and local government monitoring a mine together, and the organisation that sets the committees up",
+   "status": "defunct",
+   "evidence": "410 Gone"
+  },
+  {
+   "country": "MOZ",
+   "url": "http://www.itie-mozambique.org",
+   "name": "ITIE Moçambique",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MOZ",
+   "url": "https://www.oramnampula.org.mz/",
+   "name": "ORAM and Mozambique's community land organisations — the body that walks a village through delimitation to a certificate, with paralegal associations and the peasants' union",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MOZ",
+   "url": "https://oram.org.mz/",
+   "name": "ORAM — Mozambique's rural mutual-aid association, founded 1992, which walks communities through delimitation to a DUAT certificate",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MOZ",
+   "url": "https://tis.sadc.int/key-documents/protocols/protocol-on-wildlife-conservation-and-law-enforcement/",
+   "name": "SADC Protocol on Wildlife Conservation and Law Enforcement",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MRT",
+   "url": "http://www.cnitie.mr",
+   "name": "CN-ITIE Mauritanie",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "MRT",
+   "url": "https://www.infomauritania.org/index.php/component/k2/item/93-ong",
+   "name": "FONADH, Mauritania's numbered human rights coalition that criticises power and opposition alike, plus a national NGO list with phone numbers and a type-filterable organism database",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "NER",
+   "url": "https://rotabniger.net/",
+   "name": "ROTAB-Niger / Publiez Ce Que Vous Payez",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "NGA",
+   "url": "https://home.elaw.org/about",
+   "name": "ELAW — the alliance whose scientists critique environmental impact assessments for community lawyers free, with 300+ advocates in 80 countries, a defending-defenders programme and a guidebook on challenging oil and gas projects",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "NGA",
+   "url": "https://www.eraction.org/",
+   "name": "ERA / Friends of the Earth Nigeria — two toll-free green lines to call when a spill, flare or rupture starts, and field monitors who come out",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "NGA",
+   "url": "https://nocopo.bpp.gov.ng/",
+   "name": "NOCOPO",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "NIC",
+   "url": "https://vui.mific.gob.ni",
+   "name": "Nicaragua — Ventanilla Única de Inversiones (VUI / MIFIC)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "OMN",
+   "url": "https://www.esoman.org/",
+   "name": "Environment society working with fishermen, farmers and women's associations in shore villages — and the volunteer programme it runs",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "PAK",
+   "url": "https://pic.gov.pk/",
+   "name": "Pakistan Information Commission",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "PHL",
+   "url": "https://www.nassa.org.ph/",
+   "name": "National Secretary of Social Action (NASSA)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SAU",
+   "url": "http://www.psrcewd.edu.sa",
+   "name": "Desert, water and environment research institute — it researches the environmental impact of projects",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SAU",
+   "url": "https://www.reef.gov.sa/",
+   "name": "Rural agricultural support programme — monthly cash, free or subsidised inputs, and the name-mismatch that kills most applications",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SDN",
+   "url": "https://darfurbarassociation.org/",
+   "name": "Darfur Bar Association — 535 volunteer lawyers who represent people the state is prosecuting, and the reason land records now matter more than ever",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SDN",
+   "url": "https://www.audit.gov.sd",
+   "name": "National Audit Chamber (Sudan)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SDN",
+   "url": "https://crd.gov.sd",
+   "name": "Sudan — Commercial Registration Department (Registrar General)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SEN",
+   "url": "https://www.creationdentreprise.sn",
+   "name": "Senegal — Bureau d’Appui à la Création d’Entreprise (APIX)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SLE",
+   "url": "http://www.sleiti.org",
+   "name": "Sierra Leone EITI (SLEITI)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "STP",
+   "url": "http://www.saotomeprincipe.st/pt/ong_145-ong-montepico.html",
+   "name": "FONG STP and the Santomean environmental NGOs — a federation of 72 affiliated organisations, and Monte Pico, which runs park sectors under protocol",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SWZ",
+   "url": "http://www.sntc.org.sz/",
+   "name": "Eswatini National Trust Commission — the body that PROCLAIMS sites, with further sites already under investigation for proclamation, plus the authority that can halt an unscrutinised development",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SWZ",
+   "url": "https://tis.sadc.int/key-documents/protocols/protocol-on-wildlife-conservation-and-law-enforcement/",
+   "name": "SADC Protocol on Wildlife Conservation and Law Enforcement",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "SYR",
+   "url": "http://www.syenv.org/",
+   "name": "Environmental associations and the new rules for constituting one — including the lighter 'team' form",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TGO",
+   "url": "https://www.agbo-zegue.org/index.php/2018/01/08/ou-travaillons-nous-2/",
+   "name": "AGBO-ZEGUE ONG, Lomé — the Togolese conservation society that helped create the protected sites it now works around, holds the Mono Basin platform presidency, and publishes its récépissé number and a direct phone contact",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TGO",
+   "url": "https://www.ong-jve.info/",
+   "name": "JVE — an environmental organisation with branches in dozens of Togolese localities, and a standing programme on dams and mining",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TGO",
+   "url": "http://pphpz.org/who-we-are/",
+   "name": "The Zambia Homeless and Poor People's Federation with PPHPZ (People's Process on Housing and Poverty in Zambia) — active in 44 towns, bought the land and built 55 houses from members' own daily savings and labour; join by being poor and resident",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "THA",
+   "url": "https://www.mutt.in.th/admin_mutt/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%84%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C/",
+   "name": "การเรี่ยไร — the solicitation licence, the documents the district office asks for, and what counts as soliciting",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TJK",
+   "url": "http://tajnature.tj/ru/",
+   "name": "Environment committee — the directorate that receives land complaints, and the one that holds the monitoring data",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TJK",
+   "url": "https://fsci.tj/",
+   "name": "Foundation for support of civil initiatives — a thirty-year-old environmental organisation whose mission is helping other groups exist",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TKM",
+   "url": "https://ngo-turkmenistan.org/ngo/2017/01/10/obshchestvo-okhrany-prirody-turkmenistana/",
+   "name": "Nature protection society of 1968 — province branches on their own annual plans, and membership of the international conservation union",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TLS",
+   "url": "https://www.aifaesaip.tl/pt-pt",
+   "name": "AIFAESA and the national reference laboratory — who checks water from a spring, and who now runs the test",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TLS",
+   "url": "https://lns.gov.tl/",
+   "name": "Laboratório Nacional da Saúde and the public health institute — the country's own laboratory capacity, and what it says about its own limits",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TUN",
+   "url": "https://www.inpdp.tn/",
+   "name": "INPDP — Instance Nationale de Protection des Données Personnelles",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TUR",
+   "url": "https://ikizkoydireniyor.net/",
+   "name": "İkizköy Direniyor — villagers who kept a tent watch for 738 days and beat an \"outside EIA scope\" ruling",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TZA",
+   "url": "https://ores.brela.go.tz/",
+   "name": "BRELA",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TZA",
+   "url": "https://opendata.go.tz/",
+   "name": "Open Data Tanzania",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "TZA",
+   "url": "https://www.ntri.co.tz/impact/",
+   "name": "Simanjiro voluntary land easements — 23,000 hectares kept open by paid agreement, with the village keeping the land and the grazing",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "UGA",
+   "url": "https://governance.jlos.go.ug/index.php/component/k2/itemlist/category/17-legal-aid",
+   "name": "Justice Centres Uganda — a state one-stop legal aid service with a TOLL-FREE line, and the extractives lawyers to call alongside it",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "USA",
+   "url": "https://conservefl.org/",
+   "name": "Conservation Florida",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "USA",
+   "url": "https://sosbizsearch.ky.gov/",
+   "name": "Kentucky Business Entity Search",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "USA",
+   "url": "https://nebraskalandtrust.org/",
+   "name": "Nebraska Land Trust",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.rtknet.org/",
+   "name": "Right-to-Know Network (RTKNet)",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.wdfi.org/apps/CorpSearch/Search.aspx",
+   "name": "Wisconsin Business Entity Search",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "UZB",
+   "url": "https://mahalla.uz/",
+   "name": "Mahalla association's provincial administrations and district departments — the neighbourhood network that helps write territorial programmes",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "UZB",
+   "url": "https://csak.uz/ru/",
+   "name": "State analytical control centre — emissions measured at source, soil analysed for organic and inorganic pollutants, and the laboratory that accredits the other laboratories",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "UZB",
+   "url": "http://xarid.uz/",
+   "name": "State procurement information portal — plan-schedules, a bad-faith supplier register, and published average prices",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "VNM",
+   "url": "https://sotuphap.thaibinh.gov.vn/tin-tuc/nghien-cuu-trao-doi/mot-so-dieu-can-biet-cua-luat-to-cao-nam-2018.html",
+   "name": "Bảo vệ người tố cáo — protection covers your family too, the name is stripped from the file, and there is a written application form",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "VNM",
+   "url": "https://sotuphap.thaibinh.gov.vn/tin-tuc/nghien-cuu-trao-doi/quy-dinh-ve-cap-giay-chung-nhan-quyen-su-dung-dat.html",
+   "name": "Giấy chứng nhận for a residential community — a certificate over the communal house, shrine or clan land, on a commune confirmation",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "VNM",
+   "url": "http://dgmv.gov.vn/hoi-dap/tham-quyen-cap-giay-phep-hoat-dong-khoang-san-theo-quy-dinh-cua-phap-luat-ve-khoang-san-cu",
+   "name": "Giấy phép khai thác khoáng sản — which authority licenses what, the provincial lists including revoked and expired permits, and the vessel registrations behind sand mining",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "XKX",
+   "url": "https://apk-rks.org/",
+   "name": "Agjencia Pyjore e Kosovës — it will HELP SMALL OWNERS FORM A MANAGEMENT ASSOCIATION",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "YEM",
+   "url": "https://acu.org.ye/cooperative-library/guides-anf-forms/p1688.html",
+   "name": "Agricultural cooperative union — the model statute to download, and the cooperative form that can buy land and transfer it to members",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "ZAF",
+   "url": "https://conservationoutcomes.co.za/",
+   "name": "Biodiversity stewardship, via Conservation Outcomes — put a restriction on your own title deed that survives the sale of the land, and deduct the land's value from tax",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  },
+  {
+   "country": "ZWE",
+   "url": "https://tis.sadc.int/key-documents/protocols/protocol-on-wildlife-conservation-and-law-enforcement/",
+   "name": "SADC Protocol on Wildlife Conservation and Law Enforcement",
+   "status": "defunct",
+   "evidence": "host does not resolve from two independent networks, in either www form"
+  }
+ ]
+}

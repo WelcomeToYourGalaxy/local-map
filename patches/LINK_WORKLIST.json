@@ -1,0 +1,2853 @@
+{
+ "_meta": {
+  "task": "stale deep links — the organisation is alive, the URL moved",
+  "note": "not a status change. These need a replacement URL found by hand or by following the site.",
+  "count": 316
+ },
+ "rows": [
+  {
+   "country": "ARE",
+   "url": "https://www.accountabilitycounsel.org/about-us/frequently-asked-questions-faqs/",
+   "name": "Accountability Counsel — the UAE is not among the Gulf states from which nobody has ever complained",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ARE",
+   "url": "https://u.ae/ar-ae/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/environment-and-energy/the-dubai-farms-programme",
+   "name": "Farms support programme — subsidised irrigation and guaranteed markets, because an idle plot is the one that gets taken",
+   "code": 404,
+   "root": "https://u.ae/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ARE",
+   "url": "https://abudhabienv.ae/2025/07/06/%D8%A3%D8%B1%D8%B6-%D9%85%D8%B3%D8%AA%D8%A3%D9%85%D9%86%D8%A9-%D9%83%D9%8A%D9%81-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D9%82%D8%A7%D9%81-%D8%B1%D8%B3%D9%85-%D8%B9%D9%84%D8%A7%D9%82%D8%AA/",
+   "name": "The environmental waqf — an endowment keeps land out of the market permanently",
+   "code": 404,
+   "root": "https://abudhabienv.ae/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ARG",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ARG",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ATG",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ATG",
+   "url": "https://ab.gov.ag/detail_page.php?page=13",
+   "name": "Antigua & Barbuda — Ministry of Finance",
+   "code": 404,
+   "root": "https://ab.gov.ag/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ATG",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "AUS",
+   "url": "https://www.naturefoundation.org.au/what-we-do/conservation-programs/bushbank-revolving-fund",
+   "name": "Nature Foundation — Bushbank Revolving Fund (South Australia)",
+   "code": 404,
+   "root": "https://www.naturefoundation.org.au/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "AZE",
+   "url": "https://www.icnl.org/resources/civic-freedom-monitor/azerbaijan",
+   "name": "Two permissions, not one — the registration and grant regime",
+   "code": 404,
+   "root": "https://www.icnl.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BDI",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel — the legal non-profit that takes cases only when a community asks first, publishes the criteria it screens by, refers on what it cannot take — and runs a free database of every community complaint ever filed against an internationally financed project",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BDI",
+   "url": "https://www.hotosm.org/updates/facebook-community-impact-microgrants-round-2-applications-open/",
+   "name": "Up to $5,000 to map your own area, from a network with two African regional hubs — funds usable for devices, events and training, no prior affiliation required, and a named person in the region to help before you apply",
+   "code": 404,
+   "root": "https://www.hotosm.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BEN",
+   "url": "https://www.mdscbenin.org/la-societe-civile-au-benin/",
+   "name": "The Maison de la Société Civile in Cotonou and the human rights commission's chambre de concertation — where a Beninese association registers itself as civil society, and the rule that a chieftaincy must take associative form",
+   "code": 404,
+   "root": "https://www.mdscbenin.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BFA",
+   "url": "http://www.justice.gov.bf/index.php/2019/06/14/lassistance-judiciaire/",
+   "name": "Burkina Faso's Fonds d'Assistance Judiciaire — 27 commissions in the high courts, an UNSTAMPED written request, and you may apply before, during OR AFTER the trial",
+   "code": 404,
+   "root": "http://www.justice.gov.bf/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BGD",
+   "url": "https://arannayk.org/achievements",
+   "name": "Arannayk Foundation — a forest fund whose grantees are mostly community organisations",
+   "code": 404,
+   "root": "https://arannayk.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BGD",
+   "url": "https://esdo.org/2026/03/assessing-lead-in-paints-in-bangladesh-evidence-for-policy-action-and-market-transformation/",
+   "name": "ESDO — the testing methodology to copy, written out in full",
+   "code": 404,
+   "root": "https://esdo.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BGD",
+   "url": "https://sutalorieup.manikganj.gov.bd/en/site/page/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%A4",
+   "name": "Union village courts — a five-member bench each side helps pick, filing fees of two and four taka, no lawyer needed, and the union councils where every one of them sits",
+   "code": 404,
+   "root": "https://sutalorieup.manikganj.gov.bd/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BGR",
+   "url": "https://bbf.biodiversity.bg/bg/Speshen-fond.c169",
+   "name": "BBF's Spešen fond — emergency money for 'hot' conservation problems, and land purchase by SMS",
+   "code": 404,
+   "root": "https://bbf.biodiversity.bg/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BGR",
+   "url": "https://ecofund-bg.org/en/",
+   "name": "National Trust EcoFund — 515 projects, NGOs among the beneficiaries, and a lighter process",
+   "code": 404,
+   "root": "https://ecofund-bg.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BHR",
+   "url": "https://www.accountabilitycounsel.org/about-us/frequently-asked-questions-faqs/",
+   "name": "Accountability Counsel — Bahrain is a named dark spot, and this is the body that files the complaint for you",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BHR",
+   "url": "http://www.mohandis.org/ar/About/Who_we_are",
+   "name": "Engineers' society — a fifty-year-old professional association with committees, conferences and its own magazine",
+   "code": 404,
+   "root": "http://www.mohandis.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BHR",
+   "url": "https://niadbh.com/%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/?lang=ar",
+   "name": "National agricultural initiative — training open to the public, an agricultural diploma, and a permanent farmers' market for small producers",
+   "code": 404,
+   "root": "https://niadbh.com/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BHS",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BHS",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BIH",
+   "url": "https://natureforpeople.org/articles/the-bridge-of-the-brave-women-of-kruscica-land-of-absurdity/case-study/",
+   "name": "Eko Bistro, Kruščica — the community that won, and what it says success required",
+   "code": 404,
+   "root": "https://natureforpeople.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BIH",
+   "url": "http://ekofondrs.org/dodjelafinansijskihsredstava/javnikonkurs.html",
+   "name": "Ekofond RS — biodiversity and geodiversity are named uses, and the scoring rules are published",
+   "code": 404,
+   "root": "http://ekofondrs.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BIH",
+   "url": "http://efm.ba/2018/10/30/otvoreno-pismo-povodom-izgradnje-male-hidroelektrane-na-rijeci-doljanki/",
+   "name": "The Doljanka open letter — TWENTY named Bosnian organisations that co-sign for a village",
+   "code": 404,
+   "root": "http://efm.ba/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BLZ",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BLZ",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BOL",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BOL",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BRA",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BRB",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BRB",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BRN",
+   "url": "https://www.forestry.gov.bn/SitePages/Relevant%20Legislation.aspx",
+   "name": "Forest reserve classification and the wildlife statutes — five categories of reserve, and the penalties for taking anything out of one",
+   "code": 404,
+   "root": "https://www.forestry.gov.bn/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BRN",
+   "url": "http://www.env.gov.bn/Shared%20Documents/EIA%20Guidelines%20for%20Brunei%20Darussalam%20v2.0%20NEW.pdf",
+   "name": "JASTRe — Brunei's EIA authority, and an honest account of how thin participation is",
+   "code": 404,
+   "root": "http://www.env.gov.bn/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BRN",
+   "url": "https://www.mofe.gov.bn/div_rocbn_corporateregistrysystem/",
+   "name": "ROCBN — where a Brunei company's record sits, and what is not publicly searchable",
+   "code": 404,
+   "root": "https://www.mofe.gov.bn/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BRN",
+   "url": "https://www.forestry.gov.bn/SitePages/Ulu%20Temburong%20National%20Park.aspx",
+   "name": "The national park inside a forest reserve, the forest recreation parks and the fifty-five per cent permanent forest estate — what the forestry department publishes about each site and how access is controlled",
+   "code": 404,
+   "root": "https://www.forestry.gov.bn/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BRN",
+   "url": "https://borneobulletinyearbook.com.bn/welfare/",
+   "name": "Where money for community work actually comes from here — the royal foundation, the welfare system and corporate CSR through the mukim",
+   "code": 404,
+   "root": "https://borneobulletinyearbook.com.bn/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BTN",
+   "url": "https://bes.org.bt/program-areas/",
+   "name": "Bhutan Ecological Society — a domestic non-profit doing field research and restoration with communities, its published programme areas, and the four-party restoration agreement it sits inside",
+   "code": 404,
+   "root": "https://bes.org.bt/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "BTN",
+   "url": "https://kuenselonline.com/stakeholders-discuss-water-act-for-better-implementation/",
+   "name": "Water Act and Water Regulation — an environment clearance before any abstraction, river basin committees, water user associations, and upstream-downstream sharing of watershed costs",
+   "code": 404,
+   "root": "https://kuenselonline.com/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CAF",
+   "url": "https://www.spong-rca.org/ong-agreees/",
+   "name": "SPONG, the approved-NGO register inside CAR's planning ministry — with its Bangui street address and telephone — plus the international NGO coordination committee's member list and a country NGO directory",
+   "code": 404,
+   "root": "https://www.spong-rca.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CAN",
+   "url": "https://rmnat.org/accelerer-la-conservation-dans-le-sud-du-quebec-144-millions-pour-la-preservation-des-milieux-naturels-quebecois/",
+   "name": "RMN — Accélérer la conservation dans le sud du Québec (ACSQ), $144 million",
+   "code": 404,
+   "root": "https://rmnat.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CAN",
+   "url": "https://lobbycanada.gc.ca/",
+   "name": "Registry of Lobbyists",
+   "code": 522,
+   "root": "https://lobbycanada.gc.ca/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CHE",
+   "url": "https://www.verbandsbeschwerde.ch/Startseite.166.0.html",
+   "name": "The TWENTY-THREE organisations entitled to appeal — the Swiss roster, named",
+   "code": 404,
+   "root": "https://www.verbandsbeschwerde.ch/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CHL",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CHL",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CMR",
+   "url": "https://manandnature.org/partenaires/ong",
+   "name": "Cameroon's free village land picture-box and participatory mapping service, plus TF-RD, CERAF-NORD, FCTV and SAILD with its farmers' newspaper",
+   "code": 404,
+   "root": "https://manandnature.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COD",
+   "url": "https://www.itierdc.net/declaration-ppr/",
+   "name": "DRC EITI Register",
+   "code": 404,
+   "root": "https://www.itierdc.net/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COG",
+   "url": "https://www.oecdwatch.org/organisations/asadho-association-africaine-de-defense-des-droits-de-lhomme/",
+   "name": "ASADHO (Association Africaine de Défense des Droits de l'Homme), Kinshasa, and ASADHO/Katanga in the mining belt — monitors army conduct at mine sites, accompanies whistleblowers through the courts, campaigns to revise mining contracts",
+   "code": 410,
+   "root": "https://www.oecdwatch.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COG",
+   "url": "http://astm.lu/article.php3?id_article=146",
+   "name": "Association pour les Droits de l'Homme et l'Univers Carcéral (ADHUC)",
+   "code": 404,
+   "root": "http://astm.lu/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COL",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COL",
+   "url": "https://www.corantioquia.gov.co/convocatoria-consejo-de-cuenca-pomca-del-rio-san-bartolo-codigo-szh-2310/",
+   "name": "Colombia's basin councils and corporation boards - seats for COMMUNITY ACTION BOARDS, peasant, indigenous and Afro-Colombian organisations, water operators and small environmental NGOs, with a further NGO seat on the board that grants the licence",
+   "code": 404,
+   "root": "https://www.corantioquia.gov.co/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COL",
+   "url": "https://www.personeriamonteria.gov.co/funciones-y-deberes/",
+   "name": "Colombia's municipal personerías - an autonomous public lawyer in every municipality whose duties include DEFENDING COLLECTIVE INTERESTS, ESPECIALLY THE ENVIRONMENT, filing popular and protection actions for anyone who asks, and promoting citizen oversight committees",
+   "code": 404,
+   "root": "https://www.personeriamonteria.gov.co/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COL",
+   "url": "https://www.ambientebogota.gov.co/todas-las-investigaciones/-/asset_publisher/pibvwzUnZiNr/content/la-comision-ambiental-local",
+   "name": "Comisión Ambiental Local (CAL) — take a seat in your locality, Bogotá",
+   "code": 404,
+   "root": "https://www.ambientebogota.gov.co/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COL",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COL",
+   "url": "https://www.sic.gov.co/proteccion-de-datos-personales",
+   "name": "Superintendencia de Industria y Comercio (SIC) — Protección de Datos",
+   "code": 404,
+   "root": "https://www.sic.gov.co/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "COM",
+   "url": "http://www.agro-oi.com/fr/7/31001/aide.html",
+   "name": "ONG AIDE — the Comorian association monitoring coral reef health at 20 sites across all three islands, plus IMANA on deforestation and the protected-area network designed for village co-management",
+   "code": 404,
+   "root": "http://www.agro-oi.com/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CRI",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CRI",
+   "url": "https://www.ungl.or.cr/index.php/areas-de-gestion/direccion-ejecutiva/ambiente",
+   "name": "Costa Rica's union of local governments - a public-law body with a NATIONAL DATABASE OF MUNICIPAL ENVIRONMENTAL MANAGERS and a technical network, chairing the municipal ecological flag committee, alongside regional federations of municipalities",
+   "code": 404,
+   "root": "https://www.ungl.or.cr/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CRI",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "CUB",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DEU",
+   "url": "https://www.dnr.de/mitglieder/organisationen",
+   "name": "Deutscher Naturschutzring — the umbrella of ~100 German organisations, with named contacts",
+   "code": 404,
+   "root": "https://www.dnr.de/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DEU",
+   "url": "https://www.transparenzregister.de/treg/en/start",
+   "name": "Transparency Register (Transparenzregister)",
+   "code": 404,
+   "root": "https://www.transparenzregister.de/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DJI",
+   "url": "https://uncaccoalition.org/our-network/anti-corruption-platforms/africa/djibouti/association-amis-juristes-de-djibouti/",
+   "name": "Association Amis Juristes de Djibouti — magistrates, jurists and legal advisers in one association, with a named secretary general and two published phone numbers, in a country with about a dozen advocates",
+   "code": 404,
+   "root": "https://uncaccoalition.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DMA",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DMA",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DMA",
+   "url": "https://caribbeanbiodiversityfund.org/national-conservation-funds/dominica-national-conservation-trust-fund/",
+   "name": "DNCTF — it only adopted its governing policies in 2024",
+   "code": 404,
+   "root": "https://caribbeanbiodiversityfund.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DMA",
+   "url": "https://forestry.gov.dm/units/national-parks-section",
+   "name": "Forestry, Wildlife & Parks Division — its reach extends beyond the parks",
+   "code": 404,
+   "root": "https://forestry.gov.dm/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DNK",
+   "url": "https://www.dof.dk/naturbeskyttelse/internationalt/14-om-dof/lokalafdelinger",
+   "name": "DOF BirdLife — 13 local branches that handle your council's planning cases (Denmark)",
+   "code": 404,
+   "root": "https://www.dof.dk/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DNK",
+   "url": "https://voresnatur.dk/om-vores-natur/om-fondene",
+   "name": "The Danish nature funds together — six funders in one room, and a pool for LOCAL activities",
+   "code": 404,
+   "root": "https://voresnatur.dk/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DOM",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DOM",
+   "url": "https://observatorioplanificacion.cepal.org/es/marcos-regulatorios/ley-general-sobre-medio-ambiente-ley-64-00-de-republica-dominicana",
+   "name": "Article 172 — directors are liable where the board authorised the act",
+   "code": 404,
+   "root": "https://observatorioplanificacion.cepal.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "DOM",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ECU",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ECU",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "EGY",
+   "url": "https://chapterfouruganda.org/strategic-public-interest-litigation/rapid-legal-response",
+   "name": "Chapter Four Uganda, Kampala — first-line legal response when activists are arrested, with the Uganda Law Society pro bono scheme and Justice Centres Uganda as backups; its permit was suspended by the NGO Bureau in January 2026",
+   "code": 404,
+   "root": "https://chapterfouruganda.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ERI",
+   "url": "https://www.erilaw.org/about/",
+   "name": "Eritrea — the expropriation DECISION cannot be challenged in court, but COMPENSATION goes to the High Court; community courts hear land disputes, and the only lawyers' association is in exile",
+   "code": 404,
+   "root": "https://www.erilaw.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ESP",
+   "url": "https://www.custodia-territorio.es/tipos-de-custodia-del-territorio-y-modelos-de-acuerdos",
+   "name": "Custodia del territorio — a neighbours' association can hold land in custody",
+   "code": 404,
+   "root": "https://www.custodia-territorio.es/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ESP",
+   "url": "https://fnyh.org/en/foundation/programs/iberian-west/",
+   "name": "Fundación Naturaleza y Hombre — Spain's buyer, in three tiers (Spain)",
+   "code": 404,
+   "root": "https://fnyh.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ESP",
+   "url": "https://digital.gob.es/es/funcion-publica/incompatibilidad-y-conflicto-intereses/oficina",
+   "name": "Oficina de Conflictos de Intereses",
+   "code": 404,
+   "root": "https://digital.gob.es/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "EST",
+   "url": "https://www.maaamet.ee/et/uudised/maa-amet-sai-lisaraha-looduskaitseliste-piirangutega-maade-ostuks",
+   "name": "Maa-amet — the State MUST buy land whose use is significantly restricted by protection",
+   "code": 404,
+   "root": "https://www.maaamet.ee/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "FIN",
+   "url": "https://virre.prh.fi/novus/home?execution=e1s1",
+   "name": "Finland Register of Companies",
+   "code": 404,
+   "root": "https://virre.prh.fi/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "FIN",
+   "url": "https://www.yvtltk.fi/en/index.html",
+   "name": "National Non-Discrimination and Equality Tribunal of Finland",
+   "code": 404,
+   "root": "https://www.yvtltk.fi/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.roc.gov.bm/",
+   "name": "Bermuda — Registrar of Companies (company register)",
+   "code": 404,
+   "root": "https://www.roc.gov.bm/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GBR",
+   "url": "https://www.gov.uk/guidance/people-with-significant-control-psc",
+   "name": "People with Significant Control register",
+   "code": 404,
+   "root": "https://www.gov.uk/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GEO",
+   "url": "http://iva.org.ge/ka/programs/5",
+   "name": "Certified valuers — the published list with certificate numbers, the accredited body that certifies them, and the grounds for revoking one",
+   "code": 404,
+   "root": "http://iva.org.ge/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GHA",
+   "url": "https://fcghana.org/about-wd/",
+   "name": "CREMA authority descends from game wardenship, not from land title — and without a gazetted district bye-law it binds nobody",
+   "code": 404,
+   "root": "https://fcghana.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GLOBAL",
+   "url": "https://yestolifenotomining.org/join-us/",
+   "name": "Yes to Life No to Mining — the network for communities facing a mine",
+   "code": 404,
+   "root": "https://yestolifenotomining.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GMB",
+   "url": "https://www.christensenfund.org/the-christensen-fund-details-first-round-of-indigenous-peoples-and-local-communities-pledge-commitments/",
+   "name": "The Christensen Fund — a funder that publishes its own numbers — 75.89% of grantees indigenous-led, 89.51% of grants unrestricted — with a US$50,000–100,000 range, a two-stage pre-proposal, and geographic limits it has since dropped",
+   "code": 404,
+   "root": "https://www.christensenfund.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GRD",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GRD",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GRD",
+   "url": "https://caribbeanbiodiversityfund.org/national-conservation-funds/grenada-sustainable-development-trust-fund/",
+   "name": "Grenada Sustainable Development Trust Fund — 6 projects, so expect competition",
+   "code": 404,
+   "root": "https://caribbeanbiodiversityfund.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GRD",
+   "url": "https://www.gov.gd/mof",
+   "name": "Grenada — Ministry of Finance",
+   "code": 404,
+   "root": "https://www.gov.gd/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GRL",
+   "url": "https://aka.gl/emner/erhverv",
+   "name": "Greenland — Business Registration (Akileraartarnermut Aqutsisoqarfik / CVR)",
+   "code": 404,
+   "root": "https://aka.gl/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GTM",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GTM",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GTM",
+   "url": "https://anam.org.gt/wp-content/uploads/2022/01/Guia-COCODES-Tomo-2-1.pdf",
+   "name": "Guatemala's community, municipal and departmental development councils - 250 adults and a notarial act put a village inside the public investment system, with municipal planning support, running costs and indigenous advisory councils",
+   "code": 404,
+   "root": "https://anam.org.gt/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GUY",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "GUY",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "HND",
+   "url": "https://asjhonduras.com/webhn/",
+   "name": "ASJ — Asociación para una Sociedad más Justa (Transparency International Honduras)",
+   "code": 404,
+   "root": "https://asjhonduras.com/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "HND",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "HND",
+   "url": "https://icf.gob.hn/unidad-de-patrimonio-forestal/",
+   "name": "Contrato de manejo forestal comunitario — two vehicles, check tenure first",
+   "code": null,
+   "root": "https://icf.gob.hn/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "HND",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "HND",
+   "url": "https://icf.gob.hn/cuencas-hidrograficas/",
+   "name": "Honduras' declared micro-watersheds - a water board president and mayor jointly petition the forest institute, ownership is untouched, 85 declared in one year across 57 municipalities, with community-readable maps and a management committee",
+   "code": null,
+   "root": "https://icf.gob.hn/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "HRV",
+   "url": "http://aarhus.zelena-istra.hr/sudjelovanje_javnosti",
+   "name": "Zelena Istra — gets the regulator to rule against the county (Croatia)",
+   "code": 404,
+   "root": "http://aarhus.zelena-istra.hr/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "HTI",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "HTI",
+   "url": "http://www.cscca.gouv.ht",
+   "name": "Cour supérieure des comptes et du contentieux administratif (Haïti)",
+   "code": 404,
+   "root": "http://www.cscca.gouv.ht/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "IDN",
+   "url": "https://brwa.or.id/pages/about",
+   "name": "BRWA — the body where a community registers its mapped customary territory, why it was created, and the participatory mapping partners behind it",
+   "code": 404,
+   "root": "https://brwa.or.id/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "IDN",
+   "url": "https://www.lpsk.go.id/beranda/cara-mengajukan",
+   "name": "LPSK — statutory protection for a reporter or witness, and the one document the application turns on",
+   "code": 404,
+   "root": "https://www.lpsk.go.id/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "IDN",
+   "url": "https://longpada.desa.id/peraturan_desa/read/sk-anggota-lphd-long-pada",
+   "name": "Village forest management bodies — formed by village deliberation, appointed by the village head's decision, with duties listed one by one, and the district facilitators who help them apply",
+   "code": 404,
+   "root": "https://longpada.desa.id/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "IDN",
+   "url": "https://kehati.or.id/tentang-program/",
+   "name": "Yayasan KEHATI — Indonesia's biodiversity grant fund, and the costs it may not cover",
+   "code": 404,
+   "root": "https://kehati.or.id/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.indiacode.nic.in/bitstream/123456789/6198/1/the_wild_life_(protection)_act,_1972.pdf",
+   "name": "Community reserves and conservation reserves — land declared on the community's own volunteering, a management committee that can block land use change, and ownership left intact",
+   "code": 404,
+   "root": "https://www.indiacode.nic.in/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "IND",
+   "url": "https://www.indiacode.nic.in/bitstream/123456789/16809/3/maharashtra_.pdf",
+   "name": "Tree Officer permission and the heritage tree — fifteen days before any felling, an objection triggers a hearing, and compensatory planting equal to the tree's age",
+   "code": 404,
+   "root": "https://www.indiacode.nic.in/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ISL",
+   "url": "https://www.ssf.is/landsbankinn-veitir-umhverfisstyrki/",
+   "name": "A bank's environment grants — what 250,000 and 500,000 KRONUR actually bought",
+   "code": 404,
+   "root": "https://www.ssf.is/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ISL",
+   "url": "https://island.is/s/skipulagsstofnun/umhverfismat-framkvaemda-almenningur-og-hagsmunaadilar",
+   "name": "Skipulagsgátt — comment on the scoping plan before the study is even written",
+   "code": 404,
+   "root": "https://island.is/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ISR",
+   "url": "https://www.shatil.org.il/declaration/96545",
+   "name": "Keren Sheli — it funds a fight, not just a project, and unregistered groups can apply",
+   "code": 404,
+   "root": "https://www.shatil.org.il/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ISR",
+   "url": "https://www.ecowest.co.il/education",
+   "name": "Regional cities union for environmental quality — activist courses in member authorities, and support for residents' own initiatives",
+   "code": 404,
+   "root": "https://www.ecowest.co.il/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ITA",
+   "url": "https://irpi.eu/en/",
+   "name": "Investigative Reporting Project Italy (IRPI)",
+   "code": 404,
+   "root": "https://irpi.eu/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ITA",
+   "url": "https://www.registroimprese.it/rebec",
+   "name": "Register of Beneficial Ownership of Companies",
+   "code": 404,
+   "root": "https://www.registroimprese.it/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "JAM",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "JAM",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "JOR",
+   "url": "http://www.badiafund.gov.jo/node/415",
+   "name": "Rangeland development fund — water harvesting, concessional loans, capacity for local associations, and consent sought on grazing rules",
+   "code": 404,
+   "root": "http://www.badiafund.gov.jo/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "JPN",
+   "url": "https://www.erca.go.jp/jfge/subsidy/application/entry/index.html",
+   "name": "Applying — the non-profit-type condition and the system-only submission",
+   "code": 404,
+   "root": "https://www.erca.go.jp/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KAZ",
+   "url": "https://sfk.kz/ru/homepage/",
+   "name": "Farmers' association's regional branches — branch chairmen who are also council deputies, and members inside government working groups",
+   "code": 404,
+   "root": "https://sfk.kz/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KAZ",
+   "url": "https://goszakup.gov.kz/ru/registry/rnu_quasi",
+   "name": "State procurement portal and the register of unscrupulous participants — and the filter that now screens complaints",
+   "code": 404,
+   "root": "https://goszakup.gov.kz/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KGZ",
+   "url": "http://constpalata.kg/en/",
+   "name": "Constitutional Chamber (Kyrgyzstan)",
+   "code": 404,
+   "root": "http://constpalata.kg/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KGZ",
+   "url": "https://kaflu.kg/ru/%D0%BE-%D0%BD%D0%B0%D1%81-2/",
+   "name": "Forest and land users' association — legal support, help registering lease contracts, community group formation and certification training",
+   "code": 404,
+   "root": "https://kaflu.kg/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KHM",
+   "url": "https://www.mrcmekong.org/news-and-events/consultations/pnpca-prior-consultations/faqs-to-the-mrc-procedures-for-notification-prior-consultation-and-agreement-process/",
+   "name": "MRC prior consultation (PNPCA) — the six-month window on any Mekong mainstream project",
+   "code": 404,
+   "root": "https://www.mrcmekong.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KHM",
+   "url": "https://rdic.org/laboratory/",
+   "name": "RDIC laboratory — water testing for individuals as well as organisations, and the contaminants it works on",
+   "code": 404,
+   "root": "https://rdic.org/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KNA",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KNA",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KNA",
+   "url": "https://www.fsrc.kn/companies/formation-and-registration",
+   "name": "St Kitts & Nevis — Financial Services Regulatory Commission (Registrar of Companies)",
+   "code": 404,
+   "root": "https://www.fsrc.kn/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KOR",
+   "url": "https://www.bai.go.kr/bai/cop/bbs/detailBoardArticle.do?mdex=bai53&bbsId=BBSMSTR_100000000038&pageIndex=1&nttId=123980",
+   "name": "국민감사청구 — three hundred signatures can put a project under state audit",
+   "code": 404,
+   "root": "https://www.bai.go.kr/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KOR",
+   "url": "https://ecolaw.or.kr/wp/",
+   "name": "환경법률센터 — Environmental Law Center",
+   "code": 404,
+   "root": "https://ecolaw.or.kr/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KWT",
+   "url": "https://www.accountabilitycounsel.org/about-us/frequently-asked-questions-faqs/",
+   "name": "Accountability Counsel — Kuwait is a named dark spot, and the complaint route runs through the lender not the courts",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KWT",
+   "url": "https://kse.org.kw/%D8%B9%D8%B6%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9/",
+   "name": "Engineers' society — an independent technical body since 1962, with committees, cheap training and a stated position on the bay",
+   "code": 404,
+   "root": "https://kse.org.kw/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "KWT",
+   "url": "http://www.keps.org.kw/page_details.php?pid=2",
+   "name": "Kuwait Environment Protection Society — founded 1974, and its charter objectives name resource depletion by irresponsible actors",
+   "code": 404,
+   "root": "http://www.keps.org.kw/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LAO",
+   "url": "https://www.mof.gov.la/index.php/en/home/",
+   "name": "Laos — Ministry of Finance",
+   "code": 404,
+   "root": "https://www.mof.gov.la/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LAO",
+   "url": "https://www.mrcmekong.org/news-and-events/consultations/pnpca-prior-consultations/faqs-to-the-mrc-procedures-for-notification-prior-consultation-and-agreement-process/",
+   "name": "MRC prior consultation (PNPCA) — the six-month window on any Mekong mainstream project",
+   "code": 404,
+   "root": "https://www.mrcmekong.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LBN",
+   "url": "https://www.oea.org.lb/arabic/sub.aspx?pageid=104",
+   "name": "Orders of Engineers and Architects — two regional bodies, and the four questions to put to them",
+   "code": 404,
+   "root": "https://www.oea.org.lb/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LCA",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LCA",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.srilankalaw.lk/revised-statutes/volume-iii/404-forest-conservation-ordinance.html",
+   "name": "Forest Conservation Ordinance — the prohibited acts a resident can report, village forests, and the department that holds the boundary",
+   "code": 404,
+   "root": "https://www.srilankalaw.lk/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.srilankalaw.lk/revised-statutes/alphabetical-list-of-statutes/602-land-acquisition-act.html",
+   "name": "Land Acquisition Act — the objection right and the 14-day window",
+   "code": 404,
+   "root": "https://www.srilankalaw.lk/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.rgd.gov.lk/web/index.php/en/services/land-registration/registration-of-documents.html",
+   "name": "Land registry searches — anyone may search the register, at a published fee",
+   "code": 404,
+   "root": "https://www.rgd.gov.lk/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.moj.gov.lk/index.php?id=31&itemid=179&lang=en&option=com_content&view=article",
+   "name": "Regional legal aid centres — dozens of centres island-wide with permanent salaried lawyers and a thousand panel lawyers from regional bar associations, an income test, and a stated preference for a lawyer of your choice",
+   "code": 404,
+   "root": "https://www.moj.gov.lk/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LKA",
+   "url": "https://www.wnpssl.org/what-we-do/conservation/land-conservation-reforestation.html",
+   "name": "WNPS — a statutory advisory seat, plus PLANT, its land-securing trust",
+   "code": 404,
+   "root": "https://www.wnpssl.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LUX",
+   "url": "https://www.naturemwelt.lu/devenir-membre/",
+   "name": "Fondation Hëllef fir d'Natur — 1,650 hectares owned, and the stated aim is TO ACQUIRE MORE",
+   "code": 404,
+   "root": "https://www.naturemwelt.lu/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LUX",
+   "url": "https://www.oeuvre.lu/soutien/appels-a-projets/",
+   "name": "Œuvre Nationale — lottery-funded, with Environment as a standing field (Luxembourg)",
+   "code": 404,
+   "root": "https://www.oeuvre.lu/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LVA",
+   "url": "https://www.lvafa.gov.lv/projektu-konkursi/projektu-konkursu-nolikumi",
+   "name": "LVAF nolikumi — a model landowner agreement, and the scoring sheets",
+   "code": 404,
+   "root": "https://www.lvafa.gov.lv/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "LVA",
+   "url": "https://www.lvafa.gov.lv/aktualitates/jaunumi/2033-tiek-izsludinati-cetri-projektu-konkursi",
+   "name": "Latvijas vides aizsardzības fonds — grants an association can apply for (Latvia)",
+   "code": 404,
+   "root": "https://www.lvafa.gov.lv/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MCO",
+   "url": "https://www.gouv.mc/content/download/187728/2160286/file/Handbook2013_web-rvb-150dpi_Ch7.pdf",
+   "name": "Inventories are decision support for planning — and the honest tension",
+   "code": 404,
+   "root": "https://www.gouv.mc/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MDA",
+   "url": "https://am.gov.md/ro/content/d1-arii-protejate",
+   "name": "Agenția de Mediu's protected-areas page — the TEN categories, and the law that lists every site",
+   "code": 404,
+   "root": "https://am.gov.md/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MDA",
+   "url": "https://www.ecocontact.md/cine-suntem/despre-noi/",
+   "name": "EcoContact and its Aarhus Centre — free environmental legal help (Moldova)",
+   "code": 404,
+   "root": "https://www.ecocontact.md/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MDA",
+   "url": "https://data.gov.md/",
+   "name": "data.gov.md",
+   "code": 404,
+   "root": "https://data.gov.md/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MDV",
+   "url": "https://one.gov.mv/submissions/65a5492e-a3b1-a797-2423-0007b42f55f2/new",
+   "name": "Bandaara goathi — island plot allocation, the land use plan that must exist first, and the council point policy that decides who gets one",
+   "code": 404,
+   "root": "https://one.gov.mv/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MDV",
+   "url": "https://www.environment.gov.mv/v2/en/maldives-green-fund",
+   "name": "Maldives Green Fund — permitted uses, a monthly published ledger by island, and the balance that answers 'there is no money'",
+   "code": 404,
+   "root": "https://www.environment.gov.mv/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MDV",
+   "url": "https://www.environment.gov.mv/v2/en/download/11006",
+   "name": "Protected species and the rules that come with a protected area — the ministry's own regulation, the acts banned inside a designated area, and the trade bans notified by date",
+   "code": 404,
+   "root": "https://www.environment.gov.mv/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MDV",
+   "url": "https://www.ura.gov.mv/about-us/mandate/",
+   "name": "The utility regulator — complaints about water, sewerage, electricity and waste in one place, a public register of licensed designers, and the island deadline",
+   "code": 404,
+   "root": "https://www.ura.gov.mv/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MEX",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MEX",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MEX",
+   "url": "https://cambioclimatico.jalisco.gob.mx/juntas.html",
+   "name": "Mexico's inter-municipal environment boards - decentralised public organisms with their own legal personality, budget and patrimony, covering whole watersheds, whose named tasks include ecological ordering, environmental impact and the CREATION AND MANAGEMENT OF NATURAL AREAS",
+   "code": 404,
+   "root": "https://cambioclimatico.jalisco.gob.mx/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MKD",
+   "url": "https://resen.gov.mk/wp-content/uploads/2021/02/%D0%9F%D0%BB%D0%B0%D0%BD-%D0%B7%D0%B0-%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D1%83%D0%B2%D0%B0%D1%9A%D0%B5-%D1%81%D0%BE-%D0%9F%D0%B0%D1%80%D0%BA-%D0%BD%D0%B0-%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0%D0%95%D0%B7%D0%B5%D1%80%D0%B0%D0%BD%D0%B8.pdf",
+   "name": "Opština Resen — the MUNICIPALITY is the managing body of a nature park",
+   "code": 404,
+   "root": "https://resen.gov.mk/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MLI",
+   "url": "https://thegreenconnection.org.za/who-stole-our-oceans-story/",
+   "name": "The Green Connection, Cape Town — an African organisation that files offshore oil and gas judicial reviews with a fishers co-operative as named co-applicant, publishes the law firm acting for it, and won a court order halting a seismic survey on the ground that nobody consulted the fishing communities",
+   "code": 404,
+   "root": "https://thegreenconnection.org.za/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MLT",
+   "url": "https://environment.gov.mt/en/ambjentmalta/Pages/natura2000Management.aspx",
+   "name": "Ambjent Malta — it pays eNGOs ANNUAL FUNDING to manage Natura 2000 sites",
+   "code": 404,
+   "root": "https://environment.gov.mt/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MNE",
+   "url": "https://expeditio.org/ndex.php?Itemid=410&lang=sr&option=com_search&searchphrase=all&searchword=eko",
+   "name": "EXPEDITIO — a centre for SUSTAINABLE SPATIAL DEVELOPMENT, which is the planning fight itself",
+   "code": 404,
+   "root": "https://expeditio.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MNE",
+   "url": "https://ecoteam.me/projekti",
+   "name": "Eko-tim — the Montenegrin NGO that assessed SMALL HYDRO and runs a river-protection initiative",
+   "code": 404,
+   "root": "https://ecoteam.me/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MNG",
+   "url": "https://www.accountabilitycounsel.org/client-case/mongolia-south-gobi-infrastructure/",
+   "name": "OT Watch and the herder complaint route — a national NGO that files to lenders' grievance mechanisms and trains herders to do it",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MNG",
+   "url": "https://www.worldbank.org/en/news/feature/2010/06/01/mongolia-collective-decision-making-improve-rural-infrastructure",
+   "name": "The Local Development Fund and the bag meeting that feeds it — where a herder proposes a project, who shortlists it, who sits on the district council, and the citizen monitoring groups formed to watch the spending",
+   "code": 404,
+   "root": "https://www.worldbank.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MUS",
+   "url": "https://plateformemauriceenvironnement.asso-web.com/",
+   "name": "Platform Moris Lanvironnman — a coalition of about fifteen Mauritian NGOs that takes apart developers' EIA reports in public, at length",
+   "code": 404,
+   "root": "https://plateformemauriceenvironnement.asso-web.com/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "MYS",
+   "url": "https://penangforum.net/press-release/reject-reclamation-save-our-seas/",
+   "name": "Penang Forum and the state fishermen's associations — a state-level coalition focused on one state's own governance, the official fishermen's associations that challenged an approval, and the court ruling on planning permission",
+   "code": 404,
+   "root": "https://penangforum.net/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "NER",
+   "url": "http://www.anajj.ne/index.php/agence/mission-et-organisation",
+   "name": "ANAJJ Niger — ten legal-aid bureaux sitting inside the high courts, open to ANY person living in Niger, with a rights-NGO representative on each panel",
+   "code": 404,
+   "root": "http://www.anajj.ne/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "NER",
+   "url": "https://resourcegovernance.org/learning/training/francophone-africa",
+   "name": "NRGI (Natural Resource Governance Institute) — two African summer schools that teach civil society to analyse real oil, gas and mining contracts — full scholarships covering travel and tuition, evening one-on-one clinics, a post-course mentorship, and a free index scoring your own country",
+   "code": 404,
+   "root": "https://resourcegovernance.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "NGA",
+   "url": "http://www.nigeria-law.org/Land%20Use%20Act.htm",
+   "name": "Land Use Act — customary rights of occupancy, and who really owns the land",
+   "code": 404,
+   "root": "http://www.nigeria-law.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "NIC",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "NIC",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "NLD",
+   "url": "https://www.kvk.nl/producten-bestellen/bedrijfsproducten-bestellen/uittreksel-ubo-register/",
+   "name": "UBO register",
+   "code": 404,
+   "root": "https://www.kvk.nl/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "NPL",
+   "url": "https://nepalilaw.com/jurisdiction-of-the-judicial-committee-of-local-government-in-nepal/",
+   "name": "The municipal judicial committee — a three-member body in every one of 753 local governments that decides boundary, water, pasture and crop-damage disputes, with ward mediation centres and appeal to the district court",
+   "code": 410,
+   "root": "https://nepalilaw.com/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "NPL",
+   "url": "https://nic.gov.np/page/nics-work-responsibilities-and-rights",
+   "name": "राष्ट्रिय सूचना आयोग — quarterly automatic publication, and a commission that can order the file produced",
+   "code": 404,
+   "root": "https://nic.gov.np/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "NZL",
+   "url": "https://www.courtsofnz.govt.nz/the-courts/supreme-court/judgments/",
+   "name": "Courts of New Zealand",
+   "code": 404,
+   "root": "https://www.courtsofnz.govt.nz/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "OMN",
+   "url": "https://www.accountabilitycounsel.org/about-us/frequently-asked-questions-faqs/",
+   "name": "Accountability Counsel — Oman is a named dark spot, and it partners with local lawyers rather than replacing them",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "OMN",
+   "url": "https://halafm.om/86356/",
+   "name": "Wilayat women's associations, charitable societies and volunteer teams — the country's local organisations, listed with their seats and member numbers",
+   "code": null,
+   "root": "https://halafm.om/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PAK",
+   "url": "https://pilap.pk/faq/",
+   "name": "PILAP — a public interest law association with pro bono lawyers, a research-then-information-request-then-litigation method, and a record of taking issues proposed by citizens and local campaigns",
+   "code": 404,
+   "root": "https://pilap.pk/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PAK",
+   "url": "https://rti.gov.pk/powers-and-authority/",
+   "name": "Pakistan Information Commission — a free appeal, civil court powers, and a penalty measured in days of salary",
+   "code": 404,
+   "root": "https://rti.gov.pk/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PAN",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PAN",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PER",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PER",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PHL",
+   "url": "https://www.geoportal.gov.ph/viewer/main/",
+   "name": "The national geoportal and the mapping agency's downloads — basemaps and thematic layers with metadata naming the data owner, the twelve-class land cover map, and topographic and hazard sheets by grid",
+   "code": 404,
+   "root": "https://www.geoportal.gov.ph/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PRY",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PRY",
+   "url": "https://www.senado.gov.py/images/archivos/constitucion-nacional-2023/Libro%202023%20-2028%20para%20la%20Web.pdf",
+   "name": "Artículo 38 — any person, alone, may demand measures from the authorities",
+   "code": 404,
+   "root": "https://www.senado.gov.py/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PRY",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "PSE",
+   "url": "https://fondationfranklinia.org/en/call-for-proposals-open/",
+   "name": "Franklinia Foundation — grants for saving particular threatened trees, up to three years, in the Mediterranean basin and beyond",
+   "code": 404,
+   "root": "https://fondationfranklinia.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "QAT",
+   "url": "https://www.accountabilitycounsel.org/about-us/frequently-asked-questions-faqs/",
+   "name": "Accountability Counsel — Qatar is a named dark spot, and it will review your documents even if it cannot take the whole case",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "QAT",
+   "url": "https://www.npc.qa/en/statistics1/Pages/default.aspx",
+   "name": "The whole registered association sector counted at thirty-three — and the national volunteering platform launched in May 2026",
+   "code": 404,
+   "root": "https://www.npc.qa/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "RWA",
+   "url": "https://alternativeminingindaba.org/",
+   "name": "The Alternative Mining Indaba — an annual continental gathering held in the same city and week as the industry's own mining investment conference — community representatives from 33 countries, travel commonly paid by larger organisations, and a declaration marched across town and delivered",
+   "code": 404,
+   "root": "https://alternativeminingindaba.org/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SAU",
+   "url": "https://www.accountabilitycounsel.org/about-us/frequently-asked-questions-faqs/",
+   "name": "Accountability Counsel — Saudi Arabia is named as a country where no community has ever filed a complaint against a development bank",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SAU",
+   "url": "https://www.ncm.gov.sa/Ar/Environment/Departments/EPGD/EQD/Pages/EnvironmentalConsultant.aspx",
+   "name": "Environmental permitting regime — the classification form, the operating permit, and who is allowed to write the study",
+   "code": 404,
+   "root": "https://www.ncm.gov.sa/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SDN",
+   "url": "https://ccsi.columbia.edu/work/projects/guidance-for-communities-interacting-with-investors",
+   "name": "CCSI (Columbia Center on Sustainable Investment) — two free guides written for the community side of the table — one for before the investor arrives, one for negotiating the contract — plus a repository of agreements other communities actually signed, in French as well as English",
+   "code": 404,
+   "root": "https://ccsi.columbia.edu/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SEN",
+   "url": "https://www.prcmarine.org/fr/",
+   "name": "The PRCM — a seven-country West African coastal coalition of 78 members from village associations upward, which any marine or coastal organisation can join by returning one signed form and charter",
+   "code": 404,
+   "root": "https://www.prcmarine.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SGP",
+   "url": "https://www.singaporeheritage.org/wp-content/uploads/2011/11/SHS_BB_Position_Paper.pdf",
+   "name": "The heritage society's position paper as a template — a document that asked whether the road was needed at all, its recommendations, and what the campaign around it actually won",
+   "code": 404,
+   "root": "https://www.singaporeheritage.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SGP",
+   "url": "https://www.nparks.gov.sg/treessg/learn/tree-conservation",
+   "name": "Tree conservation areas and the Heritage Tree scheme — one metre of girth needs written approval, five metres and anyone can nominate",
+   "code": 404,
+   "root": "https://www.nparks.gov.sg/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SLB",
+   "url": "http://www.mecdm.gov.sb/about-us/divisions/environment-conservation.html",
+   "name": "Environment & Conservation Division — three Acts, one desk, consultation open",
+   "code": 404,
+   "root": "http://www.mecdm.gov.sb/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SLV",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SLV",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SOM",
+   "url": "https://fondationfranklinia.org/en/call-for-proposals-open/",
+   "name": "A foundation funding on-the-ground work on threatened trees for up to 3 years, with overheads capped at 10%, regional calls including one for Eastern Africa, and an unpublished threat assessment accepted if you can justify it",
+   "code": 404,
+   "root": "https://fondationfranklinia.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SOM",
+   "url": "https://publiclab.org/tools",
+   "name": "Public Lab — free open-source designs for the equipment that proves contamination — water sensors buildable for under $100, a heavy-metals tester, smartphone spectrometers, and balloon-and-kite aerial mapping instead of a drone",
+   "code": 404,
+   "root": "https://publiclab.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SOM",
+   "url": "https://www.tropenbos.org/where_we_work/ghana",
+   "name": "Tropenbos International — a forest network whose African country members are their own legal national entities rather than branch offices — with the international office acting as secretariat that fundraises for them, and a named programme lobbying for tree tenure reform",
+   "code": 404,
+   "root": "https://www.tropenbos.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SUR",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SWE",
+   "url": "https://borlange.naturskyddsforeningen.se/2022/04/09/vad-ar-meningen-med-naturskyddsforeningen/",
+   "name": "A LOCAL collection foundation — a branch that started its own land-buying fund",
+   "code": 404,
+   "root": "https://borlange.naturskyddsforeningen.se/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SWE",
+   "url": "https://www.slu.se/artdatabanken/tjanster-och-miljodata/artportalen/",
+   "name": "Artportalen — open to everyone, and the EIA consultants take their extract from it",
+   "code": 404,
+   "root": "https://www.slu.se/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SWZ",
+   "url": "http://www.gov.sz/index.php/ministries-departments/auditor-general",
+   "name": "Office of the Auditor General",
+   "code": 404,
+   "root": "http://www.gov.sz/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SYC",
+   "url": "https://www.clientearth.org/where-we-work/africa/",
+   "name": "ClientEarth — an environmental law charity that has no African offices and works through named strategic partners instead — with a published rule that it only brings cases it expects to win, and a forest-community result already on record",
+   "code": 404,
+   "root": "https://www.clientearth.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SYC",
+   "url": "https://www.islandconservationseychelles.com/partners.html",
+   "name": "Island Conservation Society — signed a 2007 agreement to be conservation manager on a state company's islands and now staffs six of them, plus the island bought outright by a single donor in 1973",
+   "code": 404,
+   "root": "https://www.islandconservationseychelles.com/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "SYR",
+   "url": "https://www.damascusbar.org/arabic/dbar/law_sys/org_sys.htm",
+   "name": "The bar's Judicial Aid Committee — it can assign you a lawyer who is not allowed to refuse",
+   "code": 404,
+   "root": "https://www.damascusbar.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TCD",
+   "url": "https://afsafrica.org/farmers-inspiring-farmers-to-save-seeds-in-kenya/",
+   "name": "Seed Savers Network Kenya — a network that has trained 74,000 smallholders and helped establish 54 community seed banks on a model where one trusted member hosts seeds owned by all — and whose sector won a High Court ruling quashing the law that criminalised saving and exchanging seed",
+   "code": 404,
+   "root": "https://afsafrica.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TGO",
+   "url": "https://uncaccoalition.org/anti-corruption-platforms/africa/togo/union-des-ong-du-togo/",
+   "name": "UONGTO — Togo's NGO umbrella since 1993, which holds seats on the public procurement regulator's council AND its disputes committee, plus the extractive transparency steering committee — with its Lomé BP and director's contacts",
+   "code": 404,
+   "root": "https://uncaccoalition.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "THA",
+   "url": "https://www.mrcmekong.org/news-and-events/consultations/pnpca-prior-consultations/faqs-to-the-mrc-procedures-for-notification-prior-consultation-and-agreement-process/",
+   "name": "MRC prior consultation (PNPCA) — the six-month window on any Mekong mainstream project",
+   "code": 404,
+   "root": "https://www.mrcmekong.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "THA",
+   "url": "https://www.thaivolunteer.org/ndf/",
+   "name": "The volunteer placement foundation and its organisation directory — profiles of community organisations by issue, with addresses and volunteer vacancies, including land and ethnic-rights bodies",
+   "code": 404,
+   "root": "https://www.thaivolunteer.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TJK",
+   "url": "https://www.ombudsmanrf.org/contacts/respublika-tadzhikistan/",
+   "name": "Commissioner for Human Rights — an online reception and an address, and little else established",
+   "code": 404,
+   "root": "https://www.ombudsmanrf.org/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TJK",
+   "url": "https://www.fao.org/gender-landrights-database/country-profiles/listcountries/customarylaw/traditionalauthoritiesandcustomaryinstitutions/ru/?country_iso3=TJK",
+   "name": "Village self-government body and its mahalla committees — the local council that approves land grants, leases and terminations",
+   "code": 404,
+   "root": "https://www.fao.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TKM",
+   "url": "https://minjust.gov.tm/mcenter-single/82",
+   "name": "Becoming a legal person — the twenty-five day clock, the statute that decides it, and the appeal if refused",
+   "code": 404,
+   "root": "https://minjust.gov.tm/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TKM",
+   "url": "https://tehranconvention.org/system/files/turkmenistan/okhrana_prirody_turkmenistana._vyp._10_1.pdf",
+   "name": "Nature protection society — the country's oldest public association, and a citizen route into the Red Book",
+   "code": 404,
+   "root": "https://tehranconvention.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TKM",
+   "url": "https://www.fao.org/countryprofiles/index/en/?iso3=tkm",
+   "name": "Project register and grievance route — named projects with budgets and dates, and the training that invites land user associations",
+   "code": 404,
+   "root": "https://www.fao.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TTO",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TTO",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TUN",
+   "url": "https://ftdes.net/justiceenvironnementale/",
+   "name": "FTDES environmental justice department — regional offices that take up local pollution fights, and have stopped projects",
+   "code": 404,
+   "root": "https://ftdes.net/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TUR",
+   "url": "https://www.orcunakbulut.av.tr/ced-iptal-davasi-ced-olumlu-karari-iptali/",
+   "name": "Av. Orçun Akbulut — ÇED and mining-licence annulment, and the four laws the lawyer must know",
+   "code": 404,
+   "root": "https://www.orcunakbulut.av.tr/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TUR",
+   "url": "https://www.anayasa.gov.tr/",
+   "name": "Constitutional Court of Turkey",
+   "code": 404,
+   "root": "https://www.anayasa.gov.tr/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TUR",
+   "url": "https://ekolojibirligi.org/ekoloji-birligi-kurulus-deklarasyonu/",
+   "name": "Ekoloji Birliği — the federation of around eighty local resistance organisations, and it refuses company and state money by rule",
+   "code": 404,
+   "root": "https://ekolojibirligi.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "TWN",
+   "url": "https://judicial.gov.tw/",
+   "name": "Judicial Yuan – Judgment Search",
+   "code": 404,
+   "root": "https://judicial.gov.tw/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "URY",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "URY",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://eplanning.blm.gov/eplanning-ui/home",
+   "name": "BLM ePlanning (NEPA register)",
+   "code": 404,
+   "root": "https://eplanning.blm.gov/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/nepa/environmental-impact-statement-filing-system-and-eis-database",
+   "name": "EPA Environmental Impact Statement (EIS) Database",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-1",
+   "name": "EPA Region 1 (Boston)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-1",
+   "name": "EPA Region 1 (Boston)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-1",
+   "name": "EPA Region 1 (Boston)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-1",
+   "name": "EPA Region 1 (Boston)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-1",
+   "name": "EPA Region 1 (Boston)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-1",
+   "name": "EPA Region 1 (Boston)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-10",
+   "name": "EPA Region 10 (Seattle)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-10",
+   "name": "EPA Region 10 (Seattle)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-10",
+   "name": "EPA Region 10 (Seattle)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-10",
+   "name": "EPA Region 10 (Seattle)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-3",
+   "name": "EPA Region 3 (Philadelphia)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-3",
+   "name": "EPA Region 3 (Philadelphia)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-3",
+   "name": "EPA Region 3 (Philadelphia)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-3",
+   "name": "EPA Region 3 (Philadelphia)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-3",
+   "name": "EPA Region 3 (Philadelphia)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-3",
+   "name": "EPA Region 3 (Philadelphia)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-4",
+   "name": "EPA Region 4 (Atlanta)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-4",
+   "name": "EPA Region 4 (Atlanta)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-4",
+   "name": "EPA Region 4 (Atlanta)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-4",
+   "name": "EPA Region 4 (Atlanta)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-4",
+   "name": "EPA Region 4 (Atlanta)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-4",
+   "name": "EPA Region 4 (Atlanta)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-4",
+   "name": "EPA Region 4 (Atlanta)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-4",
+   "name": "EPA Region 4 (Atlanta)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-6",
+   "name": "EPA Region 6 (Dallas)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-6",
+   "name": "EPA Region 6 (Dallas)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-6",
+   "name": "EPA Region 6 (Dallas)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-6",
+   "name": "EPA Region 6 (Dallas)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-6",
+   "name": "EPA Region 6 (Dallas)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-7",
+   "name": "EPA Region 7 (Kansas City)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-7",
+   "name": "EPA Region 7 (Kansas City)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-7",
+   "name": "EPA Region 7 (Kansas City)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-7",
+   "name": "EPA Region 7 (Kansas City)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-8",
+   "name": "EPA Region 8 (Denver)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-8",
+   "name": "EPA Region 8 (Denver)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-8",
+   "name": "EPA Region 8 (Denver)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-8",
+   "name": "EPA Region 8 (Denver)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-8",
+   "name": "EPA Region 8 (Denver)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-8",
+   "name": "EPA Region 8 (Denver)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-9",
+   "name": "EPA Region 9 (San Francisco)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-9",
+   "name": "EPA Region 9 (San Francisco)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-9",
+   "name": "EPA Region 9 (San Francisco)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.epa.gov/aboutepa/epa-region-9",
+   "name": "EPA Region 9 (San Francisco)",
+   "code": 404,
+   "root": "https://www.epa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.gallatinmt.gov/open-lands-board",
+   "name": "Gallatin County Open Lands Program — Gallatin County",
+   "code": 404,
+   "root": "https://www.gallatinmt.gov/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://frederickcountymd.gov/8570/Installment-Purchase-Program-IPP",
+   "name": "Installment Purchase Program — Frederick County",
+   "code": 404,
+   "root": "https://frederickcountymd.gov/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://ironboundcc.org/stop-pvsc-plant/",
+   "name": "Ironbound Community Corporation — Environmental Justice Team, Newark",
+   "code": 404,
+   "root": "https://ironboundcc.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://kyrc.org/about/programs/defense/",
+   "name": "Kentucky Resources Council — Environmental & Community Defense",
+   "code": 404,
+   "root": "https://kyrc.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.linncountyiowa.gov/567/3145/Conservation-Board",
+   "name": "Linn County Conservation — Linn County",
+   "code": 404,
+   "root": "https://www.linncountyiowa.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "http://www.sos.la.gov/BusinessServices/Pages/default.aspx",
+   "name": "Louisiana — Secretary of State business registry (company register)",
+   "code": 404,
+   "root": "http://www.sos.la.gov/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://icrs.informe.org/nei-sos-icrs/ICRS",
+   "name": "Maine Business Entity Search",
+   "code": 404,
+   "root": "https://icrs.informe.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.envlaw.com/",
+   "name": "Olson, Bzdok & Howard, P.C. (Traverse City)",
+   "code": 404,
+   "root": "https://www.envlaw.com/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.oregon.gov/oweb/grants/acquisitions/pages/land-acquisitions.aspx",
+   "name": "Oregon Watershed Enhancement Board (OWEB) — land acquisition grants",
+   "code": 404,
+   "root": "https://www.oregon.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://law.pace.edu/experiential-learning/environmental-litigation-clinic",
+   "name": "Pace Environmental Litigation Clinic",
+   "code": 404,
+   "root": "https://law.pace.edu/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.hayscountytx.gov/parks-open-space-advisory-commission-posac",
+   "name": "Parks and Open Space Bond — Hays County",
+   "code": 404,
+   "root": "https://www.hayscountytx.gov/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.patagonia.com/how-we-fund/",
+   "name": "Patagonia Environmental Grants",
+   "code": 404,
+   "root": "https://www.patagonia.com/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.jacksonville.gov/departments/parks-and-recreation/recreation-and-community-programming/docs/preservation-(1)/preservation-project",
+   "name": "Preservation Project — City of Jacksonville",
+   "code": 404,
+   "root": "https://www.jacksonville.gov/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.accesskent.com/Departments/BOC/PDR/",
+   "name": "Purchase of Development Rights (PDR) — Kent County",
+   "code": 404,
+   "root": "https://www.accesskent.com/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://dem.ri.gov/natural-resources-bureau/fish-and-wildlife",
+   "name": "Rhode Island Fish & Wildlife (DEM)",
+   "code": 404,
+   "root": "https://dem.ri.gov/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.ndsu.edu/ndssc/district_supervisors/",
+   "name": "Soil Conservation Districts — elected local political subdivisions",
+   "code": 404,
+   "root": "https://www.ndsu.edu/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.tn.gov/environment/about-tdec/boards-and-commissions/board-heritage-conservation-trust-fund-board.html",
+   "name": "Tennessee Heritage Conservation Trust Fund (TDEC)",
+   "code": 404,
+   "root": "https://www.tn.gov/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://planning.westchestercountyny.gov/initiatives/legacy-program",
+   "name": "Westchester County Legacy Program — Westchester County",
+   "code": 404,
+   "root": "https://planning.westchestercountyny.gov/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://www.conservationfinancenetwork.org/2017/06/21/three-lessons-for-land-conservation-loans",
+   "name": "What a conservation lender has actually lent — 325 loans, from $12,000 up, NONE defaulted",
+   "code": 404,
+   "root": "https://www.conservationfinancenetwork.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "USA",
+   "url": "https://delawarelaw.widener.edu/current-students/jd-academics/experiential-courses/clinics/environmental-law-and-natural-resources-clinic/",
+   "name": "Widener Delaware Law — Environmental & Natural Resources Law Clinic",
+   "code": 404,
+   "root": "https://delawarelaw.widener.edu/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "UZB",
+   "url": "http://ich.uz/ru/ich-of-uzbekistan",
+   "name": "Intangible heritage register — check whether your own practices and cultural space are already inscribed",
+   "code": 404,
+   "root": "http://ich.uz/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VAT",
+   "url": "https://www.vaticanstate.va/it/servizi/poste-e-filatelia/tag-manager/ecologia.html",
+   "name": "A document addressed to dioceses and parishes — usable far from Rome",
+   "code": 404,
+   "root": "https://www.vaticanstate.va/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VAT",
+   "url": "https://www.vatican.va/roman_curia/uffici/uff-revisore-generale/index.htm",
+   "name": "Office of the Auditor General",
+   "code": 404,
+   "root": "https://www.vatican.va/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VCT",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VCT",
+   "url": "http://www.calga.org/about-calga/background",
+   "name": "Caribbean Association of Local Government Authorities - open to individual LOCAL AUTHORITIES AND MINISTRIES where no national association exists, sharing an office with the ministers' forum and the Commonwealth local government body",
+   "code": 404,
+   "root": "http://www.calga.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VEN",
+   "url": "https://www.accountabilitycounsel.org/about-us/communities-approach/",
+   "name": "Accountability Counsel - free support for communities complaining to the accountability offices of banks financing a harmful project, taking cases ONLY WHERE THE COMMUNITY ASKS, plus a searchable global complaints database and a resource guide",
+   "code": 404,
+   "root": "https://www.accountabilitycounsel.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VEN",
+   "url": "https://fondoaccionurgente.org.co/es/que-hacemos/apoyos-de-respuesta-rapida/",
+   "name": "Fondo de Acción Urgente para América Latina y el Caribe - rapid response grants of up to $5,000 decided in NO MORE THAN 10 WORKING DAYS for defenders under threat, plus a strategic window for organisations defending territories and common goods",
+   "code": 404,
+   "root": "https://fondoaccionurgente.org.co/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VNM",
+   "url": "https://quangbinh.gov.vn/chi-tiet-tin/-/view-article/1/14012495793627/11011406799666743",
+   "name": "CIRD and the university community centre — provincial advisers who walked two named hamlets through forest allocation with the district people's committee, and a Huế centre that builds fisher chapters at lagoon level",
+   "code": 404,
+   "root": "https://quangbinh.gov.vn/",
+   "root_code": 404,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VNM",
+   "url": "https://sotnmt.camau.gov.vn/wps/portal/?page=mt.chitiet&urile=wcm:path:/sotnmtlibrary/siteofsotnmt/noidungtrangrss/tintucsukien/quanlydatdaivadodabando/gthhjt",
+   "name": "District land registration branch offices — where a household asks for a cadastral map extract, the commune office as an alternative counter, the five-working-day survey deadline, and the written refusal rule",
+   "code": 404,
+   "root": "https://sotnmt.camau.gov.vn/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VNM",
+   "url": "https://www.mrcmekong.org/news-and-events/consultations/pnpca-prior-consultations/faqs-to-the-mrc-procedures-for-notification-prior-consultation-and-agreement-process/",
+   "name": "MRC prior consultation (PNPCA) — the six-month window on any Mekong mainstream project",
+   "code": 404,
+   "root": "https://www.mrcmekong.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "VNM",
+   "url": "https://www.srd.org.vn/index.php/ve-srd/gioi-thieu",
+   "name": "SRD — a registered science and technology centre working in 42 provinces, with water user associations formed in named villages and a forest law enforcement and governance programme",
+   "code": 404,
+   "root": "https://www.srd.org.vn/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "XKX",
+   "url": "https://www.mbpzhr-ks.net/repository/docs/Ligji_pr_pyje__shqip.pdf",
+   "name": "Kosovo's forest law — the agency can go to COURT for people whose water or rights are threatened",
+   "code": 404,
+   "root": "https://www.mbpzhr-ks.net/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "XKX",
+   "url": "https://www.kosovo-online.com/sq/lajm/politike/shpronesimi-ne-veri-te-kosoves-e-drejta-pronesore-nuk-vlen-serbet-14-2-2023",
+   "name": "The Kosovo expropriation defence — villages that gave one lawyer a joint power of attorney",
+   "code": 522,
+   "root": "https://www.kosovo-online.com/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "YEM",
+   "url": "https://www.fao.org/countryprofiles/index/ar/?iso3=YEM",
+   "name": "Published project register and grievance route — who is funding what, where, until when, and where to complain when it goes wrong",
+   "code": 404,
+   "root": "https://www.fao.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "YEM",
+   "url": "https://www.sfd-yemen.org/ar/index.php",
+   "name": "Social Fund for Development — it pays for terraces, water harvesting and land reclamation, and the community holds the contract",
+   "code": 404,
+   "root": "https://www.sfd-yemen.org/",
+   "root_code": 206,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ZAF",
+   "url": "https://www.concourt.org.za/index.php/judgements/",
+   "name": "Constitutional Court of South Africa",
+   "code": 404,
+   "root": "https://www.concourt.org.za/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  },
+  {
+   "country": "ZAF",
+   "url": "https://www.worldlandtrust.org/news/2022/04/new-partnership-wild-tomorrow-fund/",
+   "name": "World Land Trust — a funder whose business is paying local organisations to buy land, with the R3.9 million grant that completed a R15.5 million South African purchase, plus two community small-grants facilities and the eviction case this file owes as a caution",
+   "code": 404,
+   "root": "https://www.worldlandtrust.org/",
+   "root_code": 200,
+   "evidence": "deep link fails, site root answers — the link moved, the body is alive"
+  }
+ ]
+}

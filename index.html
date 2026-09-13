@@ -1929,6 +1929,10 @@ const LENSLABEL={}; DOMAINS.forEach(d=>LENSLABEL[d.key]=d.label);
 const LEVELORDER={International:0,National:1,State:2,County:3,Municipal:4};
 let INDEXDATA=[]; const CENTROIDS={};
 const _TIER_ALIAS={subnational:'State','sub-national':'State',provincial:'State',province:'State',region:'State',regional:'State',state:'State',district:'County',departmental:'County',county:'County',city:'Municipal',commune:'Municipal',local:'Municipal',municipal:'Municipal',national:'National',supranational:'International',global:'International',international:'International'};
+/* Aliases rather than blind capitalisation: five chats write into this file and will keep
+   producing near-miss synonyms. An unknown value now falls back to a bin instead of
+   vanishing — a wrong bin is recoverable, an invisible entry is not. This same reasoning
+   is why kind, voice, skind and restype are now aliased the same way. */
 function _tierLabel(t){ if(!t) return 'State'; const k=String(t).toLowerCase().trim(); return _TIER_ALIAS[k] || 'State'; }
 function _lensesOf(tr){ const s=[]; (tr.tags||[]).forEach(t=>{const k=t.split(':')[0]; if(LENSLABEL[k]&&s.indexOf(LENSLABEL[k])<0)s.push(LENSLABEL[k]);}); return s; }
 function buildIndexData(){ INDEXDATA=[];

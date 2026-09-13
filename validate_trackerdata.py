@@ -35,7 +35,7 @@ from collections import Counter
 # used it are now 'subnational', which renders identically. That frees 'state' to be a
 # pure error signal. Before that patch it had to be tolerated as a warning, and a real
 # typo could not be told apart from a deliberate value.
-KNOWN_TIERS = {"subnational", "county", "municipal"}
+KNOWN_TIERS = {"municipal", "county", "state", "national", "international"}
 LEGACY_TIERS = set()
 
 DIRECTORY_HOSTS = ("landcan.org", "landtrustalliance.org", "mltn.org",
@@ -175,13 +175,20 @@ def check(data, valid_tags):
 
             tier = t.get("tier")
             if tier is not None:
-                if tier not in KNOWN_TIERS:
-                    detail = ("retired value; use 'subnational'"
-                              if tier == "state"
-                              else f"{tier!r} silently renders in the State tab")
+                # Vocabulary corrected to match the patched renderer. Previously this block
+                # called 'state' a retired value and demanded 'subnational' - which is the
+                # value that made 800 entries INVISIBLE, because _tierLabel capitalised it to
+                # 'Subnational', a string absent from LEVELS. index.html now aliases the
+                # synonyms and reads tier at depth 0, so the five legal values are:
+                #   municipal | county | state | national | international
+                if tier in LEGACY_TIERS:
+                    add("WARN", "legacy_tier", label, name,
+                        f"{tier!r} aliases to State; migrate to 'state'")
+                elif tier not in KNOWN_TIERS:
+                    detail = (f"{tier!r} is not one of {sorted(KNOWN_TIERS)}; "
+                              "unknown values alias to State rather than rendering as written")
                     add("ERROR", "bad_tier", label, name, detail)
-                elif tier in LEGACY_TIERS:
-                    add("WARN", "legacy_tier", label, name, f"{tier!r}")
+
 
             for tag in t.get("tags", []):
                 if tag not in valid_tags:

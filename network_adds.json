@@ -1,0 +1,51 @@
+{
+ "generated": "2026-09-15T08:36:55.228718+00:00",
+ "entries": [],
+ "gaps": [
+  {
+   "network": "lta",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "waterkeeper",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "surfrider",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "elaw",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "foei",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "ilc",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "lvc",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "gaia",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "icca",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "ylnm",
+   "reason": "unreachable:MissingSchema"
+  },
+  {
+   "network": "gfc",
+   "reason": "unreachable:MissingSchema"
+  }
+ ],
+ "stats": {}
+}

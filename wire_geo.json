@@ -1,5 +1,23 @@
 [
  {
+  "name": "Inside Climate News",
+  "title": "As Power Demand Rises, a Clean-Energy State Falls Back on Coal",
+  "link": "https://insideclimatenews.org/news/14092026/iowa-increases-coal-power-to-meet-electricity-demand/",
+  "date": 1789376100000,
+  "sig": 2,
+  "snippet": "Before Iowa was the nation’s most wind-powered state, it generated nearly all of its electricity with coal. Since 2000, the fossil fuel’s role in the state’s power mix has diminished as utilities built a massive fleet of wind turbines that now provides nearly two-thirds of the st",
+  "iso": null,
+  "region": "",
+  "lat": -38.2482,
+  "lng": 144.6036,
+  "level": "point",
+  "project": "Wind Turbines",
+  "project_url": "https://epbcpublicportal.environment.gov.au/",
+  "admin1": null,
+  "match_score": 2,
+  "matched_on": "name"
+ },
+ {
   "name": "Front: Trans Mountain pipeline Canada",
   "title": "Trans Mountain Readies Expansion in 2027 as Pipeline Space Fills Up - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd3REZ2pXRzVQU2lHRXNCYXNzTWRlNXdWaXB0SGVzajVMWHNZZGJBa3BRS2pDMi0zQW9mSG85bXRBaEZPVkx3SW1Yc1Z5MHNpa1BiRFBYcGpzUG5NV01UNTgwb21UeVozd3lmSWE3bFBBNnFCTEo1VFdVaTRuLVhGdVY1QUtMSzhYdkp5Z0pSWTItSmJmTVJZTXM1Y1U5QQ?oc=5",
@@ -15,6 +33,26 @@
   "project_url": "https://www.iaac-aeic.gc.ca/050/evaluations/proj/80061?culture=en-CA",
   "admin1": null,
   "match_score": 3,
+  "matched_on": "name"
+ },
+ {
+  "name": "Panama",
+  "title": "575 People from Río Indio and Surrounding Areas Receive Property Titles from the Panama Canal Authority .",
+  "link": "https://newsroompanama.com/2026/09/11/575-people-from-rio-indio-and-surrounding-areas-receive-property-titles-from-the-panama-canal-authority/",
+  "date": 1789189200000,
+  "sig": 2,
+  "snippet": "newsroompanama.com",
+  "iso": "PAN",
+  "region": "",
+  "widened": 30,
+  "lang": "English",
+  "lat": 9.0,
+  "lng": -80.0,
+  "level": "point",
+  "project": "Panama Canal",
+  "project_url": "https://d-portal.org/q.html?aid=XM-DAC-903-SPI-26665",
+  "admin1": "Colón Province",
+  "match_score": 2,
   "matched_on": "name"
  },
  {

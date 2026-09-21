@@ -1,421 +1,5 @@
 [
  {
-  "name": "Mongabay India",
-  "title": "Sacred groves are better at growing future forests in the Western Ghats",
-  "link": "https://india.mongabay.com/2026/09/sacred-groves-are-better-at-growing-future-forests-in-the-western-ghats/",
-  "date": 1789990312000,
-  "sig": 2,
-  "snippet": "In the villages of the Western Ghats, some of the oldest and tallest trees do not grow inside a national park. They grow in sacred groves, small patches of old, mostly untouched forest that local communities have protected for generations, because they believe the trees belong to",
-  "iso": null,
-  "region": ""
- },
- {
-  "name": "Canada",
-  "title": "The eyesore next door : Musgrave Harbour man fighting for action on derelict grocery store",
-  "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/the-eyesore-next-door-musgrave-harbour-man-fighting-for-action-on-derelict-grocery-store-9.7350054",
-  "date": 1789989300000,
-  "sig": 2,
-  "snippet": "cbc.ca",
-  "iso": "CAN",
-  "region": "",
-  "widened": 365,
-  "lang": "English"
- },
- {
-  "name": "Mexico",
-  "title": "Narro se rebela y alista protesta en Zacatecas",
-  "link": "https://www.razon.com.mx:443/mexico/2026/09/21/narro-se-rebela-y-alista-protesta-en-zacatecas/",
-  "date": 1789989300000,
-  "sig": 2,
-  "snippet": "razon.com.mx",
-  "iso": "MEX",
-  "region": "Zacatecas",
-  "widened": 30,
-  "lang": "Spanish"
- },
- {
-  "name": "Germany",
-  "title": "IG Metall protestiert gegen Einschnitte in Autobranche",
-  "link": "https://www.welt.de/regionales/hessen/article6ab10da6708e760b5e06656d/ig-metall-protestiert-gegen-einschnitte-in-autobranche.html",
-  "date": 1789989300000,
-  "sig": 2,
-  "snippet": "welt.de",
-  "iso": "DEU",
-  "region": "",
-  "widened": 30,
-  "lang": "German"
- },
- {
-  "name": "Tanzania",
-  "title": "Conservationists , lions killings condemned",
-  "link": "https://dailynews.co.tz/conservationists-lions-killings-condemned/",
-  "date": 1789988400000,
-  "sig": 2,
-  "snippet": "dailynews.co.tz",
-  "iso": "TZA",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
- },
- {
-  "name": "Switzerland",
-  "title": "Swiss oil supplies once again secured through regular channels",
-  "link": "https://www.swissinfo.ch/eng/war-peace/swiss-oil-supplies-once-again-secured-through-regular-channels/92092781",
-  "date": 1789988400000,
-  "sig": 2,
-  "snippet": "swissinfo.ch",
-  "iso": "CHE",
-  "region": "",
-  "widened": 180,
-  "lang": "English"
- },
- {
-  "name": "Venezuela",
-  "title": "Venezuela Oil Opening Speeds Up With TotalEnergies Deal",
-  "link": "https://www.riotimesonline.com/venezuela-totalenergies-signs-continental-oil-opening-2026/",
-  "date": 1789986600000,
-  "sig": 2,
-  "snippet": "riotimesonline.com",
-  "iso": "VEN",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
- },
- {
-  "name": "Canada",
-  "title": "Press Release",
-  "link": "https://www.mining.com/press-release?id=6ab0cc989d0970e47a46b94b",
-  "date": 1789982100000,
-  "sig": 2,
-  "snippet": "mining.com",
-  "iso": "CAN",
-  "region": "",
-  "widened": 365,
-  "lang": "English"
- },
- {
-  "name": "Canada",
-  "title": "Generation Mining signs Ontario term sheet for Marathon Project",
-  "link": "https://www.mining-technology.com/news/generation-mining-term-sheet-marathon-project/",
-  "date": 1789979400000,
-  "sig": 2,
-  "snippet": "mining-technology.com",
-  "iso": "CAN",
-  "region": "Ontario",
-  "widened": 365,
-  "lang": "English"
- },
- {
-  "name": "Venezuela",
-  "title": "El hombre al que Trump ha entregado el petróleo venezolano tuvo vínculos con Rusia",
-  "link": "https://www.laverdad.es/internacional/america-latina/hombre-trump-entregado-petroleo-venezolano-vinculos-rusia-20260919001414-ntrc.html",
-  "date": 1789979400000,
-  "sig": 2,
-  "snippet": "laverdad.es",
-  "iso": "VEN",
-  "region": "",
-  "widened": 90,
-  "lang": "Spanish"
- },
- {
-  "name": "Germany",
-  "title": "Berlin - Wahl 2026 : Eralps Programm – Enteignung , Mietendeckel",
-  "link": "https://www.az-online.de/politik/berlin-wahl-2026-eralps-programm-enteignung-mietendeckel-zr-94502073.html",
-  "date": 1789979400000,
-  "sig": 2,
-  "snippet": "az-online.de",
-  "iso": "DEU",
-  "region": "Berlin",
-  "widened": 30,
-  "lang": "German"
- },
- {
-  "name": "Kenya",
-  "title": "ROOTED IN SERVICE , COMMITTED TO CONSERVATION – Ministry of Defence – Kenya",
-  "link": "https://www.mod.go.ke/news/rooted-in-service-committed-to-conservation/",
-  "date": 1789979400000,
-  "sig": 2,
-  "snippet": "mod.go.ke",
-  "iso": "KEN",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
- },
- {
-  "name": "Lebanon",
-  "title": "Presidentes de la Asamblea General de la ONU alertan de escaladas nucleares ante la crisis del multilateralismo",
-  "link": "https://www.europapress.es/internacional/noticia-presidentes-asamblea-general-onu-alertan-escaladas-nucleares-crisis-multilateralismo-20260921024041.html",
-  "date": 1789979400000,
-  "sig": 2,
-  "snippet": "europapress.es",
-  "iso": "LBN",
-  "region": "",
-  "widened": 180,
-  "lang": "Spanish"
- },
- {
-  "name": "Germany",
-  "title": "Krise in der Autoindustrie : Protest bei Daimler , Bosch , Porsche",
-  "link": "https://www.swr.de/swraktuell/baden-wuerttemberg/ig-metall-protest-krise-autoindustrie-100.html",
-  "date": 1789978500000,
-  "sig": 2,
-  "snippet": "swr.de",
-  "iso": "DEU",
-  "region": "",
-  "widened": 30,
-  "lang": "German"
- },
- {
-  "name": "Israel",
-  "title": "Marokko en Israël zetten stap richting ambassades , protesten laaien op in Marokkaanse steden",
-  "link": "https://www.bladna.nl/marokko-israel-zetten-stap-richting-ambassades-protesten-laaien-marokkaanse,72876.html",
-  "date": 1789978500000,
-  "sig": 2,
-  "snippet": "bladna.nl",
-  "iso": "ISR",
-  "region": "",
-  "widened": 180,
-  "lang": "Dutch"
- },
- {
-  "name": "Ireland",
-  "title": "La oposición a las políticas de retribución cae en Europa",
-  "link": "https://www.expansion.com/empresas/2026/09/21/6ab010e0e5fdea7b5f8b45b2.html",
-  "date": 1789977600000,
-  "sig": 2,
-  "snippet": "expansion.com",
-  "iso": "IRL",
-  "region": "",
-  "widened": 30,
-  "lang": "Spanish"
- },
- {
-  "name": "Hungary",
-  "title": "Highway to hell : Magyar targets Orbán oligarch over  crime of the century",
-  "link": "https://www.budapesttimes.hu/hungary/highway-to-hell-magyar-targets-orbans-oligarch-over-crime-of-the-century/",
-  "date": 1789977600000,
-  "sig": 2,
-  "snippet": "budapesttimes.hu",
-  "iso": "HUN",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
- },
- {
-  "name": "Albania",
-  "title": "Protesta hyn në ditën e 114 - të , qytetarët mblidhen edhe sot para Kryeministrisë : Rama jep dorëheqjen !",
-  "link": "https://albeu.com/lajme/protesta-hyn-ne-diten-e-114-te-qytetaret-mblidhen-edhe-sot-para-kryeministrise-rama-jep-doreheqjen/1020471/",
-  "date": 1789977600000,
-  "sig": 2,
-  "snippet": "albeu.com",
-  "iso": "ALB",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
-  "name": "Israel",
-  "title": "Berlino la sfida di Eralp | case espropri e il coraggio di una sinistra che vuole fermare la gentrificazione",
-  "link": "https://www.zazoom.it/2026-09-21/berlino-la-sfida-di-eralp-case-espropri-e-il-coraggio-di-una-sinistra-che-vuole-fermare-la-gentrificazione/19705365/",
-  "date": 1789977600000,
-  "sig": 2,
-  "snippet": "zazoom.it",
-  "iso": "ISR",
-  "region": "",
-  "widened": 180,
-  "lang": "Italian"
- },
- {
-  "name": "Canada",
-  "title": "Ξεκινά σήμερα το 1ο Rhodes Climate Film Festival - Δημοκρατική της Ρόδου",
-  "link": "https://www.dimokratiki.gr/21-09-2026/xekina-simera-to-1o-rhodes-climate-film-festival/",
-  "date": 1789974900000,
-  "sig": 2,
-  "snippet": "dimokratiki.gr",
-  "iso": "CAN",
-  "region": "",
-  "widened": 365,
-  "lang": "Greek"
- },
- {
-  "name": "New Zealand",
-  "title": "Waitangi Tribunal Findings Validate Te Akatea Position On National Curriculum Reset",
-  "link": "https://www.scoop.co.nz/stories/ED2609/S00024/waitangi-tribunal-findings-validate-te-akateas-position-on-national-curriculum-reset.htm",
-  "date": 1789974900000,
-  "sig": 2,
-  "snippet": "scoop.co.nz",
-  "iso": "NZL",
-  "region": "",
-  "widened": 365,
-  "lang": "English"
- },
- {
-  "name": "New Zealand",
-  "title": "Work Continues On Endangered West Coast Tree Daisy",
-  "link": "https://www.scoop.co.nz/stories/AK2609/S00686/work-continues-on-endangered-west-coast-tree-daisy.htm",
-  "date": 1789974900000,
-  "sig": 2,
-  "snippet": "scoop.co.nz",
-  "iso": "NZL",
-  "region": "West Coast",
-  "widened": 365,
-  "lang": "English"
- },
- {
-  "name": "Albania",
-  "title": "114 ditë protestë , qytetarët mblidhen edhe sot para Kryeministrisë : Rama jep dorëheqjen !",
-  "link": "http://www.sot.com.al/114-dite-proteste-qytetaret-mblidhen-edhe-sot-para-kryeministrise-rama-jep-doreheqjen-i5184407",
-  "date": 1789974000000,
-  "sig": 2,
-  "snippet": "sot.com.al",
-  "iso": "ALB",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
-  "name": "Australia",
-  "title": "As renewed chaos grips the oil market , one country is keeping global prices down – by reducing demand",
-  "link": "https://theconversation.com/as-renewed-chaos-grips-the-oil-market-one-country-is-keeping-global-prices-down-by-reducing-demand-292218",
-  "date": 1789974000000,
-  "sig": 2,
-  "snippet": "theconversation.com",
-  "iso": "AUS",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
- },
- {
-  "name": "Argentina",
-  "title": "Crecen los proyectos para extraer un mineral estratégico en Río Negro",
-  "link": "https://www.rionegro.com.ar/energia/crecen-los-proyectos-para-extraer-un-mineral-estrategico-en-rio-negro/",
-  "date": 1789971300000,
-  "sig": 2,
-  "snippet": "rionegro.com.ar",
-  "iso": "ARG",
-  "region": "Río Negro",
-  "widened": 30,
-  "lang": "Spanish"
- },
- {
-  "name": "Kenya",
-  "title": "Gachagua Alleges Secret Sh8 . 2T Minerals Deal Behind Ruto US Trip",
-  "link": "https://nairobiwire.com/2026/09/gachagua-ruto-sh8-2-trillion-mrima-hill-minerals-deal.html",
-  "date": 1789971300000,
-  "sig": 2,
-  "snippet": "nairobiwire.com",
-  "iso": "KEN",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
- },
- {
-  "name": "Armenia",
-  "title": "„ Nein zum Krieg : Stiller Protest bei Wahlen in Russland",
-  "link": "https://www.focus.de/politik/ausland/nein-zum-krieg-stiller-protest-bei-wahlen-in-russland_4a7b1d27-b816-49aa-b878-3d36c8524631.html",
-  "date": 1789970400000,
-  "sig": 2,
-  "snippet": "focus.de",
-  "iso": "ARM",
-  "region": "",
-  "widened": 90,
-  "lang": "German"
- },
- {
-  "name": "Malaysia",
-  "title": "Malaysia  elephant whisperer  fights to save Borneo endangered giants",
-  "link": "https://www.freemalaysiatoday.com/category/nation/2026/09/21/malaysia-s-elephant-whisperer-fights-to-save-borneo-s-endangered-giants",
-  "date": 1789969500000,
-  "sig": 2,
-  "snippet": "freemalaysiatoday.com",
-  "iso": "MYS",
-  "region": "",
-  "widened": 180,
-  "lang": "English"
- },
- {
-  "name": "Malaysia",
-  "title": "Indigenous Kalimantan people sue Indonesian govt over wildfire negligence",
-  "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/21/indigenous-kalimantan-people-sue-indonesian-govt-over-wildfire-negligence",
-  "date": 1789968600000,
-  "sig": 2,
-  "snippet": "thestar.com.my",
-  "iso": "MYS",
-  "region": "",
-  "widened": 180,
-  "lang": "English"
- },
- {
-  "name": "New Zealand",
-  "title": "Auckland . Scoop » Controversial Ruakākā Ocean Sewage Pipeline Moves Closer",
-  "link": "https://auckland.scoop.co.nz/2026/09/controversial-ruakaka-ocean-sewage-pipeline-moves-closer/",
-  "date": 1789968600000,
-  "sig": 2,
-  "snippet": "auckland.scoop.co.nz",
-  "iso": "NZL",
-  "region": "Auckland",
-  "widened": 365,
-  "lang": "English"
- },
- {
-  "name": "Mongabay",
-  "title": "H5N1 bird flu jumps to marine mammals and wildlife in Australia",
-  "link": "https://news.mongabay.com/short-article/2026/09/h5n1-bird-flu-jumps-to-marine-mammals-and-wildlife-in-australia/",
-  "date": 1789967782000,
-  "sig": 2,
-  "snippet": "H5N1 avian influenza is spreading rapidly across southeastern Australia owing to infected wild bird species, including little penguins, magpies, crested terns and pelicans. Bird aggregations during breeding seasons will likely accelerate transmission to mammals, said Victoria’s c",
-  "iso": "AUS",
-  "region": "Victoria"
- },
- {
-  "name": "Venezuela",
-  "title": "Jubilados de la Cantv sumaron nueva semana se protesta",
-  "link": "https://elsiglo.com.ve/jubilados-de-la-cantv-sumaron-nueva-semana-se-protesta/",
-  "date": 1789966800000,
-  "sig": 2,
-  "snippet": "elsiglo.com.ve",
-  "iso": "VEN",
-  "region": "",
-  "widened": 90,
-  "lang": "Spanish"
- },
- {
-  "name": "Kosovo",
-  "title": "Nata e pestë e protestës  Jo në emrin tim  në Prishtinë kundër aktgjykimit të Hagës për katër ish - krerët e UÇK - së",
-  "link": "https://ngrihu.media/nata-e-peste-e-protestes-jo-ne-emrin-tim-ne-prishtine-kunder-aktgjykimit-te-hages-per-kater-ish-kreret-e-uck-se/",
-  "date": 1789965900000,
-  "sig": 2,
-  "snippet": "ngrihu.media",
-  "iso": "XKX",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
-  "name": "Argentina",
-  "title": "Se abroquela la oposición en el Congreso contra el ajuste de Milei : el proyecto  caballo de Troya  y las fisuras internas en La Libertad Avanza",
-  "link": "http://www.eldestapeweb.com/politica/congreso-hace-sufrir-lla-internas-oposicion-unida-aliados-alejados-20269210519",
-  "date": 1789963200000,
-  "sig": 2,
-  "snippet": "eldestapeweb.com",
-  "iso": "ARG",
-  "region": "",
-  "widened": 30,
-  "lang": "Spanish"
- },
- {
-  "name": "Lebanon",
-  "title": "Asamblea General de la ONU alerta de escaladas nucleares",
-  "link": "https://almomento.net/asamblea-general-de-la-onu-alerta-de-escaladas-nucleares/",
-  "date": 1789959600000,
-  "sig": 2,
-  "snippet": "almomento.net",
-  "iso": "LBN",
-  "region": "",
-  "widened": 180,
-  "lang": "Spanish"
- },
- {
   "name": "Nigeria",
   "title": "Indonesia Commits to Help Achieve Nigeria 3m Barrels Daily Oil Production Target – THISDAYLIVE",
   "link": "https://www.thisdaylive.com/2026/09/21/indonesia-commits-to-help-achieve-nigerias-3m-barrels-daily-oil-production-target/",
@@ -473,30 +57,6 @@
   "iso": "EGY",
   "region": "",
   "widened": 30,
-  "lang": "English"
- },
- {
-  "name": "Venezuela",
-  "title": "Nuevas caras y ausencias marcan segundo ciclo de conversaciones entre chavismo y oposición – Correo del Caroní",
-  "link": "https://correodelcaroni.com/pais-politico/nuevas-caras-y-ausencias-marcan-segundo-ciclo-de-conversaciones-entre-chavismo-y-oposicion/",
-  "date": 1789957800000,
-  "sig": 2,
-  "snippet": "correodelcaroni.com",
-  "iso": "VEN",
-  "region": "",
-  "widened": 90,
-  "lang": "Spanish"
- },
- {
-  "name": "New Zealand",
-  "title": "Community Scoop » Government Releases Endorsement Criteria For Voluntary Nature And Carbon Markets",
-  "link": "https://community.scoop.co.nz/2026/09/government-releases-endorsement-criteria-for-voluntary-nature-and-carbon-markets/",
-  "date": 1789957800000,
-  "sig": 2,
-  "snippet": "community.scoop.co.nz",
-  "iso": "NZL",
-  "region": "",
-  "widened": 365,
   "lang": "English"
  },
  {
@@ -560,6 +120,18 @@
   "lang": "English"
  },
  {
+  "name": "New Zealand",
+  "title": "Community Scoop » Government Releases Endorsement Criteria For Voluntary Nature And Carbon Markets",
+  "link": "https://community.scoop.co.nz/2026/09/government-releases-endorsement-criteria-for-voluntary-nature-and-carbon-markets/",
+  "date": 1789957800000,
+  "sig": 2,
+  "snippet": "community.scoop.co.nz",
+  "iso": "NZL",
+  "region": "",
+  "widened": 180,
+  "lang": "English"
+ },
+ {
   "name": "Singapore",
   "title": "Oil slips as investors assess Saudi export recovery",
   "link": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-slips-investors-assess-saudi-export-recovery",
@@ -579,18 +151,6 @@
   "sig": 2,
   "snippet": "thenational.com.pg",
   "iso": "PNG",
-  "region": "",
-  "widened": 365,
-  "lang": "English"
- },
- {
-  "name": "New Zealand",
-  "title": "Full steam ahead : Philippine - New Zealand partnership unlocks new geothermal innovations , opportunities",
-  "link": "https://bworldonline.com/spotlight/2026/09/21/778412/full-steam-ahead-philippine-new-zealand-partnership-unlocks-new-geothermal-innovations-opportunities/",
-  "date": 1789956000000,
-  "sig": 2,
-  "snippet": "bworldonline.com",
-  "iso": "NZL",
   "region": "",
   "widened": 365,
   "lang": "English"
@@ -632,6 +192,18 @@
   "lang": "German"
  },
  {
+  "name": "New Zealand",
+  "title": "Full steam ahead : Philippine - New Zealand partnership unlocks new geothermal innovations , opportunities",
+  "link": "https://bworldonline.com/spotlight/2026/09/21/778412/full-steam-ahead-philippine-new-zealand-partnership-unlocks-new-geothermal-innovations-opportunities/",
+  "date": 1789956000000,
+  "sig": 2,
+  "snippet": "bworldonline.com",
+  "iso": "NZL",
+  "region": "",
+  "widened": 180,
+  "lang": "English"
+ },
+ {
   "name": "Pakistan",
   "title": "Pakistan’s Gilgit-Baltistan peaks “more valuable than oil reservoirs” - Asia News Network",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1JXejJEZFlTLTJ4TEVlY01yeWZZSVpTQWxkZjI5Q1QxdERzbm1MSGEyTTE4M2VsSFRldjEzeU9qVUF5cnVQeTdhUXgtd2Z2b0lZQVE1XzdxbFlkR2c1dC1JXzluLU5yZGFoRHAxQ1FCNndkYU9ZbGNwMGRlMVh6V0h3RUZOLXRZUC1Td3BOS1RpaHlyNmZj?oc=5",
@@ -665,18 +237,6 @@
   "iso": "EGY",
   "region": "",
   "widened": 30,
-  "lang": "English"
- },
- {
-  "name": "New Zealand",
-  "title": "Forest and Bird calls for fast - tracked coal mining application to be declined",
-  "link": "https://www.nzherald.co.nz/nz/forest-and-bird-calls-for-fast-tracked-coal-mining-application-to-be-declined/KNJQ2OEABJEDFGVR2BU2MJXXAA/",
-  "date": 1789950600000,
-  "sig": 2,
-  "snippet": "nzherald.co.nz",
-  "iso": "NZL",
-  "region": "",
-  "widened": 365,
   "lang": "English"
  },
  {
@@ -740,6 +300,18 @@
   "lang": "English"
  },
  {
+  "name": "New Zealand",
+  "title": "Forest and Bird calls for fast - tracked coal mining application to be declined",
+  "link": "https://www.nzherald.co.nz/nz/forest-and-bird-calls-for-fast-tracked-coal-mining-application-to-be-declined/KNJQ2OEABJEDFGVR2BU2MJXXAA/",
+  "date": 1789950600000,
+  "sig": 2,
+  "snippet": "nzherald.co.nz",
+  "iso": "NZL",
+  "region": "",
+  "widened": 180,
+  "lang": "English"
+ },
+ {
   "name": "Liberia",
   "title": "Posible centro de datos en Bagaces genera oposición de vecinos ; alcalde dice que no han recibido documentos del proyecto",
   "link": "https://www.nacion.com/el-pais/posible-centro-de-datos-en-bagaces-genera/SPK76NRZENGSRPPD72TFQBSI5A/story/",
@@ -776,6 +348,18 @@
   "lang": "English"
  },
  {
+  "name": "Argentina",
+  "title": "Villamuriel acoge la exposición  Antonio López y el Canal de Castilla",
+  "link": "https://www.elnortedecastilla.es/palencia/villamuriel-acoge-exposicion-antonio-lopez-canal-castilla-20260920210816-nt.html",
+  "date": 1789945200000,
+  "sig": 2,
+  "snippet": "elnortedecastilla.es",
+  "iso": "ARG",
+  "region": "",
+  "widened": 365,
+  "lang": "Spanish"
+ },
+ {
   "name": "Kosovo",
   "title": "Protesta kundër Speciales , Qeverisë i kërkohet ta shtojë mbështetjen financiare për mbrojtjen e krerëve të UÇK",
   "link": "https://lajmi.net/protesta-kunder-speciales-qeverise-i-kerkohet-ta-shtoje-mbeshtetjen-financiare-per-mbrojtjen-e-krereve-te-uck/",
@@ -788,16 +372,16 @@
   "lang": "Albanian"
  },
  {
-  "name": "Argentina",
-  "title": "Villamuriel acoge la exposición  Antonio López y el Canal de Castilla",
-  "link": "https://www.elnortedecastilla.es/palencia/villamuriel-acoge-exposicion-antonio-lopez-canal-castilla-20260920210816-nt.html",
-  "date": 1789945200000,
+  "name": "Italy",
+  "title": "IN NUMBERS : How many Britons have residency permits across Europe ?",
+  "link": "https://www.thelocal.it/20260919/in-numbers-how-many-britons-have-residency-permits-across-europe",
+  "date": 1789943400000,
   "sig": 2,
-  "snippet": "elnortedecastilla.es",
-  "iso": "ARG",
+  "snippet": "thelocal.it",
+  "iso": "ITA",
   "region": "",
-  "widened": 365,
-  "lang": "Spanish"
+  "widened": 90,
+  "lang": "English"
  },
  {
   "name": "Kosovo",
@@ -822,18 +406,6 @@
   "region": "",
   "widened": 30,
   "lang": "Albanian"
- },
- {
-  "name": "Italy",
-  "title": "IN NUMBERS : How many Britons have residency permits across Europe ?",
-  "link": "https://www.thelocal.it/20260919/in-numbers-how-many-britons-have-residency-permits-across-europe",
-  "date": 1789943400000,
-  "sig": 2,
-  "snippet": "thelocal.it",
-  "iso": "ITA",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
  },
  {
   "name": "Kosovo",
@@ -968,6 +540,18 @@
   "lang": "English"
  },
  {
+  "name": "China",
+  "title": "How will China Pinglu Canal chart new economic tides for ASEAN",
+  "link": "http://www.shanghaisun.com/news/279319328/how-will-china-pinglu-canal-chart-new-economic-tides-for-asean",
+  "date": 1789939800000,
+  "sig": 2,
+  "snippet": "shanghaisun.com",
+  "iso": "CHN",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
   "name": "Mexico",
   "title": "Vecinos de Teoloyucan protestan por puentes del Tren México-Querétaro - Heraldo Estado de México",
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNODVpTWc1TmxxY1JZUGlDb1A5cDJxQnBnRDE0ZHBCRkU3dXhPRy1LSGhWZ2FER2lOdjk5QjhmVkNHamgySFdyVjZjd3A2RWFYb3NERExxZDBqeFlEM29MWG1jLTZiZ3NPS2xNNHlOT21YdHI0TjM2allrM1JZcjJnZ0wwZVVVMUlvd2xfNXUwT0NJWGIyandnX2h3akd2R2ZsVkx5eHQ5YlBzbkFZc1I3N2FsZG9qTzJhcnRmY3ZRcUNRNkhBaWNVSUV5LVFnSDBoWWp4ajZtTzdoa0g5NktCSQ?oc=5",
@@ -992,42 +576,6 @@
   "lang": "English"
  },
  {
-  "name": "Kosovo",
-  "title": "Flamuri gjigant kuqezi me emblemën e UÇK - së shpaloset në protestë",
-  "link": "https://top24.mk/2026/09/flamuri-gjigant-kuqezi-me-emblemen-e-uck-se-shpaloset-ne-proteste/",
-  "date": 1789938000000,
-  "sig": 2,
-  "snippet": "top24.mk",
-  "iso": "XKX",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
-  "name": "Kosovo",
-  "title": "Jo në emrin tim / Diaspora sot në protesta në mbështetje të ish - krerëve të UÇK - së – Abc News",
-  "link": "https://abcnews.al/jo-ne-emrin-tim-diaspora-sot-ne-protesta-ne-mbeshtetje-te-ish-krereve-te-uck-se/",
-  "date": 1789938000000,
-  "sig": 2,
-  "snippet": "abcnews.al",
-  "iso": "XKX",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
-  "name": "Kosovo",
-  "title": "Flakadanë dhe kënga  Mora fjalë  në natën e pestë të protestës në Prishtinë – 24 ore",
-  "link": "https://24-ore.com/flakadane-dhe-kenga-mora-fjale-ne-naten-e-peste-te-protestes-ne-prishtine/",
-  "date": 1789938000000,
-  "sig": 2,
-  "snippet": "24-ore.com",
-  "iso": "XKX",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
   "name": "Mexico",
   "title": "Catherine Mayran Oliver , pentatleta mexicana , denuncia agresión en el Bosque del Ocotal",
   "link": "https://www.sdpnoticias.com/deportes/catherine-mayran-oliver-pentatleta-mexicana-denuncia-agresion-en-el-bosque-del-ocotal/",
@@ -1041,11 +589,23 @@
  },
  {
   "name": "Kosovo",
-  "title": "Protestuesit 5 net në shesh kundër vendimit të Hagës në Prishtinë , shpaloset flamuri gjigant",
-  "link": "https://kohajone.com/kosova/protestuesit-5-net-ne-shesh-kunder-vendimit-te-hages-ne-prishtine-shpaloset-flamuri-gjigant/",
-  "date": 1789937100000,
+  "title": "Flamuri gjigant kuqezi me emblemën e UÇK - së shpaloset në protestë",
+  "link": "https://top24.mk/2026/09/flamuri-gjigant-kuqezi-me-emblemen-e-uck-se-shpaloset-ne-proteste/",
+  "date": 1789938000000,
   "sig": 2,
-  "snippet": "kohajone.com",
+  "snippet": "top24.mk",
+  "iso": "XKX",
+  "region": "",
+  "widened": 30,
+  "lang": "Albanian"
+ },
+ {
+  "name": "Kosovo",
+  "title": "Flakadanë dhe kënga  Mora fjalë  në natën e pestë të protestës në Prishtinë – 24 ore",
+  "link": "https://24-ore.com/flakadane-dhe-kenga-mora-fjale-ne-naten-e-peste-te-protestes-ne-prishtine/",
+  "date": 1789938000000,
+  "sig": 2,
+  "snippet": "24-ore.com",
   "iso": "XKX",
   "region": "",
   "widened": 30,
@@ -1076,6 +636,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "Kosovo",
+  "title": "Protestuesit 5 net në shesh kundër vendimit të Hagës në Prishtinë , shpaloset flamuri gjigant",
+  "link": "https://kohajone.com/kosova/protestuesit-5-net-ne-shesh-kunder-vendimit-te-hages-ne-prishtine-shpaloset-flamuri-gjigant/",
+  "date": 1789937100000,
+  "sig": 2,
+  "snippet": "kohajone.com",
+  "iso": "XKX",
+  "region": "",
+  "widened": 30,
+  "lang": "Albanian"
+ },
+ {
   "name": "Iran",
   "title": "Iran's economy faces another blockade: Red tape and gridlock are clogging up land routes - Fortune",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2ZZWXFHeXFfUWh5VDdveE52cXJHN3BJbE1iaTI1V0RldWlqaU53WEFhbDRlb3lVRkN1UlB1blpBUGxsYjJ2MUNBME9hcXlJbk1BamE3eHhwUlpLU0FhWk1XbVF6WHRaYm1RLVM5dEhwcjk4ZnFSNmFUWXhucVBWSkFUZXA5UXFQM3publRCMDk3Sy16NDNCS3AzbHF2NDg?oc=5",
@@ -1088,13 +660,13 @@
   "lang": "English"
  },
  {
-  "name": "Argentina",
-  "title": "Se sumó un nuevo candidato a la oposición contra Riquelme :  Yo quiero que Boca crezca",
-  "link": "https://elintransigente.com/2026/09/leandro-petersen-candidato-presidente-boca/",
+  "name": "Ecuador",
+  "title": "El Telégrafo - Doce incendios forestales permanecen activos en seis provincias de Ecuador",
+  "link": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/doce-incendios-forestales-permanecen-activos-en-seis-provincias-de-ecuador",
   "date": 1789934400000,
   "sig": 2,
-  "snippet": "elintransigente.com",
-  "iso": "ARG",
+  "snippet": "eltelegrafo.com.ec",
+  "iso": "ECU",
   "region": "",
   "widened": 30,
   "lang": "Spanish"
@@ -1143,30 +715,6 @@
   "sig": 2,
   "snippet": "thedailyblog.co.nz",
   "iso": "NZL",
-  "region": "",
-  "widened": 365,
-  "lang": "English"
- },
- {
-  "name": "Ecuador",
-  "title": "El Telégrafo - Doce incendios forestales permanecen activos en seis provincias de Ecuador",
-  "link": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/doce-incendios-forestales-permanecen-activos-en-seis-provincias-de-ecuador",
-  "date": 1789934400000,
-  "sig": 2,
-  "snippet": "eltelegrafo.com.ec",
-  "iso": "ECU",
-  "region": "",
-  "widened": 30,
-  "lang": "Spanish"
- },
- {
-  "name": "Malaysia",
-  "title": "How will China Pinglu Canal chart new economic tides for ASEAN",
-  "link": "http://www.malaysiasun.com/news/279319328/how-will-china-pinglu-canal-chart-new-economic-tides-for-asean",
-  "date": 1789933500000,
-  "sig": 2,
-  "snippet": "malaysiasun.com",
-  "iso": "MYS",
   "region": "",
   "widened": 180,
   "lang": "English"
@@ -1280,6 +828,18 @@
   "lang": "English"
  },
  {
+  "name": "Colombia",
+  "title": "La oposición colombiana se vuelca a la autocrítica tras una semana de errores en sus comunicaciones",
+  "link": "https://elpais.com/america-colombia/2026-09-20/la-oposicion-colombiana-se-vuelca-a-la-autocritica-tras-una-semana-de-errores-en-sus-comunicaciones.html",
+  "date": 1789932600000,
+  "sig": 2,
+  "snippet": "elpais.com",
+  "iso": "COL",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
   "name": "New Zealand",
   "title": "Sunda Energy Taranaki Permit Lifts SNDA 43 % as AIM Movers Mixed",
   "link": "https://www.financial-news.co.uk/sunda-energy-taranaki-permit-lifts-snda-43-as-aim-movers-mixed/",
@@ -1288,7 +848,7 @@
   "snippet": "financial-news.co.uk",
   "iso": "NZL",
   "region": "Taranaki",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -1300,20 +860,20 @@
   "snippet": "es.gizmodo.com",
   "iso": "NZL",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "Spanish"
  },
  {
-  "name": "Colombia",
-  "title": "La oposición colombiana se vuelca a la autocrítica tras una semana de errores en sus comunicaciones",
-  "link": "https://elpais.com/america-colombia/2026-09-20/la-oposicion-colombiana-se-vuelca-a-la-autocritica-tras-una-semana-de-errores-en-sus-comunicaciones.html",
+  "name": "Belgium",
+  "title": "Presa de stat rusă dă de înțeles că România ar ajuta Ucraina cu o  bombă murdară  prin transfer de  tehnologii nucleare",
+  "link": "https://ziare.com/nicusor-dan/zelenski-ucraina-romania-bomba-murdara-nucleara-2036482",
   "date": 1789932600000,
   "sig": 2,
-  "snippet": "elpais.com",
-  "iso": "COL",
+  "snippet": "ziare.com",
+  "iso": "BEL",
   "region": "",
-  "widened": 30,
-  "lang": "Spanish"
+  "widened": 365,
+  "lang": "Romanian"
  },
  {
   "name": "India",
@@ -1342,7 +902,7 @@
  {
   "name": "Kosovo",
   "title": "Protesta kundër vendimit të Speciales , policia paralajmëron masa për vozitje të rrezikshme",
-  "link": "https://zeri.info/aktuale/637890/protesta-kunder-vendimit-te-speciales-policia-paralajmeron-masa-per-vozitje-te-rrezikshme/",
+  "link": "https://www.zeri.info/aktuale/637890/protesta-kunder-vendimit-te-speciales-policia-paralajmeron-masa-per-vozitje-te-rrezikshme/",
   "date": 1789931700000,
   "sig": 2,
   "snippet": "zeri.info",
@@ -1614,18 +1174,6 @@
   "lang": "English"
  },
  {
-  "name": "Lebanon",
-  "title": "La cerámica pudo crearse tras un periodo de incendios forestales en Oriente Próximo",
-  "link": "https://www.diariosigloxxi.com/texto-s/mostrar/674397/ceramica-pudo-crearse-periodo-incendios-forestales-oriente-proximo",
-  "date": 1789926300000,
-  "sig": 2,
-  "snippet": "diariosigloxxi.com",
-  "iso": "LBN",
-  "region": "",
-  "widened": 180,
-  "lang": "Spanish"
- },
- {
   "name": "Colombia",
   "title": "Se elevan a 19 los incendios forestales activos en Colombia",
   "link": "https://www.lafm.com.co/sociedad/incendios-forestales-villa-de-leiva-activo-19-colombia-quemados-evacuados-411459",
@@ -1686,18 +1234,6 @@
   "lang": "Indonesian"
  },
  {
-  "name": "Kosovo",
-  "title": "Diaspora shqiptare në Austri proteston kundër dënimit të 4 ish - krerëve të UÇK - së : Liri për çlirimtarët – faxweb",
-  "link": "https://faxweb.al/diaspora-shqiptare-ne-austri-proteston-kunder-denimit-te-4-ish-krereve-te-uck-se-liri-per-clirimtaret/",
-  "date": 1789925400000,
-  "sig": 2,
-  "snippet": "faxweb.al",
-  "iso": "XKX",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
   "name": "Argentina",
   "title": "Aves Argentinas fue premiada internacionalmente por su valiosa labor ambiental",
   "link": "https://www.aimdigital.com.ar/nacionales/aves-argentinas-fue-premiada-internacionalmente-por-su-valiosa-labor-ambiental.htm",
@@ -1708,6 +1244,18 @@
   "region": "",
   "widened": 365,
   "lang": "Spanish"
+ },
+ {
+  "name": "Kosovo",
+  "title": "Diaspora shqiptare në Austri proteston kundër dënimit të 4 ish - krerëve të UÇK - së : Liri për çlirimtarët – faxweb",
+  "link": "https://faxweb.al/diaspora-shqiptare-ne-austri-proteston-kunder-denimit-te-4-ish-krereve-te-uck-se-liri-per-clirimtaret/",
+  "date": 1789925400000,
+  "sig": 2,
+  "snippet": "faxweb.al",
+  "iso": "XKX",
+  "region": "",
+  "widened": 30,
+  "lang": "Albanian"
  },
  {
   "name": "Nigeria",
@@ -1746,18 +1294,6 @@
   "lang": "Spanish"
  },
  {
-  "name": "Kosovo",
-  "title": "Protestë në Vjenë kundër aktgjykimit të Speciales :  Jo në emrin tim ,  Liri për çlirimtarët e Kosovës  • KosovaPress",
-  "link": "https://kosovapress.com/proteste-ne-vjene-kunder-aktgjykimit-te-speciales-degjohen-thirrjet-jo-ne-emrin-tim-liri-per-clirimtaret-e-kosoves",
-  "date": 1789924500000,
-  "sig": 2,
-  "snippet": "kosovapress.com",
-  "iso": "XKX",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
   "name": "Argentina",
   "title": "Las costas compartidas del Río Uruguay fueron sede de un encuentro de concientización ambiental",
   "link": "https://www.maximaonline.com.ar/sociedad/las-costas-compartidas-del-rio-uruguay-fueron-sede-de-un-encuentro-de-concientizacion-ambiental.htm",
@@ -1768,6 +1304,18 @@
   "region": "",
   "widened": 365,
   "lang": "Spanish"
+ },
+ {
+  "name": "Kosovo",
+  "title": "Protestë në Vjenë kundër aktgjykimit të Speciales :  Jo në emrin tim ,  Liri për çlirimtarët e Kosovës  • KosovaPress",
+  "link": "https://kosovapress.com/proteste-ne-vjene-kunder-aktgjykimit-te-speciales-degjohen-thirrjet-jo-ne-emrin-tim-liri-per-clirimtaret-e-kosoves",
+  "date": 1789924500000,
+  "sig": 2,
+  "snippet": "kosovapress.com",
+  "iso": "XKX",
+  "region": "",
+  "widened": 30,
+  "lang": "Albanian"
  },
  {
   "name": "Nigeria",
@@ -1806,42 +1354,6 @@
   "lang": "Unknown"
  },
  {
-  "name": "Argentina",
-  "title": "Arranca el debate sobre morosidad y la oposición va a la carga con otros problemas",
-  "link": "https://www.cronica.com.ar/politica/arranca-el-debate-en-comisiones-sobre-morosidad-y-la-oposicion-va-a-la-carga-con-otros-problemas/",
-  "date": 1789923600000,
-  "sig": 2,
-  "snippet": "cronica.com.ar",
-  "iso": "ARG",
-  "region": "",
-  "widened": 30,
-  "lang": "Spanish"
- },
- {
-  "name": "Romania",
-  "title": "Protest în Piața Victoriei . Jandarmeria anunță filtre de securitate și posibile restricții de trafic",
-  "link": "https://www.capital.ro/protest-in-piata-victoriei-jandarmeria-anunta-filtre-de-securitate-si-posibile-restrictii-de-trafic.html",
-  "date": 1789923600000,
-  "sig": 2,
-  "snippet": "capital.ro",
-  "iso": "ROU",
-  "region": "",
-  "widened": 30,
-  "lang": "Romanian"
- },
- {
-  "name": "Albania",
-  "title": "Skandal u Beču : Albanci protestovali zbog presuda vođama UČK i klicali  velikoj Albaniji !",
-  "link": "https://informer.rs/politika/vesti/1152705/sipatri-divljali-usred-beca-zbog-haske-presude",
-  "date": 1789923600000,
-  "sig": 2,
-  "snippet": "informer.rs",
-  "iso": "ALB",
-  "region": "",
-  "widened": 30,
-  "lang": "Serbian"
- },
- {
   "name": "Albania",
   "title": "Frankfurter Allgemeine Zeitung  për protestat në Tiranë :  Revolucioni i Flamingove  nuk u shndërrua në lëvizje masive – 24 ore",
   "link": "https://24-ore.com/frankfurter-allgemeine-zeitung-per-protestat-ne-tirane-revolucioni-i-flamingove-nuk-u-shnderrua-ne-levizje-masive/",
@@ -1854,15 +1366,15 @@
   "lang": "Albanian"
  },
  {
-  "name": "Armenia",
+  "name": "Georgia",
   "title": "Mërgata ruse voton në ditën e fundit të zgjedhjeve : protestë kundër Putinit dhe luftës në Ukrainë",
   "link": "https://24-ore.com/mergata-ruse-voton-ne-diten-e-fundit-te-zgjedhjeve-proteste-kunder-putinit-dhe-luftes-ne-ukraine/",
   "date": 1789923600000,
   "sig": 2,
   "snippet": "24-ore.com",
-  "iso": "ARM",
+  "iso": "GEO",
   "region": "",
-  "widened": 90,
+  "widened": 30,
   "lang": "Albanian"
  },
  {
@@ -2022,18 +1534,6 @@
   "lang": "Albanian"
  },
  {
-  "name": "Georgia",
-  "title": "Siege of Savannah : Workers dredging Georgia Savannah River found cannons that had vanished since the Revolutionary War ; more than 200 years later , 19 were pulled from the water",
-  "link": "https://economictimes.indiatimes.com/magazines/panache/workers-dredging-georgias-savannah-river-found-cannons-that-had-vanished-since-the-revolutionary-war-more-than-200-years-later-19-were-pulled-from-the-water/articleshow/134370498.cms",
-  "date": 1789920000000,
-  "sig": 2,
-  "snippet": "economictimes.indiatimes.com",
-  "iso": "GEO",
-  "region": "",
-  "widened": 365,
-  "lang": "English"
- },
- {
   "name": "Kosovo",
   "title": "Tahiraj del kundër kërkesës së protestuesve për Gërvallën :  Jo ! Kjo nuk duhet të ndodhë",
   "link": "https://www.botasot.info/politika-lajme/2529942/tahiraj-del-kunder-kerkeses-se-protestuesve-per-gervallen-jo-kjo-nuk-duhet-te-ndodhe/",
@@ -2058,18 +1558,6 @@
   "lang": "English"
  },
  {
-  "name": "Albania",
-  "title": "Media ruse e serbe paraqesin rrejshëm protestën në Tiranë si  trazira  për shkak të dënimit të ish - krerëve të UÇK - së – 24 ore",
-  "link": "https://24-ore.com/media-ruse-e-serbe-paraqesin-rrejshem-protesten-ne-tirane-si-trazira-per-shkak-te-denimit-te-ish-krereve-te-uck-se/",
-  "date": 1789919100000,
-  "sig": 2,
-  "snippet": "24-ore.com",
-  "iso": "ALB",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
   "name": "Colombia",
   "title": "Así avanza el incendio forestal en Villa de Leyva que ya afecta más de 40 hectáreas",
   "link": "https://www.vanguardia.com/colombia/2026/09/20/asi-avanza-el-incendio-forestal-en-villa-de-leyva-que-ya-afecta-mas-de-40-hectareas/",
@@ -2080,6 +1568,18 @@
   "region": "",
   "widened": 30,
   "lang": "Spanish"
+ },
+ {
+  "name": "Albania",
+  "title": "Media ruse e serbe paraqesin rrejshëm protestën në Tiranë si  trazira  për shkak të dënimit të ish - krerëve të UÇK - së – 24 ore",
+  "link": "https://24-ore.com/media-ruse-e-serbe-paraqesin-rrejshem-protesten-ne-tirane-si-trazira-per-shkak-te-denimit-te-ish-krereve-te-uck-se/",
+  "date": 1789919100000,
+  "sig": 2,
+  "snippet": "24-ore.com",
+  "iso": "ALB",
+  "region": "",
+  "widened": 30,
+  "lang": "Albanian"
  },
  {
   "name": "Jordan",
@@ -2094,6 +1594,18 @@
   "lang": "French"
  },
  {
+  "name": "Thailand",
+  "title": "Interview : Pinglu Canal to boost China - ASEAN trade , upgrade regional logistics : Thai business expert - Xinhua",
+  "link": "https://english.news.cn/20260920/767efe3f64f548da9614a983fbf5efa4/c.html",
+  "date": 1789918200000,
+  "sig": 2,
+  "snippet": "english.news.cn",
+  "iso": "THA",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Romania",
   "title": "Manifestaţii în Bucureşti , Iaşi , Oradea şi Timişoara , duminică seară , împotriva protestelor violente . Recomandările Jandarmeriei",
   "link": "https://adevarul.ro/stiri-interne/evenimente/manifestatii-in-bucuresti-iasi-oradea-si-2558701.html",
@@ -2102,7 +1614,7 @@
   "snippet": "adevarul.ro",
   "iso": "ROU",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "Romanian"
  },
  {
@@ -2113,18 +1625,6 @@
   "sig": 2,
   "snippet": "the-star.co.ke",
   "iso": "KEN",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
- },
- {
-  "name": "Thailand",
-  "title": "Interview : Pinglu Canal to boost China - ASEAN trade , upgrade regional logistics : Thai business expert - Xinhua",
-  "link": "https://english.news.cn/20260920/767efe3f64f548da9614a983fbf5efa4/c.html",
-  "date": 1789918200000,
-  "sig": 2,
-  "snippet": "english.news.cn",
-  "iso": "THA",
   "region": "",
   "widened": 30,
   "lang": "English"
@@ -2188,24 +1688,24 @@
   "region": ""
  },
  {
+  "name": "Colombia",
+  "title": "Presidente de la JEP alerta a la CPI por iniciativas que buscan recortar presupuesto al tribunal de paz",
+  "link": "https://www.colombia.com/actualidad/noticias/presidente-de-la-jep-alerta-a-la-cpi-por-iniciativas-que-buscan-recortar-presupuesto-al-tribunal-de-paz-601446",
+  "date": 1789914600000,
+  "sig": 2,
+  "snippet": "colombia.com",
+  "iso": "COL",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
   "name": "Kosovo",
   "title": "Vjena i bashkohet protestave të diasporës kundër aktgjykimit për ish - krerët e UÇK - së",
   "link": "https://telegrafi.com/vjena-i-bashkohet-protestave-te-diaspores-kuner-aktgjykimit-per-ish-kreret-e-uck-se/",
   "date": 1789914600000,
   "sig": 2,
   "snippet": "telegrafi.com",
-  "iso": "XKX",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
-  "name": "Kosovo",
-  "title": "Vjena i bashkohet protestave të diasporës kunër aktgjykimit për ish - krerët e UÇK - së",
-  "link": "https://24-ore.com/vjena-i-bashkohet-protestave-te-diaspores-kuner-aktgjykimit-per-ish-kreret-e-uck-se/",
-  "date": 1789914600000,
-  "sig": 2,
-  "snippet": "24-ore.com",
   "iso": "XKX",
   "region": "",
   "widened": 30,
@@ -2224,16 +1724,16 @@
   "lang": "Albanian"
  },
  {
-  "name": "Colombia",
-  "title": "Presidente de la JEP alerta a la CPI por iniciativas que buscan recortar presupuesto al tribunal de paz",
-  "link": "https://www.colombia.com/actualidad/noticias/presidente-de-la-jep-alerta-a-la-cpi-por-iniciativas-que-buscan-recortar-presupuesto-al-tribunal-de-paz-601446",
+  "name": "Kosovo",
+  "title": "Vjena i bashkohet protestave të diasporës kunër aktgjykimit për ish - krerët e UÇK - së",
+  "link": "https://24-ore.com/vjena-i-bashkohet-protestave-te-diaspores-kuner-aktgjykimit-per-ish-kreret-e-uck-se/",
   "date": 1789914600000,
   "sig": 2,
-  "snippet": "colombia.com",
-  "iso": "COL",
+  "snippet": "24-ore.com",
+  "iso": "XKX",
   "region": "",
   "widened": 30,
-  "lang": "Spanish"
+  "lang": "Albanian"
  },
  {
   "name": "Uruguay",
@@ -2796,18 +2296,6 @@
   "region": ""
  },
  {
-  "name": "Tanzania",
-  "title": "Ten lions die in suspected poisoning at Tanzania wildlife reserve",
-  "link": "https://www.freemalaysiatoday.com/category/world/2026/09/20/ten-lions-die-in-suspected-poisoning-at-tanzania-wildlife-reserve",
-  "date": 1789902000000,
-  "sig": 2,
-  "snippet": "freemalaysiatoday.com",
-  "iso": "TZA",
-  "region": "",
-  "widened": 30,
-  "lang": "English"
- },
- {
   "name": "Kenya",
   "title": "Two - year - old girl killed in suspected gas explosion",
   "link": "https://www.standardmedia.co.ke/nyanza/article/2001558213/two-year-old-girl-killed-in-suspected-gas-explosion",
@@ -2844,6 +2332,18 @@
   "lang": "Unknown"
  },
  {
+  "name": "Moldova",
+  "title": "Secții pentru alegerile din Rusia , deschise în Transnistria în pofida protestului Chișinăului . Câți au votat",
+  "link": "https://news.yam.md/ro/story/65706871",
+  "date": 1789901100000,
+  "sig": 2,
+  "snippet": "news.yam.md",
+  "iso": "MDA",
+  "region": "",
+  "widened": 90,
+  "lang": "Romanian"
+ },
+ {
   "name": "Kosovo",
   "title": "Diaspora shqiptare me UÇK , protestohet edhe në Kanada",
   "link": "https://www.botasot.info/diaspora/2529848/diaspora-shqiptare-me-uck-protestohet-edhe-ne-kanada/",
@@ -2866,18 +2366,6 @@
   "region": "",
   "widened": 30,
   "lang": "Albanian"
- },
- {
-  "name": "Moldova",
-  "title": "Secții pentru alegerile din Rusia , deschise în Transnistria în pofida protestului Chișinăului . Câți au votat",
-  "link": "https://news.yam.md/ro/story/65706871",
-  "date": 1789901100000,
-  "sig": 2,
-  "snippet": "news.yam.md",
-  "iso": "MDA",
-  "region": "",
-  "widened": 90,
-  "lang": "Romanian"
  },
  {
   "name": "Norway",
@@ -2948,7 +2436,7 @@
   "snippet": "riotimesonline.com",
   "iso": "KEN",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -3096,18 +2584,6 @@
   "lang": "Unknown"
  },
  {
-  "name": "Albania",
-  "title": "Revolta kundër Ramës nuk ndalet / Mbahet sot protesta e 113 - të",
-  "link": "https://almakos.com/revolta-kunder-rames-nuk-ndalet-mbahet-sot-protesta-e-113-te/",
-  "date": 1789891200000,
-  "sig": 2,
-  "snippet": "almakos.com",
-  "iso": "ALB",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
   "name": "Colombia",
   "title": "FP : petróleo llegaría a US$140 por conflictos en Medio Oriente",
   "link": "https://almomento.net/fp-petroleo-llegaria-a-us140-por-conflictos-en-medio-oriente/",
@@ -3118,6 +2594,18 @@
   "region": "",
   "widened": 30,
   "lang": "Spanish"
+ },
+ {
+  "name": "Albania",
+  "title": "Revolta kundër Ramës nuk ndalet / Mbahet sot protesta e 113 - të",
+  "link": "https://almakos.com/revolta-kunder-rames-nuk-ndalet-mbahet-sot-protesta-e-113-te/",
+  "date": 1789891200000,
+  "sig": 2,
+  "snippet": "almakos.com",
+  "iso": "ALB",
+  "region": "",
+  "widened": 30,
+  "lang": "Albanian"
  },
  {
   "name": "Switzerland",
@@ -11834,13 +11322,13 @@
   "lang": "English"
  },
  {
-  "name": "Kenya",
+  "name": "Malawi",
   "title": "Tensión en Oriente Medio y protestas en Asia marcan la jornada",
   "link": "https://larepublica.es/2026/09/13/tension-en-oriente-medio-y-protestas-en-asia-marcan-la-jornada/",
   "date": 1789282800000,
   "sig": 2,
   "snippet": "larepublica.es",
-  "iso": "KEN",
+  "iso": "MWI",
   "region": "",
   "widened": 90,
   "lang": "Spanish"
@@ -11974,7 +11462,7 @@
   "snippet": "businessghana.com",
   "iso": "GHA",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -11986,7 +11474,7 @@
   "snippet": "businessghana.com",
   "iso": "GHA",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -12218,6 +11706,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "Guatemala",
+  "title": "Gobierno reporta 34 puntos liberados tras 10 días de protestas – Publinews",
+  "link": "https://www.publinews.gt/noticias/2026/09/12/gobierno-reporta-34-bloqueos-liberados-tras-10-dias-de-protestas/",
+  "date": 1789268400000,
+  "sig": 2,
+  "snippet": "publinews.gt",
+  "iso": "GTM",
+  "region": "",
+  "widened": 90,
+  "lang": "Spanish"
+ },
+ {
   "name": "Kenya",
   "title": "OMWENGA : Sifuna 2027 choice could shape the opposition fate",
   "link": "https://www.the-star.co.ke/news/2026-09-13-omwenga-sifunas-2027-choice-could-shape-oppositions-fate",
@@ -12226,7 +11726,7 @@
   "snippet": "the-star.co.ke",
   "iso": "KEN",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -12238,7 +11738,7 @@
   "snippet": "the-star.co.ke",
   "iso": "KEN",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -12250,20 +11750,8 @@
   "snippet": "the-star.co.ke",
   "iso": "KEN",
   "region": "",
-  "widened": 90,
+  "widened": 180,
   "lang": "English"
- },
- {
-  "name": "Guatemala",
-  "title": "Gobierno reporta 34 puntos liberados tras 10 días de protestas – Publinews",
-  "link": "https://www.publinews.gt/noticias/2026/09/12/gobierno-reporta-34-bloqueos-liberados-tras-10-dias-de-protestas/",
-  "date": 1789268400000,
-  "sig": 2,
-  "snippet": "publinews.gt",
-  "iso": "GTM",
-  "region": "",
-  "widened": 90,
-  "lang": "Spanish"
  },
  {
   "name": "Venezuela",
@@ -12326,18 +11814,6 @@
   "lang": "Hindi"
  },
  {
-  "name": "Albania",
-  "title": "Protestë në Bronx në mbështetje të liderëve të UÇK - së në Hagë , flet organizatori Shkëlqim Hajdari : Kërkojmë drejtësi jo mëshirë",
-  "link": "https://top-channel.tv/2026/09/12/proteste-ne-bronx-ne-mbeshtetje-te-lidereve-te-uck-se-ne-hage-flet-organizatori-shkelqim-hajdari-kerkojme-drejtesi-jo-meshire/",
-  "date": 1789267500000,
-  "sig": 2,
-  "snippet": "top-channel.tv",
-  "iso": "ALB",
-  "region": "",
-  "widened": 30,
-  "lang": "Albanian"
- },
- {
   "name": "Ecuador",
   "title": "Tribunal de Ecuador niega candidatura de Luisa González a seccionales",
   "link": "https://www.prensa-latina.cu/2026/09/12/tribunal-de-ecuador-niega-candidatura-de-luisa-gonzalez-a-seccionales/",
@@ -12348,6 +11824,18 @@
   "region": "",
   "widened": 30,
   "lang": "Spanish"
+ },
+ {
+  "name": "Albania",
+  "title": "Protestë në Bronx në mbështetje të liderëve të UÇK - së në Hagë , flet organizatori Shkëlqim Hajdari : Kërkojmë drejtësi jo mëshirë",
+  "link": "https://top-channel.tv/2026/09/12/proteste-ne-bronx-ne-mbeshtetje-te-lidereve-te-uck-se-ne-hage-flet-organizatori-shkelqim-hajdari-kerkojme-drejtesi-jo-meshire/",
+  "date": 1789267500000,
+  "sig": 2,
+  "snippet": "top-channel.tv",
+  "iso": "ALB",
+  "region": "",
+  "widened": 30,
+  "lang": "Albanian"
  },
  {
   "name": "Nigeria",
@@ -14366,18 +13854,6 @@
   "lang": "Spanish"
  },
  {
-  "name": "Kenya",
-  "title": "Matiangi , Ndindi Nyoro team up in fresh push for opposition unity",
-  "link": "https://www.standardmedia.co.ke/politics/article/2001557629/matiang-i-ndindi-nyoro-team-up-in-fresh-push-for-opposition-unity",
-  "date": 1789225200000,
-  "sig": 2,
-  "snippet": "standardmedia.co.ke",
-  "iso": "KEN",
-  "region": "",
-  "widened": 90,
-  "lang": "English"
- },
- {
   "name": "Kuwait",
   "title": "Arábia Saudita encerra oleoduto que tem permitido contornar Ormuz após ataque com drones lançado do Iraque",
   "link": "https://sapo.pt/artigo/arabia-saudita-encerra-oleoduto-que-tem-permitido-contornar-ormuz-apos-ataque-com-drones-lancado-do-iraque-6aa55b69cd80d8fcaa9cc7ee",
@@ -14388,6 +13864,18 @@
   "region": "",
   "widened": 30,
   "lang": "Portuguese"
+ },
+ {
+  "name": "Kenya",
+  "title": "Matiangi , Ndindi Nyoro team up in fresh push for opposition unity",
+  "link": "https://www.standardmedia.co.ke/politics/article/2001557629/matiang-i-ndindi-nyoro-team-up-in-fresh-push-for-opposition-unity",
+  "date": 1789225200000,
+  "sig": 2,
+  "snippet": "standardmedia.co.ke",
+  "iso": "KEN",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Luxembourg",
@@ -16500,7 +15988,7 @@
   "snippet": "ghanamma.com",
   "iso": "GHA",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -16516,18 +16004,6 @@
   "lang": "English"
  },
  {
-  "name": "Ghana",
-  "title": "Ghana China mining partnerships : value addition push",
-  "link": "https://www.riotimesonline.com/ghana-china-mining-partnerships-value-addition-2026/",
-  "date": 1789196400000,
-  "sig": 2,
-  "snippet": "riotimesonline.com",
-  "iso": "GHA",
-  "region": "",
-  "widened": 365,
-  "lang": "English"
- },
- {
   "name": "Austria",
   "title": "Huge Iron Age salt-mining complex found beneath Hallstatt in Austria - Archaeology News Online Magazine",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWNhcHhRTGVRX0JXQ2E3RE5PVFVZVnF4N2JieU5QcTBDM0lBRU1wREtJQzlsbGNCVHZHRjJPbkMwdGtyaEpkWUs0aXRFVzhTRHRvR1hDbXBNdFdjNnVpTi1JaWRlQ2ZOemdWLVdWZVhMR204cEc0NFBCRmRJSzRxUXpWeEFUMGxMWkE?oc=5",
@@ -16537,6 +16013,18 @@
   "iso": "AUT",
   "region": "",
   "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Ghana",
+  "title": "Ghana China mining partnerships : value addition push",
+  "link": "https://www.riotimesonline.com/ghana-china-mining-partnerships-value-addition-2026/",
+  "date": 1789196400000,
+  "sig": 2,
+  "snippet": "riotimesonline.com",
+  "iso": "GHA",
+  "region": "",
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -17302,7 +16790,7 @@
   "snippet": "ghanamma.com",
   "iso": "GHA",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -18634,7 +18122,7 @@
   "snippet": "ghanamma.com",
   "iso": "GHA",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -18887,20 +18375,20 @@
  },
  {
   "name": "Ghana",
-  "title": "NAIMOS targets galamsey financiers , equipment suppliers in new river protection operation",
-  "link": "https://theheraldghana.com/naimos-targets-galamsey-financiers-equipment-suppliers-in-new-river-protection-operation/",
+  "title": "Petroleum Commission , Kosmos Energy sign deal to send Ghanaian engineers to US",
+  "link": "https://theheraldghana.com/petroleum-commission-kosmos-energy-sign-deal-to-send-ghanaian-engineers-to-us/",
   "date": 1789153200000,
   "sig": 2,
   "snippet": "theheraldghana.com",
   "iso": "GHA",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
   "name": "Ghana",
-  "title": "Petroleum Commission , Kosmos Energy sign deal to send Ghanaian engineers to US",
-  "link": "https://theheraldghana.com/petroleum-commission-kosmos-energy-sign-deal-to-send-ghanaian-engineers-to-us/",
+  "title": "NAIMOS targets galamsey financiers , equipment suppliers in new river protection operation",
+  "link": "https://theheraldghana.com/naimos-targets-galamsey-financiers-equipment-suppliers-in-new-river-protection-operation/",
   "date": 1789153200000,
   "sig": 2,
   "snippet": "theheraldghana.com",
@@ -19280,7 +18768,7 @@
   "snippet": "businessghana.com",
   "iso": "GHA",
   "region": "",
-  "widened": 365,
+  "widened": 180,
   "lang": "English"
  },
  {
@@ -22886,6 +22374,18 @@
   "lang": "English"
  },
  {
+  "name": "Canada",
+  "title": "Press Release",
+  "link": "https://www.mining.com/press-release?id=6aa2aefac3eb04378ef0e0a9",
+  "date": 1789065000000,
+  "sig": 2,
+  "snippet": "mining.com",
+  "iso": "CAN",
+  "region": "",
+  "widened": 90,
+  "lang": "English"
+ },
+ {
   "name": "United Kingdom",
   "title": "Harbour Energy kauft eigene Aktien für bis zu 200 Mio USD von BASF",
   "link": "https://www.finanzen.ch/nachrichten/rohstoffe/harbour-energy-kauft-eigene-aktien-fuer-bis-zu-200-mio-usd-von-basf-1036537077",
@@ -23774,7 +23274,7 @@
   "snippet": "allafrica.com",
   "iso": "TZA",
   "region": "",
-  "widened": 30,
+  "widened": 90,
   "lang": "English"
  },
  {
@@ -59432,7 +58932,7 @@
   "snippet": "wiadomosci.wp.pl",
   "iso": "BIH",
   "region": "",
-  "widened": 90,
+  "widened": 30,
   "lang": "Polish"
  },
  {
@@ -100586,6 +100086,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "Uruguay",
+  "title": "No maten al cartero , pide Luciano , quien insiste sobre la contaminación del río",
+  "link": "https://www.maximaonline.com.ar/guale/no-maten-al-cartero-pide-luciano-quien-insiste-sobre-la-contaminacion-del-rio.htm",
+  "date": 1787409000000,
+  "sig": 2,
+  "snippet": "maximaonline.com.ar",
+  "iso": "URY",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
   "name": "South Africa",
   "title": "Backlash against SA oil and gas projects deepens",
   "link": "https://www.timeslive.co.za/news/business/2026-08-22-backlash-against-sas-oil-and-gas-projects-deepens/",
@@ -100608,6 +100120,30 @@
   "region": "",
   "widened": 90,
   "lang": "Spanish"
+ },
+ {
+  "name": "Central African Republic",
+  "title": "Central African Republic shuts gold mine after deadly collapse - trtafrika.com",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4dkdUY2pnOUtqU3RCTjhSd1ktbXl5bFM4WFZ3SE90S3lFa2pvSDdRTVJNdFcwQWNvdUFfbGNsUURGU25nclhTSDhCMmotNV9qWU9OdEhqVXFxdlNDX3NoMzlHZGg?oc=5",
+  "date": 1787408991000,
+  "sig": 2,
+  "snippet": "Central African Republic shuts gold mine after deadly collapse  trtafrika.com",
+  "iso": "CAF",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Canada",
+  "title": "Southwest History : Gull Lake Protected Area , a prairie past - SwiftCurrentOnline . com - Local news , Weather , Sports , Free Classifieds and Job Listings",
+  "link": "https://www.swiftcurrentonline.com/articles/southwest-history-gull-lake-protected-area-a-prairie-past",
+  "date": 1787408100000,
+  "sig": 2,
+  "snippet": "swiftcurrentonline.com",
+  "iso": "CAN",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Colombia",
@@ -100642,6 +100178,18 @@
   "snippet": "In the early 1990s, the logging roads running through Sarawak’s Upper Baram became the site of a bitter confrontation. Penan families built wooden barricades and faced off bulldozers, timber trucks, and state security forces. As the protests drew international attention, the gove",
   "iso": "GL",
   "region": ""
+ },
+ {
+  "name": "Tanzania",
+  "title": "PM : Tanzania Julius Nyerere Dam project showcases Egypt growing soft power in Africa",
+  "link": "https://www.egyptindependent.com/pm-tanzanias-julius-nyerere-dam-project-showcases-egypts-growing-soft-power-in-africa/",
+  "date": 1787406300000,
+  "sig": 2,
+  "snippet": "egyptindependent.com",
+  "iso": "TZA",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Azerbaijan",
@@ -100728,6 +100276,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "Ghana",
+  "title": "Adamus Gold Mine Gets Reprieve Amid Breach Findings - News Ghana",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1l3VVNHb0FtS3VSa0VZVzQ4TURhLTZpejRpdTdOWG9iUWdnQlcyMkhENDdaa3Z1YmxGMWJwd1lHNnA3enRmZWxIS2NvX1BVcldRUXVCcXl6R042MmstZU5GR3dQWFZabTRwRkJCeHlic2NoTlVmU2tZc1pqZXA3WC1vYw?oc=5",
+  "date": 1787405240000,
+  "sig": 2,
+  "snippet": "Adamus Gold Mine Gets Reprieve Amid Breach Findings  News Ghana",
+  "iso": "GHA",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Colombia",
   "title": "incendios forestales en Tolima visibles desde Cundinamarca y afectación",
   "link": "https://www.pulzo.com/nacion/incendios-forestales-tolima-visibles-desde-cundinamarca-afectacion-PP5281477",
@@ -100764,6 +100324,18 @@
   "lang": "Indonesian"
  },
  {
+  "name": "Egypt",
+  "title": "Julius Nyerere Dam Inauguration: A New Chapter in Egypt-Tanzania Development Cooperation - DNE Africa",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORUw3Vm9mYWFHY2JRUE9MQWdWZGdaQjNvWkxBSVpaNjctT21jQlBSeUxNU0NmbHRpT2ZnRGthZWNxcDNqano5Z1lpd3I2UE94UTI2RjhmYUM1NS16VjZIS2d5X0Z2OXVXZWREeDh6dHhrWldwcl9ZeFAxelpOUUZYUTUtaUlLaUlrTTlRNzJWQnQ0NU1SM0lNMVZBRy1EUHh2NHc0LTA5OWpvYUQ0WXFtMzBISUpySmM5ci0zVE5fNA?oc=5",
+  "date": 1787401847000,
+  "sig": 2,
+  "snippet": "Julius Nyerere Dam Inauguration: A New Chapter in Egypt-Tanzania Development Cooperation  DNE Africa",
+  "iso": "EGY",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Kenya",
   "title": "Oposición afirma que sólo quiere recuperar fuero",
   "link": "https://www.excelsior.com.mx/nacional/oposicion-afirma-que-rocha-moya-solo-quiere-recuperar-fuero",
@@ -100774,6 +100346,18 @@
   "region": "",
   "widened": 90,
   "lang": "Spanish"
+ },
+ {
+  "name": "United Kingdom",
+  "title": "ICYMI : here the week 7 biggest tech news stories from the major GTA 6 leaks to Meta $1 . 4 trillion lawsuit",
+  "link": "https://www.techradar.com/tech/icymi-heres-the-weeks-7-biggest-tech-news-stories-from-the-major-gta-6-leaks-to-metas-usd1-4-trillion-lawsuit",
+  "date": 1787401800000,
+  "sig": 2,
+  "snippet": "techradar.com",
+  "iso": "GBR",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Spain",
@@ -100788,6 +100372,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "India",
+  "title": "Pinarayi Vijayan , Binoy Viswam lock horns over Deputy Leader of the Opposition post",
+  "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-binoy-viswam-lock-horns-over-deputy-leader-of-the-opposition-post/article71377432.ece",
+  "date": 1787401800000,
+  "sig": 2,
+  "snippet": "thehindu.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Mongabay Latam",
   "title": "Pozo Krem-1: Pemex apaga incendio tras 150 días, pero siguen sin esclarecerse los daños ambientales en México",
   "link": "https://es.mongabay.com/2026/08/incendio-pozo-krem-1-veracruz-mexico-pemex/",
@@ -100796,6 +100392,18 @@
   "snippet": "Tuvieron que pasar 150 días para que apaguen un incendio provocado por una fuga de gas en el pozo petrolero Krem- 1, ubicado en el municipio de Las Choapas, Veracruz. Petróleos Mexicanos (Pemex) –empresa estatal encargada en el sector– ha logrado controlar el incidente, pero los ",
   "iso": "BRA",
   "region": "Pará"
+ },
+ {
+  "name": "Albania",
+  "title": "Protesta qytetare / Berisha : Ftoj demokratët ta sh - Syri",
+  "link": "https://www.syri.net/politike/911448/protesta-qytetare-berisha-ftoj-demokratet-ta-shnderrojme-shtatorin-ne-muajin-e-goditjes-vendimtare/",
+  "date": 1787400900000,
+  "sig": 2,
+  "snippet": "syri.net",
+  "iso": "ALB",
+  "region": "",
+  "widened": 30,
+  "lang": "Albanian"
  },
  {
   "name": "Bangladesh",
@@ -100808,6 +100416,30 @@
   "region": "",
   "widened": 180,
   "lang": "Hindi"
+ },
+ {
+  "name": "India",
+  "title": "कौन है साहिल लोचब , जिसकी आंख पर जंतर - मंतर प्रदर्शन में लगे थे पैलेट गन के छर्रे ? अस्पताल से FIR तक की पूरी कहानी - jantar mantar protest sahil lochabs eye injury fir filed",
+  "link": "https://www.jagran.com/delhi/new-delhi-city-jantar-mantar-protest-sahil-lochabs-eye-injury-fir-filed-40348759.html",
+  "date": 1787400900000,
+  "sig": 2,
+  "snippet": "jagran.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "Hindi"
+ },
+ {
+  "name": "India",
+  "title": "Boost for India submarine - hunter fleet as Navy gets delivery of indigenous warship  Mangrol",
+  "link": "https://timesofindia.indiatimes.com/defence/news/boost-for-indias-submarine-hunter-fleet-as-navy-gets-delivery-of-indigenous-warship-mangrol/articleshow/133422714.cms",
+  "date": 1787400900000,
+  "sig": 2,
+  "snippet": "timesofindia.indiatimes.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Indonesia",
@@ -100834,6 +100466,42 @@
   "lang": "Unknown"
  },
  {
+  "name": "Egypt",
+  "title": "In Photos: Egypt's Madbouly joins Tanzania's Hassan to inaugurate Julius Nyerere dam project - Foreign Affairs - Egypt - Ahram Online",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WQmFoMGxGVTNrT1VzQ1RXcU04dVdIUVEycG1oRWw2d3llNFNhUHdkMkV5TVlmWDA1VFVRYUFKVjdEOE93ZFNtVXN2blhjOWdpYVhFbUZqS0c?oc=5",
+  "date": 1787399886000,
+  "sig": 2,
+  "snippet": "In Photos: Egypt's Madbouly joins Tanzania's Hassan to inaugurate Julius Nyerere dam project - Foreign Affairs - Egypt  Ahram Online",
+  "iso": "EGY",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Niger",
+  "title": "Eastern Corridor Of Trans Niger Pipeline Runs Uninterrupted — NNPC - LEADERSHIP Newspapers",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0RXTzNLeURHSHI3bzZNLW1yRF9WcWxxSkk5UDNuTUJBZm84bDRZQmVTcjVfYnQydDNqRmZta3JDUXR2MkpfN2tsb3BMX09ya1d1enU1RGQzYXEzVWJMMGh4X01BUnpFSFBQUzQ0eUxSTk0yN1dCYk1KTUVfTDV0T0VyVktnTjhqUFFmT0N1aXVjeTA?oc=5",
+  "date": 1787399853000,
+  "sig": 2,
+  "snippet": "Eastern Corridor Of Trans Niger Pipeline Runs Uninterrupted — NNPC  LEADERSHIP Newspapers",
+  "iso": "NER",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Egypt",
+  "title": "Egypt's PM on Julius Nyerere Dam opening: This great edifice reiforces shared political awareness - Egypt Today",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1VtWG9ac3luQXR4Rm1UZFZ6WWFEVEV2MjVBLXJXeFNtQlk3dXpSdDFGZzFNMklpdDQ1X2t4bGViUVBaUV9zS25qd0dpaFJ3Tm5UakVGUkNKc0szeV9fWVM5RmpuMUlRZ3ExSlRsRnZGRmRDWUF1ZXp6MW5DZGJIMDNacjVqeUEwV21VMFBRWmcyYWYzTkVyajFjRQ?oc=5",
+  "date": 1787399460000,
+  "sig": 2,
+  "snippet": "Egypt's PM on Julius Nyerere Dam opening: This great edifice reiforces shared political awareness  Egypt Today",
+  "iso": "EGY",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Ireland",
   "title": "Ulster Canal Stores takes Pride of Place",
   "link": "https://www.anglocelt.ie/2026/08/22/ulster-canal-stores-takes-pride-of-place/",
@@ -100858,6 +100526,42 @@
   "lang": "English"
  },
  {
+  "name": "India",
+  "title": "Is Sajjan Kumar Your Hero ?: Sikh Leaders Protest Outside Rahul Gandhi Residence",
+  "link": "https://www.oneindia.com/india/is-sajjan-kumar-your-hero-sikh-leaders-protest-outside-rahul-gandhis-residence-8184015.html",
+  "date": 1787399100000,
+  "sig": 2,
+  "snippet": "oneindia.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Kuwait",
+  "title": "Kuwait Ends Visit Visa and Absence Permit Extensions - propakistani.pk",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlhvWm1KNjBkTi00Vm05WVdyOF91aXp5WjhwVVdUN3Q1MG1IYzN2ZzJIN1dqVGpjWnM0WGtrRldUcHhmV3hLMlN5bGFuYmRyeDlTaE1MbDVGd0ZScWRQU2t3a3pEZlZvRkpZOXJoeFluVVQyank1WG9iS0ZyQmN0cHJjc1lNSHhlc1hIZkR0OTlsZ9IBlwFBVV95cUxQMWNjclRCcExzcFczZ3UxY2tuQnNXZkRYVVUyeUxWOVNBS1NWTm9vOWNBNlItdjViMzd4S0hGMFZ3QU5tanExSE1nVnN2Yks5bjg3MGlXQ2tXMkQyN1ktLUxySnFtQlJiNVYxbXBOYXU4U3pLNmVPS0VQbDZqSzFkcVU2dGxoZ0RpeW4xRUVMeDJHbi1IZ3pZ?oc=5",
+  "date": 1787398827000,
+  "sig": 2,
+  "snippet": "Kuwait Ends Visit Visa and Absence Permit Extensions  propakistani.pk",
+  "iso": "KWT",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Kuwait",
+  "title": "Kuwait Ends Visit Visa and Absence Permit Extensions - ProPakistani",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlhvWm1KNjBkTi00Vm05WVdyOF91aXp5WjhwVVdUN3Q1MG1IYzN2ZzJIN1dqVGpjWnM0WGtrRldUcHhmV3hLMlN5bGFuYmRyeDlTaE1MbDVGd0ZScWRQU2t3a3pEZlZvRkpZOXJoeFluVVQyank1WG9iS0ZyQmN0cHJjc1lNSHhlc1hIZkR0OTlsZ9IBlwFBVV95cUxQMWNjclRCcExzcFczZ3UxY2tuQnNXZkRYVVUyeUxWOVNBS1NWTm9vOWNBNlItdjViMzd4S0hGMFZ3QU5tanExSE1nVnN2Yks5bjg3MGlXQ2tXMkQyN1ktLUxySnFtQlJiNVYxbXBOYXU4U3pLNmVPS0VQbDZqSzFkcVU2dGxoZ0RpeW4xRUVMeDJHbi1IZ3pZ?oc=5",
+  "date": 1787398827000,
+  "sig": 2,
+  "snippet": "Kuwait Ends Visit Visa and Absence Permit Extensions  ProPakistani",
+  "iso": "KWT",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Sri Lanka",
   "title": "129 wagons, 3 engines: North Eastern Railway runs its longest ‘Awadh Mahashakti’ freight train - The Indian Express",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYmRlMlF1RUwwT3ppU3NBMW5BWTBPYVZZUGF3SDdDR0VUOTFwaUFJRjljRVp1bHFLVWNfM3NWZ0YtVUVmdjFRR1Z2Q2phRzFCWHRETGNSLTJTenRJVjF0VnFkNDhTeV9hbnhDS2ZORXhLTUxEb05Qbm80cjBlNV96RERQX1phYXBLSlkwUTd1MEdFMmZFcUJZaU1vOGJHNDdZdUh1TURoYXZtMkd5MW9Da3BmOXNKMHlTbU5jTnJB0gHEAUFVX3lxTE5OUC1mbHhHdnFaaG0ydlRvVUhoMFJfX3FJSXVvNEpDMWdwMmFWbmtpOEhjUVRTUUFFaWV1VzEzZE9rNXp1ejZpazdmMjNLOU5HbmRXTHRPRVdtWDBxLVh6T1lCMzQ5ZUpzNmpJd3lGUGE3c05HdUMxTlc4TmFodjRMNjBQT05wS3ZtYlFkQXAzSERreUtiQ3lxdlJKREpUeUc1dERuRFpweEZvSXRxV2I4VEgtVWp5c2NjVEVrdHhlQm1iTno?oc=5",
@@ -100868,6 +100572,18 @@
   "region": "Eastern",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "Cyprus",
+  "title": "Cyprus housing crisis: 3,300 new homes in the pipeline - Cyprus Property News",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTFGLWlvV0lreFI5VS15cFZpOFRhX2dPM1pJbmVjakNPRmZrcm1yRmx4a0locHJwbFdSek9HeDIyQ0pfeTBtUWFTWnBHaHNkc3VJRTlEMlp1Qlo2S0xZeXBnSC0wTHU0LXpaVjhCcXdKek5zc25kV0VSYnlGdUVIOVB1UWtkbDJVVl85Mmp4MWpDdGgwSDNvdkVwajBUaG5Ca3BV?oc=5",
+  "date": 1787397629000,
+  "sig": 2,
+  "snippet": "Cyprus housing crisis: 3,300 new homes in the pipeline  Cyprus Property News",
+  "iso": "CYP",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Montenegro",
@@ -100892,6 +100608,54 @@
   "region": "",
   "widened": 90,
   "lang": "Spanish"
+ },
+ {
+  "name": "Chile",
+  "title": "Víctimas de contaminación en Quintero - Puchuncaví acuden a Comisión Interamericana de DDHH",
+  "link": "https://www.elmostrador.cl/unidad-de-investigacion/2026/08/22/victimas-de-contaminacion-en-quintero-puchuncavi-acuden-a-comision-interamericana-de-ddhh/",
+  "date": 1787397300000,
+  "sig": 2,
+  "snippet": "elmostrador.cl",
+  "iso": "CHL",
+  "region": "",
+  "widened": 30,
+  "lang": "Spanish"
+ },
+ {
+  "name": "India",
+  "title": "LG reviews operationalisation of commercial flights from Thoise , Kargil airports in Ladakh",
+  "link": "https://economictimes.indiatimes.com/news/india/lg-reviews-operationalisation-of-commercial-flights-from-thoise-kargil-airports-in-ladakh/articleshow/133422156.cms",
+  "date": 1787397300000,
+  "sig": 2,
+  "snippet": "economictimes.indiatimes.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "India",
+  "title": "Regulator authorises 1 , 800 - km LPG pipeline network in Rs 7 , 000 cr push for energy security",
+  "link": "https://www.dailyexcelsior.com/regulator-authorises-1800-km-lpg-pipeline-network-in-rs-7000-cr-push-for-energy-security/",
+  "date": 1787397300000,
+  "sig": 2,
+  "snippet": "dailyexcelsior.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Egypt",
+  "title": "Egypt's PM joins Tanzanian President in inaugurating Julius Nyerere Dam - Egypt Today",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmgxelZkeEhKN3NLZUV1OVZHOFBVR3lxdm5Td0NOcFRkaTZsQmc5bEJYZ3RqZnRUcVhUMFdyWFhSR2M5TDhSZEVIZEdDQTNRQWp6TUFFblRNekd5bHFXZVpJRVhPellieTNGWkc3bTczS1BxWG1MdksxQzg3RV9oUXZma0NndWxhU21QQm1QWkZyVFFtVzQ0RFEybmJlaFRwS0tZeGFiZzEzOWRVRGhwbA?oc=5",
+  "date": 1787396460000,
+  "sig": 2,
+  "snippet": "Egypt's PM joins Tanzanian President in inaugurating Julius Nyerere Dam  Egypt Today",
+  "iso": "EGY",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Panama",
@@ -100954,6 +100718,18 @@
   "lang": "French"
  },
  {
+  "name": "India",
+  "title": "Oil regulator clears 1 , 800 - km LPG pipeline network worth Rs 7 , 000 crore",
+  "link": "https://ianslive.in/oil-regulator-clears-1800-km-lpg-pipeline-network-worth-rs-7000-crore--20260822151129",
+  "date": 1787396400000,
+  "sig": 2,
+  "snippet": "ianslive.in",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Azerbaijan",
   "title": "Azerbaijan oil exports to Bulgaria surge 4 . 5 - fold",
   "link": "http://www.bgnes.com/economy/azerbaijan-s-oil-exports-to-bulgaria-surge-4-5-fold",
@@ -100990,6 +100766,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "United Kingdom",
+  "title": "A Land Grab : Prince Harry and Meghan Markle Allegedly  Run Out of Road in America  and Flee to united kingdom",
+  "link": "https://www.ibtimes.co.uk/prince-harry-meghan-markle-uk-return-1815631",
+  "date": 1787395500000,
+  "sig": 2,
+  "snippet": "ibtimes.co.uk",
+  "iso": "GBR",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Colombia",
   "title": "El fuerte impacto económico en el Cesar tras la reactivación de la exportación del carbón a Israel - El Pilón",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaHk3M1pEb0RkdUlmMVE3aWFXOEF0MnVPQVlPU3RzTlhiTTJBeXg2T2VqNnkxaXdwSDZoekkyaFI1N2h2QXBHd00tLVZ0dktHY3loMG5KRUlsazljR19Da2xIOGxEdTVWZkNiTzdBS3lVZnlPUU5yS2gtTzE3OFJteUc2WE9mTDVNYTc3Wm9jMlpGYW4zNDRxb2hoa1l0US1RaDJwbS0tYU9INUNNTHVYUGpyQl9pU0ZrWWh2WmR1dVI?oc=5",
@@ -101000,6 +100788,30 @@
   "region": "Cesar",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "India",
+  "title": "India submarine hunting fleet gets stronger with indigenous warship Mangrol",
+  "link": "https://timesofindia.indiatimes.com/defence/news/indias-submarine-hunting-fleet-gets-stronger-with-indigenous-warship-mangrol/articleshow/133421182.cms",
+  "date": 1787394600000,
+  "sig": 2,
+  "snippet": "timesofindia.indiatimes.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Central African Republic",
+  "title": "Dozens missing after gold mine collapse in Central African Republic - Inbox.eu",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTNrYmVqcnVzR2xPV0x3a2RTSV9yTEFuOGU0dkZtdXl6M0pmU2ZFV1RVZ1VWdEFqcmJwdTBhQnJEY3F3NFE3ZWIzYmR4U2sydjdTVm5kTmNsY2dLeVRmcmNoN25VUXZwVU1EYXdTbDYwZjZvZzhRMHN6U2I2YW1URzV0Wm5yckg3cGFfU1JoQ2RYYXFLSk9hdlBibmdUOUl6RkRKWjZQU0ZvRGx1OXc?oc=5",
+  "date": 1787393209000,
+  "sig": 2,
+  "snippet": "Dozens missing after gold mine collapse in Central African Republic  Inbox.eu",
+  "iso": "CAF",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Venezuela",
@@ -101014,6 +100826,18 @@
   "lang": "Spanish"
  },
  {
+  "name": "Macau",
+  "title": "In US, rare earths extracted from coal mine wastewater - Macau Business",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXk5QXlZMEU2VjZWNkVublVHYWxzMGsxVGdZckhCOEZCVHUzc2I3WEZ4aGNudWdaMDFuWV9OU3FGQTBiR1hFcnFxQjcxZktncHpIWWoxMzhpRFEyV2d2YTJuOU1XeUxjdGNUWlhjampWQVRnMTJSZDR2V3hSX201aWxlX0d5UjQ?oc=5",
+  "date": 1787392701000,
+  "sig": 2,
+  "snippet": "In US, rare earths extracted from coal mine wastewater  Macau Business",
+  "iso": "MAC",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Mexico",
   "title": "Mexico: Rural community is protesting alleged social and environmental impacts from Endeavour Silver mine in Jalisco - Business and Human Rights Centre",
   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUk9jMlBDVWY1SWE4VmY0eVZjUHhHZXNILW5aczlhX2w5Qk1HREJwWDVMWnJaNGpoWEVOZUZ4Y3hFVDNqY0xjYW02ME9nb3hNU3JJNEVHZER6SV9LZXFqYlhqVlNtb05RXzlGLVh1N1VnSldHdWp4blZrWThUcnJGc2lYZFBzTmdscXZyd3VvaWJfUFQ1ajkyalZtaFdjYWE1a0hPN1l1U2VGSHp0VzFadU13alFGY2Uya2J1T1pSdU81WmdrUHRzUWxzdGVXa2hsU2RrM0o4RGhFQnNBbkF4Vl9teEJFc29YTkU4UzhsMmdhSmJFaHRjUUxyNzY?oc=5",
@@ -101024,6 +100848,42 @@
   "region": "Jalisco",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "India",
+  "title": "Nuclear power : Domestic companies to opt for locally - designed reactors to avoid delays",
+  "link": "https://www.thehindubusinessline.com/news/nuclear-power-domestic-companies-to-opt-for-locally-designed-reactors-to-avoid-delays/article71376982.ece",
+  "date": 1787391000000,
+  "sig": 2,
+  "snippet": "thehindubusinessline.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "India",
+  "title": "Delhi Police Detains Anti - Quota Protesters At Jantar Mantar , Cite Lack Of Permission",
+  "link": "https://www.ibtimes.co.in/delhi-police-detains-anti-quota-protesters-jantar-mantar-cite-lack-permission-904949",
+  "date": 1787391000000,
+  "sig": 2,
+  "snippet": "ibtimes.co.in",
+  "iso": "IND",
+  "region": "Delhi",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Libya",
+  "title": "Man-Made River Authority Closes Pipeline to Address Illegal Connection - Libya Herald",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWNPSmN2ckhaNjRGTUtrTzZNcnFHRFYya29RZS1jWWtSOGdud3dRVXhEVFgxN1pYd1l3Mk4xbS1aMmdnd1F5Z1NhWnZaY0NtQXJKcmxZY3FqZnlMV2xfbWZqZXhIdUR3MjBVckduZXdkN2tpS1FyX2tNVVdRYlhZR2JhTFVtVnp6a21SRk0xMWhPY0VONW54X3JNdEluNkI2Z3paVEhfWWFIRGpsUGdR?oc=5",
+  "date": 1787390700000,
+  "sig": 2,
+  "snippet": "Man-Made River Authority Closes Pipeline to Address Illegal Connection  Libya Herald",
+  "iso": "LBY",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Netherlands",
@@ -101059,6 +100919,18 @@
   "iso": "ETH",
   "region": "",
   "widened": 90,
+  "lang": "English"
+ },
+ {
+  "name": "India",
+  "title": "Regulator authorises 1 , 800 - km LPG pipeline network in Rs 7 , 000 crore push for energy security",
+  "link": "https://www.moneycontrol.com/news/india/regulator-authorises-1-800-km-lpg-pipeline-network-in-rs-7-000-crore-push-for-energy-security-14012868.html",
+  "date": 1787390100000,
+  "sig": 2,
+  "snippet": "moneycontrol.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
   "lang": "English"
  },
  {
@@ -101120,6 +100992,18 @@
   "lang": "English"
  },
  {
+  "name": "India",
+  "title": "India clears ₹7 , 000 crore LPG pipeline expansion across 6 states",
+  "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-clears-7000-crore-lpg-pipeline-expansion-across-6-states/articleshow/133420439.cms",
+  "date": 1787388300000,
+  "sig": 2,
+  "snippet": "economictimes.indiatimes.com",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Ethiopia",
   "title": "Dangote Offers Kenya , Ethiopia Rwanda Combined 30 % Equity In Planned $17bn Refinery",
   "link": "https://leadership.ng/dangote-offers-kenya-ethiopia-rwanda-combined-30-equity-in-planned-17bn-refinery/",
@@ -101154,6 +101038,54 @@
   "region": "Mississippi",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "Denmark",
+  "title": "Denmark States 6 Public Debts That Can Disqualify Foreigners From Getting Danish Residence Permit - Legit News",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzNBd0VFUU5ZV3lkX0hVajV1VDE3eHBLbGhRZ1Y0S0xmelJJdy1oQVA0TGh2UVBrcGFmQ0h1OXR2N19jbkZFcUNoNm5WUE1FdjRFV0VCalBxREZ0WFljSnp1bExCOVd0OE1hRUlkZklqYjNMRk9EVXhwdFIyQVhwRGs5eVlQbkpPLWp0ZV9zSlcyRHVzMFJQWHRKYl9mMFRNR2w1N2FOVXBMU1FNd3YyUEliYnBLQQ?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Denmark States 6 Public Debts That Can Disqualify Foreigners From Getting Danish Residence Permit  Legit News",
+  "iso": "DNK",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "India",
+  "title": "Protesters oppose NSA action against land rights activist Pranab Doley, raise indigenous land rights concerns - India Today NE",
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPalRPeS16dldBV1E1aWRuckhRTGUtOHMtUjJUakxBZ3ZXUlZxdl9NaU1kRGxweHhTOG9ydmtMQWQ2cEtzaTkwOXhZZ0JfVk9UMHZreUZHd2l3UXFQOUxWeTFwUHhVelpNODdTeEh0dnVqakdGcF81Q1Bxbk1jS3dGNk05TXRHMld5YTAxMlowV2pHTEc4UUtfOHJaR3U3RWx6eDVjSWd3UlVObUxnM0gyYmVvOVBtUmhVT3owMUxQUmJUcUJfT2xKeTNtVDh4dGtHTk9ZSDhkb29xeHZQZUF1ZHotVk04am1vbXZVVXI2em9sc3lPd2M1T09mVdIBgAJBVV95cUxPdVVDLTFXeWNudnZPSGJtRGhIc2hYczBlMFBVVHh6UlpqRFdzdnlsbXRrSkllZE5aZ241Tl91TVZ3NHAydkZSRjdyWVdZVEJIb1VSMjlCX0pvV2NORXFERG5RZldnTGdRY01BNkVZcmg3OVV3aXdxMUxtZENVWnd3NHFRWnZ1ay1QdmJZN3MxRU9FWVhJb0s0T1AwQlE2eW5YUTV3ZFlSOVg1VE1WYVlnOFVRVnI1ODVMTlRaZE82MG5XTVZ3amFLSzVRSlNqU3NlVHZhSHZSMDU0bFpZWkRaRTYtVWV4UXlRWjVqV1F3S2p5TWVzRF9ZV1FBWnFCMk9J?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Protesters oppose NSA action against land rights activist Pranab Doley, raise indigenous land rights concerns  India Today NE",
+  "iso": "IND",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Iceland",
+  "title": "Iceland escaped oil dependence. Can Nepal do the same with hydropower? - Nepalnews.com",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYi1xX3BCZGpzVjZGbXIyV2MzNFkxRjRiR2NRTklUVHlicmUtNlBsQkRJWXZHZWhmZmQ0anhUdHdxbC1rRVBRbW05WXZ4RnFBOHhLV2JsT19meG9qUTFMcnJGYzVqRUEzY0dqQmhBdHJzRkt1amZvUHNLbzZwMzdNdmdOV0FGMVhWZ1pKbXBhNHp4blJveDdkSWhKXzdZOXhzMzZ6aTlhQ2Yta1ZEN1E?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Iceland escaped oil dependence. Can Nepal do the same with hydropower?  Nepalnews.com",
+  "iso": "ISL",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Kuwait",
+  "title": "Kuwait to end automatic visa and leave permit extensions from September 1 - Gulf News",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGxmUnVteWc5dHJxSlFrUkdkSFAxeUpzTzJOUjVxTW1maVpaUVp1anpzN1RiZTBMdDE3cVE2eTZqenJIVV9uUXo1OWVYSFFiSkNlQ1lHU0EtR1ZJSkw4dDF2S09CRjNJdzRidHRRSlh1am9vYTRDOWZTdTVLNmVnODlLOWJpZW9VTDhGM3dCbHZuR3Y3RjkwbEthV2E2eWlHd0xxSXFoRTlHNjEyRUQ2eHQzYmk0WDVlSFhjUkZBSHRJd9IB1wFBVV95cUxPMk1EVzVVeG5ScTBKUEJuOFFaZ1lWVGdRbEJHdWNfN2ZTWVVLVElzQzlhV29Ya3VsUkhna3FXa3dhR19EWFdVSVJmU1JFQzJMY0lWdUtfR0NUQ0IwblEtVDVwRV91SVE1R3RHVDVxQ3dNQlpTaVZrcGlPeV96SjJmWEFrOXZZRTg5VXJEdE5UNFhidy1fcnZ2dmduTWE5VkJlUmtnOTZUemFxeTVZSkRyNEh0WVZ0Q3RHY19PUy1QaEVmcUVPNlFmWTBGMHV1Y3o3TzAtWlRXcw?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Kuwait to end automatic visa and leave permit extensions from September 1  Gulf News",
+  "iso": "KWT",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Colombia",
@@ -101240,6 +101172,30 @@
   "lang": "Unknown"
  },
  {
+  "name": "Cyprus",
+  "title": "Cyprus tells UN Turkey’s occupied-area gas pipeline deal is illegal - Philenews",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2tDR0tmc193ZTFrZkN1eGxTYm5xOUVFVzNXaFFTTnpEWXpjcmtOc3pQdW9HSHMyd2pqVEdRN3M3ZzdnSUxOSEZJMmFDV3VsV2U2MGVqc2ZmLTBiemwwcDFEOEdrV1MzZXNfSmtTd3JfS2lrVWJSYlFrVm5pWXZuQko0TkpwSFZFYU5HWnpR?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Cyprus tells UN Turkey’s occupied-area gas pipeline deal is illegal  Philenews",
+  "iso": "CYP",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Egypt",
+  "title": "In Photos: PM Madbouly and President Samia Suluhu Hassan inaugurate Julius Nyerere Hydropower Station and Dam in Tanzania - Foreign Affairs - Egypt - Ahram Online",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WQmFoMGxGVTNrT1VzQ1RXcU04dVdIUVEycG1oRWw2d3llNFNhUHdkMkV5TVlmWDA1VFVRYUFKVjdEOE93ZFNtVXN2blhjOWdpYVhFbUZqS0c?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "In Photos: PM Madbouly and President Samia Suluhu Hassan inaugurate Julius Nyerere Hydropower Station and Dam in Tanzania - Foreign Affairs - Egypt  Ahram Online",
+  "iso": "EGY",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Malaysia",
   "title": "RM41mil in assets seized, 12 detained in Sabah illegal mining crackdown - The Star",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0RaajJXVEdZLUZnRVJpVE83bm1BQmdYS0pEbHhPUllzMGd1ajNVWV8yU2JLMnRiT1UxMEhtdWlnOC1HZjBLcXVtX043eWpUMGZzZ2V3SWZxQTVNUll0Y2ltLURRdkMyeVFVQlBIU2FSU1YtczgtOC1aVXdIbjU1VmF4QWtOR0U2bWd6SG93WDUwRldReUNqbF9IUF9rVUdWVi1YVk5ydV9Jb0h1bTljemxVVjlXeWoyc0RlcQ?oc=5",
@@ -101250,6 +101206,54 @@
   "region": "Sabah",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "Denmark",
+  "title": "Denmark Announces 1 Category Barred From Getting Permanent Residence Permit - Legit News",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1NEQ1IzWEV5UlNBZ2FGQVY2MW5rTGRkWk1KVGhmUDV1NzB0dlVWc3JKLWlkRTUyMXhoYnBSSnJ4MGQxQTNOLTNTY1JLSnVlS2FFRFE4U1hlSWhscTRiMzV2XzVpQVg3X040WndRc09XMEtZQWlaSDc3YTNaUW5lYklseU9USTc2Ykk2U0hUWVBDUUhMOUF3eXFqYnBBd1JzaHdJODVwRUVYcTJiMGRhYg?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Denmark Announces 1 Category Barred From Getting Permanent Residence Permit  Legit News",
+  "iso": "DNK",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Egypt",
+  "title": "Julius Nyerere Dam debunks claims Egypt opposes Nile Basin development: PM Madbouly - Foreign Affairs - Egypt - Ahram Online",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93QzR6OFhJQjJ3MEJ5bGhaS01jd1l6UkRLeVpLdVN0cHRyTktxRThRdmJtVUtsREFudGtHLXh1TWFuUVh3blVSWkhIT3ZTNDFfSkYwTnp4LTY?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Julius Nyerere Dam debunks claims Egypt opposes Nile Basin development: PM Madbouly - Foreign Affairs - Egypt  Ahram Online",
+  "iso": "EGY",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Jamaica",
+  "title": "Residents of Cooper’s Pen stage protest as follow-up demolition looms - Jamaica Observer",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0ZaSWRWYlk4bGR6dTJlSy11VFZDdjlJeDRNMjd5dE9EMUdiUUFvaWtneUpfZWVpMmNJVHJOMFhqbnJuVExkcERyX1FqVVNSX2VpZ1JUNS1ZZUdtWktNV1dPRFBSNDBmLXRsVVhOWGZJXy1QU3VHUGplZlpTRXFwT3R4dzBoWnVtMmdnQnd0clYxNlBpRWhnQ0FsVnZwRHdsRDlYOTZB?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Residents of Cooper’s Pen stage protest as follow-up demolition looms  Jamaica Observer",
+  "iso": "JAM",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Cyprus",
+  "title": "Cyprus tells UN Turkey’s occupied-area gas pipeline deal is illegal - en.philenews.com",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2tDR0tmc193ZTFrZkN1eGxTYm5xOUVFVzNXaFFTTnpEWXpjcmtOc3pQdW9HSHMyd2pqVEdRN3M3ZzdnSUxOSEZJMmFDV3VsV2U2MGVqc2ZmLTBiemwwcDFEOEdrV1MzZXNfSmtTd3JfS2lrVWJSYlFrVm5pWXZuQko0TkpwSFZFYU5HWnpR?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Cyprus tells UN Turkey’s occupied-area gas pipeline deal is illegal  en.philenews.com",
+  "iso": "CYP",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Sweden",
@@ -101276,6 +101280,18 @@
   "lang": "Unknown"
  },
  {
+  "name": "Iceland",
+  "title": "Iceland escaped oil dependence. Can Nepal do the same with hydropower? - english.nepalnews.com",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYi1xX3BCZGpzVjZGbXIyV2MzNFkxRjRiR2NRTklUVHlicmUtNlBsQkRJWXZHZWhmZmQ0anhUdHdxbC1rRVBRbW05WXZ4RnFBOHhLV2JsT19meG9qUTFMcnJGYzVqRUEzY0dqQmhBdHJzRkt1amZvUHNLbzZwMzdNdmdOV0FGMVhWZ1pKbXBhNHp4blJveDdkSWhKXzdZOXhzMzZ6aTlhQ2Yta1ZEN1E?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Iceland escaped oil dependence. Can Nepal do the same with hydropower?  english.nepalnews.com",
+  "iso": "ISL",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "United States",
   "title": "The Hearst Family’s Historic South Dakota Gold Mine Mansion Asks $6.3 Million - Realtor.com",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkpnV25BWlcxYnFLOFFKMUNFRnNqMVQ5NEdfSTZXdVBNTU5TT2ttOFU2ZVQtdUg3a0FneHo2b2VJSFVEaFlmelV4NnhaZm54ZENHUkIwN3lKbnNXTktLUDVvYnhxNXRKRXRpSktELWlHblA3VWxxXzlYaU84dTBpM0t1YTQ5UVRpOWJEZDVYa05SblRhWFl4UmZIZ0p2WURvaDFsekp2aEE1UEtNd0JHWTdrSEJTTUV0YWc?oc=5",
@@ -101288,6 +101304,30 @@
   "lang": "Unknown"
  },
  {
+  "name": "Mexico",
+  "title": "US Gulf of Mexico Oil and Gas Lease Sale Attracts $82.7 Million in High Bids - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLV9qekwxSzhsNFlIZUY1WHotNk5vOG8tckhielB6OFhFMVFhVHlTVXo5bWRjMzZtQlg4TkxFSnpxTGJMeFE2Y1JXTTYycHhLd2lyWkVmMnA4ekJNS1Q0RmZEaVNlMVJjU1ZaTlZRRGlYTlh5b24yQzdQRXJlRWZrNVMwMEY1ZF9fNFVvQi1zWldEdm5ZR08yd2FRU3JKTlV2T3oyR1pEVjc2Zw?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "US Gulf of Mexico Oil and Gas Lease Sale Attracts $82.7 Million in High Bids  EnergyNow.com",
+  "iso": "MEX",
+  "region": "México",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Egypt",
+  "title": "Photos: Egypt’s Prime Minister visits Tanzania to attend inauguration of Julius Nyerere Dam - Egypt Independent",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmZkMFlLaVlCXzFmb0hPdmxfLTlBZXYxYWhIaGRROTJHTEdsYWJDdlRXX2lWekp4SHpwdFM1bGpHZFR2V3YzZFVBYnFZSTFybVJCNXpKLVlCWG16empkQUpWTEFJYU9mbUg0SXdjb0JfSVFHcGN2bzhRTUFJenQ4WXFic2p3SEdlRkFBM3ZtYmQ0OWpiRGdzQ1Z4SXRMYjJVREVhd2tja3EzWUxBZ2xBWjFOeXpiLW1fcWI2T2NlYjk?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Photos: Egypt’s Prime Minister visits Tanzania to attend inauguration of Julius Nyerere Dam  Egypt Independent",
+  "iso": "EGY",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
   "name": "Spain",
   "title": "UD Las Palmas joins protest for Ceuta with a slogan t-shirt - La Voz Canaria",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUlZaRUdCVjE1aGlaTFIzWVE3Vmx4MmpvZW5OVko0R2xsSy1YUEZ0b2UyaEphbXRneWtIMDBXUm5LX1U0Z21VNGRrTHdQd25EcmhoeDZiTGtwZGlqcDZKb3lzZ0RBV21fYmI2YnQ2TWV2cjVJOUZpaUFwd19lc3lKQnhkQW5Kc0xNVV9rMFZSYjZTX25UckxIT3BwYzRoYzdfQ3puanhIVExNQ3hOQ1NnYUNpT21lZGw0QjVTUExCbUY5b1ZUVkE?oc=5",
@@ -101298,6 +101338,54 @@
   "region": "Ceuta",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "Egypt",
+  "title": "PM: Julius Nyerere Dam Project boosts Egypt’s support for African development - الهيئة العامة للاستعلامات",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNk5ncXlrSlR4SEpaRWZWQUhReHpESWJBVV9iZktRN180M2pVeDhlZ2hJRmFuamRDLU9uMDB0XzhjTG9BcEFLWksxdm5WclpkSlVWWnBhY3NCQ2g2YWM5bUJDR0I2NzY1c2FqbHRQZExrZm9GSE4ybzZocDQ3WGdUVHE4ZWhsWTJvZW5WWjFtOFBOTnFBVzhBNkpHZHRhQ0l3TGxSVWNCMXo0bVFDd1JmQ3FkczBGUF95?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "PM: Julius Nyerere Dam Project boosts Egypt’s support for African development  الهيئة العامة للاستعلامات",
+  "iso": "EGY",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Central African Republic",
+  "title": "Central African Republic shuts down collapsed gold mining site that killed more than 100 - ABC News - Breaking News, Latest News and Videos",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNUFVMVdxM1JaSnh2cmJpWFp6YVRPT1puT2I5N0ZoLTZ3cmR3ZV9LOXVCdmg5MmQycnlwQTQ5OVB6a1JzenZWdzRTZnRHcjVrWjZNNkxMNUJTeFlaY2FJYnBHQ1UzNGlYbFd1dFR3LWZ6MEU0a3I2dGh6UjZvVi1vVkp4bW9xUy1PSWEtRGgtQ0FSd3JlZmEzVmh0cXFWQVp2YW8zeUhFbzZFNTFGeGJybNIBtgFBVV95cUxOXzhLVXpsajhHekVEdXhMWlk4Q2RrZXBiUnF2NEdyX3k4bl9tXzRPZE8xMnZmbVZLN3REVEVCdDlzRGd5ZzVQc18yMjdkR1c5bTV6ZktmZ2U0NFJZNFNjR2dhd3ppVHdZdlJMbHN4VEYwMDcxRGF5WmdwbnVVX3lXSktlcWd2dHpielN2OU8zTUJ2eEJuWU1oTEdCSndUM1d0UlFZRmtNSkFqMkFtYmg3TTRTZkY1QQ?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Central African Republic shuts down collapsed gold mining site that killed more than 100  ABC News - Breaking News, Latest News and Videos",
+  "iso": "CAF",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Central African Republic",
+  "title": "Dozens missing after gold mine collapse in Central African Republic - France 24",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN0ktTEp2cHZoOUtBZUhVbUJFZDJnOHF1VS12VVdHWWxZU0t2RXRMZUtEcDZEXzVsQ1VVOVE1THZjU05MOUU1LWJoT1ctQWJZMDVMek1peDFLd1J1MnEtV09OV3htUkpSTDRzeGVsWDlPWllIaWJNLWxLN1ZobVo2R3g5bkI3cnR6UllBd25CRktiUlNmZWtXUmtWcw?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Dozens missing after gold mine collapse in Central African Republic  France 24",
+  "iso": "CAF",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Russia",
+  "title": "Lawsuit Against the Russian Federation: Legal Formality or a Real Chance to Obtain Compensation in the Future - Судово-юридична газета",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1NNdVVqZVdGalpFOFNkNDZkemE3N2RDX3NXUDhqTzU2bEhKbjVReVB4YmN2c1Znd2VYQnNKQzg2SExfeXU5OVY3MnVnSTZzNGpxV2RpX3RvNlhfbFNNaGlaUW9YanVWcGZHQVQ4bUV5ZlJXYU43eG43Mi1SS0d3b1drOVR2bWI4U016Q2dyOV9IUVZoNmNXbTF5TDZCVzJxVTd2UlBsbU5rTnMzTXNqWjRUTXdBeE90bTJkREl5cUhEUEpDN3BNTzh1TmRYMHl3bU0zWmFYUTk4Zw?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Lawsuit Against the Russian Federation: Legal Formality or a Real Chance to Obtain Compensation in the Future  Судово-юридична газета",
+  "iso": "RUS",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Ireland",
@@ -101322,6 +101410,30 @@
   "region": "Limerick",
   "widened": 0,
   "lang": "Unknown"
+ },
+ {
+  "name": "Turkey",
+  "title": "Cyprus protests Turkey-Turkish Cypriot gas pipeline agreement at UN - Cyprus Inform",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0lMMEpNLWZJZEdSVVFyNzhFb19KYlQ4N2NYbTJPWHBmT0h2NFNtYXU1S1FveWk4WUdvTGhnYTltbVJCQmFVbzBvTVg4X3VNMk1mVWpwRTk2ZFlDZzRTTGFaenhFbkdzVHI2bS0zaEViRlMwSktReTNSYUMxTDZpRGNPWUVRcGU2TjRUYkR6SW5CRmY3YXpQNW9MOWFCUXNUcHR2Njl3?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Cyprus protests Turkey-Turkish Cypriot gas pipeline agreement at UN  Cyprus Inform",
+  "iso": "TUR",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
+ },
+ {
+  "name": "Turkey",
+  "title": "Cyprus protests Turkey-Turkish Cypriot gas pipeline agreement at UN - kiprinform.com",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0lMMEpNLWZJZEdSVVFyNzhFb19KYlQ4N2NYbTJPWHBmT0h2NFNtYXU1S1FveWk4WUdvTGhnYTltbVJCQmFVbzBvTVg4X3VNMk1mVWpwRTk2ZFlDZzRTTGFaenhFbkdzVHI2bS0zaEViRlMwSktReTNSYUMxTDZpRGNPWUVRcGU2TjRUYkR6SW5CRmY3YXpQNW9MOWFCUXNUcHR2Njl3?oc=5",
+  "date": 1787382000000,
+  "sig": 2,
+  "snippet": "Cyprus protests Turkey-Turkish Cypriot gas pipeline agreement at UN  kiprinform.com",
+  "iso": "TUR",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "Colombia",
@@ -101466,6 +101578,18 @@
   "lang": "Polish"
  },
  {
+  "name": "India",
+  "title": "ड्रेनेज सिस्टम की अनदेखी से धंस रहा लखनऊ - कानपुर एक्सप्रेसवे , सड़क पर कई मीटर तक पड़ गई दरारें - lucknow kanpur expressway sinking drainage flaws cause cracks",
+  "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-lucknow-kanpur-expressway-sinking-drainage-flaws-cause-cracks-40348523.html",
+  "date": 1787381100000,
+  "sig": 2,
+  "snippet": "jagran.com",
+  "iso": "IND",
+  "region": "Uttar Pradesh",
+  "widened": 30,
+  "lang": "Hindi"
+ },
+ {
   "name": "Nigeria",
   "title": "2027 : Wike predicts bigger  Rainbow Coalition  for Tinubu",
   "link": "https://thenationonlineng.net/2027-wike-predicts-bigger-rainbow-coalition-for-tinubu/",
@@ -101510,6 +101634,18 @@
   "region": "",
   "widened": 180,
   "lang": "Spanish"
+ },
+ {
+  "name": "Portugal",
+  "title": "Portugal: Contractor dies at Lundin Mining's Neves-Corvo mine - Business and Human Rights Centre",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNktNcUFlSnVudmRXRzhJMUg2eXRlS1QwOWgwbTN2TWQ0Z3lmQ3NJZU1MU25MZG5YRl9xc0NBVEhwc09XREIxNlJCUzllbE1xRk5hZ1ZudGVGZ3pQNXhIUmxpb21lZmpwYXY1UmVkVFBvbVhCeTlQS2lsVFgwcFNBdGZRai1RQjZpeGNRcTBLcUVmYVFrMnVKZlAtMXZpSUhjUl9qWUVpTzJmUWthbjc5SXpB?oc=5",
+  "date": 1787377316000,
+  "sig": 2,
+  "snippet": "Portugal: Contractor dies at Lundin Mining's Neves-Corvo mine  Business and Human Rights Centre",
+  "iso": "PRT",
+  "region": "",
+  "widened": 30,
+  "lang": "English"
  },
  {
   "name": "South Africa",
@@ -106506,25 +106642,5 @@
   "region": "Arequipa",
   "widened": 0,
   "lang": "Unknown"
- },
- {
-  "name": "Climate Home News",
-  "title": "China keeps Indonesia’s battery dream afloat but future less certain",
-  "link": "https://www.climatechangenews.com/2026/08/20/china-keeps-indonesias-battery-dream-afloat-but-future-less-certain/",
-  "date": 1787202000000,
-  "sig": 2,
-  "snippet": "Chinese capital and technology turned Indonesia into the world’s top nickel supplier, but its dependence on China and the rise of nickel-free batteries could upset its battery ecosystem plans \nThe post China keeps Indonesia’s battery dream afloat but future less certain appeared ",
-  "iso": "GL",
-  "region": ""
- },
- {
-  "name": "Yale E360",
-  "title": "Amid Drought, Hundreds of French Rivers Are Drying Up",
-  "link": "https://e360.yale.edu/digest/france-small-rivers-drought",
-  "date": 1786540980000,
-  "sig": 2,
-  "snippet": "An ongoing drought in Europe has sapped French rivers. Officials say that 43 percent of small waterways in France have been partially or completely dried up.Read more on E360 →",
-  "iso": "FRA",
-  "region": ""
  }
 ]

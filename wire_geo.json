@@ -1,5 +1,25 @@
 [
  {
+  "name": "Panama",
+  "title": "Inland navigation workers stand with Panama Canal workers after death of tug captain",
+  "link": "https://www.itfglobal.org/en/news/inland-navigation-workers-stand-panama-canal-workers-after-death-tug-captain",
+  "date": 1790896500000,
+  "sig": 2,
+  "snippet": "itfglobal.org",
+  "iso": "PAN",
+  "region": "",
+  "widened": 180,
+  "lang": "English",
+  "lat": 9.0,
+  "lng": -80.0,
+  "level": "point",
+  "project": "Panama Canal",
+  "project_url": "https://d-portal.org/q.html?aid=XM-DAC-903-SPI-26665",
+  "admin1": "Colón Province",
+  "match_score": 2,
+  "matched_on": "name"
+ },
+ {
   "name": "India",
   "title": "Indian Railways approves Rs 223 crore for Kavach 4 . 0 on 614 . 75 route Kms of Varanasi division",
   "link": "http://www.indiagazette.com/news/279338778/indian-railways-approves-rs-223-crore-for-kavach-40-on-61475-route-kms-of-varanasi-division",

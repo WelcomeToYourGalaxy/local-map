@@ -1,5 +1,23 @@
 [
  {
+  "name": "Guardian Environment",
+  "title": "Hunter Valley community group wins landmark high court climate change case over Mount Pleasant coalmine",
+  "link": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",
+  "date": 1791337487000,
+  "sig": 2,
+  "snippet": "Ruling on Mount Pleasant coalmine shows ‘we cannot continue to dig up coal … and pretend the consequences have nothing to do with us’, group saysGet our breaking news email, free app or daily news podcastA Hunter Valley community group has won Australia’s first high court case to",
+  "iso": "AUS",
+  "region": "New South Wales",
+  "lat": -32.2378,
+  "lng": 150.8075,
+  "level": "point",
+  "project": "Mount Pleasant Project",
+  "project_url": "https://epbcpublicportal.environment.gov.au/",
+  "admin1": "New South Wales",
+  "match_score": 2,
+  "matched_on": "name"
+ },
+ {
   "name": "Panama",
   "title": "Inland navigation workers stand with Panama Canal workers after death of tug captain",
   "link": "https://www.itfglobal.org/en/news/inland-navigation-workers-stand-panama-canal-workers-after-death-tug-captain",

@@ -1,5 +1,25 @@
 [
  {
+  "name": "Australia",
+  "title": "McPhillamys gold mine : Court overturns $1 . 3b veto as row brews | Central Western Daily",
+  "link": "https://www.centralwesterndaily.com.au/story/9369180/mcphillamys-gold-mine-court-overturns-13b-veto-as-row-brews/",
+  "date": 1792093500000,
+  "sig": 2,
+  "snippet": "centralwesterndaily.com.au",
+  "iso": "AUS",
+  "region": "",
+  "widened": 30,
+  "lang": "English",
+  "lat": -33.4881,
+  "lng": 149.3269,
+  "level": "point",
+  "project": "McPhillamys Gold Project",
+  "project_url": "https://www.planningportal.nsw.gov.au/major-projects",
+  "admin1": "New South Wales",
+  "match_score": 2,
+  "matched_on": "name"
+ },
+ {
   "name": "Guardian Environment",
   "title": "Hunter Valley community group wins landmark high court climate change case over Mount Pleasant coalmine",
   "link": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",

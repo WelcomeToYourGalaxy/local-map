@@ -1,5 +1,23 @@
 [
  {
+  "name": "Reporterre",
+  "title": "Canal Seine-Nord Europe : la justice demande de rejeter le recours d'associations",
+  "link": "https://reporterre.net/Canal-Seine-Nord-Europe-la-justice-demande-de-rejeter-le-recours-d-associations",
+  "date": 1792588797000,
+  "sig": 2,
+  "snippet": "Le tribunal administratif d'Amiens a examiné, le 20 octobre, le recours déposé par les associations Protection du territoire Seine-Escaut (PTSE) et Nord Nature Environnement contre l'autorisation environnementale du canal Seine-Nord Europe. Ce couloir d'eau de 107 km de long, qui",
+  "iso": null,
+  "region": "",
+  "lat": 50.2047,
+  "lng": 3.1146,
+  "level": "point",
+  "project": "Canal Seine-Nord Europe",
+  "project_url": "https://www.openstreetmap.org/way/1164828549",
+  "admin1": null,
+  "match_score": 4,
+  "matched_on": "name"
+ },
+ {
   "name": "Nigeria",
   "title": "Coastal Highway : Murray - Bruce faults Duke criticism , backs Tinubu",
   "link": "https://punchng.com/coastal-highway-murray-bruce-faults-dukes-criticism-backs-tinubu/",

@@ -2,12 +2,12 @@
  "wire_items": 9000,
  "mapped": 123,
  "reasons": {
-  "weak_match": 7836,
-  "no_project_match": 1110,
+  "weak_match": 7825,
+  "no_project_match": 1121,
   "region_mismatch": 7,
-  "metaphor": 12,
-  "outside_country": 11,
-  "mapped": 10,
-  "sector_or_market": 14
+  "metaphor": 13,
+  "outside_country": 9,
+  "mapped": 12,
+  "sector_or_market": 13
  }
 }

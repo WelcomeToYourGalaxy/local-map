@@ -1,5 +1,25 @@
 [
  {
+  "name": "Nigeria",
+  "title": "Lagos Coastal Highway Dispute Returns as Umahi Threatens to Sue Landmark CEO - https://www.nigeriahousingmarket.com/",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdlBpemxQYkY2QkhKc2xJVFRESTc4d1UwT0c2RFg5Si1TQ05tM0tiLVBLYldVRXpGblZ0SE0tWXlSa0hJVnZaR2hOcHZRN3E0TnFCbUg1U3hGMWRUSDk1QW9zYzJicXBINTNWWDdISXBMOERsODNVOWN2QTdpcjJxTmtORjcyUHJ5S3AxTExnWEExZ3JoeDhlVlJ3SUN5Vmc?oc=5",
+  "date": 1792759537000,
+  "sig": 2,
+  "snippet": "Lagos Coastal Highway Dispute Returns as Umahi Threatens to Sue Landmark CEO  https://www.nigeriahousingmarket.com/",
+  "iso": "NGA",
+  "region": "Lagos",
+  "widened": 30,
+  "lang": "English",
+  "lat": 6.4187,
+  "lng": 4.1817,
+  "level": "point",
+  "project": "Lagos Coastal Highway",
+  "project_url": "https://www.openstreetmap.org/way/1442147937",
+  "admin1": "Lagos",
+  "match_score": 3,
+  "matched_on": "name"
+ },
+ {
   "name": "Reporterre",
   "title": "Canal Seine-Nord Europe : la justice demande de rejeter le recours d'associations",
   "link": "https://reporterre.net/Canal-Seine-Nord-Europe-la-justice-demande-de-rejeter-le-recours-d-associations",
@@ -35,6 +55,26 @@
   "project_url": "https://www.openstreetmap.org/way/1138122998",
   "admin1": "Delta",
   "match_score": 2,
+  "matched_on": "name"
+ },
+ {
+  "name": "Nigeria",
+  "title": "Lagos Coastal Highway : Stella Okengwu renews call for compensation for affected properties – The Sun Nigeria",
+  "link": "https://thesun.ng/lagos-coastal-highway-stella-okengwu-renews-call-for-compensation-for-affected-properties/",
+  "date": 1792146600000,
+  "sig": 2,
+  "snippet": "thesun.ng",
+  "iso": "NGA",
+  "region": "Lagos",
+  "widened": 90,
+  "lang": "English",
+  "lat": 6.4187,
+  "lng": 4.1817,
+  "level": "point",
+  "project": "Lagos Coastal Highway",
+  "project_url": "https://www.openstreetmap.org/way/1442147937",
+  "admin1": "Lagos",
+  "match_score": 3,
   "matched_on": "name"
  },
  {

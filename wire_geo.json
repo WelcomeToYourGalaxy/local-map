@@ -118,6 +118,26 @@
   "matched_on": "name"
  },
  {
+  "name": "Australia",
+  "title": "ABx Group’s 37Mt Sunrise bauxite project opens for public comment in Queensland - AL Circle",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjFGb2NiZEhNOHhZOWZ0TG9WZHVnd05XdnphU29mUHc2NXlqMXE1VFJhVTBGcFRwaGlCZC1RNVpkeGpxQy03SVlpYktKM0U0bEVQQmRURVJMMkx2NTFwRUpMSEI0YWVIV2JGWkR1R1dINzlOaDBIR25IY0s0bVA4RHM4bzRrQ0JOa0pjYW1mUmxZWmVHTjIxczJpMGsyNzRvaFA0a2JSX1RsRmFzblVnRkxaZURfUQ?oc=5",
+  "date": 1791969300000,
+  "sig": 2,
+  "snippet": "ABx Group’s 37Mt Sunrise bauxite project opens for public comment in Queensland  AL Circle",
+  "iso": "AUS",
+  "region": "Queensland",
+  "widened": 0,
+  "lang": "Unknown",
+  "lat": -25.5107,
+  "lng": 151.4899,
+  "level": "point",
+  "project": "Sunrise Bauxite Project",
+  "project_url": "https://epbcpublicportal.environment.gov.au/",
+  "admin1": "Queensland",
+  "match_score": 2,
+  "matched_on": "name"
+ },
+ {
   "name": "Guardian Environment",
   "title": "Hunter Valley community group wins landmark high court climate change case over Mount Pleasant coalmine",
   "link": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",

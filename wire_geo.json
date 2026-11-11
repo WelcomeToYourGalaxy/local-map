@@ -1,6 +1,26 @@
 [
  {
   "name": "Australia",
+  "title": "NSW government proposal to allow Mount Pleasant mine to continue expanding",
+  "link": "https://www.abc.net.au/news/2026-11-10/mount-pleasant-mine-expansion-laws-chris-minns/107369370",
+  "date": 1794290400000,
+  "sig": 2,
+  "snippet": "abc.net.au",
+  "iso": "AUS",
+  "region": "",
+  "widened": 365,
+  "lang": "English",
+  "lat": -32.2378,
+  "lng": 150.8075,
+  "level": "point",
+  "project": "Mount Pleasant Project",
+  "project_url": "https://epbcpublicportal.environment.gov.au/",
+  "admin1": "New South Wales",
+  "match_score": 2,
+  "matched_on": "name"
+ },
+ {
+  "name": "Australia",
   "title": "Victoria greenlights Squadron’s plan for 420-MW Moreton Hill wind farm - Renewables Now",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQS1nRFhpYzJ6TFVKQVhvZGtDajFBQWxaalp3Ym5MbWVqeGV2b192dDRMMkZVM19TbVlHbWhtVENaM1RaRHJ2MWo2NG1mTmFMLTZPQWNYZV9kUlRGYy1CRTV1Z0w1S2dWd2hPcDlKTHdnbmYyV0hEaTV6TldBM09JbzNCZzJveXFxUHY1SWQ4UWpzWFpkSGc2cHlTeEM3MWs4ZVRsT0EyU0RPT3NpdkE?oc=5",
   "date": 1793700172000,

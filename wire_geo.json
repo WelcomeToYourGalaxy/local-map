@@ -1,5 +1,23 @@
 [
  {
+  "name": "Reporterre",
+  "title": "Canal Seine-Nord Europe : le recours des opposants rejeté par le tribunal",
+  "link": "https://reporterre.net/Canal-Seine-Nord-Europe-le-recours-des-opposants-rejete-par-le-tribunal",
+  "date": 1794828169000,
+  "sig": 2,
+  "snippet": "Le tribunal administratif d'Amiens a rejeté, le 13 novembre, le recours en annulation déposé par les opposants au canal Seine-Nord Europe contre l'autorisation environnementale du projet délivrée en 2024. Le tribunal estime que les conséquences du réchauffement climatique ont été",
+  "iso": null,
+  "region": "",
+  "lat": 50.2047,
+  "lng": 3.1146,
+  "level": "point",
+  "project": "Canal Seine-Nord Europe",
+  "project_url": "https://www.openstreetmap.org/way/1164828549",
+  "admin1": null,
+  "match_score": 4,
+  "matched_on": "name"
+ },
+ {
   "name": "Australia",
   "title": "NSW government proposal to allow Mount Pleasant mine to continue expanding",
   "link": "https://www.abc.net.au/news/2026-11-10/mount-pleasant-mine-expansion-laws-chris-minns/107369370",
